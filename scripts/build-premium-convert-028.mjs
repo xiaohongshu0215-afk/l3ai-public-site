@@ -283,6 +283,15 @@ function relatedCards(currentFile) {
     .join("\n          ");
 }
 
+function statusStrip() {
+  return `<section class="premium-section enterprise-status-strip" aria-label="Public launch status">
+        <article><strong>Public site</strong><span>GitHub Pages live package</span></article>
+        <article><strong>Manifest</strong><span>Public asset inventory available</span></article>
+        <article><strong>QA</strong><span>Links, mobile and desktop smoke checked</span></article>
+        <article><strong>Boundary</strong><span>No private data or unsupported claims</span></article>
+      </section>`;
+}
+
 function renderPage(page) {
   return `<!doctype html>
 <html lang="en">
@@ -326,6 +335,11 @@ function renderPage(page) {
             <a class="button premium-primary" href="${page.primaryCta[1]}">${htmlEscape(page.primaryCta[0])}</a>
             <a class="button premium-secondary" href="${page.secondaryCta[1]}">${htmlEscape(page.secondaryCta[0])}</a>
           </div>
+          <div class="hero-status-badges" aria-label="Public status labels">
+            <span>Current public package</span>
+            <span>Review-gated roadmap</span>
+            <span>Public-safe assets</span>
+          </div>
         </div>
         <figure class="conversion-visual">
           <img src="${page.image}" alt="${htmlEscape(page.imageAlt)}">
@@ -334,6 +348,8 @@ function renderPage(page) {
     </header>
 
     <main id="main">
+      ${statusStrip()}
+
       <section class="premium-section conversion-modules">
         <div class="section-heading">
           <p class="eyebrow">Product modules</p>
@@ -380,7 +396,11 @@ function renderPage(page) {
     </main>
 
     <footer class="site-footer">
-      PREMIUM-CONVERT-028 product experience page. Public-safe assets only.
+      <span>Public-safe L3AI product experience.</span>
+      <a href="product-overview.html">Overview</a>
+      <a href="security-trust.html">Trust</a>
+      <a href="resources.html">Resources</a>
+      <a href="contact-partner.html">Contact</a>
     </footer>
   </body>
 </html>

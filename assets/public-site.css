@@ -572,6 +572,18 @@ main,
   padding-right: 24px;
 }
 
+.site-footer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 18px;
+  align-items: center;
+}
+
+.site-footer a {
+  font-weight: 800;
+  text-decoration: none;
+}
+
 .page-header-inner {
   padding-top: 52px;
   padding-bottom: 34px;
@@ -1001,6 +1013,24 @@ section.card {
   font-size: 13px;
 }
 
+.hero-status-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 18px;
+}
+
+.hero-status-badges span {
+  min-height: 32px;
+  padding: 7px 10px;
+  border: 1px solid rgba(255, 255, 255, .2);
+  border-radius: 8px;
+  color: #eaf3ff;
+  background: rgba(255, 255, 255, .08);
+  font-size: 13px;
+  font-weight: 800;
+}
+
 .premium-section {
   max-width: 1180px;
   margin: 0 auto;
@@ -1053,6 +1083,61 @@ section.card {
   margin-top: -34px;
   position: relative;
   z-index: 2;
+}
+
+.enterprise-status-strip {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+  padding-top: 34px;
+  padding-bottom: 34px;
+}
+
+.enterprise-status-strip article {
+  min-width: 0;
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #ffffff;
+  box-shadow: 0 10px 26px rgba(16, 24, 40, .07);
+}
+
+.enterprise-status-strip strong,
+.enterprise-status-strip span {
+  display: block;
+}
+
+.enterprise-status-strip span {
+  margin-top: 6px;
+  color: var(--muted);
+  font-weight: 700;
+}
+
+.customer-action-hub {
+  display: grid;
+  grid-template-columns: minmax(0, .9fr) minmax(300px, .8fr);
+  gap: 20px;
+  align-items: center;
+  border: 1px solid rgba(21, 94, 239, .2);
+  border-radius: 8px;
+  background: linear-gradient(135deg, #ffffff, #eef7ff);
+  padding: 24px;
+}
+
+.customer-action-list {
+  display: grid;
+  gap: 10px;
+}
+
+.customer-action-list a {
+  min-height: 46px;
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #ffffff;
+  color: var(--ink);
+  font-weight: 800;
+  text-decoration: none;
 }
 
 .premium-stat,
@@ -1515,6 +1600,8 @@ section.card {
   .comparison-matrix,
   .split-note,
   .conversion-hero-inner,
+  .enterprise-status-strip,
+  .customer-action-hub,
   .intro-strip,
   .product-flow,
   .visual-proof-section,

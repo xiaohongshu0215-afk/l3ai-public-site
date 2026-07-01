@@ -1,0 +1,155 @@
+{
+  "manifest_id": "PREMIUM_POLISH_029_MANIFEST",
+  "task_id": "PREMIUM-POLISH-029",
+  "generated_at": "2026-07-01T20:49:53.212Z",
+  "status": "prepared",
+  "public_base_url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/",
+  "assets": [
+    {
+      "asset_id": "premium-polish-029-001",
+      "path": "index.html",
+      "url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/index.html",
+      "bytes": 17768,
+      "sha256": "4a8237d2942e8d8b59435e7dd3ba2e7827df11d2044ea947f41c2e4257c9de8e",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-polish-029-002",
+      "path": "resources.html",
+      "url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/resources.html",
+      "bytes": 30108,
+      "sha256": "5e6fa88cea90528b9d159f0d0f887b539bfc39595331d2fbacb2a8f9553ae3a5",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-polish-029-003",
+      "path": "product-overview.html",
+      "url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/product-overview.html",
+      "bytes": 8189,
+      "sha256": "3365136e2e39a0e18be8607f7b4da515cd8a78bf155285885bf0519a11579195",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-polish-029-004",
+      "path": "ai-quant-workflow.html",
+      "url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/ai-quant-workflow.html",
+      "bytes": 8020,
+      "sha256": "af35f3ead31d840a8acb43c821230c790b571e63b7fe4a2192920bd6e4124297",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-polish-029-005",
+      "path": "wallet-experience.html",
+      "url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/wallet-experience.html",
+      "bytes": 7984,
+      "sha256": "44d48385f2afc58babb54b9bfe8d20ac848436450e6c29f0b5facc5207fa2507",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-polish-029-006",
+      "path": "business-model.html",
+      "url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/business-model.html",
+      "bytes": 7931,
+      "sha256": "740138d0a916c6a677676320eb33dfdcab971141b168515fe0617b0e459d9164",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-polish-029-007",
+      "path": "ecosystem.html",
+      "url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/ecosystem.html",
+      "bytes": 7928,
+      "sha256": "57d3d98471e79f40e4a6af85f5fbeb484bbc96a90fa5e4edad5ff7920a669f61",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-polish-029-008",
+      "path": "security-trust.html",
+      "url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/security-trust.html",
+      "bytes": 7950,
+      "sha256": "067eedc67374e31c2506d74f0b89ad26865be617b3117df14a69048c6dee6c42",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-polish-029-009",
+      "path": "roadmap.html",
+      "url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/roadmap.html",
+      "bytes": 7930,
+      "sha256": "77f571699e2fb33cda32d1da472a9684b84cf9feba8ae04fc076be002b15a5b5",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-polish-029-010",
+      "path": "enterprise-use-cases.html",
+      "url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/enterprise-use-cases.html",
+      "bytes": 8056,
+      "sha256": "68bc6cc0cd0093b7740230926ee4d9091e457321c428fab51f2972cf046a0a4e",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-polish-029-011",
+      "path": "contact-partner.html",
+      "url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/contact-partner.html",
+      "bytes": 8108,
+      "sha256": "0005c371c68b1c4de69480c73f47eda87cb77bac5d8793819206c6cf8a2d468d",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-polish-029-012",
+      "path": "assets/public-site.css",
+      "url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/assets/public-site.css",
+      "bytes": 29609,
+      "sha256": "cf99a1a455ff5a727e3afc8c4cf98bd7837453fb1ca3079e92e1ab1b5f031406",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-polish-029-013",
+      "path": "sitemap.html",
+      "url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/sitemap.html",
+      "bytes": 10315,
+      "sha256": "810f69de8bc7770c70be51b24a0a4c61c9e0ee3f672ecb80a60efba7a463bcab",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-polish-029-014",
+      "path": "sitemap.xml",
+      "url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/sitemap.xml",
+      "bytes": 4348,
+      "sha256": "ecfcebc109647da52f84b01bbff811b5ef7c2fda32baede45841c55c2ae11f39",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-polish-029-015",
+      "path": "collateral/polish/L3AI_Final_Public_Launch_Status_Report_029.md",
+      "url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/collateral/polish/L3AI_Final_Public_Launch_Status_Report_029.md",
+      "bytes": 2298,
+      "sha256": "91f7a4fec3b9624625a130188335e6fd303590f9ee6e2e7e8c8c506de1d5ff0a",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-polish-029-016",
+      "path": "collateral/polish/L3AI_Customer_Readiness_Summary_029.md",
+      "url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/collateral/polish/L3AI_Customer_Readiness_Summary_029.md",
+      "bytes": 1150,
+      "sha256": "69cb1d363055ec3b528cfcdf24711ba79ba44be9fc7544b1b4b5de78dc345f2c",
+      "status": "prepared"
+    }
+  ],
+  "qa_summary": {
+    "top_level_html_pages_checked": 18,
+    "link_scan": "passed",
+    "accessibility_basics": "passed",
+    "sensitive_marker_scan": "passed",
+    "playwright_smoke": "passed",
+    "downloads_validated": [
+      "mp4",
+      "pptx",
+      "pdf"
+    ]
+  },
+  "remaining_manual_creative_work": [
+    "professional human voice-over and audio mastering",
+    "authenticated product screen recordings from approved environment",
+    "advanced motion graphics and localized campaign variants",
+    "approved CRM, contact form or partner intake endpoint"
+  ]
+}
