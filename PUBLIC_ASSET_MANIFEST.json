@@ -1,9 +1,15 @@
 {
   "site": "l3ai-public-site",
   "base_url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/",
-  "asset_count": 509,
-  "generated_at": "2026-07-01T14:45:00.000Z",
+  "asset_count": 515,
+  "generated_at": "2026-07-01T15:12:00.000Z",
   "assets": [
+    {
+      "path": ".gitattributes",
+      "bytes": 107,
+      "sha256": "162fdf8dc30183a80dfa0bb421ca75a89bad4d4a1ed9e6852a8658b0c65b19ad",
+      "type": "application/octet-stream"
+    },
     {
       "path": ".nojekyll",
       "bytes": 0,
@@ -12,8 +18,8 @@
     },
     {
       "path": "assets/public-site.css",
-      "bytes": 10437,
-      "sha256": "ee4af79e14fbcb7bedec3b73bedfb08a73fd4c1b2dc77d595cc9d15e8bcf578c",
+      "bytes": 11692,
+      "sha256": "601daea767eaebf8252543ea55201bccdfdc6bff1d81d3caf7f38eb166d1aa6c",
       "type": "text/css"
     },
     {
@@ -485,6 +491,30 @@
       "type": "text/markdown"
     },
     {
+      "path": "collateral/experience/L3AI_Collateral_Gap_Report_022.md",
+      "bytes": 2524,
+      "sha256": "7a78f00440e133fbe3fdd469918b0888d8b67d50cf7516ea5bebb6b6edeb6637",
+      "type": "text/markdown"
+    },
+    {
+      "path": "collateral/experience/L3AI_Public_Experience_Audit_022.md",
+      "bytes": 4042,
+      "sha256": "793feea1544734ac2a86a9c7b2a179db41c4a2a54a99399762c29a770c95ebfd",
+      "type": "text/markdown"
+    },
+    {
+      "path": "collateral/experience/L3AI_Why_L3AI_Marketing_Story_022.md",
+      "bytes": 2644,
+      "sha256": "b2f122a7b6363e4ed096a137ea29a99f424e3d24fc9af50974e2dc190fe49be3",
+      "type": "text/markdown"
+    },
+    {
+      "path": "collateral/experience/PUBLIC_EXPERIENCE_022_MANIFEST.json",
+      "bytes": 708,
+      "sha256": "ec2fe5914b98dceb40d37b366652c385adacb5940e1eafeb1faf4cd625cef374",
+      "type": "application/json"
+    },
+    {
       "path": "collateral/PUBLIC_COLLATERAL_019_MANIFEST.json",
       "bytes": 4346,
       "sha256": "7ed15b7f2a5fd8f4b072e73fe28833b7f389736305f615c2496041dab2142193",
@@ -518,7 +548,7 @@
       "path": "collateral/video/frames/concat.txt",
       "bytes": 1011,
       "sha256": "74345faafed729009e2713a8e863089eb06f0cda0cb738f9e553bec3b60cdf23",
-      "type": "application/octet-stream"
+      "type": "text/plain"
     },
     {
       "path": "collateral/video/frames/scene-01.png",
@@ -741,6 +771,12 @@
       "bytes": 3338,
       "sha256": "25b27bff4e4bc9e2a6de4ef3e4c34185333e82435825571304d7a64a5cae9275",
       "type": "text/plain"
+    },
+    {
+      "path": "collateral/video/L3AI_Public_Promo_Production_Storyboard_v2.md",
+      "bytes": 3852,
+      "sha256": "bdee4dff44335bcec49d7f201b868075cf971fe4d7c036dd96e9553ed5d2432d",
+      "type": "text/markdown"
     },
     {
       "path": "collateral/video/README.md",
@@ -1620,15 +1656,15 @@
     },
     {
       "path": "resources.html",
-      "bytes": 12870,
-      "sha256": "cd7921cb8a2b1ce702c5ab6bdf246c32815f173d39460f0ff4dab7b8a3d740ed",
+      "bytes": 18981,
+      "sha256": "824db9ce56b69c86542fdad43c2761b9582fdc8cd6ffa73146b399dc1ecedf0b",
       "type": "text/html"
     },
     {
       "path": "robots.txt",
       "bytes": 100,
       "sha256": "1ee462d2819ba44c7c0e71978db823d4b38374bd3c041e63ced8a82fda4b4db3",
-      "type": "application/octet-stream"
+      "type": "text/plain"
     },
     {
       "path": "scripts/build-alpha-engine-public-pack-pdf.py",
@@ -1644,14 +1680,14 @@
     },
     {
       "path": "sitemap.html",
-      "bytes": 6101,
-      "sha256": "872e7f1ac9b963fb19c5ad17c637cbd9066c936328b6774b128fc391ac0054c6",
+      "bytes": 6884,
+      "sha256": "fdf17dfaf68a8dd7449fbdfa6150958448499a67e7200fbdf9df2eabef00c479",
       "type": "text/html"
     },
     {
       "path": "sitemap.xml",
-      "bytes": 3305,
-      "sha256": "82c368df944e11dc65b543d51f37014fe27afcb75674720cde47fc97c771b915",
+      "bytes": 3994,
+      "sha256": "88100d4dbf67478e5f2da03409d64e11d2c14c000f52b636fc06588e2d2722a1",
       "type": "application/xml"
     },
     {

@@ -449,6 +449,69 @@ section.card {
   padding: 16px;
 }
 
+.experience-paths {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 18px;
+}
+
+.path-step {
+  display: inline-grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  margin-bottom: 12px;
+  border-radius: 8px;
+  background: #edf6f6;
+  color: #0a6f6c;
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.automation-flow {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 10px;
+  margin: 22px 0 10px;
+}
+
+.flow-node {
+  position: relative;
+  min-height: 132px;
+  padding: 16px 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: linear-gradient(180deg, #ffffff, #f8fbff);
+}
+
+.flow-node::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: -9px;
+  width: 14px;
+  height: 2px;
+  background: var(--blue);
+}
+
+.flow-node:last-child::after {
+  display: none;
+}
+
+.flow-node strong {
+  display: block;
+  margin-bottom: 8px;
+  color: var(--ink);
+}
+
+.flow-node span {
+  display: block;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.45;
+}
+
 .numbered-grid {
   counter-reset: step;
 }
@@ -627,9 +690,24 @@ section.card {
   .visual-caption,
   .product-grid,
   .feature-strip,
+  .experience-paths,
+  .automation-flow,
   .story-block,
   .split-note {
     grid-template-columns: 1fr;
+  }
+
+  .flow-node {
+    min-height: auto;
+  }
+
+  .flow-node::after {
+    top: auto;
+    right: auto;
+    left: 24px;
+    bottom: -8px;
+    width: 2px;
+    height: 14px;
   }
 
   .grid.two {
