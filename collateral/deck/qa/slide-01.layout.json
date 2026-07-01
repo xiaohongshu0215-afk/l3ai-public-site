@@ -2,15 +2,15 @@
   "schema": "openai.presentation.layout/v4",
   "unit": "px",
   "slide": {
-    "aid": "sl/v7yr0d",
-    "id": "v7yr0d",
+    "aid": "sl/rl7fqi",
+    "id": "rl7fqi",
     "slide": 1,
-    "layoutId": "fe714e11-9fbd-4568-83d7-aac60bb54f73",
+    "layoutId": "3e0257d0-c4f1-4055-962b-781b1ca91c5c",
     "layoutName": "Title Slide",
     "layoutType": "title",
-    "masterLayoutId": "13c88549-8d77-40af-b08d-e33a143aff3f",
+    "masterLayoutId": "4f720257-007a-4410-970f-c8c5b5079107",
     "masterLayoutName": "Master",
-    "backgroundColor": "#07111F",
+    "backgroundColor": "#FFFFFF",
     "frame": {
       "left": 0,
       "top": 0,
@@ -45,15 +45,15 @@
   "inheritedLayers": [
     {
       "scope": "layout",
-      "id": "fe714e11-9fbd-4568-83d7-aac60bb54f73",
+      "id": "3e0257d0-c4f1-4055-962b-781b1ca91c5c",
       "name": "Title Slide",
       "type": "title",
-      "parentLayoutId": "13c88549-8d77-40af-b08d-e33a143aff3f",
+      "parentLayoutId": "4f720257-007a-4410-970f-c8c5b5079107",
       "elements": []
     },
     {
       "scope": "master",
-      "id": "13c88549-8d77-40af-b08d-e33a143aff3f",
+      "id": "4f720257-007a-4410-970f-c8c5b5079107",
       "name": "Master",
       "type": "master",
       "elements": []
@@ -64,75 +64,56 @@
       "order": 1,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/al87ed8b",
+      "aid": "sh/9gr2p8nq",
       "id": "1",
-      "name": "top-band",
       "bbox": [
         0,
         0,
-        1280,
-        84
+        22,
+        720
       ],
       "geometry": "rect",
-      "fillColor": "#091A2D",
+      "fillColor": "#155DFC",
+      "lineColor": "#155DFC",
       "lineWidth": 0
     },
     {
       "order": 2,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/hcrmhk3q",
+      "aid": "sh/2p8nqxs7",
       "id": "2",
-      "name": "cyan-glow",
       "bbox": [
-        840,
-        -190,
-        540,
-        540
+        22,
+        0,
+        5,
+        720
       ],
-      "geometry": "ellipse",
-      "fillColor": "#0D4D58",
-      "lineColor": "#186A73",
-      "lineWidth": 1
+      "geometry": "rect",
+      "fillColor": "#00B8DB",
+      "lineColor": "#00B8DB",
+      "lineWidth": 0
     },
     {
       "order": 3,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/orytsvu9",
+      "aid": "sh/ra5gbq1o",
       "id": "3",
-      "name": "gold-ring",
       "bbox": [
-        1020,
-        482,
-        176,
-        176
-      ],
-      "geometry": "ellipse",
-      "lineColor": "#D6A84A",
-      "lineWidth": 2
-    },
-    {
-      "order": 4,
-      "kind": "shape",
-      "scope": "slide",
-      "aid": "sh/zupwb2hw",
-      "id": "4",
-      "name": "eyebrow",
-      "bbox": [
-        56,
-        35,
-        500,
-        26
+        64,
+        38,
+        680,
+        24
       ],
       "geometry": "rect",
-      "text": "L3AI PUBLIC BUSINESS PLAN · 01",
-      "textPreview": "L3AI PUBLIC BUSINESS PLAN · 01",
-      "resolvedFontSize": 14,
+      "text": "PUBLIC BUSINESS PLAN AND INVESTOR DECK",
+      "textPreview": "PUBLIC BUSINESS PLAN AND INVESTOR DECK",
+      "resolvedFontSize": 12,
       "resolvedTextStyle": {
-        "fontSize": 14,
+        "fontSize": 12,
         "typeface": "+mn-lt",
-        "color": "#D6A84A",
+        "color": "#155DFC",
         "bold": true,
         "alignment": "left",
         "insets": {
@@ -147,25 +128,86 @@
         "lines": [
           {
             "index": 1,
-            "text": "L3AI PUBLIC BUSINESS PLAN · 01"
+            "text": "PUBLIC BUSINESS PLAN AND INVESTOR DECK"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "L3AI PUBLIC BUSINESS PLAN · 01",
+          "text": "PUBLIC BUSINESS PLAN AND INVESTOR DECK",
           "resolvedTextStyle": {
-            "fontSize": 14,
-            "color": "#D6A84A",
+            "fontSize": 12,
+            "color": "#155DFC",
             "bold": true
           },
           "runs": [
             {
               "index": 1,
-              "text": "L3AI PUBLIC BUSINESS PLAN · 01",
-              "fontSize": 14,
-              "color": "#D6A84A",
+              "text": "PUBLIC BUSINESS PLAN AND INVESTOR DECK",
+              "fontSize": 12,
+              "color": "#155DFC",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kjm1cfa9",
+      "id": "4",
+      "bbox": [
+        64,
+        68,
+        780,
+        68
+      ],
+      "geometry": "rect",
+      "text": "L3AI Business Plan",
+      "textPreview": "L3AI Business Plan",
+      "resolvedFontSize": 38,
+      "resolvedTextStyle": {
+        "fontSize": 38,
+        "typeface": "+mn-lt",
+        "color": "#020618",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "L3AI Business Plan"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "L3AI Business Plan",
+          "resolvedTextStyle": {
+            "fontSize": 38,
+            "color": "#020618",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "L3AI Business Plan",
+              "fontSize": 38,
+              "color": "#020618",
               "bold": true
             }
           ],
@@ -178,23 +220,461 @@
       "order": 5,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/a9w3m94f",
+      "aid": "sh/94fu18jq",
       "id": "5",
-      "name": "title",
       "bbox": [
-        56,
-        118,
-        850,
-        110
+        64,
+        132,
+        740,
+        52
       ],
       "geometry": "rect",
-      "text": "L3AI Public Business Plan",
-      "textPreview": "L3AI Public Business Plan",
-      "resolvedFontSize": 50,
+      "text": "A public-safe operating blueprint for the L3AI product, commercial model, governance boundary, and roadmap.",
+      "textPreview": "A public-safe operating blueprint for the L3AI product, commercial model, governance boundary, and roadmap.",
+      "resolvedFontSize": 17,
       "resolvedTextStyle": {
-        "fontSize": 50,
+        "fontSize": 17,
         "typeface": "+mn-lt",
-        "color": "#EAF3FF",
+        "color": "#314158",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "A public-safe operating blueprint for the L3AI product, commercial model, governance boundary, and"
+          },
+          {
+            "index": 2,
+            "text": "roadmap."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "A public-safe operating blueprint for the L3AI product, commercial model, governance boundary, and roadmap.",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#314158"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "A public-safe operating blueprint for the L3AI product, commercial model, governance boundary, and roadmap.",
+              "fontSize": 17,
+              "color": "#314158"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2hwfyxob",
+      "id": "6",
+      "bbox": [
+        64,
+        654,
+        1090,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#E2E8F0",
+      "lineColor": "#E2E8F0",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r2p8nqxs",
+      "id": "7",
+      "bbox": [
+        64,
+        666,
+        690,
+        22
+      ],
+      "geometry": "rect",
+      "text": "L3AI Public Business Plan | PUBLIC-COLLATERAL-020 | Page 01",
+      "textPreview": "L3AI Public Business Plan | PUBLIC-COLLATERAL-020 | Page 01",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "fontSize": 10,
+        "typeface": "+mn-lt",
+        "color": "#62748E",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "L3AI Public Business Plan | PUBLIC-COLLATERAL-020 | Page 01"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "L3AI Public Business Plan | PUBLIC-COLLATERAL-020 | Page 01",
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "color": "#62748E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "L3AI Public Business Plan | PUBLIC-COLLATERAL-020 | Page 01",
+              "fontSize": 10,
+              "color": "#62748E"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kb6xkf6d",
+      "id": "8",
+      "bbox": [
+        826,
+        666,
+        360,
+        22
+      ],
+      "geometry": "rect",
+      "text": "Not investment advice. Roadmap items are subject to approval.",
+      "textPreview": "Not investment advice. Roadmap items are subject to approval.",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "fontSize": 10,
+        "typeface": "+mn-lt",
+        "color": "#62748E",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Not investment advice. Roadmap items are subject to approval."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Not investment advice. Roadmap items are subject to approval.",
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "color": "#62748E",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Not investment advice. Roadmap items are subject to approval.",
+              "fontSize": 10,
+              "color": "#62748E",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9w3m94fu",
+      "id": "9",
+      "bbox": [
+        64,
+        211,
+        9,
+        9
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#155DFC",
+      "lineColor": "#155DFC",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xczed8v6",
+      "id": "10",
+      "bbox": [
+        86,
+        205,
+        420,
+        62
+      ],
+      "geometry": "rect",
+      "text": "Customer, partner, media, and investor-style review",
+      "textPreview": "Customer, partner, media, and investor-style review",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "+mn-lt",
+        "color": "#020618",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Customer, partner, media, and investor-style review"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Customer, partner, media, and investor-style review",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#020618"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Customer, partner, media, and investor-style review",
+              "fontSize": 17,
+              "color": "#020618"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8v6psfil",
+      "id": "11",
+      "bbox": [
+        64,
+        297,
+        9,
+        9
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#00B8DB",
+      "lineColor": "#00B8DB",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fa9w3m94",
+      "id": "12",
+      "bbox": [
+        86,
+        291,
+        420,
+        62
+      ],
+      "geometry": "rect",
+      "text": "No investment advice, no guaranteed returns",
+      "textPreview": "No investment advice, no guaranteed returns",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "+mn-lt",
+        "color": "#020618",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "No investment advice, no guaranteed returns"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "No investment advice, no guaranteed returns",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#020618"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "No investment advice, no guaranteed returns",
+              "fontSize": 17,
+              "color": "#020618"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qpg3ex0n",
+      "id": "13",
+      "bbox": [
+        64,
+        383,
+        9,
+        9
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#155DFC",
+      "lineColor": "#155DFC",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x4nap4r6",
+      "id": "14",
+      "bbox": [
+        86,
+        377,
+        420,
+        62
+      ],
+      "geometry": "rect",
+      "text": "Current capability and roadmap are clearly separated",
+      "textPreview": "Current capability and roadmap are clearly separated",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "+mn-lt",
+        "color": "#020618",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Current capability and roadmap are clearly separated"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Current capability and roadmap are clearly separated",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#020618"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Current capability and roadmap are clearly separated",
+              "fontSize": 17,
+              "color": "#020618"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8jqh0fep",
+      "id": "15",
+      "bbox": [
+        535,
+        165,
+        675,
+        470
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#020618",
+      "lineColor": "#020618",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fyxobm58",
+      "id": "16",
+      "bbox": [
+        580,
+        215,
+        410,
+        30
+      ],
+      "geometry": "rect",
+      "text": "PUBLIC REVIEW PACKAGE",
+      "textPreview": "PUBLIC REVIEW PACKAGE",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#53EAFD",
         "bold": true,
         "alignment": "left",
         "insets": {
@@ -209,25 +689,25 @@
         "lines": [
           {
             "index": 1,
-            "text": "L3AI Public Business Plan"
+            "text": "PUBLIC REVIEW PACKAGE"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "L3AI Public Business Plan",
+          "text": "PUBLIC REVIEW PACKAGE",
           "resolvedTextStyle": {
-            "fontSize": 50,
-            "color": "#EAF3FF",
+            "fontSize": 14,
+            "color": "#53EAFD",
             "bold": true
           },
           "runs": [
             {
               "index": 1,
-              "text": "L3AI Public Business Plan",
-              "fontSize": 50,
-              "color": "#EAF3FF",
+              "text": "PUBLIC REVIEW PACKAGE",
+              "fontSize": 14,
+              "color": "#53EAFD",
               "bold": true
             }
           ],
@@ -237,103 +717,26 @@
       "lineWidth": 0
     },
     {
-      "order": 6,
+      "order": 17,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/h0fepkzu",
-      "id": "6",
-      "name": "subtitle",
+      "aid": "sh/qd4vmtwr",
+      "id": "17",
       "bbox": [
-        58,
-        235,
-        790,
-        70
-      ],
-      "geometry": "rect",
-      "text": "AI-native financial intelligence for Web3 education and risk-aware navigation",
-      "textPreview": "AI-native financial intelligence for Web3 education and risk-aware navigation",
-      "resolvedFontSize": 22,
-      "resolvedTextStyle": {
-        "fontSize": 22,
-        "typeface": "+mn-lt",
-        "color": "#9FB2C7",
-        "alignment": "left",
-        "insets": {
-          "top": 4.8,
-          "right": 9.6,
-          "bottom": 4.8,
-          "left": 9.6
-        }
-      },
-      "textLayout": {
-        "lineCount": 1,
-        "lines": [
-          {
-            "index": 1,
-            "text": "AI-native financial intelligence for Web3 education and risk-aware navigation"
-          }
-        ]
-      },
-      "paragraphs": [
-        {
-          "index": 1,
-          "text": "AI-native financial intelligence for Web3 education and risk-aware navigation",
-          "resolvedTextStyle": {
-            "fontSize": 22,
-            "color": "#9FB2C7"
-          },
-          "runs": [
-            {
-              "index": 1,
-              "text": "AI-native financial intelligence for Web3 education and risk-aware navigation",
-              "fontSize": 22,
-              "color": "#9FB2C7"
-            }
-          ],
-          "marginLeft": 0
-        }
-      ],
-      "lineWidth": 0
-    },
-    {
-      "order": 7,
-      "kind": "shape",
-      "scope": "slide",
-      "aid": "sh/sfil0rqd",
-      "id": "7",
-      "name": "bullet-panel-1",
-      "bbox": [
-        58,
-        340,
-        360,
+        580,
+        268,
+        470,
         120
       ],
-      "geometry": "roundRect",
-      "fillColor": "#0E1B2D",
-      "lineColor": "#20D6D2",
-      "lineWidth": 1
-    },
-    {
-      "order": 8,
-      "kind": "shape",
-      "scope": "slide",
-      "aid": "sh/zqtcj6to",
-      "id": "8",
-      "name": "bullet-text-1",
-      "bbox": [
-        80,
-        361,
-        316,
-        86
-      ],
       "geometry": "rect",
-      "text": "Public collateral v1.0",
-      "textPreview": "Public collateral v1.0",
-      "resolvedFontSize": 18,
+      "text": "Business model, product roadmap, operating controls, and launch assets in one public-safe deck.",
+      "textPreview": "Business model, product roadmap, operating controls, and launch assets in one public-safe deck.",
+      "resolvedFontSize": 29,
       "resolvedTextStyle": {
-        "fontSize": 18,
+        "fontSize": 29,
         "typeface": "+mn-lt",
-        "color": "#DDEBFA",
+        "color": "#FFFFFF",
+        "bold": true,
         "alignment": "left",
         "insets": {
           "top": 4.8,
@@ -343,28 +746,38 @@
         }
       },
       "textLayout": {
-        "lineCount": 1,
+        "lineCount": 3,
         "lines": [
           {
             "index": 1,
-            "text": "Public collateral v1.0"
+            "text": "Business model, product roadmap,"
+          },
+          {
+            "index": 2,
+            "text": "operating controls, and launch assets"
+          },
+          {
+            "index": 3,
+            "text": "in one public-safe deck."
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "Public collateral v1.0",
+          "text": "Business model, product roadmap, operating controls, and launch assets in one public-safe deck.",
           "resolvedTextStyle": {
-            "fontSize": 18,
-            "color": "#DDEBFA"
+            "fontSize": 29,
+            "color": "#FFFFFF",
+            "bold": true
           },
           "runs": [
             {
               "index": 1,
-              "text": "Public collateral v1.0",
-              "fontSize": 18,
-              "color": "#DDEBFA"
+              "text": "Business model, product roadmap, operating controls, and launch assets in one public-safe deck.",
+              "fontSize": 29,
+              "color": "#FFFFFF",
+              "bold": true
             }
           ],
           "marginLeft": 0
@@ -373,180 +786,42 @@
       "lineWidth": 0
     },
     {
-      "order": 9,
+      "order": 18,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/65wjudg7",
-      "id": "9",
-      "name": "bullet-panel-2",
+      "aid": "sh/xs72x4na",
+      "id": "18",
       "bbox": [
-        436,
-        340,
-        360,
-        120
+        580,
+        470,
+        126,
+        78
       ],
       "geometry": "roundRect",
-      "fillColor": "#0E1B2D",
-      "lineColor": "#D6A84A",
-      "lineWidth": 1
-    },
-    {
-      "order": 10,
-      "kind": "shape",
-      "scope": "slide",
-      "aid": "sh/g3ex0nux",
-      "id": "10",
-      "name": "bullet-text-2",
-      "bbox": [
-        458,
-        361,
-        316,
-        86
-      ],
-      "geometry": "rect",
-      "text": "Bilingual launch package",
-      "textPreview": "Bilingual launch package",
-      "resolvedFontSize": 18,
-      "resolvedTextStyle": {
-        "fontSize": 18,
-        "typeface": "+mn-lt",
-        "color": "#DDEBFA",
-        "alignment": "left",
-        "insets": {
-          "top": 4.8,
-          "right": 9.6,
-          "bottom": 4.8,
-          "left": 9.6
-        }
-      },
-      "textLayout": {
-        "lineCount": 1,
-        "lines": [
-          {
-            "index": 1,
-            "text": "Bilingual launch package"
-          }
-        ]
-      },
-      "paragraphs": [
-        {
-          "index": 1,
-          "text": "Bilingual launch package",
-          "resolvedTextStyle": {
-            "fontSize": 18,
-            "color": "#DDEBFA"
-          },
-          "runs": [
-            {
-              "index": 1,
-              "text": "Bilingual launch package",
-              "fontSize": 18,
-              "color": "#DDEBFA"
-            }
-          ],
-          "marginLeft": 0
-        }
-      ],
+      "fillColor": "#155DFC",
+      "lineColor": "#155DFC",
       "lineWidth": 0
     },
     {
-      "order": 11,
+      "order": 19,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/5o7qpg3e",
-      "id": "11",
-      "name": "bullet-panel-3",
+      "aid": "sh/87ed8bat",
+      "id": "19",
       "bbox": [
-        814,
-        340,
-        360,
-        120
-      ],
-      "geometry": "roundRect",
-      "fillColor": "#0E1B2D",
-      "lineColor": "#20D6D2",
-      "lineWidth": 1
-    },
-    {
-      "order": 12,
-      "kind": "shape",
-      "scope": "slide",
-      "aid": "sh/yxobm58z",
-      "id": "12",
-      "name": "bullet-text-3",
-      "bbox": [
-        836,
-        361,
-        316,
-        86
+        590,
+        482,
+        106,
+        60
       ],
       "geometry": "rect",
-      "text": "No investment advice",
-      "textPreview": "No investment advice",
-      "resolvedFontSize": 18,
+      "text": "Product",
+      "textPreview": "Product",
+      "resolvedFontSize": 16,
       "resolvedTextStyle": {
-        "fontSize": 18,
+        "fontSize": 16,
         "typeface": "+mn-lt",
-        "color": "#DDEBFA",
-        "alignment": "left",
-        "insets": {
-          "top": 4.8,
-          "right": 9.6,
-          "bottom": 4.8,
-          "left": 9.6
-        }
-      },
-      "textLayout": {
-        "lineCount": 1,
-        "lines": [
-          {
-            "index": 1,
-            "text": "No investment advice"
-          }
-        ]
-      },
-      "paragraphs": [
-        {
-          "index": 1,
-          "text": "No investment advice",
-          "resolvedTextStyle": {
-            "fontSize": 18,
-            "color": "#DDEBFA"
-          },
-          "runs": [
-            {
-              "index": 1,
-              "text": "No investment advice",
-              "fontSize": 18,
-              "color": "#DDEBFA"
-            }
-          ],
-          "marginLeft": 0
-        }
-      ],
-      "lineWidth": 0
-    },
-    {
-      "order": 13,
-      "kind": "shape",
-      "scope": "slide",
-      "aid": "sh/nih4byhg",
-      "id": "13",
-      "name": "l3-mark",
-      "bbox": [
-        1065,
-        532,
-        88,
-        48
-      ],
-      "geometry": "rect",
-      "text": "L3",
-      "textPreview": "L3",
-      "resolvedFontSize": 38,
-      "resolvedTextStyle": {
-        "fontSize": 38,
-        "typeface": "+mn-lt",
-        "color": "#D6A84A",
+        "color": "#FFFFFF",
         "bold": true,
         "alignment": "center",
         "insets": {
@@ -561,26 +836,26 @@
         "lines": [
           {
             "index": 1,
-            "text": "L3"
+            "text": "Product"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "L3",
+          "text": "Product",
           "resolvedTextStyle": {
-            "fontSize": 38,
-            "color": "#D6A84A",
+            "fontSize": 16,
+            "color": "#FFFFFF",
             "bold": true,
             "alignment": "center"
           },
           "runs": [
             {
               "index": 1,
-              "text": "L3",
-              "fontSize": 38,
-              "color": "#D6A84A",
+              "text": "Product",
+              "fontSize": 16,
+              "color": "#FFFFFF",
               "bold": true,
               "alignment": "center"
             }
@@ -591,27 +866,44 @@
       "lineWidth": 0
     },
     {
-      "order": 14,
+      "order": 20,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/gr2p8nqx",
-      "id": "14",
-      "name": "footer-left",
+      "aid": "sh/4fu18jqh",
+      "id": "20",
       "bbox": [
-        56,
-        675,
-        520,
-        22
+        740,
+        470,
+        126,
+        78
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#00B8DB",
+      "lineColor": "#00B8DB",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x0nuxc3y",
+      "id": "21",
+      "bbox": [
+        750,
+        482,
+        106,
+        60
       ],
       "geometry": "rect",
-      "text": "Source-backed · Review-gated · Public-safe",
-      "textPreview": "Source-backed · Review-gated · Public-safe",
-      "resolvedFontSize": 12,
+      "text": "Content",
+      "textPreview": "Content",
+      "resolvedFontSize": 16,
       "resolvedTextStyle": {
-        "fontSize": 12,
+        "fontSize": 16,
         "typeface": "+mn-lt",
-        "color": "#71859C",
-        "alignment": "left",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
         "insets": {
           "top": 4.8,
           "right": 9.6,
@@ -624,24 +916,28 @@
         "lines": [
           {
             "index": 1,
-            "text": "Source-backed · Review-gated · Public-safe"
+            "text": "Content"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "Source-backed · Review-gated · Public-safe",
+          "text": "Content",
           "resolvedTextStyle": {
-            "fontSize": 12,
-            "color": "#71859C"
+            "fontSize": 16,
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
           },
           "runs": [
             {
               "index": 1,
-              "text": "Source-backed · Review-gated · Public-safe",
-              "fontSize": 12,
-              "color": "#71859C"
+              "text": "Content",
+              "fontSize": 16,
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
             }
           ],
           "marginLeft": 0
@@ -650,27 +946,44 @@
       "lineWidth": 0
     },
     {
-      "order": 15,
+      "order": 22,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/9cvixcze",
-      "id": "15",
-      "name": "footer-right",
+      "aid": "sh/m94fu18j",
+      "id": "22",
       "bbox": [
-        1110,
-        675,
-        110,
-        22
+        900,
+        470,
+        126,
+        78
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#155DFC",
+      "lineColor": "#155DFC",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fu18jqh0",
+      "id": "23",
+      "bbox": [
+        910,
+        482,
+        106,
+        60
       ],
       "geometry": "rect",
-      "text": "01 / 24",
-      "textPreview": "01 / 24",
-      "resolvedFontSize": 12,
+      "text": "Distribution",
+      "textPreview": "Distribution",
+      "resolvedFontSize": 16,
       "resolvedTextStyle": {
-        "fontSize": 12,
+        "fontSize": 16,
         "typeface": "+mn-lt",
-        "color": "#71859C",
-        "alignment": "right",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
         "insets": {
           "top": 4.8,
           "right": 9.6,
@@ -683,26 +996,108 @@
         "lines": [
           {
             "index": 1,
-            "text": "01 / 24"
+            "text": "Distribution"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "01 / 24",
+          "text": "Distribution",
           "resolvedTextStyle": {
-            "fontSize": 12,
-            "color": "#71859C",
-            "alignment": "right"
+            "fontSize": 16,
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
           },
           "runs": [
             {
               "index": 1,
-              "text": "01 / 24",
-              "fontSize": 12,
-              "color": "#71859C",
-              "alignment": "right"
+              "text": "Distribution",
+              "fontSize": 16,
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/83itgfml",
+      "id": "24",
+      "bbox": [
+        1060,
+        470,
+        126,
+        78
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#00B8DB",
+      "lineColor": "#00B8DB",
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xobm58z2",
+      "id": "25",
+      "bbox": [
+        1070,
+        482,
+        106,
+        60
+      ],
+      "geometry": "rect",
+      "text": "Governance",
+      "textPreview": "Governance",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Governance"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Governance",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Governance",
+              "fontSize": 16,
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
             }
           ],
           "marginLeft": 0

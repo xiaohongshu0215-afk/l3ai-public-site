@@ -1,0 +1,64 @@
+{
+  "task_id": "PUBLIC-COLLATERAL-020",
+  "status": "prepared",
+  "base_url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/",
+  "deck_slides": 32,
+  "scope": "Expanded public business plan and investor deck with commercial model, product roadmap, risk controls, GTM, governance, and claim guardrails.",
+  "guardrails": [
+    "No private repository links",
+    "No local filesystem paths in public-facing copy",
+    "No secrets or tokens",
+    "No guaranteed returns, APY, token price, exchange listing, or investment advice",
+    "Roadmap and approval-gated functionality is explicitly labeled"
+  ],
+  "primary_assets": [
+    {
+      "asset_id": "L3AI_Public_Business_Plan_v1",
+      "path": "collateral/deck/L3AI_Public_Business_Plan_v1.pptx",
+      "bytes": 150686,
+      "sha256": "db157b1d73e25b4ec80c6ccd347406997bb3c0f91fde7aa76a77f574f14970d8",
+      "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "L3AI_Public_Business_Plan_v1",
+      "path": "collateral/deck/L3AI_Public_Business_Plan_v1.pdf",
+      "bytes": 298131,
+      "sha256": "03e034a4fd9610d640a7dc1b9110c14dc61aaa030d8787346b1e9c825e0411a2",
+      "type": "application/pdf",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "L3AI_Public_Business_Plan_v1",
+      "path": "collateral/deck/L3AI_Public_Business_Plan_v1.html",
+      "bytes": 37976,
+      "sha256": "0903a66dd67d8e16c9d05bab7beed9a03e223b5023ebc4512cb7bbe6cc630911",
+      "type": "text/html",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "L3AI_Public_Business_Plan_v1_speaker_notes",
+      "path": "collateral/deck/L3AI_Public_Business_Plan_v1_speaker_notes.md",
+      "bytes": 11451,
+      "sha256": "2e9dfc14de72dd795b35f45374b55ca06e59ddff93856f6ef27f359897ed98ff",
+      "type": "text/markdown",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "L3AI_Public_Business_Plan_v1_montage",
+      "path": "collateral/deck/qa/L3AI_Public_Business_Plan_v1_montage.webp",
+      "bytes": 47402,
+      "sha256": "5e156b9a7c9737ae9bd1fc15b9615e4c6750712b4deff8288e96a22a6f443a5d",
+      "type": "image/webp",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "L3AI_Public_Business_Plan_v1_inspect",
+      "path": "collateral/deck/qa/L3AI_Public_Business_Plan_v1_inspect.ndjson",
+      "bytes": 75830,
+      "sha256": "a08e5a7d9e45dbc2ac59316f08007fd434bf300bc50a4df83e769483adfe7e83",
+      "type": "application/x-ndjson",
+      "status": "prepared"
+    }
+  ]
+}
