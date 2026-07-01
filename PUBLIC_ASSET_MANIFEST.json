@@ -1,6 +1,6 @@
 {
   "name": "l3ai-public-site",
-  "generated": "2026-07-01T12:08:02.850Z",
+  "generated": "2026-07-01T12:38:40.744Z",
   "public_site": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/",
   "public_repository": "https://github.com/xiaohongshu0215-afk/l3ai-public-site",
   "safety": {
@@ -39,8 +39,8 @@
       "files": [
         {
           "path": "marketing/en/documents/core-messaging-l3ai-customer-facing-core-messaging-081.en.html",
-          "bytes": 9606,
-          "sha256": "ac886d7ce7516024af74447b15843553a0474d9da5382f8d71d7e9bec55e4a41",
+          "bytes": 11849,
+          "sha256": "839c63e2c0d2bb008f6ee9bd828f54379c2c337d70abf711a101be03a1375708",
           "type": "html"
         },
         {
@@ -93,8 +93,8 @@
         },
         {
           "path": "marketing/zh-CN/documents/core-messaging-l3ai-customer-facing-core-messaging-081.zh-CN.html",
-          "bytes": 9609,
-          "sha256": "ff789c8aee695c2972276c2d0e32b75d06f81d7d9a67b13358f39329f87b36b9",
+          "bytes": 11936,
+          "sha256": "0265380081d222347326868b0e5bf2835e2dce4dd9660e971b5591e48c2c35b6",
           "type": "html"
         },
         {
@@ -152,8 +152,8 @@
       "files": [
         {
           "path": "media/en/documents/media-kit-text-l3ai-media-kit-text-081.en.html",
-          "bytes": 7369,
-          "sha256": "d5cc7dafdb06c9c9568ff54ff7a89c3deb7161f74c76b9ed1fd3fca1e40894cc",
+          "bytes": 9584,
+          "sha256": "ea77bc524775ab18c4f5306cd8903f411b81886b969b1b39531317af4d8e8d22",
           "type": "html"
         },
         {
@@ -164,8 +164,8 @@
         },
         {
           "path": "media/en/documents/press-kit-text-l3ai-press-kit-text-081.en.html",
-          "bytes": 7558,
-          "sha256": "2bcf3df546490cc87d65bb212e9244ad8e6c5b597643bc9c4c7cc90f879af3e3",
+          "bytes": 9803,
+          "sha256": "b97a0df9be858b68c81bc15dd3ecdafbe734ada133fab36c27d93928aa59f366",
           "type": "html"
         },
         {
@@ -242,8 +242,8 @@
         },
         {
           "path": "media/zh-CN/documents/media-kit-text-l3ai-media-kit-text-081.zh-CN.html",
-          "bytes": 7372,
-          "sha256": "fd56d9ce619f364d5440e44293ddb038db331afd0cf524abecbc1abad822e922",
+          "bytes": 9659,
+          "sha256": "e1ee522565230311aa508c8ba1d5b7eac950f1b837a4570ee99fa09a4a00308e",
           "type": "html"
         },
         {
@@ -254,8 +254,8 @@
         },
         {
           "path": "media/zh-CN/documents/press-kit-text-l3ai-press-kit-text-081.zh-CN.html",
-          "bytes": 7561,
-          "sha256": "9a807f8f2b16fcf55f814f8f2451d692ee4252de9815be984260097aa435ab3f",
+          "bytes": 9848,
+          "sha256": "4f4d131942bebb30a76a67105ae3d1021b6a74535f951eea1dbd758dfb7a66fd",
           "type": "html"
         },
         {
@@ -337,8 +337,8 @@
       "files": [
         {
           "path": "pitch/en/documents/investor-deck-narrative-l3ai-investor-deck-narrative-081.en.html",
-          "bytes": 9482,
-          "sha256": "6d760dd80fcb35a68f7350be354016e1681d6543ed131b3221013d59f5a6bc5a",
+          "bytes": 11757,
+          "sha256": "70c7c280ebe15d840a553e5166fa55f8425b6e260a15d6ffa387fe87380a6eec",
           "type": "html"
         },
         {
@@ -613,8 +613,8 @@
         },
         {
           "path": "pitch/zh-CN/documents/investor-deck-narrative-l3ai-investor-deck-narrative-081.zh-CN.html",
-          "bytes": 9485,
-          "sha256": "f384ba7000750570bcdc34e1d33cb1658d96cc3fc617b945e5227752504a9f1c",
+          "bytes": 11826,
+          "sha256": "7d070fb3e0027ab6286089e90d2236dc939546b44c52c3f4f00485aed65b984b",
           "type": "html"
         },
         {
@@ -900,20 +900,20 @@
         },
         {
           "path": "faq.html",
-          "bytes": 7091,
-          "sha256": "f95c51d29cb165413b866c81a05c19f60558eec586cf0735494ccdf1fdc22293",
+          "bytes": 7569,
+          "sha256": "ccfeee2b206f54b554b9228554df45f82c2e5e54faa4f9a1ad02bc01e472fa0d",
           "type": "html"
         },
         {
           "path": "get-started.html",
-          "bytes": 5861,
-          "sha256": "8ea214e53fc65ba91dfafc4f9f1208471d480425b0739872164bc2e41af2a04b",
+          "bytes": 6327,
+          "sha256": "b8972bd0df316ac8311b985d79535af5220c5eaea8bb3557bd293d04ee040e43",
           "type": "html"
         },
         {
           "path": "index.html",
-          "bytes": 10794,
-          "sha256": "0d0a7375bcabfbecaefe4e25467dce45f07974308ac24220bf8b5890d11bb06f",
+          "bytes": 11315,
+          "sha256": "9b82fc86116b52e55c5d5e4f86b781926baf6bc3ac0ef46083894c136bfe34a0",
           "type": "html"
         },
         {
@@ -924,8 +924,8 @@
         },
         {
           "path": "resources.html",
-          "bytes": 8076,
-          "sha256": "d7168c56cd224e59b95d5770f449c2c65f92efb053be4e699b52b5b6a20f906e",
+          "bytes": 8557,
+          "sha256": "f22b565d79c01eba9f6ef882c91da28030c08d7aea2e6462e7185a97c92d7bbb",
           "type": "html"
         },
         {
@@ -936,8 +936,8 @@
         },
         {
           "path": "sitemap.html",
-          "bytes": 4070,
-          "sha256": "370b3952aacb7b7e7e1687f9b2231bb2fcbfd10f2f86aff29b210ce8e07609fa",
+          "bytes": 4502,
+          "sha256": "c4268669ba78f6aacecee7aa6e1346157a96914a489a330cd025eb6eb345a00c",
           "type": "html"
         },
         {
@@ -1042,8 +1042,8 @@
       "files": [
         {
           "path": "web/en/documents/website-copy-l3ai-customer-website-copy-081.en.html",
-          "bytes": 15435,
-          "sha256": "c0d5970b6fda4e32a923c1ebce580de5810af355e042fbfefbc5615d5c1c676c",
+          "bytes": 15889,
+          "sha256": "c69cc807ff393339a776baa0db93e60cfeb6ec47cdbe769abb659978ffa224ba",
           "type": "html"
         },
         {
@@ -1708,8 +1708,8 @@
         },
         {
           "path": "web/zh-CN/documents/website-copy-l3ai-customer-website-copy-081.zh-CN.html",
-          "bytes": 15416,
-          "sha256": "192b7b9d6a5d4769df8861b71d6580be329269dbcd8b790e8c933afa395f5233",
+          "bytes": 15965,
+          "sha256": "33a0fefd5037201feebd06ff3b80c6d69e6684e7735106d1a0c89f6ea746fe4d",
           "type": "html"
         },
         {
