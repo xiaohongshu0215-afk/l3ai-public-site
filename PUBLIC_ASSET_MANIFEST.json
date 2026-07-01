@@ -2,7 +2,7 @@
   "site": "l3ai-public-site",
   "base_url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/",
   "asset_count": 693,
-  "generated_at": "2026-07-01T21:18:13.310Z",
+  "generated_at": "2026-07-01T21:54:40.290Z",
   "assets": [
     {
       "path": ".gitattributes",
@@ -21,8 +21,8 @@
     },
     {
       "path": "assets/public-site.css",
-      "bytes": 30711,
-      "sha256": "0f6f604131db6aba21ca76cb33afaddf510500ced182024f2fd57d1060b0ac26"
+      "bytes": 36507,
+      "sha256": "542c9f32960ed20b3aa7e4a5a6fa1e253297710dc8b9ad022e578f827999ca33"
     },
     {
       "path": "business-model.html",
@@ -1506,8 +1506,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 19612,
-      "sha256": "13a4809f7f4e8fb03546c6401c5239dc10ab0503eef2187c74129045bdc3ea18"
+      "bytes": 22159,
+      "sha256": "d3f055b3a314219450dfb2f55efb74d3d5dbf618811f2b6cab545adbd34eb0dd"
     },
     {
       "path": "marketing/en/documents/core-messaging-l3ai-customer-facing-core-messaging-081.en.html",
@@ -2207,7 +2207,7 @@
     {
       "path": "PUBLIC_ASSET_MANIFEST.json",
       "bytes": 129828,
-      "sha256": "83df7a53f6e98b886cfbd56a5e8bf22f1f17dc582fcb565288c22ae86dd0ef69"
+      "sha256": "59558ce44d863d6b7add9ceaa640b69572a22a0137f6de1fe38f845504a5d140"
     },
     {
       "path": "README.md",
