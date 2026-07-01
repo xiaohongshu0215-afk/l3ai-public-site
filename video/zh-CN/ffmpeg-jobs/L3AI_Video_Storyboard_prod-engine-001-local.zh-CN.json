@@ -1,0 +1,53 @@
+{
+  "task": "PROD-ENGINE-001",
+  "language": "zh-CN",
+  "build_id": "prod-engine-001-local",
+  "storyboard": [
+    [
+      "L3AI",
+      "面向 Web3 用户的 AI 原生金融智能平台"
+    ],
+    [
+      "更清晰的市场语境",
+      "整理信号，减少噪音"
+    ],
+    [
+      "钱包感知型体验",
+      "理解活动、访问和产品交互"
+    ],
+    [
+      "风险意识型路径",
+      "保持不确定性可见"
+    ],
+    [
+      "更清楚地理解",
+      "更审慎地参与"
+    ]
+  ],
+  "frame_paths": [
+    "dist/video/prod-engine-001-local/zh-CN/frames/frame-001.png",
+    "dist/video/prod-engine-001-local/zh-CN/frames/frame-002.png",
+    "dist/video/prod-engine-001-local/zh-CN/frames/frame-003.png",
+    "dist/video/prod-engine-001-local/zh-CN/frames/frame-004.png",
+    "dist/video/prod-engine-001-local/zh-CN/frames/frame-005.png"
+  ],
+  "intended_output": "dist/video/prod-engine-001-local/zh-CN/renders/L3AI_Promo_prod-engine-001-local.zh-CN.mp4",
+  "ffmpeg_path": "C:\\Users\\44994\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\Lib\\site-packages\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+  "public_ready": false,
+  "status": "Local Production Output / Not Published / Approval Required",
+  "command": [
+    "C:\\Users\\44994\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\Lib\\site-packages\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+    "-y",
+    "-framerate",
+    "1",
+    "-i",
+    "dist/video/prod-engine-001-local/zh-CN/frames/frame-%03d.png",
+    "-c:v",
+    "libx264",
+    "-r",
+    "30",
+    "-pix_fmt",
+    "yuv420p",
+    "dist/video/prod-engine-001-local/zh-CN/renders/L3AI_Promo_prod-engine-001-local.zh-CN.mp4"
+  ]
+}
