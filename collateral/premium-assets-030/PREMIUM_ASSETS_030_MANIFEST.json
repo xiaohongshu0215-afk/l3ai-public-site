@@ -1,0 +1,229 @@
+{
+  "task_id": "PREMIUM-ASSETS-030",
+  "status": "complete",
+  "generated_at": "2026-07-01T21:18:13.121Z",
+  "ffmpeg_available": true,
+  "imagemagick_available": true,
+  "asset_count": 23,
+  "assets": [
+    {
+      "asset_id": "recording-homepage-flow-030",
+      "type": "authentic-product-recording",
+      "title": "Homepage product discovery",
+      "audience": "Customers and first-time reviewers",
+      "status": "complete",
+      "version": "030",
+      "file_path": "collateral/premium-assets-030/recordings/homepage-flow.mp4",
+      "source_page": "index.html"
+    },
+    {
+      "asset_id": "recording-ai-quant-workflow-030",
+      "type": "authentic-product-recording",
+      "title": "AI Quant workflow",
+      "audience": "Product reviewers",
+      "status": "complete",
+      "version": "030",
+      "file_path": "collateral/premium-assets-030/recordings/ai-quant-workflow.mp4",
+      "source_page": "ai-quant-workflow.html"
+    },
+    {
+      "asset_id": "recording-wallet-experience-030",
+      "type": "authentic-product-recording",
+      "title": "Wallet-aware education flow",
+      "audience": "Trust and wallet-experience reviewers",
+      "status": "complete",
+      "version": "030",
+      "file_path": "collateral/premium-assets-030/recordings/wallet-experience.mp4",
+      "source_page": "wallet-experience.html"
+    },
+    {
+      "asset_id": "recording-business-model-030",
+      "type": "authentic-product-recording",
+      "title": "Business model walkthrough",
+      "audience": "Commercial and partner reviewers",
+      "status": "complete",
+      "version": "030",
+      "file_path": "collateral/premium-assets-030/recordings/business-model.mp4",
+      "source_page": "business-model.html"
+    },
+    {
+      "asset_id": "recording-resources-flow-030",
+      "type": "authentic-product-recording",
+      "title": "Resources and downloads flow",
+      "audience": "Customers, media, launch operators",
+      "status": "complete",
+      "version": "030",
+      "file_path": "collateral/premium-assets-030/recordings/resources-flow.mp4",
+      "source_page": "resources.html"
+    },
+    {
+      "asset_id": "recording-contact-flow-030",
+      "type": "authentic-product-recording",
+      "title": "Contact and partner review flow",
+      "audience": "Qualified partners and operators",
+      "status": "complete",
+      "version": "030",
+      "file_path": "collateral/premium-assets-030/recordings/contact-flow.mp4",
+      "source_page": "contact-partner.html"
+    },
+    {
+      "asset_id": "screenshot-homepage-flow-030",
+      "type": "authentic-product-screenshot",
+      "title": "Homepage product discovery",
+      "audience": "Customers and first-time reviewers",
+      "status": "complete",
+      "version": "030",
+      "file_path": "collateral/premium-assets-030/screens/homepage-flow-desktop.png",
+      "source_page": "index.html"
+    },
+    {
+      "asset_id": "screenshot-ai-quant-workflow-030",
+      "type": "authentic-product-screenshot",
+      "title": "AI Quant workflow",
+      "audience": "Product reviewers",
+      "status": "complete",
+      "version": "030",
+      "file_path": "collateral/premium-assets-030/screens/ai-quant-workflow-desktop.png",
+      "source_page": "ai-quant-workflow.html"
+    },
+    {
+      "asset_id": "screenshot-wallet-experience-030",
+      "type": "authentic-product-screenshot",
+      "title": "Wallet-aware education flow",
+      "audience": "Trust and wallet-experience reviewers",
+      "status": "complete",
+      "version": "030",
+      "file_path": "collateral/premium-assets-030/screens/wallet-experience-desktop.png",
+      "source_page": "wallet-experience.html"
+    },
+    {
+      "asset_id": "screenshot-business-model-030",
+      "type": "authentic-product-screenshot",
+      "title": "Business model walkthrough",
+      "audience": "Commercial and partner reviewers",
+      "status": "complete",
+      "version": "030",
+      "file_path": "collateral/premium-assets-030/screens/business-model-desktop.png",
+      "source_page": "business-model.html"
+    },
+    {
+      "asset_id": "screenshot-resources-flow-030",
+      "type": "authentic-product-screenshot",
+      "title": "Resources and downloads flow",
+      "audience": "Customers, media, launch operators",
+      "status": "complete",
+      "version": "030",
+      "file_path": "collateral/premium-assets-030/screens/resources-flow-desktop.png",
+      "source_page": "resources.html"
+    },
+    {
+      "asset_id": "screenshot-contact-flow-030",
+      "type": "authentic-product-screenshot",
+      "title": "Contact and partner review flow",
+      "audience": "Qualified partners and operators",
+      "status": "complete",
+      "version": "030",
+      "file_path": "collateral/premium-assets-030/screens/contact-flow-desktop.png",
+      "source_page": "contact-partner.html"
+    },
+    {
+      "asset_id": "l3ai-enterprise-hero-030",
+      "type": "premium-visual",
+      "title": "l3ai enterprise hero 030",
+      "audience": "Customers, partners, media and launch operators",
+      "status": "complete",
+      "version": "030",
+      "file_path": "collateral/premium-assets-030/visuals/l3ai-enterprise-hero-030.png"
+    },
+    {
+      "asset_id": "l3ai-ecosystem-map-030",
+      "type": "premium-visual",
+      "title": "l3ai ecosystem map 030",
+      "audience": "Customers, partners, media and launch operators",
+      "status": "complete",
+      "version": "030",
+      "file_path": "collateral/premium-assets-030/visuals/l3ai-ecosystem-map-030.png"
+    },
+    {
+      "asset_id": "l3ai-business-model-loop-030",
+      "type": "premium-visual",
+      "title": "l3ai business model loop 030",
+      "audience": "Customers, partners, media and launch operators",
+      "status": "complete",
+      "version": "030",
+      "file_path": "collateral/premium-assets-030/visuals/l3ai-business-model-loop-030.png"
+    },
+    {
+      "asset_id": "l3ai-ai-quant-workflow-030",
+      "type": "premium-visual",
+      "title": "l3ai ai quant workflow 030",
+      "audience": "Customers, partners, media and launch operators",
+      "status": "complete",
+      "version": "030",
+      "file_path": "collateral/premium-assets-030/visuals/l3ai-ai-quant-workflow-030.png"
+    },
+    {
+      "asset_id": "l3ai-public-icon-set-030",
+      "type": "icon-set",
+      "title": "l3ai public icon set 030",
+      "audience": "Customers, partners, media and launch operators",
+      "status": "complete",
+      "version": "030",
+      "file_path": "collateral/premium-assets-030/visuals/l3ai-public-icon-set-030.png"
+    },
+    {
+      "asset_id": "l3ai-social-banner-1200x675-030",
+      "type": "social-media-banner",
+      "title": "l3ai social banner 1200x675 030",
+      "audience": "Social, media and public launch channels",
+      "status": "complete",
+      "version": "030",
+      "file_path": "collateral/premium-assets-030/social/l3ai-social-banner-1200x675-030.png"
+    },
+    {
+      "asset_id": "l3ai-social-square-1080x1080-030",
+      "type": "social-media-banner",
+      "title": "l3ai social square 1080x1080 030",
+      "audience": "Social, media and public launch channels",
+      "status": "complete",
+      "version": "030",
+      "file_path": "collateral/premium-assets-030/social/l3ai-social-square-1080x1080-030.png"
+    },
+    {
+      "asset_id": "l3ai-social-story-1080x1920-030",
+      "type": "social-media-banner",
+      "title": "l3ai social story 1080x1920 030",
+      "audience": "Social, media and public launch channels",
+      "status": "complete",
+      "version": "030",
+      "file_path": "collateral/premium-assets-030/social/l3ai-social-story-1080x1920-030.png"
+    },
+    {
+      "asset_id": "l3ai-executive-deck-v2",
+      "type": "pptx",
+      "title": "L3AI Executive Deck v2",
+      "audience": "Executive and partner reviewers",
+      "status": "complete",
+      "version": "027",
+      "file_path": "collateral/deck/L3AI_Executive_Deck_v2.pptx"
+    },
+    {
+      "asset_id": "l3ai-public-whitepaper-v1",
+      "type": "pdf",
+      "title": "L3AI Public Whitepaper v1",
+      "audience": "Customers, partners and long-form reviewers",
+      "status": "complete",
+      "version": "019",
+      "file_path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.en-zh.pdf"
+    },
+    {
+      "asset_id": "l3ai-premium-promo-027",
+      "type": "mp4",
+      "title": "L3AI Premium Promo 3-minute render",
+      "audience": "Public launch and media reviewers",
+      "status": "complete",
+      "version": "027",
+      "file_path": "collateral/video/premium-027/L3AI_Premium_Promo_3min_027.mp4"
+    }
+  ]
+}

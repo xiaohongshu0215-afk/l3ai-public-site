@@ -1,8 +1,8 @@
 {
   "site": "l3ai-public-site",
   "base_url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/",
-  "asset_count": 633,
-  "generated_at": "2026-07-01T20:49:53.385Z",
+  "asset_count": 693,
+  "generated_at": "2026-07-01T21:18:13.310Z",
   "assets": [
     {
       "path": ".gitattributes",
@@ -21,8 +21,8 @@
     },
     {
       "path": "assets/public-site.css",
-      "bytes": 29609,
-      "sha256": "cf99a1a455ff5a727e3afc8c4cf98bd7837453fb1ca3079e92e1ab1b5f031406"
+      "bytes": 30711,
+      "sha256": "0f6f604131db6aba21ca76cb33afaddf510500ced182024f2fd57d1060b0ac26"
     },
     {
       "path": "business-model.html",
@@ -65,11 +65,6 @@
       "sha256": "08b9c96e338e86e5b9122cfd21aa7045fe9e3c7b4c07f1ec83fd8898661b472a"
     },
     {
-      "path": "collateral/deck/L3AI_Executive_Deck_v2_speaker_notes.md",
-      "bytes": 243,
-      "sha256": "15725d178d9166b0aaedf906a9748b1d51a8f90907916836238bd87893399567"
-    },
-    {
       "path": "collateral/deck/L3AI_Executive_Deck_v2.pptx",
       "bytes": 3714393,
       "sha256": "a1a229987c7acbcb9675f8877b4739d7799d8cba9fbc92bb1fcac05dadf7a6b6"
@@ -80,9 +75,9 @@
       "sha256": "05fd5f924c6b2b4634d7196a2c2e2cce4680e8fcabbcf95a935b34a8e9cdaccd"
     },
     {
-      "path": "collateral/deck/L3AI_Public_Business_Plan_v1_speaker_notes.md",
-      "bytes": 11451,
-      "sha256": "2e9dfc14de72dd795b35f45374b55ca06e59ddff93856f6ef27f359897ed98ff"
+      "path": "collateral/deck/L3AI_Executive_Deck_v2_speaker_notes.md",
+      "bytes": 243,
+      "sha256": "15725d178d9166b0aaedf906a9748b1d51a8f90907916836238bd87893399567"
     },
     {
       "path": "collateral/deck/L3AI_Public_Business_Plan_v1.html",
@@ -103,6 +98,11 @@
       "path": "collateral/deck/L3AI_Public_Business_Plan_v1.pptx.inspect.ndjson",
       "bytes": 145756,
       "sha256": "8c895972fa7311c2330135d1ff34f7323e8f3923368583868642c3d702dcf6d5"
+    },
+    {
+      "path": "collateral/deck/L3AI_Public_Business_Plan_v1_speaker_notes.md",
+      "bytes": 11451,
+      "sha256": "2e9dfc14de72dd795b35f45374b55ca06e59ddff93856f6ef27f359897ed98ff"
     },
     {
       "path": "collateral/deck/qa/executive-v2/L3AI_Executive_Deck_v2_contact_sheet.jpg",
@@ -675,6 +675,291 @@
       "sha256": "71d3fc917770a328c616efa1e6b0ae7c041cb51af3a1730926fa4a1a1f33302d"
     },
     {
+      "path": "collateral/premium-assets-030/capture-index-030.json",
+      "bytes": 2321,
+      "sha256": "97cfbe9a7c2bf8f9f86774414bae833bf886fdac1f43f2929996ca9849c65509"
+    },
+    {
+      "path": "collateral/premium-assets-030/L3AI_Premium_Visual_and_Recording_Asset_Catalogue_030.md",
+      "bytes": 5239,
+      "sha256": "5b09e9e3a3606e0679441a544db0c6b70577cbad20faf6ee0c7672e24b83a7d4"
+    },
+    {
+      "path": "collateral/premium-assets-030/PREMIUM_ASSETS_030_MANIFEST.json",
+      "bytes": 8579,
+      "sha256": "08b77e88412f0539025245c1f0257932e123309d1cb5cc7138685219f46dfd52"
+    },
+    {
+      "path": "collateral/premium-assets-030/recordings/ai-quant-workflow.mp4",
+      "bytes": 208889,
+      "sha256": "2ef2b340097a23eb3961bfabea4eb6abeb3a7e3d2aed5d416e05e2d80a4240a0"
+    },
+    {
+      "path": "collateral/premium-assets-030/recordings/business-model.mp4",
+      "bytes": 185342,
+      "sha256": "21f34006e5e94408c952c53d5af3e02a444873bb33f4c00f08bb565dd5c8f8da"
+    },
+    {
+      "path": "collateral/premium-assets-030/recordings/contact-flow.mp4",
+      "bytes": 176420,
+      "sha256": "b2f32516cf3397930c1147654b5edeb5d12827c6f0c0c36ab61021df12a6d94d"
+    },
+    {
+      "path": "collateral/premium-assets-030/recordings/homepage-flow.mp4",
+      "bytes": 969390,
+      "sha256": "001833f887439ede163d72655c50dfd62d88d16a38156977a4f55c807824d679"
+    },
+    {
+      "path": "collateral/premium-assets-030/recordings/raw-webm/ai-quant-workflow.webm",
+      "bytes": 361493,
+      "sha256": "d38ee918c5ee9486f2d7a36bccb00ce9772b5a6ba52fedcc5b67cc1e060b1501"
+    },
+    {
+      "path": "collateral/premium-assets-030/recordings/raw-webm/business-model.webm",
+      "bytes": 301111,
+      "sha256": "3a4a9a5c8a6610a8a399ae8043f2d0eee0df4493bbe9442d6e3672445693bbd4"
+    },
+    {
+      "path": "collateral/premium-assets-030/recordings/raw-webm/contact-flow.webm",
+      "bytes": 293123,
+      "sha256": "fe74902b79b9226407ce81d87d9a76fc789a397b54943925083eda0b975ea862"
+    },
+    {
+      "path": "collateral/premium-assets-030/recordings/raw-webm/homepage-flow.webm",
+      "bytes": 1636900,
+      "sha256": "0b2796a51ef24bde794fd79e1d5f1bb8c236942b3f6c48fca34cc86edf55a2a4"
+    },
+    {
+      "path": "collateral/premium-assets-030/recordings/raw-webm/resources-flow.webm",
+      "bytes": 504823,
+      "sha256": "85f3e860c6043396e57b2adec51576ce12befa7edb846c8f902d39a5e9d55d71"
+    },
+    {
+      "path": "collateral/premium-assets-030/recordings/raw-webm/wallet-experience.webm",
+      "bytes": 315147,
+      "sha256": "1e18f4e4d9664a82f5bfe4bee5b67f6b30ac9b0fce58fa7f7f80a028703d3bbd"
+    },
+    {
+      "path": "collateral/premium-assets-030/recordings/resources-flow.mp4",
+      "bytes": 359929,
+      "sha256": "37057d3f269712f02fedcb28f49bd62d3d6b678a2b03b8f115889d6253d307fe"
+    },
+    {
+      "path": "collateral/premium-assets-030/recordings/wallet-experience.mp4",
+      "bytes": 182842,
+      "sha256": "e1d29247991a161c070605dbef8a36609d886e290182aa3df331c0e42b9f8aef"
+    },
+    {
+      "path": "collateral/premium-assets-030/screens/ai-quant-workflow-desktop.png",
+      "bytes": 514230,
+      "sha256": "3a46f46e46560eed0f6add5b8cb68c200bd659895bdf898ff646bd0e53ef0259"
+    },
+    {
+      "path": "collateral/premium-assets-030/screens/business-model-desktop.png",
+      "bytes": 487589,
+      "sha256": "1cc1886abd55ab8f1fd4c8257ede971dae8d26dedfc882c67832876b7026a86c"
+    },
+    {
+      "path": "collateral/premium-assets-030/screens/contact-flow-desktop.png",
+      "bytes": 486241,
+      "sha256": "6896388ebeea7e0ad3f23bc59541dc29a4b80762e023703aad7807663e575693"
+    },
+    {
+      "path": "collateral/premium-assets-030/screens/homepage-flow-desktop.png",
+      "bytes": 1945285,
+      "sha256": "e615be7fb84648f5d899e181dc6081e1fc26e34b5827af9c38acd16e1f41298f"
+    },
+    {
+      "path": "collateral/premium-assets-030/screens/resources-flow-desktop.png",
+      "bytes": 1361687,
+      "sha256": "3469c006415596b7883629263ed6930b934cfb7fb091653c71e6725b2b409d5e"
+    },
+    {
+      "path": "collateral/premium-assets-030/screens/wallet-experience-desktop.png",
+      "bytes": 508357,
+      "sha256": "a367104ac9c8a0330a2094c709ededd787ea587daa60fd61dbe0113e8932c572"
+    },
+    {
+      "path": "collateral/premium-assets-030/social/l3ai-social-banner-1200x675-030.png",
+      "bytes": 96231,
+      "sha256": "fef17f84a3e119e83ac7fe197da4f29b78ee1cb9bb29cfdeb53cf34506d94032"
+    },
+    {
+      "path": "collateral/premium-assets-030/social/l3ai-social-banner-1200x675-030.svg",
+      "bytes": 1643,
+      "sha256": "56467eb79ca9b84643715e051d719aaf85a8ad09e7a42a217a1c89797d4e38dc"
+    },
+    {
+      "path": "collateral/premium-assets-030/social/l3ai-social-banner-1200x675-030.webp",
+      "bytes": 33816,
+      "sha256": "d8e158f07e804039a3c9b6f0fcb568b877986d0c7acf4e8c08ffd8f9214eb98b"
+    },
+    {
+      "path": "collateral/premium-assets-030/social/l3ai-social-square-1080x1080-030.png",
+      "bytes": 107655,
+      "sha256": "67b5435916b852c201ef7f6777a092dbeb3a74e5b303a384466a5f0a3f7fe982"
+    },
+    {
+      "path": "collateral/premium-assets-030/social/l3ai-social-square-1080x1080-030.svg",
+      "bytes": 1640,
+      "sha256": "ce3e928d6f026ef52787a4d3dd0ec9f21b8a70b826f463432ed973f18b2e3102"
+    },
+    {
+      "path": "collateral/premium-assets-030/social/l3ai-social-square-1080x1080-030.webp",
+      "bytes": 35180,
+      "sha256": "26688c8af2b8e9a38f846ac41d27a46dc955623991852add8a139e6c8bdaeafb"
+    },
+    {
+      "path": "collateral/premium-assets-030/social/l3ai-social-story-1080x1920-030.png",
+      "bytes": 155877,
+      "sha256": "4591c624e5b506260fbfa3325a2856db7cc03ac7a8d2bbc513b607d9bd8ce1ac"
+    },
+    {
+      "path": "collateral/premium-assets-030/social/l3ai-social-story-1080x1920-030.svg",
+      "bytes": 1640,
+      "sha256": "ecfde4d9177045d4791df4bfadc530a73895b07457bc30758361bb86569ba596"
+    },
+    {
+      "path": "collateral/premium-assets-030/social/l3ai-social-story-1080x1920-030.webp",
+      "bytes": 41122,
+      "sha256": "8e7756187ca98929ccc0485261ed5bc0788b835661d8a2f0615e83555b8e887a"
+    },
+    {
+      "path": "collateral/premium-assets-030/thumbnails/ai-quant-workflow-thumbnail-1200x675.png",
+      "bytes": 296588,
+      "sha256": "1334379075168bf3ec361098d3272f0ef2a8f8cf313e55eb62148dfc5b3957db"
+    },
+    {
+      "path": "collateral/premium-assets-030/thumbnails/ai-quant-workflow-thumbnail-1200x675.webp",
+      "bytes": 53066,
+      "sha256": "416e1d32070a900455d2621274daf61a7e811a6abb7c4fbda41fdad0d108480d"
+    },
+    {
+      "path": "collateral/premium-assets-030/thumbnails/business-model-thumbnail-1200x675.png",
+      "bytes": 300576,
+      "sha256": "feee3e5702673ada76685fe99863d0be811775375f0362d543f6efc19561780b"
+    },
+    {
+      "path": "collateral/premium-assets-030/thumbnails/business-model-thumbnail-1200x675.webp",
+      "bytes": 53186,
+      "sha256": "b813ebf7a780fcc19f64b2ef3e4d39f7a0926b53fcfcec1b5deae873bde79aea"
+    },
+    {
+      "path": "collateral/premium-assets-030/thumbnails/contact-flow-thumbnail-1200x675.png",
+      "bytes": 266989,
+      "sha256": "fcfee28b6883cfbc4922dbc692b17c57ee0b4895c05e67fef70f3671b423a76a"
+    },
+    {
+      "path": "collateral/premium-assets-030/thumbnails/contact-flow-thumbnail-1200x675.webp",
+      "bytes": 47320,
+      "sha256": "a692795dc55dbbe0c1c804bb1ae32d2d3cbc49fa72f1216c09e3e36177b2f08a"
+    },
+    {
+      "path": "collateral/premium-assets-030/thumbnails/homepage-flow-thumbnail-1200x675.png",
+      "bytes": 423974,
+      "sha256": "b55c5dc3f9e9dfd13d2abfe9442e219fff602ddaa5447e9bcb6db726126f6351"
+    },
+    {
+      "path": "collateral/premium-assets-030/thumbnails/homepage-flow-thumbnail-1200x675.webp",
+      "bytes": 63074,
+      "sha256": "14edb1c88ff486ff32d0ed312f586c14c7af8651704c30807d68e367fe174149"
+    },
+    {
+      "path": "collateral/premium-assets-030/thumbnails/resources-flow-thumbnail-1200x675.png",
+      "bytes": 315517,
+      "sha256": "3812f38d5c0288916d2c2d250fb5be556a5d6aa0cca6530e4c700c3958702efa"
+    },
+    {
+      "path": "collateral/premium-assets-030/thumbnails/resources-flow-thumbnail-1200x675.webp",
+      "bytes": 54454,
+      "sha256": "922fa747297df95c83e08547dcdc47abe49df25bebc903392365923684205518"
+    },
+    {
+      "path": "collateral/premium-assets-030/thumbnails/wallet-experience-thumbnail-1200x675.png",
+      "bytes": 322284,
+      "sha256": "5ffe4338fc60aee0cb5706b1afed82f13cc13371414d4c164f7e8d937b64b7d8"
+    },
+    {
+      "path": "collateral/premium-assets-030/thumbnails/wallet-experience-thumbnail-1200x675.webp",
+      "bytes": 55914,
+      "sha256": "c855b6718ff60329017779683849343685d1b9992b46ff974530a99b0cfb4f78"
+    },
+    {
+      "path": "collateral/premium-assets-030/visuals/l3ai-ai-quant-workflow-030.png",
+      "bytes": 31859,
+      "sha256": "b33b6fca3fce78801baee2f0640fe8ad3ae4d92ff666c79a0627c480a4f37a1d"
+    },
+    {
+      "path": "collateral/premium-assets-030/visuals/l3ai-ai-quant-workflow-030.svg",
+      "bytes": 3357,
+      "sha256": "abe244c474d2c0a3186de8ed2f9bc689361b1304329b481f6d3a29cf6dd0c63c"
+    },
+    {
+      "path": "collateral/premium-assets-030/visuals/l3ai-ai-quant-workflow-030.webp",
+      "bytes": 43134,
+      "sha256": "66f578f529e5fa5f9c2e4b1e024ed2b8de26c52aa073af069a70e08bd3ebb491"
+    },
+    {
+      "path": "collateral/premium-assets-030/visuals/l3ai-business-model-loop-030.png",
+      "bytes": 53116,
+      "sha256": "d27b92d21df6a4e3c9627e7d122fdafade09a610d84199e50ea807cf22226f4d"
+    },
+    {
+      "path": "collateral/premium-assets-030/visuals/l3ai-business-model-loop-030.svg",
+      "bytes": 2969,
+      "sha256": "ec11630931516671bd772e8694f4c45bccfdd479928a75b3b60f565bc6c6afa6"
+    },
+    {
+      "path": "collateral/premium-assets-030/visuals/l3ai-business-model-loop-030.webp",
+      "bytes": 51542,
+      "sha256": "c6ba5c738946fab6564fb0a23680357008863b8fd6e7734fc9ce439aa21241ad"
+    },
+    {
+      "path": "collateral/premium-assets-030/visuals/l3ai-ecosystem-map-030.png",
+      "bytes": 49451,
+      "sha256": "c3caefa82bf96bc988b0e0bc96da160c42368fac52e0c05bc4d9aeb3b029ebf2"
+    },
+    {
+      "path": "collateral/premium-assets-030/visuals/l3ai-ecosystem-map-030.svg",
+      "bytes": 3287,
+      "sha256": "e5405688e63f214c56ce9b2c1e50ea458f3933f17dc59e30f6e444a952a9ee65"
+    },
+    {
+      "path": "collateral/premium-assets-030/visuals/l3ai-ecosystem-map-030.webp",
+      "bytes": 39634,
+      "sha256": "ce37ec53d6db6d8f2b00f7444b5f7b389df4844aaf996417d412a295b3073b79"
+    },
+    {
+      "path": "collateral/premium-assets-030/visuals/l3ai-enterprise-hero-030.png",
+      "bytes": 150486,
+      "sha256": "d5aae18a676533b62c338de918c7163d6db3eab823feb169fabc20c593cc9ecb"
+    },
+    {
+      "path": "collateral/premium-assets-030/visuals/l3ai-enterprise-hero-030.svg",
+      "bytes": 2905,
+      "sha256": "2b2c6008b05ba4e86dd40de34ce6e4afdc836ebc9e2e14e479526a7f0ab7e81f"
+    },
+    {
+      "path": "collateral/premium-assets-030/visuals/l3ai-enterprise-hero-030.webp",
+      "bytes": 50528,
+      "sha256": "71446ed5836a9a9b0c0ed2a3cf03705324f032e7bbadd551e68bbe1c4150ec67"
+    },
+    {
+      "path": "collateral/premium-assets-030/visuals/l3ai-public-icon-set-030.png",
+      "bytes": 35134,
+      "sha256": "98df1d9890ae65f226bbceab49ad81995f088827a70e24d029a469ac09633dcc"
+    },
+    {
+      "path": "collateral/premium-assets-030/visuals/l3ai-public-icon-set-030.svg",
+      "bytes": 4287,
+      "sha256": "5fe9bb10a82a6141d494051884597d71f6ef0c393868821e50e7f376fb1c403c"
+    },
+    {
+      "path": "collateral/premium-assets-030/visuals/l3ai-public-icon-set-030.webp",
+      "bytes": 28154,
+      "sha256": "e476fa7425a8c22ac240d3533eb7428455391b917bf07110686938f9ca8633ce"
+    },
+    {
       "path": "collateral/premium-site/PREMIUM_SITE_026_MANIFEST.json",
       "bytes": 1317,
       "sha256": "d7d43f90da1111db935c172434bf33254fcee2b6b5146465216af8fd1b8e52ee"
@@ -925,6 +1210,16 @@
       "sha256": "bfb6e6f1b8c162c9b774250a0dd4a53c6a2700f5e05ab6c61d4412a31aef9221"
     },
     {
+      "path": "collateral/video/L3AI_Public_Enterprise_Demo_v2.en.srt",
+      "bytes": 953,
+      "sha256": "68941e05f1bd3e965e37bfe088b0a33d0f940a41e233549046cfefe6997d8b09"
+    },
+    {
+      "path": "collateral/video/L3AI_Public_Enterprise_Demo_v2.zh-CN.srt",
+      "bytes": 856,
+      "sha256": "0f05e202df85b3776bd524fbf44341a517ea5835bbd6ac4f83cf3375e4769ed3"
+    },
+    {
       "path": "collateral/video/L3AI_Public_Enterprise_Demo_v2_motion_spec.md",
       "bytes": 1676,
       "sha256": "98a0c7ad7615fcc255fb389ad1a2c6ae093c5f882b7eb3918af1ae089e4a1d67"
@@ -935,14 +1230,19 @@
       "sha256": "6a76a10e87b9bc4357a12a4553ead314e123b2ebb4370864503fba6333a90fb3"
     },
     {
-      "path": "collateral/video/L3AI_Public_Enterprise_Demo_v2.en.srt",
-      "bytes": 953,
-      "sha256": "68941e05f1bd3e965e37bfe088b0a33d0f940a41e233549046cfefe6997d8b09"
+      "path": "collateral/video/L3AI_Public_Promo_3min_v1.en.srt",
+      "bytes": 3720,
+      "sha256": "4b0d6d0159b40fbf9c3532c8e1cb6dd286f7783387e77ca411c563deeaaedae6"
     },
     {
-      "path": "collateral/video/L3AI_Public_Enterprise_Demo_v2.zh-CN.srt",
-      "bytes": 856,
-      "sha256": "0f05e202df85b3776bd524fbf44341a517ea5835bbd6ac4f83cf3375e4769ed3"
+      "path": "collateral/video/L3AI_Public_Promo_3min_v1.mp4",
+      "bytes": 5593238,
+      "sha256": "5f96b7f75f551f11101984b6ccd4ac2e98dd3bed9969d750e426e3d4a8abaf43"
+    },
+    {
+      "path": "collateral/video/L3AI_Public_Promo_3min_v1.zh-CN.srt",
+      "bytes": 3338,
+      "sha256": "25b27bff4e4bc9e2a6de4ef3e4c34185333e82435825571304d7a64a5cae9275"
     },
     {
       "path": "collateral/video/L3AI_Public_Promo_3min_v1_manifest.json",
@@ -963,21 +1263,6 @@
       "path": "collateral/video/L3AI_Public_Promo_3min_v1_storyboard.md",
       "bytes": 7712,
       "sha256": "cc5dd646e344ead4d54becd22aad8804704cb5c6525494c9978c8e3a173bca1e"
-    },
-    {
-      "path": "collateral/video/L3AI_Public_Promo_3min_v1.en.srt",
-      "bytes": 3720,
-      "sha256": "4b0d6d0159b40fbf9c3532c8e1cb6dd286f7783387e77ca411c563deeaaedae6"
-    },
-    {
-      "path": "collateral/video/L3AI_Public_Promo_3min_v1.mp4",
-      "bytes": 5593238,
-      "sha256": "5f96b7f75f551f11101984b6ccd4ac2e98dd3bed9969d750e426e3d4a8abaf43"
-    },
-    {
-      "path": "collateral/video/L3AI_Public_Promo_3min_v1.zh-CN.srt",
-      "bytes": 3338,
-      "sha256": "25b27bff4e4bc9e2a6de4ef3e4c34185333e82435825571304d7a64a5cae9275"
     },
     {
       "path": "collateral/video/L3AI_Public_Promo_Production_Storyboard_v2.md",
@@ -1055,16 +1340,6 @@
       "sha256": "e604ff3e1419f886f18657d26f5bbf453e38b0ae15529d885b4155cf95e06f17"
     },
     {
-      "path": "collateral/video/premium-027/L3AI_Premium_Promo_027_poster.png",
-      "bytes": 498016,
-      "sha256": "e37c4f73b6f73ce38bce3c9d24be26e93314c10dbd23487ffca00bde0d958b3d"
-    },
-    {
-      "path": "collateral/video/premium-027/L3AI_Premium_Promo_027_thumbnail_1200x675.png",
-      "bytes": 354179,
-      "sha256": "3e60fe05a4674bf82993cf32a11ced72470889870690aa26cb837a0eda9121e3"
-    },
-    {
       "path": "collateral/video/premium-027/L3AI_Premium_Promo_027.en.srt",
       "bytes": 1242,
       "sha256": "1edaed4d26bf92a9993b2c26bad3c03cf8167d3122c5b1ce2d058591526797b7"
@@ -1073,6 +1348,16 @@
       "path": "collateral/video/premium-027/L3AI_Premium_Promo_027.zh-CN.srt",
       "bytes": 1083,
       "sha256": "e8948c6e1ceb49127e4e03c3a74645bef683433bcdf4d80d0de98796904f1366"
+    },
+    {
+      "path": "collateral/video/premium-027/L3AI_Premium_Promo_027_poster.png",
+      "bytes": 498016,
+      "sha256": "e37c4f73b6f73ce38bce3c9d24be26e93314c10dbd23487ffca00bde0d958b3d"
+    },
+    {
+      "path": "collateral/video/premium-027/L3AI_Premium_Promo_027_thumbnail_1200x675.png",
+      "bytes": 354179,
+      "sha256": "3e60fe05a4674bf82993cf32a11ced72470889870690aa26cb837a0eda9121e3"
     },
     {
       "path": "collateral/video/premium-027/L3AI_Premium_Promo_3min_027.mp4",
@@ -1221,8 +1506,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 17768,
-      "sha256": "4a8237d2942e8d8b59435e7dd3ba2e7827df11d2044ea947f41c2e4257c9de8e"
+      "bytes": 19612,
+      "sha256": "13a4809f7f4e8fb03546c6401c5239dc10ab0503eef2187c74129045bdc3ea18"
     },
     {
       "path": "marketing/en/documents/core-messaging-l3ai-customer-facing-core-messaging-081.en.html",
@@ -1920,14 +2205,19 @@
       "sha256": "3365136e2e39a0e18be8607f7b4da515cd8a78bf155285885bf0519a11579195"
     },
     {
+      "path": "PUBLIC_ASSET_MANIFEST.json",
+      "bytes": 129828,
+      "sha256": "83df7a53f6e98b886cfbd56a5e8bf22f1f17dc582fcb565288c22ae86dd0ef69"
+    },
+    {
       "path": "README.md",
       "bytes": 480,
       "sha256": "3c994fc17b85baf5b62896e8892a57b4e00c2114fd6c93fdcb1192e9744deb3c"
     },
     {
       "path": "resources.html",
-      "bytes": 30108,
-      "sha256": "5e6fa88cea90528b9d159f0d0f887b539bfc39595331d2fbacb2a8f9553ae3a5"
+      "bytes": 33148,
+      "sha256": "0284c2633fd30e503d2ea38ee015839bb59a556b65b7f8d74c854cab1174f397"
     },
     {
       "path": "roadmap.html",
@@ -1950,6 +2240,11 @@
       "sha256": "8335b43508b511846420e77fd5193272bee9f128ddd8b601df0b577d00cc5e8c"
     },
     {
+      "path": "scripts/build-premium-assets-030.mjs",
+      "bytes": 22091,
+      "sha256": "a30ae0794587718b2ddc3c386183c8db2da5240a2c1bdfb4136e2505c7c94930"
+    },
+    {
       "path": "scripts/build-premium-convert-028.mjs",
       "bytes": 27457,
       "sha256": "053983973c69f24a8bf09e81e2bb278a27bcc23b1346604610cceb4b87f40718"
@@ -1958,6 +2253,11 @@
       "path": "scripts/build-premium-video-027.mjs",
       "bytes": 10743,
       "sha256": "0ee3cf6f40a9f0d9e9115ddcd62179aad4f05d188d050ee681b71db81108e3bc"
+    },
+    {
+      "path": "scripts/capture-premium-assets-030.mjs",
+      "bytes": 6157,
+      "sha256": "5d9ab5aa803a9a0ead7b5e6bf8ecdf88500a52bad8693657b736923fcbe17919"
     },
     {
       "path": "security-trust.html",
@@ -1986,13 +2286,13 @@
     },
     {
       "path": "sitemap.html",
-      "bytes": 10315,
-      "sha256": "810f69de8bc7770c70be51b24a0a4c61c9e0ee3f672ecb80a60efba7a463bcab"
+      "bytes": 10907,
+      "sha256": "a00e49ecefb4ae1e5e6ff8180fae3823ec54fca78358b823d66abcb27c18b828"
     },
     {
       "path": "sitemap.xml",
-      "bytes": 4348,
-      "sha256": "ecfcebc109647da52f84b01bbff811b5ef7c2fda32baede45841c55c2ae11f39"
+      "bytes": 2374,
+      "sha256": "ae6a6648da5d0bd47d41470f385213aca64d7fd5fcb9d3c3fd7e55d36954d22f"
     },
     {
       "path": "video/en/frames/frame-001.png",

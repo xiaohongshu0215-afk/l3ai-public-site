@@ -1,0 +1,55 @@
+{
+  "task_id": "PREMIUM-ASSETS-030",
+  "generated_at": "2026-07-01T21:14:54.768Z",
+  "source": "local public GitHub Pages site package",
+  "flows": [
+    {
+      "id": "homepage-flow",
+      "title": "Homepage product discovery",
+      "page": "index.html",
+      "audience": "Customers and first-time reviewers",
+      "screenshot": "collateral/premium-assets-030/screens/homepage-flow-desktop.png",
+      "raw_recording": "collateral/premium-assets-030/recordings/raw-webm/homepage-flow.webm"
+    },
+    {
+      "id": "ai-quant-workflow",
+      "title": "AI Quant workflow",
+      "page": "ai-quant-workflow.html",
+      "audience": "Product reviewers",
+      "screenshot": "collateral/premium-assets-030/screens/ai-quant-workflow-desktop.png",
+      "raw_recording": "collateral/premium-assets-030/recordings/raw-webm/ai-quant-workflow.webm"
+    },
+    {
+      "id": "wallet-experience",
+      "title": "Wallet-aware education flow",
+      "page": "wallet-experience.html",
+      "audience": "Trust and wallet-experience reviewers",
+      "screenshot": "collateral/premium-assets-030/screens/wallet-experience-desktop.png",
+      "raw_recording": "collateral/premium-assets-030/recordings/raw-webm/wallet-experience.webm"
+    },
+    {
+      "id": "business-model",
+      "title": "Business model walkthrough",
+      "page": "business-model.html",
+      "audience": "Commercial and partner reviewers",
+      "screenshot": "collateral/premium-assets-030/screens/business-model-desktop.png",
+      "raw_recording": "collateral/premium-assets-030/recordings/raw-webm/business-model.webm"
+    },
+    {
+      "id": "resources-flow",
+      "title": "Resources and downloads flow",
+      "page": "resources.html",
+      "audience": "Customers, media, launch operators",
+      "screenshot": "collateral/premium-assets-030/screens/resources-flow-desktop.png",
+      "raw_recording": "collateral/premium-assets-030/recordings/raw-webm/resources-flow.webm"
+    },
+    {
+      "id": "contact-flow",
+      "title": "Contact and partner review flow",
+      "page": "contact-partner.html",
+      "audience": "Qualified partners and operators",
+      "screenshot": "collateral/premium-assets-030/screens/contact-flow-desktop.png",
+      "raw_recording": "collateral/premium-assets-030/recordings/raw-webm/contact-flow.webm"
+    }
+  ]
+}
