@@ -1,0 +1,20 @@
+{
+  "asset_id": "L3AI-PUBLIC-PROMO-3MIN-V1",
+  "title": "L3AI Public Promo 3-Minute Video Package",
+  "duration_seconds": 180,
+  "rendered_mp4": true,
+  "files": [
+    "collateral/video/L3AI_Public_Promo_3min_v1.mp4",
+    "collateral/video/L3AI_Public_Promo_3min_v1.en.srt",
+    "collateral/video/L3AI_Public_Promo_3min_v1.zh-CN.srt",
+    "collateral/video/L3AI_Public_Promo_3min_v1_script.en.md",
+    "collateral/video/L3AI_Public_Promo_3min_v1_script.zh-CN.md",
+    "collateral/video/L3AI_Public_Promo_3min_v1_storyboard.md"
+  ],
+  "restrictions": [
+    "educational only",
+    "no guaranteed outcomes",
+    "no investment advice",
+    "no private data"
+  ]
+}

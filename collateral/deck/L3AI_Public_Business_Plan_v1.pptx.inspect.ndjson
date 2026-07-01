@@ -1,0 +1,453 @@
+{"kind":"deck","id":"pr/tc7auq","name":"Deck"}
+{"kind":"layout","layoutId":"13c88549-8d77-40af-b08d-e33a143aff3f","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"fe714e11-9fbd-4568-83d7-aac60bb54f73","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/v7yr0d","slide":1,"title":"L3AI PUBLIC BUSINESS PLAN · 01","textShapes":9}
+{"kind":"shape","id":"sh/al87ed8b","slide":1,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/hcrmhk3q","slide":1,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/orytsvu9","slide":1,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/zupwb2hw","slide":1,"name":"eyebrow","text":"L3AI PUBLIC BUSINESS PLAN · 01","textPreview":"L3AI PUBLIC BUSINESS PLAN · 01","textChars":30,"textLines":1,"bbox":[56,35,500,26]}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":1,"name":"title","text":"L3AI Public Business Plan","textPreview":"L3AI Public Business Plan","textChars":25,"textLines":1,"bbox":[56,118,850,110]}
+{"kind":"textbox","id":"sh/h0fepkzu","slide":1,"name":"subtitle","text":"AI-native financial intelligence for Web3 education and risk-aware navigation","textPreview":"AI-native financial intelligence for Web3 education and risk-aware navigation","textChars":77,"textLines":1,"bbox":[58,235,790,70]}
+{"kind":"shape","id":"sh/sfil0rqd","slide":1,"name":"bullet-panel-1","bbox":[58,340,360,120]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":1,"name":"bullet-text-1","text":"Public collateral v1.0","textPreview":"Public collateral v1.0","textChars":22,"textLines":1,"bbox":[80,361,316,86]}
+{"kind":"shape","id":"sh/65wjudg7","slide":1,"name":"bullet-panel-2","bbox":[436,340,360,120]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":1,"name":"bullet-text-2","text":"Bilingual launch package","textPreview":"Bilingual launch package","textChars":24,"textLines":1,"bbox":[458,361,316,86]}
+{"kind":"shape","id":"sh/5o7qpg3e","slide":1,"name":"bullet-panel-3","bbox":[814,340,360,120]}
+{"kind":"textbox","id":"sh/yxobm58z","slide":1,"name":"bullet-text-3","text":"No investment advice","textPreview":"No investment advice","textChars":20,"textLines":1,"bbox":[836,361,316,86]}
+{"kind":"textbox","id":"sh/nih4byhg","slide":1,"name":"l3-mark","text":"L3","textPreview":"L3","textChars":2,"textLines":1,"bbox":[1065,532,88,48]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":1,"name":"footer-left","text":"Source-backed · Review-gated · Public-safe","textPreview":"Source-backed · Review-gated · Public-safe","textChars":42,"textLines":1,"bbox":[56,675,520,22]}
+{"kind":"textbox","id":"sh/9cvixcze","slide":1,"name":"footer-right","text":"01 / 24","textPreview":"01 / 24","textChars":7,"textLines":1,"bbox":[1110,675,110,22]}
+{"kind":"notes","id":"nt/v7yr0d","slide":1,"text":"Slide 1: L3AI Public Business Plan\nMessage: AI-native financial intelligence for Web3 education and risk-aware navigation\nTalking points: Public collateral v1.0; Bilingual launch package; No investment advice. Keep the narration educational and avoid claims about returns, deposits, licensing, partners, or performance unless separately approved."}
+{"kind":"slide","id":"sl/3bh7ib","slide":2,"title":"L3AI PUBLIC BUSINESS PLAN · 02","textShapes":9}
+{"kind":"shape","id":"sh/f6dcbulw","slide":2,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/4r65wjud","slide":2,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/xc3ylc7u","slide":2,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":2,"name":"eyebrow","text":"L3AI PUBLIC BUSINESS PLAN · 02","textPreview":"L3AI PUBLIC BUSINESS PLAN · 02","textChars":30,"textLines":1,"bbox":[56,35,500,26]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":2,"name":"title","text":"Executive Thesis","textPreview":"Executive Thesis","textChars":16,"textLines":1,"bbox":[56,118,850,110]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":2,"name":"subtitle","text":"A clearer context layer for complex Web3 products","textPreview":"A clearer context layer for complex Web3 products","textChars":49,"textLines":1,"bbox":[58,235,790,70]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":2,"name":"bullet-panel-1","bbox":[58,340,360,120]}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":2,"name":"bullet-text-1","text":"Users need explanation before action","textPreview":"Users need explanation before action","textChars":36,"textLines":1,"bbox":[80,361,316,86]}
+{"kind":"shape","id":"sh/fil0rqd4","slide":2,"name":"bullet-panel-2","bbox":[436,340,360,120]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":2,"name":"bullet-text-2","text":"Public trust depends on source-backed materials","textPreview":"Public trust depends on source-backed materials","textChars":47,"textLines":1,"bbox":[458,361,316,86]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":2,"name":"bullet-panel-3","bbox":[814,340,360,120]}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":2,"name":"bullet-text-3","text":"L3AI connects education, wallet-aware journeys, and community learning","textPreview":"L3AI connects education, wallet-aware journeys, and community learning","textChars":70,"textLines":1,"bbox":[836,361,316,86]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":2,"name":"l3-mark","text":"L3","textPreview":"L3","textChars":2,"textLines":1,"bbox":[1065,532,88,48]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":2,"name":"footer-left","text":"Source-backed · Review-gated · Public-safe","textPreview":"Source-backed · Review-gated · Public-safe","textChars":42,"textLines":1,"bbox":[56,675,520,22]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":2,"name":"footer-right","text":"02 / 24","textPreview":"02 / 24","textChars":7,"textLines":1,"bbox":[1110,675,110,22]}
+{"kind":"notes","id":"nt/3bh7ib","slide":2,"text":"Slide 2: Executive Thesis\nMessage: A clearer context layer for complex Web3 products\nTalking points: Users need explanation before action; Public trust depends on source-backed materials; L3AI connects education, wallet-aware journeys, and community learning. Keep the narration educational and avoid claims about returns, deposits, licensing, partners, or performance unless separately approved."}
+{"kind":"slide","id":"sl/3p1wig","slide":3,"title":"L3AI PUBLIC BUSINESS PLAN · 03","textShapes":9}
+{"kind":"shape","id":"sh/zidonyd0","slide":3,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/s36hcrmh","slide":3,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/hoza1gvy","slide":3,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/ap4r65wj","slide":3,"name":"eyebrow","text":"L3AI PUBLIC BUSINESS PLAN · 03","textPreview":"L3AI PUBLIC BUSINESS PLAN · 03","textChars":30,"textLines":1,"bbox":[56,35,500,26]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":3,"name":"title","text":"Market Problem","textPreview":"Market Problem","textChars":14,"textLines":1,"bbox":[56,118,850,110]}
+{"kind":"textbox","id":"sh/svu9knih","slide":3,"name":"subtitle","text":"Fragmented signals create avoidable risk","textPreview":"Fragmented signals create avoidable risk","textChars":40,"textLines":1,"bbox":[58,235,790,70]}
+{"kind":"shape","id":"sh/hgn29gr2","slide":3,"name":"bullet-panel-1","bbox":[58,340,360,120]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":3,"name":"bullet-text-1","text":"Market content, wallet states, product modules, and community posts are split across channels","textPreview":"Market content, wallet states, product modules, and community posts are split across channels","textChars":93,"textLines":1,"bbox":[80,361,316,86]}
+{"kind":"shape","id":"sh/3ylc7u54","slide":3,"name":"bullet-panel-2","bbox":[436,340,360,120]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":3,"name":"bullet-text-2","text":"Users face cognitive overload and inconsistent interpretation","textPreview":"Users face cognitive overload and inconsistent interpretation","textChars":61,"textLines":1,"bbox":[458,361,316,86]}
+{"kind":"shape","id":"sh/mp0bi9s3","slide":3,"name":"bullet-panel-3","bbox":[814,340,360,120]}
+{"kind":"textbox","id":"sh/tgfmlkjm","slide":3,"name":"bullet-text-3","text":"Operators need controlled public materials","textPreview":"Operators need controlled public materials","textChars":42,"textLines":1,"bbox":[836,361,316,86]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":3,"name":"l3-mark","text":"L3","textPreview":"L3","textChars":2,"textLines":1,"bbox":[1065,532,88,48]}
+{"kind":"textbox","id":"sh/bm58z25k","slide":3,"name":"footer-left","text":"Source-backed · Review-gated · Public-safe","textPreview":"Source-backed · Review-gated · Public-safe","textChars":42,"textLines":1,"bbox":[56,675,520,22]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":3,"name":"footer-right","text":"03 / 24","textPreview":"03 / 24","textChars":7,"textLines":1,"bbox":[1110,675,110,22]}
+{"kind":"notes","id":"nt/3p1wig","slide":3,"text":"Slide 3: Market Problem\nMessage: Fragmented signals create avoidable risk\nTalking points: Market content, wallet states, product modules, and community posts are split across channels; Users face cognitive overload and inconsistent interpretation; Operators need controlled public materials. Keep the narration educational and avoid claims about returns, deposits, licensing, partners, or performance unless separately approved."}
+{"kind":"slide","id":"sl/zv2o58","slide":4,"title":"L3AI PUBLIC BUSINESS PLAN · 04","textShapes":10}
+{"kind":"shape","id":"sh/wfyxobm5","slide":4,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/7u54zido","slide":4,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/ed8bat47","slide":4,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":4,"name":"eyebrow","text":"L3AI PUBLIC BUSINESS PLAN · 04","textPreview":"L3AI PUBLIC BUSINESS PLAN · 04","textChars":30,"textLines":1,"bbox":[56,35,500,26]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":4,"name":"title","text":"User Pain Points","textPreview":"User Pain Points","textChars":16,"textLines":1,"bbox":[56,118,850,110]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":4,"name":"subtitle","text":"The category needs better translation","textPreview":"The category needs better translation","textChars":37,"textLines":1,"bbox":[58,235,790,70]}
+{"kind":"shape","id":"sh/eloj2t83","slide":4,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":4,"name":"bullet-text-1","text":"Technical language is hard to parse","textPreview":"Technical language is hard to parse","textChars":35,"textLines":1,"bbox":[80,361,496,62]}
+{"kind":"shape","id":"sh/wval87ed","slide":4,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":4,"name":"bullet-text-2","text":"Risk notes appear too late","textPreview":"Risk notes appear too late","textChars":26,"textLines":1,"bbox":[638,361,496,62]}
+{"kind":"shape","id":"sh/z25kb6xk","slide":4,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":4,"name":"bullet-text-3","text":"Community hype can outrun product facts","textPreview":"Community hype can outrun product facts","textChars":39,"textLines":1,"bbox":[80,475,496,62]}
+{"kind":"shape","id":"sh/d8v6psfi","slide":4,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":4,"name":"bullet-text-4","text":"Public resources often become stale","textPreview":"Public resources often become stale","textChars":35,"textLines":1,"bbox":[638,475,496,62]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":4,"name":"l3-mark","text":"L3","textPreview":"L3","textChars":2,"textLines":1,"bbox":[1065,532,88,48]}
+{"kind":"textbox","id":"sh/ovahoza1","slide":4,"name":"footer-left","text":"Source-backed · Review-gated · Public-safe","textPreview":"Source-backed · Review-gated · Public-safe","textChars":42,"textLines":1,"bbox":[56,675,520,22]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":4,"name":"footer-right","text":"04 / 24","textPreview":"04 / 24","textChars":7,"textLines":1,"bbox":[1110,675,110,22]}
+{"kind":"notes","id":"nt/zv2o58","slide":4,"text":"Slide 4: User Pain Points\nMessage: The category needs better translation\nTalking points: Technical language is hard to parse; Risk notes appear too late; Community hype can outrun product facts; Public resources often become stale. Keep the narration educational and avoid claims about returns, deposits, licensing, partners, or performance unless separately approved."}
+{"kind":"slide","id":"sl/xp928t","slide":5,"title":"L3AI PUBLIC BUSINESS PLAN · 05","textShapes":10}
+{"kind":"shape","id":"sh/jm1cfa9w","slide":5,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/c7u54zid","slide":5,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/1orytsvu","slide":5,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":5,"name":"eyebrow","text":"L3AI PUBLIC BUSINESS PLAN · 05","textPreview":"L3AI PUBLIC BUSINESS PLAN · 05","textChars":30,"textLines":1,"bbox":[56,35,500,26]}
+{"kind":"textbox","id":"sh/judg7ads","slide":5,"name":"title","text":"L3AI Positioning","textPreview":"L3AI Positioning","textChars":16,"textLines":1,"bbox":[56,118,850,110]}
+{"kind":"textbox","id":"sh/cfa9w3m9","slide":5,"name":"subtitle","text":"AI-native context, not financial prediction","textPreview":"AI-native context, not financial prediction","textChars":43,"textLines":1,"bbox":[58,235,790,70]}
+{"kind":"shape","id":"sh/1032lszq","slide":5,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":5,"name":"bullet-text-1","text":"Explain product and market context","textPreview":"Explain product and market context","textChars":34,"textLines":1,"bbox":[80,361,496,62]}
+{"kind":"shape","id":"sh/nyd0z610","slide":5,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":5,"name":"bullet-text-2","text":"Organize public learning paths","textPreview":"Organize public learning paths","textChars":30,"textLines":1,"bbox":[638,361,496,62]}
+{"kind":"shape","id":"sh/2lszqtcj","slide":5,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":5,"name":"bullet-text-3","text":"Support risk-aware navigation","textPreview":"Support risk-aware navigation","textChars":29,"textLines":1,"bbox":[80,475,496,62]}
+{"kind":"shape","id":"sh/knih4byh","slide":5,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":5,"name":"bullet-text-4","text":"Avoid guaranteed outcomes","textPreview":"Avoid guaranteed outcomes","textChars":25,"textLines":1,"bbox":[638,475,496,62]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":5,"name":"l3-mark","text":"L3","textPreview":"L3","textChars":2,"textLines":1,"bbox":[1065,532,88,48]}
+{"kind":"textbox","id":"sh/d0z61032","slide":5,"name":"footer-left","text":"Source-backed · Review-gated · Public-safe","textPreview":"Source-backed · Review-gated · Public-safe","textChars":42,"textLines":1,"bbox":[56,675,520,22]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":5,"name":"footer-right","text":"05 / 24","textPreview":"05 / 24","textChars":7,"textLines":1,"bbox":[1110,675,110,22]}
+{"kind":"notes","id":"nt/xp928t","slide":5,"text":"Slide 5: L3AI Positioning\nMessage: AI-native context, not financial prediction\nTalking points: Explain product and market context; Organize public learning paths; Support risk-aware navigation; Avoid guaranteed outcomes. Keep the narration educational and avoid claims about returns, deposits, licensing, partners, or performance unless separately approved."}
+{"kind":"slide","id":"sl/qcncv7","slide":6,"title":"L3AI PUBLIC BUSINESS PLAN · 06","textShapes":10}
+{"kind":"shape","id":"sh/qtcj6tov","slide":6,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/1gvy90je","slide":6,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/8z25kb6x","slide":6,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":6,"name":"eyebrow","text":"L3AI PUBLIC BUSINESS PLAN · 06","textPreview":"L3AI PUBLIC BUSINESS PLAN · 06","textChars":30,"textLines":1,"bbox":[56,35,500,26]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":6,"name":"title","text":"Product Modules","textPreview":"Product Modules","textChars":15,"textLines":1,"bbox":[56,118,850,110]}
+{"kind":"textbox","id":"sh/xs72x4na","slide":6,"name":"subtitle","text":"Four user-facing layers","textPreview":"Four user-facing layers","textChars":23,"textLines":1,"bbox":[58,235,790,70]}
+{"kind":"shape","id":"sh/87ed8bat","slide":6,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":6,"name":"bullet-text-1","text":"AI market context","textPreview":"AI market context","textChars":17,"textLines":1,"bbox":[80,361,496,62]}
+{"kind":"shape","id":"sh/qd4vmtwr","slide":6,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/sfil0rqd","slide":6,"name":"bullet-text-2","text":"Wallet-aware product education","textPreview":"Wallet-aware product education","textChars":30,"textLines":1,"bbox":[638,361,496,62]}
+{"kind":"shape","id":"sh/h0fepkzu","slide":6,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":6,"name":"bullet-text-3","text":"Plain-language onboarding","textPreview":"Plain-language onboarding","textChars":25,"textLines":1,"bbox":[80,475,496,62]}
+{"kind":"shape","id":"sh/zupwb2hw","slide":6,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/orytsvu9","slide":6,"name":"bullet-text-4","text":"Community and ecosystem learning","textPreview":"Community and ecosystem learning","textChars":32,"textLines":1,"bbox":[638,475,496,62]}
+{"kind":"textbox","id":"sh/hcrmhk3q","slide":6,"name":"l3-mark","text":"L3","textPreview":"L3","textChars":2,"textLines":1,"bbox":[1065,532,88,48]}
+{"kind":"textbox","id":"sh/al87ed8b","slide":6,"name":"footer-left","text":"Source-backed · Review-gated · Public-safe","textPreview":"Source-backed · Review-gated · Public-safe","textChars":42,"textLines":1,"bbox":[56,675,520,22]}
+{"kind":"textbox","id":"sh/z61032ls","slide":6,"name":"footer-right","text":"06 / 24","textPreview":"06 / 24","textChars":7,"textLines":1,"bbox":[1110,675,110,22]}
+{"kind":"notes","id":"nt/qcncv7","slide":6,"text":"Slide 6: Product Modules\nMessage: Four user-facing layers\nTalking points: AI market context; Wallet-aware product education; Plain-language onboarding; Community and ecosystem learning. Keep the narration educational and avoid claims about returns, deposits, licensing, partners, or performance unless separately approved."}
+{"kind":"slide","id":"sl/8cbvud","slide":7,"title":"L3AI PUBLIC BUSINESS PLAN · 07","textShapes":10}
+{"kind":"shape","id":"sh/65wjudg7","slide":7,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/hwfyxobm","slide":7,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/obm58z25","slide":7,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":7,"name":"eyebrow","text":"L3AI PUBLIC BUSINESS PLAN · 07","textPreview":"L3AI PUBLIC BUSINESS PLAN · 07","textChars":30,"textLines":1,"bbox":[56,35,500,26]}
+{"kind":"textbox","id":"sh/6xkf6dcb","slide":7,"name":"title","text":"AI Capability","textPreview":"AI Capability","textChars":13,"textLines":1,"bbox":[56,118,850,110]}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":7,"name":"subtitle","text":"Structured explanation engine","textPreview":"Structured explanation engine","textChars":29,"textLines":1,"bbox":[58,235,790,70]}
+{"kind":"shape","id":"sh/oza1gvy9","slide":7,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/z61032ls","slide":7,"name":"bullet-text-1","text":"Summaries and FAQs","textPreview":"Summaries and FAQs","textChars":18,"textLines":1,"bbox":[80,361,496,62]}
+{"kind":"shape","id":"sh/al87ed8b","slide":7,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":7,"name":"bullet-text-2","text":"Risk-aware prompts","textPreview":"Risk-aware prompts","textChars":18,"textLines":1,"bbox":[638,361,496,62]}
+{"kind":"shape","id":"sh/donyd0z6","slide":7,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":7,"name":"bullet-text-3","text":"Bilingual public copy","textPreview":"Bilingual public copy","textChars":21,"textLines":1,"bbox":[80,475,496,62]}
+{"kind":"shape","id":"sh/vixczed8","slide":7,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":7,"name":"bullet-text-4","text":"Versioned resource manifests","textPreview":"Versioned resource manifests","textChars":28,"textLines":1,"bbox":[638,475,496,62]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":7,"name":"l3-mark","text":"L3","textPreview":"L3","textChars":2,"textLines":1,"bbox":[1065,532,88,48]}
+{"kind":"textbox","id":"sh/6psfil0r","slide":7,"name":"footer-left","text":"Source-backed · Review-gated · Public-safe","textPreview":"Source-backed · Review-gated · Public-safe","textChars":42,"textLines":1,"bbox":[56,675,520,22]}
+{"kind":"textbox","id":"sh/val87ed8","slide":7,"name":"footer-right","text":"07 / 24","textPreview":"07 / 24","textChars":7,"textLines":1,"bbox":[1110,675,110,22]}
+{"kind":"notes","id":"nt/8cbvud","slide":7,"text":"Slide 7: AI Capability\nMessage: Structured explanation engine\nTalking points: Summaries and FAQs; Risk-aware prompts; Bilingual public copy; Versioned resource manifests. Keep the narration educational and avoid claims about returns, deposits, licensing, partners, or performance unless separately approved."}
+{"kind":"slide","id":"sl/4aa97z","slide":8,"title":"L3AI PUBLIC BUSINESS PLAN · 08","textShapes":9}
+{"kind":"shape","id":"sh/ulwval87","slide":8,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/1cfa9w3m","slide":8,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/crmhk3q5","slide":8,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":8,"name":"eyebrow","text":"L3AI PUBLIC BUSINESS PLAN · 08","textPreview":"L3AI PUBLIC BUSINESS PLAN · 08","textChars":30,"textLines":1,"bbox":[56,35,500,26]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":8,"name":"title","text":"Wallet-Aware Experience","textPreview":"Wallet-Aware Experience","textChars":23,"textLines":1,"bbox":[56,118,850,110]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":8,"name":"subtitle","text":"Helpful context without private exposure","textPreview":"Helpful context without private exposure","textChars":40,"textLines":1,"bbox":[58,235,790,70]}
+{"kind":"shape","id":"sh/c3ylc7u5","slide":8,"name":"bullet-panel-1","bbox":[58,340,360,120]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":8,"name":"bullet-text-1","text":"Conceptual wallet journeys","textPreview":"Conceptual wallet journeys","textChars":26,"textLines":1,"bbox":[80,361,316,86]}
+{"kind":"shape","id":"sh/q5o7qpg3","slide":8,"name":"bullet-panel-2","bbox":[436,340,360,120]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":8,"name":"bullet-text-2","text":"No private wallet data in public assets","textPreview":"No private wallet data in public assets","textChars":39,"textLines":1,"bbox":[458,361,316,86]}
+{"kind":"shape","id":"sh/9knih4by","slide":8,"name":"bullet-panel-3","bbox":[814,340,360,120]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":8,"name":"bullet-text-3","text":"No instant-withdrawal or performance claims","textPreview":"No instant-withdrawal or performance claims","textChars":43,"textLines":1,"bbox":[836,361,316,86]}
+{"kind":"textbox","id":"sh/re1w7mp0","slide":8,"name":"l3-mark","text":"L3","textPreview":"L3","textChars":2,"textLines":1,"bbox":[1065,532,88,48]}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":8,"name":"footer-left","text":"Source-backed · Review-gated · Public-safe","textPreview":"Source-backed · Review-gated · Public-safe","textChars":42,"textLines":1,"bbox":[56,675,520,22]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":8,"name":"footer-right","text":"08 / 24","textPreview":"08 / 24","textChars":7,"textLines":1,"bbox":[1110,675,110,22]}
+{"kind":"notes","id":"nt/4aa97z","slide":8,"text":"Slide 8: Wallet-Aware Experience\nMessage: Helpful context without private exposure\nTalking points: Conceptual wallet journeys; No private wallet data in public assets; No instant-withdrawal or performance claims. Keep the narration educational and avoid claims about returns, deposits, licensing, partners, or performance unless separately approved."}
+{"kind":"slide","id":"sl/u7eab0","slide":9,"title":"L3AI PUBLIC BUSINESS PLAN · 09","textShapes":10}
+{"kind":"shape","id":"sh/idonyd0z","slide":9,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/t47y1kre","slide":9,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/0je9cvix","slide":9,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/b6xkf6dc","slide":9,"name":"eyebrow","text":"L3AI PUBLIC BUSINESS PLAN · 09","textPreview":"L3AI PUBLIC BUSINESS PLAN · 09","textChars":30,"textLines":1,"bbox":[56,35,500,26]}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":9,"name":"title","text":"Trust And Safety","textPreview":"Trust And Safety","textChars":16,"textLines":1,"bbox":[56,118,850,110]}
+{"kind":"textbox","id":"sh/tcj6tova","slide":9,"name":"subtitle","text":"Review-gated public communication","textPreview":"Review-gated public communication","textChars":33,"textLines":1,"bbox":[58,235,790,70]}
+{"kind":"shape","id":"sh/0rqd4vmt","slide":9,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":9,"name":"bullet-text-1","text":"No secrets or local paths","textPreview":"No secrets or local paths","textChars":25,"textLines":1,"bbox":[80,361,496,62]}
+{"kind":"shape","id":"sh/ixczed8v","slide":9,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":9,"name":"bullet-text-2","text":"No invented partners or metrics","textPreview":"No invented partners or metrics","textChars":31,"textLines":1,"bbox":[638,361,496,62]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":9,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":9,"name":"bullet-text-3","text":"No fake balances or screenshots","textPreview":"No fake balances or screenshots","textChars":31,"textLines":1,"bbox":[80,475,496,62]}
+{"kind":"shape","id":"sh/3m94fu18","slide":9,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/sji5snel","slide":9,"name":"bullet-text-4","text":"No guaranteed returns","textPreview":"No guaranteed returns","textChars":21,"textLines":1,"bbox":[638,475,496,62]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":9,"name":"l3-mark","text":"L3","textPreview":"L3","textChars":2,"textLines":1,"bbox":[1065,532,88,48]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":9,"name":"footer-left","text":"Source-backed · Review-gated · Public-safe","textPreview":"Source-backed · Review-gated · Public-safe","textChars":42,"textLines":1,"bbox":[56,675,520,22]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":9,"name":"footer-right","text":"09 / 24","textPreview":"09 / 24","textChars":7,"textLines":1,"bbox":[1110,675,110,22]}
+{"kind":"notes","id":"nt/u7eab0","slide":9,"text":"Slide 9: Trust And Safety\nMessage: Review-gated public communication\nTalking points: No secrets or local paths; No invented partners or metrics; No fake balances or screenshots; No guaranteed returns. Keep the narration educational and avoid claims about returns, deposits, licensing, partners, or performance unless separately approved."}
+{"kind":"slide","id":"sl/1otb54","slide":10,"title":"L3AI PUBLIC BUSINESS PLAN · 10","textShapes":10}
+{"kind":"shape","id":"sh/za1gvy90","slide":10,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/svu9knih","slide":10,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/hgn29gr2","slide":10,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":10,"name":"eyebrow","text":"L3AI PUBLIC BUSINESS PLAN · 10","textPreview":"L3AI PUBLIC BUSINESS PLAN · 10","textChars":30,"textLines":1,"bbox":[56,35,500,26]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":10,"name":"title","text":"Commercial Framework","textPreview":"Commercial Framework","textChars":20,"textLines":1,"bbox":[56,118,850,110]}
+{"kind":"textbox","id":"sh/s36hcrmh","slide":10,"name":"subtitle","text":"Conservative monetization paths","textPreview":"Conservative monetization paths","textChars":31,"textLines":1,"bbox":[58,235,790,70]}
+{"kind":"shape","id":"sh/hoza1gvy","slide":10,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":10,"name":"bullet-text-1","text":"Education-led platform access","textPreview":"Education-led platform access","textChars":29,"textLines":1,"bbox":[80,361,496,62]}
+{"kind":"shape","id":"sh/3m94fu18","slide":10,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":10,"name":"bullet-text-2","text":"Partner-safe content systems","textPreview":"Partner-safe content systems","textChars":28,"textLines":1,"bbox":[638,361,496,62]}
+{"kind":"shape","id":"sh/a1gvy90j","slide":10,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":10,"name":"bullet-text-3","text":"Enterprise intelligence tooling","textPreview":"Enterprise intelligence tooling","textChars":31,"textLines":1,"bbox":[80,475,496,62]}
+{"kind":"shape","id":"sh/s36hcrmh","slide":10,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":10,"name":"bullet-text-4","text":"Any offer requires separate approval","textPreview":"Any offer requires separate approval","textChars":36,"textLines":1,"bbox":[638,475,496,62]}
+{"kind":"textbox","id":"sh/ap4r65wj","slide":10,"name":"l3-mark","text":"L3","textPreview":"L3","textChars":2,"textLines":1,"bbox":[1065,532,88,48]}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":10,"name":"footer-left","text":"Source-backed · Review-gated · Public-safe","textPreview":"Source-backed · Review-gated · Public-safe","textChars":42,"textLines":1,"bbox":[56,675,520,22]}
+{"kind":"textbox","id":"sh/svu9knih","slide":10,"name":"footer-right","text":"10 / 24","textPreview":"10 / 24","textChars":7,"textLines":1,"bbox":[1110,675,110,22]}
+{"kind":"notes","id":"nt/1otb54","slide":10,"text":"Slide 10: Commercial Framework\nMessage: Conservative monetization paths\nTalking points: Education-led platform access; Partner-safe content systems; Enterprise intelligence tooling; Any offer requires separate approval. Keep the narration educational and avoid claims about returns, deposits, licensing, partners, or performance unless separately approved."}
+{"kind":"slide","id":"sl/kd235s","slide":11,"title":"L3AI PUBLIC BUSINESS PLAN · 11","textShapes":10}
+{"kind":"shape","id":"sh/ih4byhgn","slide":11,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/p8nqxs72","slide":11,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/0nuxc3yl","slide":11,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/7ed8bat4","slide":11,"name":"eyebrow","text":"L3AI PUBLIC BUSINESS PLAN · 11","textPreview":"L3AI PUBLIC BUSINESS PLAN · 11","textChars":30,"textLines":1,"bbox":[56,35,500,26]}
+{"kind":"textbox","id":"sh/itgfmlkj","slide":11,"name":"title","text":"Go-To-Market","textPreview":"Go-To-Market","textChars":12,"textLines":1,"bbox":[56,118,850,110]}
+{"kind":"textbox","id":"sh/pkzupwb2","slide":11,"name":"subtitle","text":"Content-led launch motion","textPreview":"Content-led launch motion","textChars":25,"textLines":1,"bbox":[58,235,790,70]}
+{"kind":"shape","id":"sh/0z61032l","slide":11,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":11,"name":"bullet-text-1","text":"Website resource center","textPreview":"Website resource center","textChars":23,"textLines":1,"bbox":[80,361,496,62]}
+{"kind":"shape","id":"sh/i5sneloj","slide":11,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/0nuxc3yl","slide":11,"name":"bullet-text-2","text":"Whitepaper and BP deck","textPreview":"Whitepaper and BP deck","textChars":22,"textLines":1,"bbox":[638,361,496,62]}
+{"kind":"shape","id":"sh/p8nqxs72","slide":11,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/ih4byhgn","slide":11,"name":"bullet-text-3","text":"Long-form promo video","textPreview":"Long-form promo video","textChars":21,"textLines":1,"bbox":[80,475,496,62]}
+{"kind":"shape","id":"sh/72x4nap4","slide":11,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/0z61032l","slide":11,"name":"bullet-text-4","text":"Social payloads and media kit","textPreview":"Social payloads and media kit","textChars":29,"textLines":1,"bbox":[638,475,496,62]}
+{"kind":"textbox","id":"sh/pkzupwb2","slide":11,"name":"l3-mark","text":"L3","textPreview":"L3","textChars":2,"textLines":1,"bbox":[1065,532,88,48]}
+{"kind":"textbox","id":"sh/itgfmlkj","slide":11,"name":"footer-left","text":"Source-backed · Review-gated · Public-safe","textPreview":"Source-backed · Review-gated · Public-safe","textChars":42,"textLines":1,"bbox":[56,675,520,22]}
+{"kind":"textbox","id":"sh/7ed8bat4","slide":11,"name":"footer-right","text":"11 / 24","textPreview":"11 / 24","textChars":7,"textLines":1,"bbox":[1110,675,110,22]}
+{"kind":"notes","id":"nt/kd235s","slide":11,"text":"Slide 11: Go-To-Market\nMessage: Content-led launch motion\nTalking points: Website resource center; Whitepaper and BP deck; Long-form promo video; Social payloads and media kit. Keep the narration educational and avoid claims about returns, deposits, licensing, partners, or performance unless separately approved."}
+{"kind":"slide","id":"sl/wl8wg0","slide":12,"title":"L3AI PUBLIC BUSINESS PLAN · 12","textShapes":10}
+{"kind":"shape","id":"sh/54zidony","slide":12,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/udg7adsj","slide":12,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/nyd0z610","slide":12,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/cvixczed","slide":12,"name":"eyebrow","text":"L3AI PUBLIC BUSINESS PLAN · 12","textPreview":"L3AI PUBLIC BUSINESS PLAN · 12","textChars":30,"textLines":1,"bbox":[56,35,500,26]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":12,"name":"title","text":"Community Strategy","textPreview":"Community Strategy","textChars":18,"textLines":1,"bbox":[56,118,850,110]}
+{"kind":"textbox","id":"sh/upwb2hwf","slide":12,"name":"subtitle","text":"Learning before hype","textPreview":"Learning before hype","textChars":20,"textLines":1,"bbox":[58,235,790,70]}
+{"kind":"shape","id":"sh/nap4r65w","slide":12,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/c7u54zid","slide":12,"name":"bullet-text-1","text":"Moderated information flows","textPreview":"Moderated information flows","textChars":27,"textLines":1,"bbox":[80,361,496,62]}
+{"kind":"shape","id":"sh/1orytsvu","slide":12,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":12,"name":"bullet-text-2","text":"FAQ routing","textPreview":"FAQ routing","textChars":11,"textLines":1,"bbox":[638,361,496,62]}
+{"kind":"shape","id":"sh/wfyxobm5","slide":12,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/7u54zido","slide":12,"name":"bullet-text-3","text":"Approved announcements","textPreview":"Approved announcements","textChars":22,"textLines":1,"bbox":[80,475,496,62]}
+{"kind":"shape","id":"sh/ed8bat47","slide":12,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":12,"name":"bullet-text-4","text":"Channel-owner sign-off","textPreview":"Channel-owner sign-off","textChars":22,"textLines":1,"bbox":[638,475,496,62]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":12,"name":"l3-mark","text":"L3","textPreview":"L3","textChars":2,"textLines":1,"bbox":[1065,532,88,48]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":12,"name":"footer-left","text":"Source-backed · Review-gated · Public-safe","textPreview":"Source-backed · Review-gated · Public-safe","textChars":42,"textLines":1,"bbox":[56,675,520,22]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":12,"name":"footer-right","text":"12 / 24","textPreview":"12 / 24","textChars":7,"textLines":1,"bbox":[1110,675,110,22]}
+{"kind":"notes","id":"nt/wl8wg0","slide":12,"text":"Slide 12: Community Strategy\nMessage: Learning before hype\nTalking points: Moderated information flows; FAQ routing; Approved announcements; Channel-owner sign-off. Keep the narration educational and avoid claims about returns, deposits, licensing, partners, or performance unless separately approved."}
+{"kind":"slide","id":"sl/j6t4k4","slide":13,"title":"L3AI PUBLIC BUSINESS PLAN · 13","textShapes":10}
+{"kind":"shape","id":"sh/bq1oryts","slide":13,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/4byhgn29","slide":13,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/twra5gbq","slide":13,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":13,"name":"eyebrow","text":"L3AI PUBLIC BUSINESS PLAN · 13","textPreview":"L3AI PUBLIC BUSINESS PLAN · 13","textChars":30,"textLines":1,"bbox":[56,35,500,26]}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":13,"name":"title","text":"Operations Model","textPreview":"Operations Model","textChars":16,"textLines":1,"bbox":[56,118,850,110]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":13,"name":"subtitle","text":"Versioned public asset control","textPreview":"Versioned public asset control","textChars":30,"textLines":1,"bbox":[58,235,790,70]}
+{"kind":"shape","id":"sh/t83itgfm","slide":13,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/mp0bi9s3","slide":13,"name":"bullet-text-1","text":"Prepare assets","textPreview":"Prepare assets","textChars":14,"textLines":1,"bbox":[80,361,496,62]}
+{"kind":"shape","id":"sh/bat47y1k","slide":13,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":13,"name":"bullet-text-2","text":"Validate links and checksums","textPreview":"Validate links and checksums","textChars":28,"textLines":1,"bbox":[638,361,496,62]}
+{"kind":"shape","id":"sh/uxc3ylc7","slide":13,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":13,"name":"bullet-text-3","text":"Publish through approved channels","textPreview":"Publish through approved channels","textChars":33,"textLines":1,"bbox":[80,475,496,62]}
+{"kind":"shape","id":"sh/c3ylc7u5","slide":13,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":13,"name":"bullet-text-4","text":"Maintain rollback path","textPreview":"Maintain rollback path","textChars":22,"textLines":1,"bbox":[638,475,496,62]}
+{"kind":"textbox","id":"sh/ulwval87","slide":13,"name":"l3-mark","text":"L3","textPreview":"L3","textChars":2,"textLines":1,"bbox":[1065,532,88,48]}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":13,"name":"footer-left","text":"Source-backed · Review-gated · Public-safe","textPreview":"Source-backed · Review-gated · Public-safe","textChars":42,"textLines":1,"bbox":[56,675,520,22]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":13,"name":"footer-right","text":"13 / 24","textPreview":"13 / 24","textChars":7,"textLines":1,"bbox":[1110,675,110,22]}
+{"kind":"notes","id":"nt/j6t4k4","slide":13,"text":"Slide 13: Operations Model\nMessage: Versioned public asset control\nTalking points: Prepare assets; Validate links and checksums; Publish through approved channels; Maintain rollback path. Keep the narration educational and avoid claims about returns, deposits, licensing, partners, or performance unless separately approved."}
+{"kind":"slide","id":"sl/fcx8nj","slide":14,"title":"L3AI PUBLIC BUSINESS PLAN · 14","textShapes":10}
+{"kind":"shape","id":"sh/nyd0z610","slide":14,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/cj6tovah","slide":14,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/54zidony","slide":14,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/upwb2hwf","slide":14,"name":"eyebrow","text":"L3AI PUBLIC BUSINESS PLAN · 14","textPreview":"L3AI PUBLIC BUSINESS PLAN · 14","textChars":30,"textLines":1,"bbox":[56,35,500,26]}
+{"kind":"textbox","id":"sh/nap4r65w","slide":14,"name":"title","text":"Launch Assets","textPreview":"Launch Assets","textChars":13,"textLines":1,"bbox":[56,118,850,110]}
+{"kind":"textbox","id":"sh/cvixczed","slide":14,"name":"subtitle","text":"The public package is now resource-ready","textPreview":"The public package is now resource-ready","textChars":40,"textLines":1,"bbox":[58,235,790,70]}
+{"kind":"shape","id":"sh/5gbq1ory","slide":14,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/u18jqh0f","slide":14,"name":"bullet-text-1","text":"Whitepaper HTML/PDF","textPreview":"Whitepaper HTML/PDF","textChars":19,"textLines":1,"bbox":[80,361,496,62]}
+{"kind":"shape","id":"sh/jm1cfa9w","slide":14,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/b6xkf6dc","slide":14,"name":"bullet-text-2","text":"Business plan PPTX/PDF","textPreview":"Business plan PPTX/PDF","textChars":22,"textLines":1,"bbox":[638,361,496,62]}
+{"kind":"shape","id":"sh/il0rqd4v","slide":14,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/tcj6tova","slide":14,"name":"bullet-text-3","text":"3-minute promo video","textPreview":"3-minute promo video","textChars":20,"textLines":1,"bbox":[80,475,496,62]}
+{"kind":"shape","id":"sh/0rqd4vmt","slide":14,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/byhgn29g","slide":14,"name":"bullet-text-4","text":"Script, subtitles, storyboard, manifest","textPreview":"Script, subtitles, storyboard, manifest","textChars":39,"textLines":1,"bbox":[638,475,496,62]}
+{"kind":"textbox","id":"sh/idonyd0z","slide":14,"name":"l3-mark","text":"L3","textPreview":"L3","textChars":2,"textLines":1,"bbox":[1065,532,88,48]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":14,"name":"footer-left","text":"Source-backed · Review-gated · Public-safe","textPreview":"Source-backed · Review-gated · Public-safe","textChars":42,"textLines":1,"bbox":[56,675,520,22]}
+{"kind":"textbox","id":"sh/0je9cvix","slide":14,"name":"footer-right","text":"14 / 24","textPreview":"14 / 24","textChars":7,"textLines":1,"bbox":[1110,675,110,22]}
+{"kind":"notes","id":"nt/fcx8nj","slide":14,"text":"Slide 14: Launch Assets\nMessage: The public package is now resource-ready\nTalking points: Whitepaper HTML/PDF; Business plan PPTX/PDF; 3-minute promo video; Script, subtitles, storyboard, manifest. Keep the narration educational and avoid claims about returns, deposits, licensing, partners, or performance unless separately approved."}
+{"kind":"slide","id":"sl/euh21v","slide":15,"title":"L3AI PUBLIC BUSINESS PLAN · 15","textShapes":11}
+{"kind":"shape","id":"sh/r2p8nqxs","slide":15,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/kjm1cfa9","slide":15,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/94fu18jq","slide":15,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":15,"name":"eyebrow","text":"L3AI PUBLIC BUSINESS PLAN · 15","textPreview":"L3AI PUBLIC BUSINESS PLAN · 15","textChars":30,"textLines":1,"bbox":[56,35,500,26]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":15,"name":"title","text":"Roadmap","textPreview":"Roadmap","textChars":7,"textLines":1,"bbox":[56,118,850,110]}
+{"kind":"textbox","id":"sh/gvy90je9","slide":15,"name":"subtitle","text":"Phased public readiness","textPreview":"Phased public readiness","textChars":23,"textLines":1,"bbox":[58,235,790,70]}
+{"kind":"shape","id":"sh/9gr2p8nq","slide":15,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":15,"name":"bullet-text-1","text":"Foundation materials","textPreview":"Foundation materials","textChars":20,"textLines":1,"bbox":[80,361,496,62]}
+{"kind":"shape","id":"sh/re1w7mp0","slide":15,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/bulwval8","slide":15,"name":"bullet-text-2","text":"Website and FAQ","textPreview":"Website and FAQ","textChars":15,"textLines":1,"bbox":[638,361,496,62]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":15,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":15,"name":"bullet-text-3","text":"Community learning","textPreview":"Community learning","textChars":18,"textLines":1,"bbox":[80,475,496,62]}
+{"kind":"shape","id":"sh/0fepkzup","slide":15,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":15,"name":"bullet-text-4","text":"Product education depth","textPreview":"Product education depth","textChars":23,"textLines":1,"bbox":[638,475,496,62]}
+{"kind":"shape","id":"sh/ixczed8v","slide":15,"name":"bullet-panel-5","bbox":[58,568,540,96]}
+{"kind":"textbox","id":"sh/tovahoza","slide":15,"name":"bullet-text-5","text":"Partner-safe media","textPreview":"Partner-safe media","textChars":18,"textLines":1,"bbox":[80,589,496,62]}
+{"kind":"textbox","id":"sh/032lszqt","slide":15,"name":"l3-mark","text":"L3","textPreview":"L3","textChars":2,"textLines":1,"bbox":[1065,532,88,48]}
+{"kind":"textbox","id":"sh/b6xkf6dc","slide":15,"name":"footer-left","text":"Source-backed · Review-gated · Public-safe","textPreview":"Source-backed · Review-gated · Public-safe","textChars":42,"textLines":1,"bbox":[56,675,520,22]}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":15,"name":"footer-right","text":"15 / 24","textPreview":"15 / 24","textChars":7,"textLines":1,"bbox":[1110,675,110,22]}
+{"kind":"notes","id":"nt/euh21v","slide":15,"text":"Slide 15: Roadmap\nMessage: Phased public readiness\nTalking points: Foundation materials; Website and FAQ; Community learning; Product education depth; Partner-safe media. Keep the narration educational and avoid claims about returns, deposits, licensing, partners, or performance unless separately approved."}
+{"kind":"slide","id":"sl/wjxgy3","slide":16,"title":"L3AI PUBLIC BUSINESS PLAN · 16","textShapes":10}
+{"kind":"shape","id":"sh/2hwfyxob","slide":16,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/94fu18jq","slide":16,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/kjm1cfa9","slide":16,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":16,"name":"eyebrow","text":"L3AI PUBLIC BUSINESS PLAN · 16","textPreview":"L3AI PUBLIC BUSINESS PLAN · 16","textChars":30,"textLines":1,"bbox":[56,35,500,26]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":16,"name":"title","text":"Risk Register","textPreview":"Risk Register","textChars":13,"textLines":1,"bbox":[56,118,850,110]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":16,"name":"subtitle","text":"Known public risks and mitigations","textPreview":"Known public risks and mitigations","textChars":34,"textLines":1,"bbox":[58,235,790,70]}
+{"kind":"shape","id":"sh/gvy90je9","slide":16,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/re1w7mp0","slide":16,"name":"bullet-text-1","text":"Misunderstood AI scope -> disclaimers","textPreview":"Misunderstood AI scope -> disclaimers","textChars":37,"textLines":1,"bbox":[80,361,496,62]}
+{"kind":"shape","id":"sh/2t83itgf","slide":16,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":16,"name":"bullet-text-2","text":"Unsupported claims -> review gate","textPreview":"Unsupported claims -> review gate","textChars":33,"textLines":1,"bbox":[638,361,496,62]}
+{"kind":"shape","id":"sh/l87ed8ba","slide":16,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":16,"name":"bullet-text-3","text":"Localization drift -> bilingual QA","textPreview":"Localization drift -> bilingual QA","textChars":34,"textLines":1,"bbox":[80,475,496,62]}
+{"kind":"shape","id":"sh/32lszqtc","slide":16,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/szqtcj6t","slide":16,"name":"bullet-text-4","text":"Stale links -> manifest validation","textPreview":"Stale links -> manifest validation","textChars":34,"textLines":1,"bbox":[638,475,496,62]}
+{"kind":"textbox","id":"sh/lkjm1cfa","slide":16,"name":"l3-mark","text":"L3","textPreview":"L3","textChars":2,"textLines":1,"bbox":[1065,532,88,48]}
+{"kind":"textbox","id":"sh/at47y1kr","slide":16,"name":"footer-left","text":"Source-backed · Review-gated · Public-safe","textPreview":"Source-backed · Review-gated · Public-safe","textChars":42,"textLines":1,"bbox":[56,675,520,22]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":16,"name":"footer-right","text":"16 / 24","textPreview":"16 / 24","textChars":7,"textLines":1,"bbox":[1110,675,110,22]}
+{"kind":"notes","id":"nt/wjxgy3","slide":16,"text":"Slide 16: Risk Register\nMessage: Known public risks and mitigations\nTalking points: Misunderstood AI scope -> disclaimers; Unsupported claims -> review gate; Localization drift -> bilingual QA; Stale links -> manifest validation. Keep the narration educational and avoid claims about returns, deposits, licensing, partners, or performance unless separately approved."}
+{"kind":"slide","id":"sl/05zk3o","slide":17,"title":"L3AI PUBLIC BUSINESS PLAN · 17","textShapes":10}
+{"kind":"shape","id":"sh/032lszqt","slide":17,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":17,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/ixczed8v","slide":17,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":17,"name":"eyebrow","text":"L3AI PUBLIC BUSINESS PLAN · 17","textPreview":"L3AI PUBLIC BUSINESS PLAN · 17","textChars":30,"textLines":1,"bbox":[56,35,500,26]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":17,"name":"title","text":"Compliance Position","textPreview":"Compliance Position","textChars":19,"textLines":1,"bbox":[56,118,850,110]}
+{"kind":"textbox","id":"sh/bulwval8","slide":17,"name":"subtitle","text":"Information and education only","textPreview":"Information and education only","textChars":30,"textLines":1,"bbox":[58,235,790,70]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":17,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":17,"name":"bullet-text-1","text":"Not financial advice","textPreview":"Not financial advice","textChars":20,"textLines":1,"bbox":[80,361,496,62]}
+{"kind":"shape","id":"sh/0je9cvix","slide":17,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":17,"name":"bullet-text-2","text":"No deposit instruction","textPreview":"No deposit instruction","textChars":22,"textLines":1,"bbox":[638,361,496,62]}
+{"kind":"shape","id":"sh/3m94fu18","slide":17,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":17,"name":"bullet-text-3","text":"No investment promise","textPreview":"No investment promise","textChars":21,"textLines":1,"bbox":[80,475,496,62]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":17,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":17,"name":"bullet-text-4","text":"Users verify independently","textPreview":"Users verify independently","textChars":26,"textLines":1,"bbox":[638,475,496,62]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":17,"name":"l3-mark","text":"L3","textPreview":"L3","textChars":2,"textLines":1,"bbox":[1065,532,88,48]}
+{"kind":"textbox","id":"sh/sji5snel","slide":17,"name":"footer-left","text":"Source-backed · Review-gated · Public-safe","textPreview":"Source-backed · Review-gated · Public-safe","textChars":42,"textLines":1,"bbox":[56,675,520,22]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":17,"name":"footer-right","text":"17 / 24","textPreview":"17 / 24","textChars":7,"textLines":1,"bbox":[1110,675,110,22]}
+{"kind":"notes","id":"nt/05zk3o","slide":17,"text":"Slide 17: Compliance Position\nMessage: Information and education only\nTalking points: Not financial advice; No deposit instruction; No investment promise; Users verify independently. Keep the narration educational and avoid claims about returns, deposits, licensing, partners, or performance unless separately approved."}
+{"kind":"slide","id":"sl/a8x9bi","slide":18,"title":"L3AI PUBLIC BUSINESS PLAN · 18","textShapes":10}
+{"kind":"shape","id":"sh/val87ed8","slide":18,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/kre1w7mp","slide":18,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/dcbulwva","slide":18,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":18,"name":"eyebrow","text":"L3AI PUBLIC BUSINESS PLAN · 18","textPreview":"L3AI PUBLIC BUSINESS PLAN · 18","textChars":30,"textLines":1,"bbox":[56,35,500,26]}
+{"kind":"textbox","id":"sh/vixczed8","slide":18,"name":"title","text":"Data And Privacy","textPreview":"Data And Privacy","textChars":16,"textLines":1,"bbox":[56,118,850,110]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":18,"name":"subtitle","text":"Public hygiene as a launch requirement","textPreview":"Public hygiene as a launch requirement","textChars":38,"textLines":1,"bbox":[58,235,790,70]}
+{"kind":"shape","id":"sh/donyd0z6","slide":18,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":18,"name":"bullet-text-1","text":"No production data","textPreview":"No production data","textChars":18,"textLines":1,"bbox":[80,361,496,62]}
+{"kind":"shape","id":"sh/vu9knih4","slide":18,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":18,"name":"bullet-text-2","text":"No admin screenshots","textPreview":"No admin screenshots","textChars":20,"textLines":1,"bbox":[638,361,496,62]}
+{"kind":"shape","id":"sh/adsji5sn","slide":18,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":18,"name":"bullet-text-3","text":"No tokens or local paths","textPreview":"No tokens or local paths","textChars":24,"textLines":1,"bbox":[80,475,496,62]}
+{"kind":"shape","id":"sh/sji5snel","slide":18,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":18,"name":"bullet-text-4","text":"No private repository exposure","textPreview":"No private repository exposure","textChars":30,"textLines":1,"bbox":[638,475,496,62]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":18,"name":"l3-mark","text":"L3","textPreview":"L3","textChars":2,"textLines":1,"bbox":[1065,532,88,48]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":18,"name":"footer-left","text":"Source-backed · Review-gated · Public-safe","textPreview":"Source-backed · Review-gated · Public-safe","textChars":42,"textLines":1,"bbox":[56,675,520,22]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":18,"name":"footer-right","text":"18 / 24","textPreview":"18 / 24","textChars":7,"textLines":1,"bbox":[1110,675,110,22]}
+{"kind":"notes","id":"nt/a8x9bi","slide":18,"text":"Slide 18: Data And Privacy\nMessage: Public hygiene as a launch requirement\nTalking points: No production data; No admin screenshots; No tokens or local paths; No private repository exposure. Keep the narration educational and avoid claims about returns, deposits, licensing, partners, or performance unless separately approved."}
+{"kind":"slide","id":"sl/vvggux","slide":19,"title":"L3AI PUBLIC BUSINESS PLAN · 19","textShapes":10}
+{"kind":"shape","id":"sh/3itgfmlk","slide":19,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/w3m94fu1","slide":19,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/loj2t83i","slide":19,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/e9cvixcz","slide":19,"name":"eyebrow","text":"L3AI PUBLIC BUSINESS PLAN · 19","textPreview":"L3AI PUBLIC BUSINESS PLAN · 19","textChars":30,"textLines":1,"bbox":[56,35,500,26]}
+{"kind":"textbox","id":"sh/3q5o7qpg","slide":19,"name":"title","text":"Competitive Edge","textPreview":"Competitive Edge","textChars":16,"textLines":1,"bbox":[56,118,850,110]}
+{"kind":"textbox","id":"sh/wb2hwfyx","slide":19,"name":"subtitle","text":"Operational discipline as brand trust","textPreview":"Operational discipline as brand trust","textChars":37,"textLines":1,"bbox":[58,235,790,70]}
+{"kind":"shape","id":"sh/lwval87e","slide":19,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":19,"name":"bullet-text-1","text":"Source-backed content","textPreview":"Source-backed content","textChars":21,"textLines":1,"bbox":[80,361,496,62]}
+{"kind":"shape","id":"sh/32lszqtc","slide":19,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":19,"name":"bullet-text-2","text":"Bilingual parity","textPreview":"Bilingual parity","textChars":16,"textLines":1,"bbox":[638,361,496,62]}
+{"kind":"shape","id":"sh/25kb6xkf","slide":19,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":19,"name":"bullet-text-3","text":"Public manifest discipline","textPreview":"Public manifest discipline","textChars":26,"textLines":1,"bbox":[80,475,496,62]}
+{"kind":"shape","id":"sh/kb6xkf6d","slide":19,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/re1w7mp0","slide":19,"name":"bullet-text-4","text":"Bridge-to-release workflow","textPreview":"Bridge-to-release workflow","textChars":26,"textLines":1,"bbox":[638,475,496,62]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":19,"name":"l3-mark","text":"L3","textPreview":"L3","textChars":2,"textLines":1,"bbox":[1065,532,88,48]}
+{"kind":"textbox","id":"sh/9knih4by","slide":19,"name":"footer-left","text":"Source-backed · Review-gated · Public-safe","textPreview":"Source-backed · Review-gated · Public-safe","textChars":42,"textLines":1,"bbox":[56,675,520,22]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":19,"name":"footer-right","text":"19 / 24","textPreview":"19 / 24","textChars":7,"textLines":1,"bbox":[1110,675,110,22]}
+{"kind":"notes","id":"nt/vvggux","slide":19,"text":"Slide 19: Competitive Edge\nMessage: Operational discipline as brand trust\nTalking points: Source-backed content; Bilingual parity; Public manifest discipline; Bridge-to-release workflow. Keep the narration educational and avoid claims about returns, deposits, licensing, partners, or performance unless separately approved."}
+{"kind":"slide","id":"sl/3wn9b4","slide":20,"title":"L3AI PUBLIC BUSINESS PLAN · 20","textShapes":10}
+{"kind":"shape","id":"sh/xs72x4na","slide":20,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/q1orytsv","slide":20,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/fmlkjm1c","slide":20,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":20,"name":"eyebrow","text":"L3AI PUBLIC BUSINESS PLAN · 20","textPreview":"L3AI PUBLIC BUSINESS PLAN · 20","textChars":30,"textLines":1,"bbox":[56,35,500,26]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":20,"name":"title","text":"Stakeholder Value","textPreview":"Stakeholder Value","textChars":17,"textLines":1,"bbox":[56,118,850,110]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":20,"name":"subtitle","text":"Why each audience cares","textPreview":"Why each audience cares","textChars":23,"textLines":1,"bbox":[58,235,790,70]}
+{"kind":"shape","id":"sh/je9cvixc","slide":20,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":20,"name":"bullet-text-1","text":"Users get clearer learning paths","textPreview":"Users get clearer learning paths","textChars":32,"textLines":1,"bbox":[80,361,496,62]}
+{"kind":"shape","id":"sh/xczed8v6","slide":20,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/donyd0z6","slide":20,"name":"bullet-text-2","text":"Communities get safer discussion materials","textPreview":"Communities get safer discussion materials","textChars":42,"textLines":1,"bbox":[638,361,496,62]}
+{"kind":"shape","id":"sh/k3q5o7qp","slide":20,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/vixczed8","slide":20,"name":"bullet-text-3","text":"Operators get controlled assets","textPreview":"Operators get controlled assets","textChars":31,"textLines":1,"bbox":[80,475,496,62]}
+{"kind":"shape","id":"sh/2x4nap4r","slide":20,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":20,"name":"bullet-text-4","text":"Partners get reviewable context","textPreview":"Partners get reviewable context","textChars":31,"textLines":1,"bbox":[638,475,496,62]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":20,"name":"l3-mark","text":"L3","textPreview":"L3","textChars":2,"textLines":1,"bbox":[1065,532,88,48]}
+{"kind":"textbox","id":"sh/val87ed8","slide":20,"name":"footer-left","text":"Source-backed · Review-gated · Public-safe","textPreview":"Source-backed · Review-gated · Public-safe","textChars":42,"textLines":1,"bbox":[56,675,520,22]}
+{"kind":"textbox","id":"sh/6psfil0r","slide":20,"name":"footer-right","text":"20 / 24","textPreview":"20 / 24","textChars":7,"textLines":1,"bbox":[1110,675,110,22]}
+{"kind":"notes","id":"nt/3wn9b4","slide":20,"text":"Slide 20: Stakeholder Value\nMessage: Why each audience cares\nTalking points: Users get clearer learning paths; Communities get safer discussion materials; Operators get controlled assets; Partners get reviewable context. Keep the narration educational and avoid claims about returns, deposits, licensing, partners, or performance unless separately approved."}
+{"kind":"slide","id":"sl/h9fv42","slide":21,"title":"L3AI PUBLIC BUSINESS PLAN · 21","textShapes":10}
+{"kind":"shape","id":"sh/pg3ex0nu","slide":21,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/epkzupwb","slide":21,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/7adsji5s","slide":21,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":21,"name":"eyebrow","text":"L3AI PUBLIC BUSINESS PLAN · 21","textPreview":"L3AI PUBLIC BUSINESS PLAN · 21","textChars":30,"textLines":1,"bbox":[56,35,500,26]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":21,"name":"title","text":"KPIs To Approve Later","textPreview":"KPIs To Approve Later","textChars":21,"textLines":1,"bbox":[56,118,850,110]}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":21,"name":"subtitle","text":"Measure clarity before conversion pressure","textPreview":"Measure clarity before conversion pressure","textChars":42,"textLines":1,"bbox":[58,235,790,70]}
+{"kind":"shape","id":"sh/7mp0bi9s","slide":21,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":21,"name":"bullet-text-1","text":"Resource-page engagement","textPreview":"Resource-page engagement","textChars":24,"textLines":1,"bbox":[80,361,496,62]}
+{"kind":"shape","id":"sh/l0rqd4vm","slide":21,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":21,"name":"bullet-text-2","text":"FAQ completion","textPreview":"FAQ completion","textChars":14,"textLines":1,"bbox":[638,361,496,62]}
+{"kind":"shape","id":"sh/oza1gvy9","slide":21,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":21,"name":"bullet-text-3","text":"Video watch depth","textPreview":"Video watch depth","textChars":17,"textLines":1,"bbox":[80,475,496,62]}
+{"kind":"shape","id":"sh/6xkf6dcb","slide":21,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":21,"name":"bullet-text-4","text":"Community question quality","textPreview":"Community question quality","textChars":26,"textLines":1,"bbox":[638,475,496,62]}
+{"kind":"textbox","id":"sh/obm58z25","slide":21,"name":"l3-mark","text":"L3","textPreview":"L3","textChars":2,"textLines":1,"bbox":[1065,532,88,48]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":21,"name":"footer-left","text":"Source-backed · Review-gated · Public-safe","textPreview":"Source-backed · Review-gated · Public-safe","textChars":42,"textLines":1,"bbox":[56,675,520,22]}
+{"kind":"textbox","id":"sh/65wjudg7","slide":21,"name":"footer-right","text":"21 / 24","textPreview":"21 / 24","textChars":7,"textLines":1,"bbox":[1110,675,110,22]}
+{"kind":"notes","id":"nt/h9fv42","slide":21,"text":"Slide 21: KPIs To Approve Later\nMessage: Measure clarity before conversion pressure\nTalking points: Resource-page engagement; FAQ completion; Video watch depth; Community question quality. Keep the narration educational and avoid claims about returns, deposits, licensing, partners, or performance unless separately approved."}
+{"kind":"slide","id":"sl/49645x","slide":22,"title":"L3AI PUBLIC BUSINESS PLAN · 22","textShapes":10}
+{"kind":"shape","id":"sh/6xkf6dcb","slide":22,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/hk3q5o7q","slide":22,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/oza1gvy9","slide":22,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":22,"name":"eyebrow","text":"L3AI PUBLIC BUSINESS PLAN · 22","textPreview":"L3AI PUBLIC BUSINESS PLAN · 22","textChars":30,"textLines":1,"bbox":[56,35,500,26]}
+{"kind":"textbox","id":"sh/65wjudg7","slide":22,"name":"title","text":"Investor Conversation","textPreview":"Investor Conversation","textChars":21,"textLines":1,"bbox":[56,118,850,110]}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":22,"name":"subtitle","text":"What can be discussed safely","textPreview":"What can be discussed safely","textChars":28,"textLines":1,"bbox":[58,235,790,70]}
+{"kind":"shape","id":"sh/obm58z25","slide":22,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/zupwb2hw","slide":22,"name":"bullet-text-1","text":"Category and positioning","textPreview":"Category and positioning","textChars":24,"textLines":1,"bbox":[80,361,496,62]}
+{"kind":"shape","id":"sh/a9w3m94f","slide":22,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":22,"name":"bullet-text-2","text":"Operating model","textPreview":"Operating model","textChars":15,"textLines":1,"bbox":[638,361,496,62]}
+{"kind":"shape","id":"sh/1w7mp0bi","slide":22,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":22,"name":"bullet-text-3","text":"Risk controls","textPreview":"Risk controls","textChars":13,"textLines":1,"bbox":[80,475,496,62]}
+{"kind":"shape","id":"sh/jqh0fepk","slide":22,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":22,"name":"bullet-text-4","text":"Roadmap and readiness, without invented financials","textPreview":"Roadmap and readiness, without invented financials","textChars":50,"textLines":1,"bbox":[638,475,496,62]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":22,"name":"l3-mark","text":"L3","textPreview":"L3","textChars":2,"textLines":1,"bbox":[1065,532,88,48]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":22,"name":"footer-left","text":"Source-backed · Review-gated · Public-safe","textPreview":"Source-backed · Review-gated · Public-safe","textChars":42,"textLines":1,"bbox":[56,675,520,22]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":22,"name":"footer-right","text":"22 / 24","textPreview":"22 / 24","textChars":7,"textLines":1,"bbox":[1110,675,110,22]}
+{"kind":"notes","id":"nt/49645x","slide":22,"text":"Slide 22: Investor Conversation\nMessage: What can be discussed safely\nTalking points: Category and positioning; Operating model; Risk controls; Roadmap and readiness, without invented financials. Keep the narration educational and avoid claims about returns, deposits, licensing, partners, or performance unless separately approved."}
+{"kind":"slide","id":"sl/wk3bjb","slide":23,"title":"L3AI PUBLIC BUSINESS PLAN · 23","textShapes":10}
+{"kind":"shape","id":"sh/b2hwfyxo","slide":23,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/4nap4r65","slide":23,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/t83itgfm","slide":23,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":23,"name":"eyebrow","text":"L3AI PUBLIC BUSINESS PLAN · 23","textPreview":"L3AI PUBLIC BUSINESS PLAN · 23","textChars":30,"textLines":1,"bbox":[56,35,500,26]}
+{"kind":"textbox","id":"sh/bq1oryts","slide":23,"name":"title","text":"Next Actions","textPreview":"Next Actions","textChars":12,"textLines":1,"bbox":[56,118,850,110]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":23,"name":"subtitle","text":"Move from assets to approved channel operation","textPreview":"Move from assets to approved channel operation","textChars":46,"textLines":1,"bbox":[58,235,790,70]}
+{"kind":"shape","id":"sh/twra5gbq","slide":23,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":23,"name":"bullet-text-1","text":"Use official public URLs","textPreview":"Use official public URLs","textChars":24,"textLines":1,"bbox":[80,361,496,62]}
+{"kind":"shape","id":"sh/bm58z25k","slide":23,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/val87ed8","slide":23,"name":"bullet-text-2","text":"Keep owner approvals attached","textPreview":"Keep owner approvals attached","textChars":29,"textLines":1,"bbox":[638,361,496,62]}
+{"kind":"shape","id":"sh/6psfil0r","slide":23,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":23,"name":"bullet-text-3","text":"Refresh manifest after every change","textPreview":"Refresh manifest after every change","textChars":35,"textLines":1,"bbox":[80,475,496,62]}
+{"kind":"shape","id":"sh/kre1w7mp","slide":23,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/vixczed8","slide":23,"name":"bullet-text-4","text":"Run link and file validation","textPreview":"Run link and file validation","textChars":28,"textLines":1,"bbox":[638,475,496,62]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":23,"name":"l3-mark","text":"L3","textPreview":"L3","textChars":2,"textLines":1,"bbox":[1065,532,88,48]}
+{"kind":"textbox","id":"sh/donyd0z6","slide":23,"name":"footer-left","text":"Source-backed · Review-gated · Public-safe","textPreview":"Source-backed · Review-gated · Public-safe","textChars":42,"textLines":1,"bbox":[56,675,520,22]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":23,"name":"footer-right","text":"23 / 24","textPreview":"23 / 24","textChars":7,"textLines":1,"bbox":[1110,675,110,22]}
+{"kind":"notes","id":"nt/wk3bjb","slide":23,"text":"Slide 23: Next Actions\nMessage: Move from assets to approved channel operation\nTalking points: Use official public URLs; Keep owner approvals attached; Refresh manifest after every change; Run link and file validation. Keep the narration educational and avoid claims about returns, deposits, licensing, partners, or performance unless separately approved."}
+{"kind":"slide","id":"sl/4a8u7q","slide":24,"title":"L3AI PUBLIC BUSINESS PLAN · 24","textShapes":10}
+{"kind":"shape","id":"sh/qpg3ex0n","slide":24,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/xczed8v6","slide":24,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/8v6psfil","slide":24,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":24,"name":"eyebrow","text":"L3AI PUBLIC BUSINESS PLAN · 24","textPreview":"L3AI PUBLIC BUSINESS PLAN · 24","textChars":30,"textLines":1,"bbox":[56,35,500,26]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":24,"name":"title","text":"Closing","textPreview":"Closing","textChars":7,"textLines":1,"bbox":[56,118,850,110]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":24,"name":"subtitle","text":"L3AI is ready for a controlled public story","textPreview":"L3AI is ready for a controlled public story","textChars":43,"textLines":1,"bbox":[58,235,790,70]}
+{"kind":"shape","id":"sh/8jqh0fep","slide":24,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":24,"name":"bullet-text-1","text":"AI-native","textPreview":"AI-native","textChars":9,"textLines":1,"bbox":[80,361,496,62]}
+{"kind":"shape","id":"sh/q1orytsv","slide":24,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":24,"name":"bullet-text-2","text":"Source-backed","textPreview":"Source-backed","textChars":13,"textLines":1,"bbox":[638,361,496,62]}
+{"kind":"shape","id":"sh/t83itgfm","slide":24,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":24,"name":"bullet-text-3","text":"Bilingual","textPreview":"Bilingual","textChars":9,"textLines":1,"bbox":[80,475,496,62]}
+{"kind":"shape","id":"sh/b2hwfyxo","slide":24,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":24,"name":"bullet-text-4","text":"Risk-aware","textPreview":"Risk-aware","textChars":10,"textLines":1,"bbox":[638,475,496,62]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":24,"name":"l3-mark","text":"L3","textPreview":"L3","textChars":2,"textLines":1,"bbox":[1065,532,88,48]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":24,"name":"footer-left","text":"Source-backed · Review-gated · Public-safe","textPreview":"Source-backed · Review-gated · Public-safe","textChars":42,"textLines":1,"bbox":[56,675,520,22]}
+{"kind":"textbox","id":"sh/bq1oryts","slide":24,"name":"footer-right","text":"24 / 24","textPreview":"24 / 24","textChars":7,"textLines":1,"bbox":[1110,675,110,22]}
+{"kind":"notes","id":"nt/4a8u7q","slide":24,"text":"Slide 24: Closing\nMessage: L3AI is ready for a controlled public story\nTalking points: AI-native; Source-backed; Bilingual; Risk-aware. Keep the narration educational and avoid claims about returns, deposits, licensing, partners, or performance unless separately approved."}

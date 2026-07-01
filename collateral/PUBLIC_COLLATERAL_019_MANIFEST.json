@@ -1,0 +1,112 @@
+{
+  "task_id": "PUBLIC-COLLATERAL-019",
+  "status": "prepared",
+  "public_ready_scope": "collateral package only",
+  "base_url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/",
+  "quality_summary": {
+    "whitepaper_pages": 38,
+    "deck_pdf_pages": 24,
+    "deck_pptx_slides": 24,
+    "promo_video_duration": "00:03:06.00",
+    "promo_video_target": "3-5 minutes"
+  },
+  "primary_assets": [
+    {
+      "asset_id": "L3AI_Public_Whitepaper_v1.en-zh",
+      "path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.en-zh.html",
+      "bytes": 54814,
+      "sha256": "39d6938524d83bc907de3fe11ce6e9686d13f5b7f05401e51e57d0e14e7952ad",
+      "type": "text/html"
+    },
+    {
+      "asset_id": "L3AI_Public_Whitepaper_v1.en-zh",
+      "path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.en-zh.pdf",
+      "bytes": 437949,
+      "sha256": "3f53ed6bf6e7300b1aef6dcc526def4c3cf4bbdacc6e07e62c26cc26549fffc3",
+      "type": "application/pdf"
+    },
+    {
+      "asset_id": "L3AI_Public_Business_Plan_v1",
+      "path": "collateral/deck/L3AI_Public_Business_Plan_v1.pptx",
+      "bytes": 99869,
+      "sha256": "9dd55a91bdf6bd2d707d987bb8676b8b9a705bc6b502c80d4832642d1325025b",
+      "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+    },
+    {
+      "asset_id": "L3AI_Public_Business_Plan_v1",
+      "path": "collateral/deck/L3AI_Public_Business_Plan_v1.pdf",
+      "bytes": 300647,
+      "sha256": "5948fd2808b15562c75a9962cf2b497db44f5ae87a2e61cd3bef7bdc1e0d4b81",
+      "type": "application/pdf"
+    },
+    {
+      "asset_id": "L3AI_Public_Business_Plan_v1_speaker_notes",
+      "path": "collateral/deck/L3AI_Public_Business_Plan_v1_speaker_notes.md",
+      "bytes": 4995,
+      "sha256": "6d14b97134d99e2beea73d8eafc21e77abc49374b0d9a9391e216c3d618acdee",
+      "type": "text/markdown"
+    },
+    {
+      "asset_id": "L3AI_Public_Promo_3min_v1",
+      "path": "collateral/video/L3AI_Public_Promo_3min_v1.mp4",
+      "bytes": 5593238,
+      "sha256": "5f96b7f75f551f11101984b6ccd4ac2e98dd3bed9969d750e426e3d4a8abaf43",
+      "type": "video/mp4"
+    },
+    {
+      "asset_id": "L3AI_Public_Promo_3min_v1_script.en",
+      "path": "collateral/video/L3AI_Public_Promo_3min_v1_script.en.md",
+      "bytes": 3207,
+      "sha256": "732e72b5c4904f347eca59b13a3e6f1e6be321036de414f246c3502984b03608",
+      "type": "text/markdown"
+    },
+    {
+      "asset_id": "L3AI_Public_Promo_3min_v1_script.zh-CN",
+      "path": "collateral/video/L3AI_Public_Promo_3min_v1_script.zh-CN.md",
+      "bytes": 2768,
+      "sha256": "a21781a4a3a09b1b1fde0147a1da7b171c0f801db3f2ad570a13d8d6fdae3fda",
+      "type": "text/markdown"
+    },
+    {
+      "asset_id": "L3AI_Public_Promo_3min_v1_storyboard",
+      "path": "collateral/video/L3AI_Public_Promo_3min_v1_storyboard.md",
+      "bytes": 7712,
+      "sha256": "cc5dd646e344ead4d54becd22aad8804704cb5c6525494c9978c8e3a173bca1e",
+      "type": "text/markdown"
+    },
+    {
+      "asset_id": "L3AI_Public_Promo_3min_v1.en",
+      "path": "collateral/video/L3AI_Public_Promo_3min_v1.en.srt",
+      "bytes": 3720,
+      "sha256": "4b0d6d0159b40fbf9c3532c8e1cb6dd286f7783387e77ca411c563deeaaedae6",
+      "type": "text/plain"
+    },
+    {
+      "asset_id": "L3AI_Public_Promo_3min_v1.zh-CN",
+      "path": "collateral/video/L3AI_Public_Promo_3min_v1.zh-CN.srt",
+      "bytes": 3338,
+      "sha256": "25b27bff4e4bc9e2a6de4ef3e4c34185333e82435825571304d7a64a5cae9275",
+      "type": "text/plain"
+    },
+    {
+      "asset_id": "L3AI_Public_Promo_3min_v1_manifest",
+      "path": "collateral/video/L3AI_Public_Promo_3min_v1_manifest.json",
+      "bytes": 680,
+      "sha256": "64f50a4e3cd150cf1de44e854e9112e1fbca0b1bf033734a4251b88a50575123",
+      "type": "application/json"
+    }
+  ],
+  "qa_evidence": [
+    "collateral/qa/whitepaper-cover.png",
+    "collateral/qa/deck-cover.png",
+    "collateral/deck/qa/L3AI_Public_Business_Plan_v1_montage.webp",
+    "collateral/deck/qa/L3AI_Public_Business_Plan_v1_inspect.ndjson"
+  ],
+  "guardrails": [
+    "No private repository links",
+    "No secrets",
+    "No local paths in public-facing manifests",
+    "No guaranteed returns or investment advice claims",
+    "No external publish action executed by this package"
+  ]
+}

@@ -1,0 +1,229 @@
+{"kind":"layout","layoutId":"13c88549-8d77-40af-b08d-e33a143aff3f","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"fe714e11-9fbd-4568-83d7-aac60bb54f73","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/v7yr0d","slide":1,"title":"L3AI PUBLIC BUSINESS PLAN · 01","textShapes":9}
+{"kind":"shape","id":"sh/al87ed8b","slide":1,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/hcrmhk3q","slide":1,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/orytsvu9","slide":1,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/zupwb2hw","slide":1,"textChars":30,"textLines":1}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":1,"textChars":25,"textLines":1}
+{"kind":"textbox","id":"sh/h0fepkzu","slide":1,"textChars":77,"textLines":1}
+{"kind":"shape","id":"sh/sfil0rqd","slide":1,"name":"bullet-panel-1","bbox":[58,340,360,120]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":1,"textChars":22,"textLines":1}
+{"kind":"shape","id":"sh/65wjudg7","slide":1,"name":"bullet-panel-2","bbox":[436,340,360,120]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":1,"textChars":24,"textLines":1}
+{"kind":"shape","id":"sh/5o7qpg3e","slide":1,"name":"bullet-panel-3","bbox":[814,340,360,120]}
+{"kind":"textbox","id":"sh/yxobm58z","slide":1,"textChars":20,"textLines":1}
+{"kind":"textbox","id":"sh/nih4byhg","slide":1,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":1,"textChars":42,"textLines":1}
+{"kind":"textbox","id":"sh/9cvixcze","slide":1,"textChars":7,"textLines":1}
+{"kind":"notes","id":"nt/v7yr0d","slide":1,"text":"Slide 1: L3AI Public Business Plan | Message: AI-native financial intelligenc..."}
+{"kind":"slide","id":"sl/3bh7ib","slide":2,"title":"L3AI PUBLIC BUSINESS PLAN · 02","textShapes":9}
+{"kind":"shape","id":"sh/f6dcbulw","slide":2,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/4r65wjud","slide":2,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/xc3ylc7u","slide":2,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":2,"textChars":30,"textLines":1}
+{"kind":"textbox","id":"sh/fepkzupw","slide":2,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/4zidonyd","slide":2,"textChars":49,"textLines":1}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":2,"name":"bullet-panel-1","bbox":[58,340,360,120]}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":2,"textChars":36,"textLines":1}
+{"kind":"shape","id":"sh/fil0rqd4","slide":2,"name":"bullet-panel-2","bbox":[436,340,360,120]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":2,"textChars":47,"textLines":1}
+{"kind":"shape","id":"sh/mtwra5gb","slide":2,"name":"bullet-panel-3","bbox":[814,340,360,120]}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":2,"textChars":70,"textLines":1}
+{"kind":"textbox","id":"sh/4zidonyd","slide":2,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":2,"textChars":42,"textLines":1}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":2,"textChars":7,"textLines":1}
+{"kind":"notes","id":"nt/3bh7ib","slide":2,"text":"Slide 2: Executive Thesis | Message: A clearer context layer for complex Web3..."}
+{"kind":"slide","id":"sl/3p1wig","slide":3,"title":"L3AI PUBLIC BUSINESS PLAN · 03","textShapes":9}
+{"kind":"shape","id":"sh/zidonyd0","slide":3,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/s36hcrmh","slide":3,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/hoza1gvy","slide":3,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/ap4r65wj","slide":3,"textChars":30,"textLines":1}
+{"kind":"textbox","id":"sh/za1gvy90","slide":3,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/svu9knih","slide":3,"textChars":40,"textLines":1}
+{"kind":"shape","id":"sh/hgn29gr2","slide":3,"name":"bullet-panel-1","bbox":[58,340,360,120]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":3,"textChars":93,"textLines":1}
+{"kind":"shape","id":"sh/3ylc7u54","slide":3,"name":"bullet-panel-2","bbox":[436,340,360,120]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":3,"textChars":61,"textLines":1}
+{"kind":"shape","id":"sh/mp0bi9s3","slide":3,"name":"bullet-panel-3","bbox":[814,340,360,120]}
+{"kind":"textbox","id":"sh/tgfmlkjm","slide":3,"textChars":42,"textLines":1}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":3,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/bm58z25k","slide":3,"textChars":42,"textLines":1}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":3,"textChars":7,"textLines":1}
+{"kind":"notes","id":"nt/3p1wig","slide":3,"text":"Slide 3: Market Problem | Message: Fragmented signals create avoidable risk |..."}
+{"kind":"slide","id":"sl/zv2o58","slide":4,"title":"L3AI PUBLIC BUSINESS PLAN · 04","textShapes":10}
+{"kind":"shape","id":"sh/wfyxobm5","slide":4,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/7u54zido","slide":4,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/ed8bat47","slide":4,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":4,"textChars":30,"textLines":1}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":4,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":4,"textChars":37,"textLines":1}
+{"kind":"shape","id":"sh/eloj2t83","slide":4,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":4,"textChars":35,"textLines":1}
+{"kind":"shape","id":"sh/wval87ed","slide":4,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":4,"textChars":26,"textLines":1}
+{"kind":"shape","id":"sh/z25kb6xk","slide":4,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":4,"textChars":39,"textLines":1}
+{"kind":"shape","id":"sh/d8v6psfi","slide":4,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":4,"textChars":35,"textLines":1}
+{"kind":"textbox","id":"sh/vahoza1g","slide":4,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/ovahoza1","slide":4,"textChars":42,"textLines":1}
+{"kind":"textbox","id":"sh/dg7adsji","slide":4,"textChars":7,"textLines":1}
+{"kind":"notes","id":"nt/zv2o58","slide":4,"text":"Slide 4: User Pain Points | Message: The category needs better translation | ..."}
+{"kind":"slide","id":"sl/xp928t","slide":5,"title":"L3AI PUBLIC BUSINESS PLAN · 05","textShapes":10}
+{"kind":"shape","id":"sh/jm1cfa9w","slide":5,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/c7u54zid","slide":5,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/1orytsvu","slide":5,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":5,"textChars":30,"textLines":1}
+{"kind":"textbox","id":"sh/judg7ads","slide":5,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/cfa9w3m9","slide":5,"textChars":43,"textLines":1}
+{"kind":"shape","id":"sh/1032lszq","slide":5,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":5,"textChars":34,"textLines":1}
+{"kind":"shape","id":"sh/nyd0z610","slide":5,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":5,"textChars":30,"textLines":1}
+{"kind":"shape","id":"sh/2lszqtcj","slide":5,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":5,"textChars":29,"textLines":1}
+{"kind":"shape","id":"sh/knih4byh","slide":5,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":5,"textChars":25,"textLines":1}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":5,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/d0z61032","slide":5,"textChars":42,"textLines":1}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":5,"textChars":7,"textLines":1}
+{"kind":"notes","id":"nt/xp928t","slide":5,"text":"Slide 5: L3AI Positioning | Message: AI-native context, not financial predict..."}
+{"kind":"slide","id":"sl/qcncv7","slide":6,"title":"L3AI PUBLIC BUSINESS PLAN · 06","textShapes":10}
+{"kind":"shape","id":"sh/qtcj6tov","slide":6,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/1gvy90je","slide":6,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/8z25kb6x","slide":6,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":6,"textChars":30,"textLines":1}
+{"kind":"textbox","id":"sh/q1orytsv","slide":6,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/xs72x4na","slide":6,"textChars":23,"textLines":1}
+{"kind":"shape","id":"sh/87ed8bat","slide":6,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":6,"textChars":17,"textLines":1}
+{"kind":"shape","id":"sh/qd4vmtwr","slide":6,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/sfil0rqd","slide":6,"textChars":30,"textLines":1}
+{"kind":"shape","id":"sh/h0fepkzu","slide":6,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":6,"textChars":25,"textLines":1}
+{"kind":"shape","id":"sh/zupwb2hw","slide":6,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/orytsvu9","slide":6,"textChars":32,"textLines":1}
+{"kind":"textbox","id":"sh/hcrmhk3q","slide":6,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/al87ed8b","slide":6,"textChars":42,"textLines":1}
+{"kind":"textbox","id":"sh/z61032ls","slide":6,"textChars":7,"textLines":1}
+{"kind":"notes","id":"nt/qcncv7","slide":6,"text":"Slide 6: Product Modules | Message: Four user-facing layers | Talking points:..."}
+{"kind":"slide","id":"sl/8cbvud","slide":7,"title":"L3AI PUBLIC BUSINESS PLAN · 07","textShapes":10}
+{"kind":"shape","id":"sh/65wjudg7","slide":7,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/hwfyxobm","slide":7,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/obm58z25","slide":7,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":7,"textChars":30,"textLines":1}
+{"kind":"textbox","id":"sh/6xkf6dcb","slide":7,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":7,"textChars":29,"textLines":1}
+{"kind":"shape","id":"sh/oza1gvy9","slide":7,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/z61032ls","slide":7,"textChars":18,"textLines":1}
+{"kind":"shape","id":"sh/al87ed8b","slide":7,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":7,"textChars":18,"textLines":1}
+{"kind":"shape","id":"sh/donyd0z6","slide":7,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":7,"textChars":21,"textLines":1}
+{"kind":"shape","id":"sh/vixczed8","slide":7,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":7,"textChars":28,"textLines":1}
+{"kind":"textbox","id":"sh/dcbulwva","slide":7,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/6psfil0r","slide":7,"textChars":42,"textLines":1}
+{"kind":"textbox","id":"sh/val87ed8","slide":7,"textChars":7,"textLines":1}
+{"kind":"notes","id":"nt/8cbvud","slide":7,"text":"Slide 7: AI Capability | Message: Structured explanation engine | Talking poi..."}
+{"kind":"slide","id":"sl/4aa97z","slide":8,"title":"L3AI PUBLIC BUSINESS PLAN · 08","textShapes":9}
+{"kind":"shape","id":"sh/ulwval87","slide":8,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/1cfa9w3m","slide":8,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/crmhk3q5","slide":8,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":8,"textChars":30,"textLines":1}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":8,"textChars":23,"textLines":1}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":8,"textChars":40,"textLines":1}
+{"kind":"shape","id":"sh/c3ylc7u5","slide":8,"name":"bullet-panel-1","bbox":[58,340,360,120]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":8,"textChars":26,"textLines":1}
+{"kind":"shape","id":"sh/q5o7qpg3","slide":8,"name":"bullet-panel-2","bbox":[436,340,360,120]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":8,"textChars":39,"textLines":1}
+{"kind":"shape","id":"sh/9knih4by","slide":8,"name":"bullet-panel-3","bbox":[814,340,360,120]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":8,"textChars":43,"textLines":1}
+{"kind":"textbox","id":"sh/re1w7mp0","slide":8,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":8,"textChars":42,"textLines":1}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":8,"textChars":7,"textLines":1}
+{"kind":"notes","id":"nt/4aa97z","slide":8,"text":"Slide 8: Wallet-Aware Experience | Message: Helpful context without private e..."}
+{"kind":"slide","id":"sl/u7eab0","slide":9,"title":"L3AI PUBLIC BUSINESS PLAN · 09","textShapes":10}
+{"kind":"shape","id":"sh/idonyd0z","slide":9,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/t47y1kre","slide":9,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/0je9cvix","slide":9,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/b6xkf6dc","slide":9,"textChars":30,"textLines":1}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":9,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/tcj6tova","slide":9,"textChars":33,"textLines":1}
+{"kind":"shape","id":"sh/0rqd4vmt","slide":9,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":9,"textChars":25,"textLines":1}
+{"kind":"shape","id":"sh/ixczed8v","slide":9,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":9,"textChars":31,"textLines":1}
+{"kind":"shape","id":"sh/lszqtcj6","slide":9,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":9,"textChars":31,"textLines":1}
+{"kind":"shape","id":"sh/3m94fu18","slide":9,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/sji5snel","slide":9,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":9,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/adsji5sn","slide":9,"textChars":42,"textLines":1}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":9,"textChars":7,"textLines":1}
+{"kind":"notes","id":"nt/u7eab0","slide":9,"text":"Slide 9: Trust And Safety | Message: Review-gated public communication | Talk..."}
+{"kind":"slide","id":"sl/1otb54","slide":10,"title":"L3AI PUBLIC BUSINESS PLAN · 10","textShapes":10}
+{"kind":"shape","id":"sh/za1gvy90","slide":10,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/svu9knih","slide":10,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/hgn29gr2","slide":10,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":10,"textChars":30,"textLines":1}
+{"kind":"textbox","id":"sh/zidonyd0","slide":10,"textChars":20,"textLines":1}
+{"kind":"textbox","id":"sh/s36hcrmh","slide":10,"textChars":31,"textLines":1}
+{"kind":"shape","id":"sh/hoza1gvy","slide":10,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":10,"textChars":29,"textLines":1}
+{"kind":"shape","id":"sh/3m94fu18","slide":10,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":10,"textChars":28,"textLines":1}
+{"kind":"shape","id":"sh/a1gvy90j","slide":10,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":10,"textChars":31,"textLines":1}
+{"kind":"shape","id":"sh/s36hcrmh","slide":10,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":10,"textChars":36,"textLines":1}
+{"kind":"textbox","id":"sh/ap4r65wj","slide":10,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":10,"textChars":42,"textLines":1}
+{"kind":"textbox","id":"sh/svu9knih","slide":10,"textChars":7,"textLines":1}
+{"kind":"notes","id":"nt/1otb54","slide":10,"text":"Slide 10: Commercial Framework | Message: Conservative monetization paths | T..."}
+{"kind":"slide","id":"sl/kd235s","slide":11,"title":"L3AI PUBLIC BUSINESS PLAN · 11","textShapes":10}
+{"kind":"shape","id":"sh/ih4byhgn","slide":11,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/p8nqxs72","slide":11,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/0nuxc3yl","slide":11,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/7ed8bat4","slide":11,"textChars":30,"textLines":1}
+{"kind":"textbox","id":"sh/itgfmlkj","slide":11,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/pkzupwb2","slide":11,"textChars":25,"textLines":1}
+{"kind":"shape","id":"sh/0z61032l","slide":11,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":11,"textChars":23,"textLines":1}
+{"kind":"shape","id":"sh/i5sneloj","slide":11,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/0nuxc3yl","slide":11,"textChars":22,"textLines":1}
+{"kind":"shape","id":"sh/p8nqxs72","slide":11,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/ih4byhgn","slide":11,"textChars":21,"textLines":1}
+{"kind":"shape","id":"sh/72x4nap4","slide":11,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/0z61032l","slide":11,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/pkzupwb2","slide":11,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/itgfmlkj","slide":11,"textChars":42,"textLines":1}
+{"kind":"textbox","id":"sh/7ed8bat4","slide":11,"textChars":7,"textLines":1}
+{"kind":"notes","id":"nt/kd235s","slide":11,"text":"Slide 11: Go-To-Market | Message: Content-led launch motion | Talking points:..."}
+{"kind":"slide","id":"sl/wl8wg0","slide":12,"title":"L3AI PUBLIC BUSINESS PLAN · 12","textShapes":10}
+{"kind":"shape","id":"sh/54zidony","slide":12,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/udg7adsj","slide":12,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/nyd0z610","slide":12,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/cvixczed","slide":12,"textChars":30,"textLines":1}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":12,"textChars":18,"textLines":1}
+{"kind":"textbox","id":"sh/upwb2hwf","slide":12,"textChars":20,"textLines":1}
+{"kind":"shape","id":"sh/nap4r65w","slide":12,"name":"bullet-panel-1","bbox":[58,340,540,96]}
+{"kind":"textbox","id":"sh/c7u54zid","slide":12,"textChars":27,"textLines":1}
+{"kind":"shape","id":"sh/1orytsvu","slide":12,"name":"bullet-panel-2","bbox":[616,340,540,96]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":12,"textChars":11,"textLines":1}
+{"kind":"shape","id":"sh/wfyxobm5","slide":12,"name":"bullet-panel-3","bbox":[58,454,540,96]}
+{"kind":"textbox","id":"sh/7u54zido","slide":12,"textChars":22,"textLines":1}
+{"kind":"shape","id":"sh/ed8bat47","slide":12,"name":"bullet-panel-4","bbox":[616,454,540,96]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":12,"textChars":22,"textLines":1}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":12,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":12,"textChars":42,"textLines":1}
+{"kind":"textbox","id":"sh/eloj2t83","slide":12,"textChars":7,"textLines":1}
+{"kind":"notes","id":"nt/wl8wg0","slide":12,"text":"Slide 12: Community Strategy | Message: Learning before hype | Talking points..."}
+{"kind":"slide","id":"sl/j6t4k4","slide":13,"title":"L3AI PUBLIC BUSINESS PLAN · 13","textShapes":10}
+{"kind":"shape","id":"sh/bq1oryts","slide":13,"name":"top-band","bbox":[0,0,1280,84]}
+{"kind":"shape","id":"sh/4byhgn29","slide":13,"name":"cyan-glow","bbox":[840,-190,540,540]}
+{"kind":"shape","id":"sh/twra5gbq","slide":13,"name":"gold-ring","bbox":[1020,482,176,176]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":13,"textChars":30,"textLines":1}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":13,"textChars":16,"textLines":1}
+{"kind":"notice","message":"Truncated: omitted 224 lines. Increase maxChars or narrow target."}
