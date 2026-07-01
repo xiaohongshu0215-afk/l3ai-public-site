@@ -1,0 +1,55 @@
+{
+  "id": "L3AI_PRODUCT_BUSINESS_PROMO_NARRATIVE_032",
+  "status": "prepared",
+  "execution": "narrative_only_no_publish",
+  "scenes": [
+    {
+      "order": 1,
+      "title": "Confidence gap",
+      "visual": "collateral/premium-assets-030/visuals/l3ai-enterprise-hero-030.png",
+      "status": "Current"
+    },
+    {
+      "order": 2,
+      "title": "Homepage product proof",
+      "visual": "collateral/premium-assets-030/screens/homepage-flow-desktop.png",
+      "status": "Current"
+    },
+    {
+      "order": 3,
+      "title": "AI Quant explain-first workflow",
+      "visual": "collateral/premium-assets-030/screens/ai-quant-workflow-desktop.png",
+      "status": "Current"
+    },
+    {
+      "order": 4,
+      "title": "Wallet-aware education",
+      "visual": "collateral/premium-assets-030/screens/wallet-experience-desktop.png",
+      "status": "Current"
+    },
+    {
+      "order": 5,
+      "title": "Commercial loop",
+      "visual": "collateral/premium-assets-030/screens/business-model-desktop.png",
+      "status": "Current"
+    },
+    {
+      "order": 6,
+      "title": "Resources center",
+      "visual": "collateral/premium-assets-030/screens/resources-flow-desktop.png",
+      "status": "Current"
+    },
+    {
+      "order": 7,
+      "title": "Roadmap status",
+      "visual": "roadmap.html",
+      "status": "Current / In Progress / Planned"
+    },
+    {
+      "order": 8,
+      "title": "Controlled review CTA",
+      "visual": "contact-partner.html",
+      "status": "Current"
+    }
+  ]
+}
