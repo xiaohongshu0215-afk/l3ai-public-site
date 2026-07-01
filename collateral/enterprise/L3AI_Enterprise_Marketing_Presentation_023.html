@@ -1,0 +1,286 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>L3AI Enterprise Marketing Presentation 023</title>
+    <link rel="stylesheet" href="../../assets/public-site.css">
+    <style>
+      body {
+        background: #eef3f8;
+      }
+
+      .presentation-shell {
+        max-width: 1280px;
+        margin: 0 auto;
+        padding: 28px 20px 56px;
+      }
+
+      .slide {
+        min-height: 720px;
+        margin: 0 0 28px;
+        padding: 54px;
+        border: 1px solid #d7dee8;
+        border-radius: 8px;
+        background: #ffffff;
+        box-shadow: 0 18px 50px rgba(16, 24, 40, .12);
+        display: grid;
+        align-content: center;
+        gap: 26px;
+      }
+
+      .slide.hero-slide {
+        grid-template-columns: minmax(0, .92fr) minmax(420px, 1.08fr);
+        align-items: center;
+      }
+
+      .slide h1 {
+        font-size: 58px;
+        line-height: 1.02;
+        margin: 0;
+      }
+
+      .slide h2 {
+        font-size: 42px;
+        line-height: 1.08;
+        margin: 0;
+      }
+
+      .slide p {
+        font-size: 18px;
+      }
+
+      .slide-grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 18px;
+      }
+
+      .slide-grid.two {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .proof-tile {
+        border: 1px solid #d7dee8;
+        border-radius: 8px;
+        padding: 20px;
+        background: #f8fbff;
+      }
+
+      .proof-tile strong {
+        display: block;
+        margin-bottom: 8px;
+        font-size: 22px;
+      }
+
+      .screen-shot {
+        border: 1px solid #d7dee8;
+        border-radius: 8px;
+        background: #ffffff;
+        overflow: hidden;
+      }
+
+      .screen-shot img {
+        display: block;
+        width: 100%;
+      }
+
+      .process-line {
+        display: grid;
+        grid-template-columns: repeat(5, minmax(0, 1fr));
+        gap: 12px;
+      }
+
+      .process-step {
+        min-height: 160px;
+        border: 1px solid #d7dee8;
+        border-radius: 8px;
+        background: linear-gradient(180deg, #ffffff, #f7fbff);
+        padding: 18px;
+      }
+
+      .process-step span {
+        display: inline-grid;
+        place-items: center;
+        width: 34px;
+        height: 34px;
+        margin-bottom: 14px;
+        border-radius: 8px;
+        background: #eef4ff;
+        color: #123b8f;
+        font-weight: 800;
+      }
+
+      .asset-list {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 14px;
+      }
+
+      .asset-list div {
+        border-left: 4px solid #155eef;
+        padding: 10px 14px;
+        background: #f8fbff;
+      }
+
+      @media print {
+        body {
+          background: #ffffff;
+        }
+
+        .site-nav,
+        .site-footer {
+          display: none;
+        }
+
+        .presentation-shell {
+          padding: 0;
+        }
+
+        .slide {
+          min-height: 100vh;
+          page-break-after: always;
+          box-shadow: none;
+          border: 0;
+          margin: 0;
+        }
+      }
+
+      @media (max-width: 900px) {
+        .slide,
+        .slide.hero-slide,
+        .slide-grid,
+        .slide-grid.two,
+        .process-line,
+        .asset-list {
+          grid-template-columns: 1fr;
+        }
+
+        .slide {
+          min-height: auto;
+          padding: 28px;
+        }
+
+        .slide h1 {
+          font-size: 40px;
+        }
+
+        .slide h2 {
+          font-size: 30px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <nav class="site-nav" aria-label="Primary navigation">
+      <div class="site-nav-inner">
+        <a class="site-brand" href="../../"><span class="site-brand-mark">L3</span><span>L3AI</span></a>
+        <div class="site-links">
+          <a href="../../resources.html">Resources</a>
+          <a href="../demo/L3AI_Public_Platform_Demo_Package_023.md">Demo Package</a>
+          <a href="../demo/L3AI_Production_Asset_Tracker_023.md">Asset Tracker</a>
+        </div>
+      </div>
+    </nav>
+
+    <main class="presentation-shell">
+      <section class="slide hero-slide">
+        <div>
+          <p class="eyebrow">PUBLIC-PRODUCTION-023</p>
+          <h1>L3AI enterprise launch story</h1>
+          <p>AI-native intelligence, education and public-safe Web3 decision context packaged for customers, partners, investors and media reviewers.</p>
+          <div class="pill-row">
+            <span class="pill">Public website</span>
+            <span class="pill">Whitepaper</span>
+            <span class="pill">Business deck</span>
+            <span class="pill">Alpha Engine narrative</span>
+          </div>
+        </div>
+        <figure class="screen-shot">
+          <img src="../demo/screens/l3ai-homepage-desktop.png" alt="L3AI public homepage screenshot">
+        </figure>
+      </section>
+
+      <section class="slide">
+        <div>
+          <p class="eyebrow">Market problem</p>
+          <h2>Web3 users do not need more noise. They need structured context.</h2>
+        </div>
+        <div class="slide-grid">
+          <div class="proof-tile"><strong>Fragmented inputs</strong><p>Market signals, wallet context, product education, community updates and risk notes are scattered across channels.</p></div>
+          <div class="proof-tile"><strong>Unsafe language</strong><p>Many launch materials blur education, advice and outcome claims. L3AI keeps the public boundary explicit.</p></div>
+          <div class="proof-tile"><strong>Review friction</strong><p>Customers, partners, media and investors need different entry points, but one consistent source of truth.</p></div>
+        </div>
+      </section>
+
+      <section class="slide">
+        <div>
+          <p class="eyebrow">Product answer</p>
+          <h2>A public intelligence workspace with clear review paths.</h2>
+        </div>
+        <div class="slide-grid two">
+          <figure class="screen-shot"><img src="../demo/screens/l3ai-launch-experience-center-desktop.png" alt="L3AI Launch Experience Center screenshot"></figure>
+          <div class="asset-list">
+            <div><strong>Customer path</strong><p>FAQ, product overview and risk-aware education.</p></div>
+            <div><strong>Partner path</strong><p>Business deck, whitepaper and product module structure.</p></div>
+            <div><strong>Media path</strong><p>Approved wording, public-safe assets and language boundaries.</p></div>
+            <div><strong>Operator path</strong><p>Manifest, sitemap, QA evidence and asset inventory.</p></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="slide">
+        <div>
+          <p class="eyebrow">Production system</p>
+          <h2>From approved source facts to controlled public launch assets.</h2>
+        </div>
+        <div class="process-line">
+          <div class="process-step"><span>01</span><strong>Source facts</strong><p>Business plan, whitepaper, website copy and D-workstation strategic materials.</p></div>
+          <div class="process-step"><span>02</span><strong>Content QA</strong><p>Deduplication, terminology control, risk language and claim boundaries.</p></div>
+          <div class="process-step"><span>03</span><strong>Asset factory</strong><p>HTML, PDF, deck, video scripts, screenshots and manifests.</p></div>
+          <div class="process-step"><span>04</span><strong>Public site</strong><p>Experience-first homepage and Resources navigation.</p></div>
+          <div class="process-step"><span>05</span><strong>Distribution prep</strong><p>GitHub Pages package with no private repository exposure.</p></div>
+        </div>
+      </section>
+
+      <section class="slide">
+        <div>
+          <p class="eyebrow">Flagship collateral</p>
+          <h2>Reviewed assets are organized as a customer-facing launch package.</h2>
+        </div>
+        <div class="slide-grid">
+          <figure class="screen-shot"><img src="../demo/screens/l3ai-business-deck-preview-desktop.png" alt="Business deck preview screenshot"></figure>
+          <figure class="screen-shot"><img src="../demo/screens/l3ai-whitepaper-preview-desktop.png" alt="Whitepaper preview screenshot"></figure>
+          <figure class="screen-shot"><img src="../demo/screens/l3ai-alpha-engine-pack-desktop.png" alt="Alpha Engine public narrative screenshot"></figure>
+        </div>
+      </section>
+
+      <section class="slide">
+        <div>
+          <p class="eyebrow">Risk boundary</p>
+          <h2>The public package is production-grade, but does not overstate availability.</h2>
+        </div>
+        <div class="slide-grid">
+          <div class="proof-tile"><strong>Current</strong><p>Public website, Resources center, whitepaper, business deck, Alpha Engine narrative, FAQ, media kit and v1 promo video are available.</p></div>
+          <div class="proof-tile"><strong>In progress</strong><p>Enterprise demo package, v2 motion specification, live public screenshots and production asset tracker are now prepared.</p></div>
+          <div class="proof-tile"><strong>Requires recording</strong><p>Authenticated product dashboard walkthroughs, final voice-over audio and motion-rendered v2 video require external recording or rendering.</p></div>
+        </div>
+      </section>
+
+      <section class="slide">
+        <div>
+          <p class="eyebrow">Launch handoff</p>
+          <h2>Use the live site as the front door, then hand reviewers into the right asset.</h2>
+        </div>
+        <div class="slide-grid two">
+          <div class="proof-tile"><strong>Primary URL</strong><p>https://xiaohongshu0215-afk.github.io/l3ai-public-site/</p></div>
+          <div class="proof-tile"><strong>Primary CTA</strong><p>Start with the live demonstration path, then open the flagship presentation, whitepaper, demo package and asset tracker.</p></div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      PUBLIC-PRODUCTION-023 enterprise marketing presentation. Public-safe material only.
+    </footer>
+  </body>
+</html>

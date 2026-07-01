@@ -1,0 +1,28 @@
+{
+  "task_id": "PUBLIC-PRODUCTION-023",
+  "title": "Produce Enterprise Grade Marketing Collateral and Real Product Demonstrations",
+  "status": "prepared",
+  "outputs": [
+    "collateral/enterprise/L3AI_Enterprise_Marketing_Presentation_023.html",
+    "collateral/enterprise/L3AI_Enterprise_Marketing_Presentation_023.md",
+    "collateral/demo/L3AI_Public_Platform_Demo_Package_023.md",
+    "collateral/demo/L3AI_Public_Demo_Runbook_023.md",
+    "collateral/demo/L3AI_Production_Asset_Tracker_023.md",
+    "collateral/demo/L3AI_Production_Asset_Tracker_023.json",
+    "collateral/demo/screens/l3ai-homepage-desktop.png",
+    "collateral/demo/screens/l3ai-launch-experience-center-desktop.png",
+    "collateral/demo/screens/l3ai-launch-experience-center-mobile.png",
+    "collateral/demo/screens/l3ai-business-deck-preview-desktop.png",
+    "collateral/demo/screens/l3ai-whitepaper-preview-desktop.png",
+    "collateral/demo/screens/l3ai-alpha-engine-pack-desktop.png",
+    "collateral/video/L3AI_Public_Enterprise_Demo_v2_motion_spec.md",
+    "collateral/video/L3AI_Public_Enterprise_Demo_v2_voiceover_timing.md",
+    "collateral/video/L3AI_Public_Enterprise_Demo_v2.en.srt",
+    "collateral/video/L3AI_Public_Enterprise_Demo_v2.zh-CN.srt"
+  ],
+  "not_claimed_complete": [
+    "rendered enterprise promo video v2 MP4",
+    "authenticated dashboard walkthrough recording",
+    "final human voice-over audio"
+  ]
+}

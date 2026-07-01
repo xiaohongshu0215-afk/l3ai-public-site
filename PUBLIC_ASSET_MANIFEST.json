@@ -1,8 +1,8 @@
 {
   "site": "l3ai-public-site",
   "base_url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/",
-  "asset_count": 515,
-  "generated_at": "2026-07-01T15:12:00.000Z",
+  "asset_count": 532,
+  "generated_at": "2026-07-01T15:44:08.413Z",
   "assets": [
     {
       "path": ".gitattributes",
@@ -18,8 +18,8 @@
     },
     {
       "path": "assets/public-site.css",
-      "bytes": 11692,
-      "sha256": "601daea767eaebf8252543ea55201bccdfdc6bff1d81d3caf7f38eb166d1aa6c",
+      "bytes": 12652,
+      "sha256": "cd91add3e567a84a5683cc86b4461c90101ba7f3eaaa62d5202565c32da7e8b5",
       "type": "text/css"
     },
     {
@@ -491,6 +491,84 @@
       "type": "text/markdown"
     },
     {
+      "path": "collateral/demo/L3AI_Production_Asset_Tracker_023.json",
+      "bytes": 2239,
+      "sha256": "73632b1167a16110ca34db0a40d63e1888f35ca123d037bb83eb0a5c426f1a40",
+      "type": "application/json"
+    },
+    {
+      "path": "collateral/demo/L3AI_Production_Asset_Tracker_023.md",
+      "bytes": 2489,
+      "sha256": "90ae966138063abec189f77fb267816089dd2a8fe36d89a7065f4eb1a0ac6c53",
+      "type": "text/markdown"
+    },
+    {
+      "path": "collateral/demo/L3AI_Public_Demo_Runbook_023.md",
+      "bytes": 1621,
+      "sha256": "b62445c42a81d9ffaf8ae5e6092a0f7963124ccae9d53488e72c064ef91cf0f5",
+      "type": "text/markdown"
+    },
+    {
+      "path": "collateral/demo/L3AI_Public_Platform_Demo_Package_023.md",
+      "bytes": 2874,
+      "sha256": "7abf936fe5df5f3d99434aa31006a83f67cc2f57972b4a02cce79afdaa844350",
+      "type": "text/markdown"
+    },
+    {
+      "path": "collateral/demo/PUBLIC_PRODUCTION_023_MANIFEST.json",
+      "bytes": 1413,
+      "sha256": "cba9ede43ab5e073b23583610e848305ccbbac97ae4b8f9770cad9515b2063db",
+      "type": "application/json"
+    },
+    {
+      "path": "collateral/demo/screens/l3ai-alpha-engine-pack-desktop.png",
+      "bytes": 160363,
+      "sha256": "ce3125baf128f2ea7de9adc9a879ddee90738f4138a300762dfb5834ea3e3de5",
+      "type": "image/png"
+    },
+    {
+      "path": "collateral/demo/screens/l3ai-business-deck-preview-desktop.png",
+      "bytes": 131028,
+      "sha256": "a1f18c7982965935835d0d47ec482d4761ff073572d3b4206cfea636f94f0655",
+      "type": "image/png"
+    },
+    {
+      "path": "collateral/demo/screens/l3ai-homepage-desktop.png",
+      "bytes": 313270,
+      "sha256": "50f75c595b89fc3a9859055f1dfb382a1eb2303f29b4d62dc1e231b044373b4f",
+      "type": "image/png"
+    },
+    {
+      "path": "collateral/demo/screens/l3ai-launch-experience-center-desktop.png",
+      "bytes": 255624,
+      "sha256": "9f510a78552843b388ac55e84059744d9f412aee9ab05b8e0c21460f92c048b1",
+      "type": "image/png"
+    },
+    {
+      "path": "collateral/demo/screens/l3ai-launch-experience-center-mobile.png",
+      "bytes": 121061,
+      "sha256": "7e878f11ee925af9cb917bc0764c418c77cc7aab4e9be479ad67db03dc26b69c",
+      "type": "image/png"
+    },
+    {
+      "path": "collateral/demo/screens/l3ai-whitepaper-preview-desktop.png",
+      "bytes": 470808,
+      "sha256": "8d342f7a0a4b2cf432fb58f6016476eaf02faa1277346ad9553f92c963722b3a",
+      "type": "image/png"
+    },
+    {
+      "path": "collateral/enterprise/L3AI_Enterprise_Marketing_Presentation_023.html",
+      "bytes": 10029,
+      "sha256": "c15b2887abf2d9e0fc3fd336796b79b89f1c0d9549e34929eef19480e5ff4795",
+      "type": "text/html"
+    },
+    {
+      "path": "collateral/enterprise/L3AI_Enterprise_Marketing_Presentation_023.md",
+      "bytes": 1154,
+      "sha256": "a8dfb6a9a45bb88f41a55798269ee596c42df84ac31c16bbe79f6d1548826fc3",
+      "type": "text/markdown"
+    },
+    {
       "path": "collateral/experience/L3AI_Collateral_Gap_Report_022.md",
       "bytes": 2524,
       "sha256": "7a78f00440e133fbe3fdd469918b0888d8b67d50cf7516ea5bebb6b6edeb6637",
@@ -731,6 +809,30 @@
       "type": "image/png"
     },
     {
+      "path": "collateral/video/L3AI_Public_Enterprise_Demo_v2_motion_spec.md",
+      "bytes": 1676,
+      "sha256": "98a0c7ad7615fcc255fb389ad1a2c6ae093c5f882b7eb3918af1ae089e4a1d67",
+      "type": "text/markdown"
+    },
+    {
+      "path": "collateral/video/L3AI_Public_Enterprise_Demo_v2_voiceover_timing.md",
+      "bytes": 1704,
+      "sha256": "6a76a10e87b9bc4357a12a4553ead314e123b2ebb4370864503fba6333a90fb3",
+      "type": "text/markdown"
+    },
+    {
+      "path": "collateral/video/L3AI_Public_Enterprise_Demo_v2.en.srt",
+      "bytes": 953,
+      "sha256": "68941e05f1bd3e965e37bfe088b0a33d0f940a41e233549046cfefe6997d8b09",
+      "type": "text/plain"
+    },
+    {
+      "path": "collateral/video/L3AI_Public_Enterprise_Demo_v2.zh-CN.srt",
+      "bytes": 856,
+      "sha256": "0f05e202df85b3776bd524fbf44341a517ea5835bbd6ac4f83cf3375e4769ed3",
+      "type": "text/plain"
+    },
+    {
       "path": "collateral/video/L3AI_Public_Promo_3min_v1_manifest.json",
       "bytes": 680,
       "sha256": "64f50a4e3cd150cf1de44e854e9112e1fbca0b1bf033734a4251b88a50575123",
@@ -816,8 +918,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 11935,
-      "sha256": "16bdc92424a19a773a1dc2abdb9cf72a9dd692591bb22e5456a4aec0921dfcc8",
+      "bytes": 13878,
+      "sha256": "225e7c6e7c155f2f33e86d2633148e482bb781f9e35ac1929328a20cce652e7c",
       "type": "text/html"
     },
     {
@@ -1656,8 +1758,8 @@
     },
     {
       "path": "resources.html",
-      "bytes": 18981,
-      "sha256": "824db9ce56b69c86542fdad43c2761b9582fdc8cd6ffa73146b399dc1ecedf0b",
+      "bytes": 22754,
+      "sha256": "0d1672fbec006f67e21dc0dd1f299fd66d44fbd9276ccceddfbf79e42415d44f",
       "type": "text/html"
     },
     {
@@ -1680,14 +1782,14 @@
     },
     {
       "path": "sitemap.html",
-      "bytes": 6884,
-      "sha256": "fdf17dfaf68a8dd7449fbdfa6150958448499a67e7200fbdf9df2eabef00c479",
+      "bytes": 7841,
+      "sha256": "3996473eefd97f47186fe1f296e66f7d5e4d383560d6776c4b57adb5ae21f38a",
       "type": "text/html"
     },
     {
       "path": "sitemap.xml",
-      "bytes": 3994,
-      "sha256": "88100d4dbf67478e5f2da03409d64e11d2c14c000f52b636fc06588e2d2722a1",
+      "bytes": 4958,
+      "sha256": "d0876a1ddb6f7b3c03b126248f4f7f061d4c5a708392bb46b93bee75ec75d2f2",
       "type": "application/xml"
     },
     {

@@ -330,6 +330,59 @@ p {
   font-size: 12px;
 }
 
+.demo-proof {
+  display: grid;
+  grid-template-columns: minmax(0, .88fr) minmax(360px, 1.12fr);
+  gap: 22px;
+  align-items: center;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #ffffff;
+  padding: 24px;
+  box-shadow: 0 16px 42px rgba(16, 24, 40, .1);
+}
+
+.screen-preview,
+.screen-card {
+  margin: 0;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  overflow: hidden;
+  background: #ffffff;
+}
+
+.screen-preview img,
+.screen-card img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.demo-gallery {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 18px;
+}
+
+.screen-card {
+  color: var(--ink);
+  text-decoration: none;
+  box-shadow: 0 1px 0 rgba(16, 24, 40, .03);
+}
+
+.screen-card img {
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  object-position: top center;
+}
+
+.screen-card span {
+  display: block;
+  padding: 12px 14px;
+  font-weight: 800;
+}
+
 .page-header {
   background:
     linear-gradient(135deg, rgba(21, 94, 239, .1), rgba(15, 159, 154, .08)),
@@ -693,6 +746,8 @@ section.card {
   .experience-paths,
   .automation-flow,
   .story-block,
+  .demo-proof,
+  .demo-gallery,
   .split-note {
     grid-template-columns: 1fr;
   }

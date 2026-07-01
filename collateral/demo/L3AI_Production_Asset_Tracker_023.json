@@ -1,0 +1,74 @@
+{
+  "task_id": "PUBLIC-PRODUCTION-023",
+  "status": "prepared",
+  "generated_at": "2026-07-01T00:00:00+08:00",
+  "completed": [
+    {
+      "asset": "enterprise_marketing_presentation_html",
+      "path": "collateral/enterprise/L3AI_Enterprise_Marketing_Presentation_023.html",
+      "status": "complete"
+    },
+    {
+      "asset": "public_platform_demo_package",
+      "path": "collateral/demo/L3AI_Public_Platform_Demo_Package_023.md",
+      "status": "complete"
+    },
+    {
+      "asset": "public_demo_runbook",
+      "path": "collateral/demo/L3AI_Public_Demo_Runbook_023.md",
+      "status": "complete"
+    },
+    {
+      "asset": "real_public_ui_screenshots",
+      "path": "collateral/demo/screens/",
+      "status": "complete"
+    },
+    {
+      "asset": "video_v2_motion_spec",
+      "path": "collateral/video/L3AI_Public_Enterprise_Demo_v2_motion_spec.md",
+      "status": "complete"
+    },
+    {
+      "asset": "video_v2_voiceover_timing",
+      "path": "collateral/video/L3AI_Public_Enterprise_Demo_v2_voiceover_timing.md",
+      "status": "complete"
+    },
+    {
+      "asset": "video_v2_subtitles",
+      "path": "collateral/video/L3AI_Public_Enterprise_Demo_v2.en.srt",
+      "status": "complete"
+    }
+  ],
+  "partial": [
+    {
+      "asset": "enterprise_promo_video_v2_mp4",
+      "status": "partial",
+      "reason": "ffmpeg is not available in the local execution environment"
+    },
+    {
+      "asset": "authenticated_product_walkthrough",
+      "status": "partial",
+      "reason": "requires approved real product access and screen recording"
+    },
+    {
+      "asset": "final_voiceover_audio",
+      "status": "partial",
+      "reason": "timing and subtitles are prepared, but no final voice audio is recorded"
+    }
+  ],
+  "requires_manual_work": [
+    "approved authenticated product dashboard recording",
+    "approved wallet flow recording without real funds",
+    "final motion rendered MP4 or MOV",
+    "human voice-over audio",
+    "official public contact or conversion endpoint"
+  ],
+  "safety_boundary": [
+    "public site assets only",
+    "no private repository content",
+    "no secrets or tokens",
+    "no backend internals",
+    "no live trading",
+    "no guaranteed financial outcome claims"
+  ]
+}
