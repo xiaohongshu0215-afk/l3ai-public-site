@@ -1,0 +1,33 @@
+{
+  "task_id": "PUBLIC-DEMO-024",
+  "status": "prepared",
+  "showcase_pages": [
+    "showcase.html",
+    "showcase-ai-quant.html",
+    "showcase-wallet.html",
+    "showcase-business.html"
+  ],
+  "screenshots": [
+    "collateral/showcase/screens/l3ai-showcase-homepage.png",
+    "collateral/showcase/screens/l3ai-showcase-ai-quant.png",
+    "collateral/showcase/screens/l3ai-showcase-wallet.png",
+    "collateral/showcase/screens/l3ai-showcase-resources.png",
+    "collateral/showcase/screens/l3ai-showcase-get-started.png",
+    "collateral/showcase/screens/l3ai-showcase-get-started-mobile.png",
+    "collateral/showcase/screens/l3ai-showcase-faq.png",
+    "collateral/showcase/screens/l3ai-showcase-business-presentation.png"
+  ],
+  "render_package": [
+    "collateral/video/render-package-024/L3AI_Public_Demo_Showcase_Render_Package_024.md",
+    "collateral/video/render-package-024/L3AI_Public_Demo_Showcase_Render_Manifest_024.json",
+    "collateral/video/render-package-024/L3AI_Public_Demo_Showcase_Voiceover_024.md",
+    "collateral/video/render-package-024/L3AI_Public_Demo_Showcase_024.en.srt",
+    "collateral/video/render-package-024/L3AI_Public_Demo_Showcase_024.zh-CN.srt"
+  ],
+  "not_claimed_complete": [
+    "rendered MP4/MOV",
+    "real authenticated product dashboard recording",
+    "real wallet signing walkthrough",
+    "human voice-over audio"
+  ]
+}

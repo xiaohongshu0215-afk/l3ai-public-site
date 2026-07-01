@@ -1,8 +1,8 @@
 {
   "site": "l3ai-public-site",
   "base_url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/",
-  "asset_count": 532,
-  "generated_at": "2026-07-01T15:44:08.413Z",
+  "asset_count": 552,
+  "generated_at": "2026-07-01T16:13:33.776Z",
   "assets": [
     {
       "path": ".gitattributes",
@@ -18,8 +18,8 @@
     },
     {
       "path": "assets/public-site.css",
-      "bytes": 12652,
-      "sha256": "cd91add3e567a84a5683cc86b4461c90101ba7f3eaaa62d5202565c32da7e8b5",
+      "bytes": 16006,
+      "sha256": "1224e5869f8e3fc85f42148762821e8ae7d0dc656a58faec8cf0f7d147dc34fe",
       "type": "text/css"
     },
     {
@@ -623,6 +623,72 @@
       "type": "image/png"
     },
     {
+      "path": "collateral/showcase/L3AI_Demo_Production_Readiness_Tracker_024.json",
+      "bytes": 1359,
+      "sha256": "1c703bba75d8b92ef61f7de27b25b853c20413af508d9e3f8cb95f2b3980cc6c",
+      "type": "application/json"
+    },
+    {
+      "path": "collateral/showcase/L3AI_Demo_Production_Readiness_Tracker_024.md",
+      "bytes": 1823,
+      "sha256": "c389c432bc487075875a57204c8ccfd1a03e676213a345c3f03144d0e625c733",
+      "type": "text/markdown"
+    },
+    {
+      "path": "collateral/showcase/PUBLIC_DEMO_024_MANIFEST.json",
+      "bytes": 1372,
+      "sha256": "db7115a78d300c98f70774b13f4f103803cd0ad2384920a4236a275d63a6337c",
+      "type": "application/json"
+    },
+    {
+      "path": "collateral/showcase/screens/l3ai-showcase-ai-quant.png",
+      "bytes": 204234,
+      "sha256": "bc6ce4d301cd653c67b490b0ee4a706a87d9f7aba4d9da060dd46147c1706a09",
+      "type": "image/png"
+    },
+    {
+      "path": "collateral/showcase/screens/l3ai-showcase-business-presentation.png",
+      "bytes": 131028,
+      "sha256": "a1f18c7982965935835d0d47ec482d4761ff073572d3b4206cfea636f94f0655",
+      "type": "image/png"
+    },
+    {
+      "path": "collateral/showcase/screens/l3ai-showcase-faq.png",
+      "bytes": 244989,
+      "sha256": "02aaf16ae41d63f98ff20c79a607300392013126af2aacfbdba01c5f61d4abbf",
+      "type": "image/png"
+    },
+    {
+      "path": "collateral/showcase/screens/l3ai-showcase-get-started-mobile.png",
+      "bytes": 101666,
+      "sha256": "4b6982383d4eaa3f907b3757ebc79f30f30773bee7317fa1851450b86c352dc8",
+      "type": "image/png"
+    },
+    {
+      "path": "collateral/showcase/screens/l3ai-showcase-get-started.png",
+      "bytes": 231927,
+      "sha256": "fcf20bdcca541af61cb6a6ec02c16a1ba2859234ee82f95c6a0a83fc42575b77",
+      "type": "image/png"
+    },
+    {
+      "path": "collateral/showcase/screens/l3ai-showcase-homepage.png",
+      "bytes": 404661,
+      "sha256": "d03fda4b0bb50a7320bf99a42df53bd408b8533a41400fc7f54aab1ffa75d6d7",
+      "type": "image/png"
+    },
+    {
+      "path": "collateral/showcase/screens/l3ai-showcase-resources.png",
+      "bytes": 416013,
+      "sha256": "dc02ad5773046f205295d0394c9930776b23a191b5c7e66563da95af0f30fccc",
+      "type": "image/png"
+    },
+    {
+      "path": "collateral/showcase/screens/l3ai-showcase-wallet.png",
+      "bytes": 198256,
+      "sha256": "36b01307c7b47ab933c9a59bab897a1a077669c59193f893ed6abf9d9c01c93e",
+      "type": "image/png"
+    },
+    {
       "path": "collateral/video/frames/concat.txt",
       "bytes": 1011,
       "sha256": "74345faafed729009e2713a8e863089eb06f0cda0cb738f9e553bec3b60cdf23",
@@ -887,6 +953,36 @@
       "type": "text/markdown"
     },
     {
+      "path": "collateral/video/render-package-024/L3AI_Public_Demo_Showcase_024.en.srt",
+      "bytes": 1035,
+      "sha256": "54152a53e20c2c6554451f69d007a3ebc3ae2701c6711886286ad8d692a8a844",
+      "type": "text/plain"
+    },
+    {
+      "path": "collateral/video/render-package-024/L3AI_Public_Demo_Showcase_024.zh-CN.srt",
+      "bytes": 964,
+      "sha256": "3725866f09783c46666bada86b7aadac914023a4e0a8a6a505e41e8db29f2413",
+      "type": "text/plain"
+    },
+    {
+      "path": "collateral/video/render-package-024/L3AI_Public_Demo_Showcase_Render_Manifest_024.json",
+      "bytes": 1459,
+      "sha256": "ce48f1bb60d4c4c8d24bac9280f6d2a1ce22e71b0da15ac7cb0a5e33c3fa1346",
+      "type": "application/json"
+    },
+    {
+      "path": "collateral/video/render-package-024/L3AI_Public_Demo_Showcase_Render_Package_024.md",
+      "bytes": 3008,
+      "sha256": "59c00ede8abc8263d5e910e3397f585c075aea57b3df0efc860fa986c2137673",
+      "type": "text/markdown"
+    },
+    {
+      "path": "collateral/video/render-package-024/L3AI_Public_Demo_Showcase_Voiceover_024.md",
+      "bytes": 1822,
+      "sha256": "0dca663e3f3c621d0a97e66e08d65fc323e462c00c829c53a93e9a240bf317a5",
+      "type": "text/markdown"
+    },
+    {
       "path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.en-zh.html",
       "bytes": 54814,
       "sha256": "39d6938524d83bc907de3fe11ce6e9686d13f5b7f05401e51e57d0e14e7952ad",
@@ -918,8 +1014,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 13878,
-      "sha256": "225e7c6e7c155f2f33e86d2633148e482bb781f9e35ac1929328a20cce652e7c",
+      "bytes": 14158,
+      "sha256": "271ae35c9a38c31cc332bf07f1dab00a09bb6feebc51fe7bbe748128909c35eb",
       "type": "text/html"
     },
     {
@@ -1758,8 +1854,8 @@
     },
     {
       "path": "resources.html",
-      "bytes": 22754,
-      "sha256": "0d1672fbec006f67e21dc0dd1f299fd66d44fbd9276ccceddfbf79e42415d44f",
+      "bytes": 23963,
+      "sha256": "40d64d82b7b039eaeab0ece617e864991f27f9a3d7eb035f85056503d5dc3bec",
       "type": "text/html"
     },
     {
@@ -1781,15 +1877,39 @@
       "type": "application/octet-stream"
     },
     {
+      "path": "showcase-ai-quant.html",
+      "bytes": 3848,
+      "sha256": "65cbde4fd6ce877f54773135c67080682635152c49c32425700ed632b2443189",
+      "type": "text/html"
+    },
+    {
+      "path": "showcase-business.html",
+      "bytes": 3645,
+      "sha256": "7c73af961bc790e762a9a83134eca927282bc25660f47c213e1e7de08beddc09",
+      "type": "text/html"
+    },
+    {
+      "path": "showcase-wallet.html",
+      "bytes": 3873,
+      "sha256": "6bedde8e6ad41285c22e49a40ec1ac3960f8ddefa620dd17f406e884b9e2473d",
+      "type": "text/html"
+    },
+    {
+      "path": "showcase.html",
+      "bytes": 7822,
+      "sha256": "ff55af63b52e393ac7ef9d6c8e4ff86d7a1d3d118b9d37d17e8bb0e624c5a3a4",
+      "type": "text/html"
+    },
+    {
       "path": "sitemap.html",
-      "bytes": 7841,
-      "sha256": "3996473eefd97f47186fe1f296e66f7d5e4d383560d6776c4b57adb5ae21f38a",
+      "bytes": 8701,
+      "sha256": "df03a392aa685cd07260076935008090be1c9266c0b1b326dd9bc093e96a71bd",
       "type": "text/html"
     },
     {
       "path": "sitemap.xml",
-      "bytes": 4958,
-      "sha256": "d0876a1ddb6f7b3c03b126248f4f7f061d4c5a708392bb46b93bee75ec75d2f2",
+      "bytes": 5958,
+      "sha256": "913c70a6e688877f45bc5487ab4ed4ddba89916da527763c969aa4986d5742ea",
       "type": "application/xml"
     },
     {

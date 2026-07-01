@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://xiaohongshu0215-afk.github.io/l3ai-public-site/</loc></url>
+  <url><loc>https://xiaohongshu0215-afk.github.io/l3ai-public-site/showcase.html</loc></url>
+  <url><loc>https://xiaohongshu0215-afk.github.io/l3ai-public-site/showcase-ai-quant.html</loc></url>
+  <url><loc>https://xiaohongshu0215-afk.github.io/l3ai-public-site/showcase-wallet.html</loc></url>
+  <url><loc>https://xiaohongshu0215-afk.github.io/l3ai-public-site/showcase-business.html</loc></url>
   <url><loc>https://xiaohongshu0215-afk.github.io/l3ai-public-site/resources.html</loc></url>
   <url><loc>https://xiaohongshu0215-afk.github.io/l3ai-public-site/get-started.html</loc></url>
   <url><loc>https://xiaohongshu0215-afk.github.io/l3ai-public-site/faq.html</loc></url>
@@ -10,6 +14,8 @@
   <url><loc>https://xiaohongshu0215-afk.github.io/l3ai-public-site/collateral/demo/L3AI_Public_Demo_Runbook_023.md</loc></url>
   <url><loc>https://xiaohongshu0215-afk.github.io/l3ai-public-site/collateral/demo/L3AI_Production_Asset_Tracker_023.md</loc></url>
   <url><loc>https://xiaohongshu0215-afk.github.io/l3ai-public-site/collateral/demo/PUBLIC_PRODUCTION_023_MANIFEST.json</loc></url>
+  <url><loc>https://xiaohongshu0215-afk.github.io/l3ai-public-site/collateral/showcase/L3AI_Demo_Production_Readiness_Tracker_024.md</loc></url>
+  <url><loc>https://xiaohongshu0215-afk.github.io/l3ai-public-site/collateral/showcase/PUBLIC_DEMO_024_MANIFEST.json</loc></url>
   <url><loc>https://xiaohongshu0215-afk.github.io/l3ai-public-site/collateral/whitepaper/L3AI_Public_Whitepaper_v1.en-zh.html</loc></url>
   <url><loc>https://xiaohongshu0215-afk.github.io/l3ai-public-site/collateral/whitepaper/L3AI_Public_Whitepaper_v1.en-zh.pdf</loc></url>
   <url><loc>https://xiaohongshu0215-afk.github.io/l3ai-public-site/collateral/deck/L3AI_Public_Business_Plan_v1.pptx</loc></url>
@@ -26,6 +32,8 @@
   <url><loc>https://xiaohongshu0215-afk.github.io/l3ai-public-site/collateral/video/L3AI_Public_Promo_Production_Storyboard_v2.md</loc></url>
   <url><loc>https://xiaohongshu0215-afk.github.io/l3ai-public-site/collateral/video/L3AI_Public_Enterprise_Demo_v2_motion_spec.md</loc></url>
   <url><loc>https://xiaohongshu0215-afk.github.io/l3ai-public-site/collateral/video/L3AI_Public_Enterprise_Demo_v2_voiceover_timing.md</loc></url>
+  <url><loc>https://xiaohongshu0215-afk.github.io/l3ai-public-site/collateral/video/render-package-024/L3AI_Public_Demo_Showcase_Render_Package_024.md</loc></url>
+  <url><loc>https://xiaohongshu0215-afk.github.io/l3ai-public-site/collateral/video/render-package-024/L3AI_Public_Demo_Showcase_Render_Manifest_024.json</loc></url>
   <url><loc>https://xiaohongshu0215-afk.github.io/l3ai-public-site/collateral/PUBLIC_COLLATERAL_020_MANIFEST.json</loc></url>
   <url><loc>https://xiaohongshu0215-afk.github.io/l3ai-public-site/collateral/PUBLIC_COLLATERAL_019_MANIFEST.json</loc></url>
   <url><loc>https://xiaohongshu0215-afk.github.io/l3ai-public-site/web/en/documents/website-copy-l3ai-customer-website-copy-081.en.html</loc></url>

@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:12,000
+L3AI opens with a public demo-first experience for Web3 decision context.
+
+2
+00:00:12,000 --> 00:00:27,000
+Visitors choose the right path before opening files: customer, partner, investor, media or launch operator.
+
+3
+00:00:27,000 --> 00:00:45,000
+The AI Quant workflow is explained as research context and structured reasoning, not trading certainty.
+
+4
+00:00:45,000 --> 00:01:03,000
+Wallet-aware journeys help explain context, verification and audit checkpoints without exposing private wallet data.
+
+5
+00:01:03,000 --> 00:01:21,000
+The business presentation gives reviewers the model, roadmap, launch assets and claim guardrails.
+
+6
+00:01:21,000 --> 00:01:39,000
+The Launch Experience Center collects the whitepaper, deck, demo package, video package and manifests.
+
+7
+00:01:39,000 --> 00:01:52,000
+FAQ content keeps advice boundaries, risk notes and public wording clear.
+
+8
+00:01:52,000 --> 00:02:00,000
+L3AI is ready for controlled external review through the public showcase and resource center.

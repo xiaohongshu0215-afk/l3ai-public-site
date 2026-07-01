@@ -1,0 +1,36 @@
+{
+  "task_id": "PUBLIC-DEMO-024",
+  "status": "prepared",
+  "remaining_external_assets_only": [
+    {
+      "asset": "rendered_demo_showcase_mp4_mov",
+      "status": "pending_external_render",
+      "required_owner": "video_producer",
+      "completion_criteria": "120-second export using render package 024 with checked English and Chinese subtitles"
+    },
+    {
+      "asset": "human_voiceover_audio",
+      "status": "pending_recording",
+      "required_owner": "marketing_audio_producer",
+      "completion_criteria": "English and Chinese voice files match the prepared timing script"
+    },
+    {
+      "asset": "authenticated_dashboard_walkthrough",
+      "status": "pending_approved_recording",
+      "required_owner": "product_qa",
+      "completion_criteria": "approved demo data only; no private user or system information"
+    },
+    {
+      "asset": "wallet_interaction_walkthrough",
+      "status": "pending_security_approved_recording",
+      "required_owner": "product_security",
+      "completion_criteria": "no real funds, no private keys, no real balances, no production signing"
+    },
+    {
+      "asset": "official_public_conversion_endpoint",
+      "status": "pending_business_approval",
+      "required_owner": "business_web",
+      "completion_criteria": "approved contact or conversion path linked from the public site"
+    }
+  ]
+}
