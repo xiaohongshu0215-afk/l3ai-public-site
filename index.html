@@ -3,127 +3,135 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>L3AI Official Public Launch Materials</title>
-    <meta name="description" content="Official L3AI public website, media kit, investor deck, marketing materials, and promo video package.">
+    <title>L3AI Official Public Launch Site</title>
+    <meta name="description" content="Official public launch site for L3AI with bilingual website pages, media kit, investor deck, marketing assets, and promo video resources.">
+    <link rel="canonical" href="https://xiaohongshu0215-afk.github.io/l3ai-public-site/">
+    <meta property="og:title" content="L3AI Official Public Launch Site">
+    <meta property="og:description" content="Bilingual public launch materials for L3AI.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://xiaohongshu0215-afk.github.io/l3ai-public-site/">
+    <meta property="og:image" content="https://xiaohongshu0215-afk.github.io/l3ai-public-site/marketing/en/images/lib075-002-og-image.en.png">
     <style>
-      :root { color-scheme: light; --ink:#101828; --muted:#667085; --line:#d0d5dd; --blue:#155eef; --bg:#f8fafc; }
+      :root { color-scheme: light; --ink:#101828; --muted:#667085; --line:#d0d5dd; --blue:#155eef; --blue-dark:#0f3f9e; --bg:#f8fafc; --panel:#ffffff; }
       * { box-sizing: border-box; }
       body { margin:0; font-family: Arial, Helvetica, sans-serif; color:var(--ink); background:var(--bg); line-height:1.55; }
-      header { padding:56px 28px 32px; background:#ffffff; border-bottom:1px solid var(--line); }
-      main { max-width:1040px; margin:0 auto; padding:28px; }
-      .hero { max-width:1040px; margin:0 auto; }
-      h1 { margin:0 0 12px; font-size:40px; line-height:1.12; letter-spacing:0; }
-      h2 { margin:0 0 10px; font-size:22px; letter-spacing:0; }
+      a { color:var(--blue); }
+      .nav { position:sticky; top:0; z-index:10; background:rgba(255,255,255,.96); border-bottom:1px solid var(--line); }
+      .nav-inner { max-width:1120px; margin:0 auto; padding:14px 24px; display:flex; align-items:center; justify-content:space-between; gap:18px; }
+      .brand { font-weight:800; color:var(--ink); text-decoration:none; font-size:18px; }
+      .links { display:flex; flex-wrap:wrap; gap:14px; font-size:14px; }
+      .links a { color:var(--ink); text-decoration:none; }
+      header { background:#ffffff; border-bottom:1px solid var(--line); }
+      .hero { max-width:1120px; margin:0 auto; padding:58px 24px 42px; display:grid; grid-template-columns:minmax(0,1.15fr) minmax(280px,.85fr); gap:28px; align-items:center; }
+      h1 { margin:0 0 14px; font-size:44px; line-height:1.1; letter-spacing:0; }
+      h2 { margin:0 0 10px; font-size:24px; letter-spacing:0; }
+      h3 { margin:0 0 8px; font-size:18px; letter-spacing:0; }
       p { color:var(--muted); margin:0 0 16px; }
-      .actions { display:flex; flex-wrap:wrap; gap:12px; margin-top:20px; }
-      .actions a { display:inline-block; border:1px solid var(--blue); color:#fff; background:var(--blue); padding:10px 14px; border-radius:6px; text-decoration:none; font-weight:700; }
-      .actions a.secondary { background:#fff; color:var(--blue); }
-      .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:16px; }
+      .actions { display:flex; flex-wrap:wrap; gap:12px; margin-top:22px; }
+      .button { display:inline-block; border:1px solid var(--blue); color:#fff; background:var(--blue); padding:10px 14px; border-radius:6px; text-decoration:none; font-weight:700; }
+      .button.secondary { background:#fff; color:var(--blue); }
+      .hero-card { background:var(--panel); border:1px solid var(--line); border-radius:8px; padding:18px; }
+      .hero-card img { display:block; width:100%; height:auto; border-radius:6px; border:1px solid var(--line); }
+      main { max-width:1120px; margin:0 auto; padding:28px 24px 42px; }
+      .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:16px; }
       section { background:#fff; border:1px solid var(--line); border-radius:8px; padding:18px; min-width:0; }
+      .wide { grid-column:1 / -1; }
       ul { margin:10px 0 0; padding-left:20px; }
       li { margin:6px 0; overflow-wrap:anywhere; }
-      a { color:var(--blue); }
-      footer { max-width:1040px; margin:0 auto; padding:0 28px 36px; color:var(--muted); font-size:13px; }
+      .kpis { display:grid; grid-template-columns:repeat(auto-fit,minmax(140px,1fr)); gap:12px; margin-top:16px; }
+      .kpi { border:1px solid var(--line); border-radius:8px; padding:12px; background:#fff; }
+      .kpi strong { display:block; font-size:24px; }
+      footer { max-width:1120px; margin:0 auto; padding:0 24px 36px; color:var(--muted); font-size:13px; }
+      @media (max-width:760px) {
+        .hero { grid-template-columns:1fr; padding-top:36px; }
+        h1 { font-size:34px; }
+        .nav-inner { align-items:flex-start; flex-direction:column; }
+      }
     </style>
   </head>
   <body>
+    <nav class="nav">
+      <div class="nav-inner">
+        <a class="brand" href="./">L3AI</a>
+        <div class="links">
+          <a href="web/en/documents/website-copy-l3ai-customer-website-copy-081.en.html">English</a>
+          <a href="web/zh-CN/documents/website-copy-l3ai-customer-website-copy-081.zh-CN.html">中文</a>
+          <a href="resources.html">Resources</a>
+          <a href="get-started.html">Get Started</a>
+          <a href="sitemap.html">Sitemap</a>
+        </div>
+      </div>
+    </nav>
     <header>
       <div class="hero">
-        <h1>L3AI Official Public Launch Materials</h1>
-        <p>Official public website and launch asset package for L3AI. This repository contains public-facing static materials only.</p>
-        <div class="actions">
-          <a href="web/en/documents/website-copy-l3ai-customer-website-copy-081.en.html">Open English Website</a>
-          <a class="secondary" href="web/zh-CN/documents/website-copy-l3ai-customer-website-copy-081.zh-CN.html">打开中文官网</a>
-          <a class="secondary" href="PUBLIC_ASSET_MANIFEST.json">View Asset Manifest</a>
+        <div>
+          <h1>L3AI Official Public Launch Site</h1>
+          <p>Explore the bilingual L3AI public website, launch resources, media kit, investor deck, marketing assets, and promo video package.</p>
+          <div class="actions">
+            <a class="button" href="web/en/documents/website-copy-l3ai-customer-website-copy-081.en.html">Open English Website</a>
+            <a class="button secondary" href="web/zh-CN/documents/website-copy-l3ai-customer-website-copy-081.zh-CN.html">打开中文官网</a>
+            <a class="button secondary" href="resources.html">Download Resources</a>
+          </div>
+          <div class="kpis" aria-label="Public asset summary">
+            <div class="kpi"><strong>382</strong><span>public files</span></div>
+            <div class="kpi"><strong>2</strong><span>languages</span></div>
+            <div class="kpi"><strong>5</strong><span>asset groups</span></div>
+          </div>
+        </div>
+        <div class="hero-card">
+          <img src="web/en/images/lib075-001-website-hero.en.png" alt="L3AI website hero visual">
         </div>
       </div>
     </header>
     <main>
       <div class="grid">
         <section>
-      <h2>Official Website</h2>
-      <p>222 public files prepared.</p>
-      <ul><li><a href="web/en/documents/website-copy-l3ai-customer-website-copy-081.en.html">web/en/documents/website-copy-l3ai-customer-website-copy-081.en.html</a></li>
-<li><a href="web/en/documents/website-copy-l3ai-customer-website-copy-081.en.pdf">web/en/documents/website-copy-l3ai-customer-website-copy-081.en.pdf</a></li>
-<li><a href="web/en/images/lib075-001-website-hero.en.png">web/en/images/lib075-001-website-hero.en.png</a></li>
-<li><a href="web/en/images/lib075-001-website-hero.en.webp">web/en/images/lib075-001-website-hero.en.webp</a></li>
-<li><a href="web/en/images/lib075-009-launch-announcement-artwork.en.png">web/en/images/lib075-009-launch-announcement-artwork.en.png</a></li>
-<li><a href="web/en/images/lib075-009-launch-announcement-artwork.en.webp">web/en/images/lib075-009-launch-announcement-artwork.en.webp</a></li>
-<li><a href="web/en/images/lib075-010-app-download-landing-visual.en.png">web/en/images/lib075-010-app-download-landing-visual.en.png</a></li>
-<li><a href="web/en/images/lib075-010-app-download-landing-visual.en.webp">web/en/images/lib075-010-app-download-landing-visual.en.webp</a></li>
-<li><a href="web/en/images/lib075-015-roadmap-visual.en.png">web/en/images/lib075-015-roadmap-visual.en.png</a></li>
-<li><a href="web/en/images/lib075-015-roadmap-visual.en.webp">web/en/images/lib075-015-roadmap-visual.en.webp</a></li>
-<li><a href="web/en/images/lib075-016-product-module-illustration.en.png">web/en/images/lib075-016-product-module-illustration.en.png</a></li>
-<li><a href="web/en/images/lib075-016-product-module-illustration.en.webp">web/en/images/lib075-016-product-module-illustration.en.webp</a></li></ul>
-    </section>
-<section>
-      <h2>Marketing Materials</h2>
-      <p>18 public files prepared.</p>
-      <ul><li><a href="marketing/en/documents/core-messaging-l3ai-customer-facing-core-messaging-081.en.html">marketing/en/documents/core-messaging-l3ai-customer-facing-core-messaging-081.en.html</a></li>
-<li><a href="marketing/en/documents/core-messaging-l3ai-customer-facing-core-messaging-081.en.pdf">marketing/en/documents/core-messaging-l3ai-customer-facing-core-messaging-081.en.pdf</a></li>
-<li><a href="marketing/en/images/lib075-002-og-image.en.png">marketing/en/images/lib075-002-og-image.en.png</a></li>
-<li><a href="marketing/en/images/lib075-002-og-image.en.webp">marketing/en/images/lib075-002-og-image.en.webp</a></li>
-<li><a href="marketing/en/images/lib075-003-social-square.en.png">marketing/en/images/lib075-003-social-square.en.png</a></li>
-<li><a href="marketing/en/images/lib075-003-social-square.en.webp">marketing/en/images/lib075-003-social-square.en.webp</a></li>
-<li><a href="marketing/en/images/lib075-004-social-banner.en.png">marketing/en/images/lib075-004-social-banner.en.png</a></li>
-<li><a href="marketing/en/images/lib075-004-social-banner.en.webp">marketing/en/images/lib075-004-social-banner.en.webp</a></li>
-<li><a href="marketing/zh-CN/documents/core-messaging-l3ai-customer-facing-core-messaging-081.zh-CN.html">marketing/zh-CN/documents/core-messaging-l3ai-customer-facing-core-messaging-081.zh-CN.html</a></li>
-<li><a href="marketing/zh-CN/documents/core-messaging-l3ai-customer-facing-core-messaging-081.zh-CN.pdf">marketing/zh-CN/documents/core-messaging-l3ai-customer-facing-core-messaging-081.zh-CN.pdf</a></li>
-<li><a href="marketing/zh-CN/images/lib075-002-og-image.zh-CN.png">marketing/zh-CN/images/lib075-002-og-image.zh-CN.png</a></li>
-<li><a href="marketing/zh-CN/images/lib075-002-og-image.zh-CN.webp">marketing/zh-CN/images/lib075-002-og-image.zh-CN.webp</a></li></ul>
-    </section>
-<section>
-      <h2>Media Kit</h2>
-      <p>30 public files prepared.</p>
-      <ul><li><a href="media/en/documents/media-kit-text-l3ai-media-kit-text-081.en.html">media/en/documents/media-kit-text-l3ai-media-kit-text-081.en.html</a></li>
-<li><a href="media/en/documents/media-kit-text-l3ai-media-kit-text-081.en.pdf">media/en/documents/media-kit-text-l3ai-media-kit-text-081.en.pdf</a></li>
-<li><a href="media/en/documents/press-kit-text-l3ai-press-kit-text-081.en.html">media/en/documents/press-kit-text-l3ai-press-kit-text-081.en.html</a></li>
-<li><a href="media/en/documents/press-kit-text-l3ai-press-kit-text-081.en.pdf">media/en/documents/press-kit-text-l3ai-press-kit-text-081.en.pdf</a></li>
-<li><a href="media/en/images/lib075-005-media-kit-cover.en.png">media/en/images/lib075-005-media-kit-cover.en.png</a></li>
-<li><a href="media/en/images/lib075-005-media-kit-cover.en.webp">media/en/images/lib075-005-media-kit-cover.en.webp</a></li>
-<li><a href="media/en/images/lib075-006-kol-kit-cover.en.png">media/en/images/lib075-006-kol-kit-cover.en.png</a></li>
-<li><a href="media/en/images/lib075-006-kol-kit-cover.en.webp">media/en/images/lib075-006-kol-kit-cover.en.webp</a></li>
-<li><a href="media/en/images/lib075-042-story-reel-cover.en.png">media/en/images/lib075-042-story-reel-cover.en.png</a></li>
-<li><a href="media/en/images/lib075-042-story-reel-cover.en.webp">media/en/images/lib075-042-story-reel-cover.en.webp</a></li>
-<li><a href="media/en/images/lib075-044-countdown-graphic.en.png">media/en/images/lib075-044-countdown-graphic.en.png</a></li>
-<li><a href="media/en/images/lib075-044-countdown-graphic.en.webp">media/en/images/lib075-044-countdown-graphic.en.webp</a></li></ul>
-    </section>
-<section>
-      <h2>Investor Deck</h2>
-      <p>92 public files prepared.</p>
-      <ul><li><a href="pitch/en/documents/investor-deck-narrative-l3ai-investor-deck-narrative-081.en.html">pitch/en/documents/investor-deck-narrative-l3ai-investor-deck-narrative-081.en.html</a></li>
-<li><a href="pitch/en/documents/investor-deck-narrative-l3ai-investor-deck-narrative-081.en.pdf">pitch/en/documents/investor-deck-narrative-l3ai-investor-deck-narrative-081.en.pdf</a></li>
-<li><a href="pitch/en/images/lib075-007-whitepaper-cover.en.png">pitch/en/images/lib075-007-whitepaper-cover.en.png</a></li>
-<li><a href="pitch/en/images/lib075-007-whitepaper-cover.en.webp">pitch/en/images/lib075-007-whitepaper-cover.en.webp</a></li>
-<li><a href="pitch/en/images/lib075-008-investor-deck-cover.en.png">pitch/en/images/lib075-008-investor-deck-cover.en.png</a></li>
-<li><a href="pitch/en/images/lib075-008-investor-deck-cover.en.webp">pitch/en/images/lib075-008-investor-deck-cover.en.webp</a></li>
-<li><a href="pitch/en/images/lib075-011-feature-cards.en.png">pitch/en/images/lib075-011-feature-cards.en.png</a></li>
-<li><a href="pitch/en/images/lib075-011-feature-cards.en.webp">pitch/en/images/lib075-011-feature-cards.en.webp</a></li>
-<li><a href="pitch/en/images/lib075-012-ecosystem-diagram.en.png">pitch/en/images/lib075-012-ecosystem-diagram.en.png</a></li>
-<li><a href="pitch/en/images/lib075-012-ecosystem-diagram.en.webp">pitch/en/images/lib075-012-ecosystem-diagram.en.webp</a></li>
-<li><a href="pitch/en/images/lib075-013-ai-workflow-illustration.en.png">pitch/en/images/lib075-013-ai-workflow-illustration.en.png</a></li>
-<li><a href="pitch/en/images/lib075-013-ai-workflow-illustration.en.webp">pitch/en/images/lib075-013-ai-workflow-illustration.en.webp</a></li></ul>
-    </section>
-<section>
-      <h2>Promo Video</h2>
-      <p>16 public files prepared.</p>
-      <ul><li><a href="video/en/frames/frame-001.png">video/en/frames/frame-001.png</a></li>
-<li><a href="video/en/frames/frame-002.png">video/en/frames/frame-002.png</a></li>
-<li><a href="video/en/frames/frame-003.png">video/en/frames/frame-003.png</a></li>
-<li><a href="video/en/frames/frame-004.png">video/en/frames/frame-004.png</a></li>
-<li><a href="video/en/frames/frame-005.png">video/en/frames/frame-005.png</a></li>
-<li><a href="video/en/renders/L3AI_Promo_prod-engine-001-local.en.mp4">video/en/renders/L3AI_Promo_prod-engine-001-local.en.mp4</a></li>
-<li><a href="video/zh-CN/frames/frame-001.png">video/zh-CN/frames/frame-001.png</a></li>
-<li><a href="video/zh-CN/frames/frame-002.png">video/zh-CN/frames/frame-002.png</a></li>
-<li><a href="video/zh-CN/frames/frame-003.png">video/zh-CN/frames/frame-003.png</a></li>
-<li><a href="video/zh-CN/frames/frame-004.png">video/zh-CN/frames/frame-004.png</a></li>
-<li><a href="video/zh-CN/frames/frame-005.png">video/zh-CN/frames/frame-005.png</a></li>
-<li><a href="video/zh-CN/renders/L3AI_Promo_prod-engine-001-local.zh-CN.mp4">video/zh-CN/renders/L3AI_Promo_prod-engine-001-local.zh-CN.mp4</a></li></ul>
-    </section>
+          <h2>Website</h2>
+          <p>Public bilingual website pages and downloadable PDF exports.</p>
+          <ul>
+            <li><a href="web/en/documents/website-copy-l3ai-customer-website-copy-081.en.html">English website page</a></li>
+            <li><a href="web/zh-CN/documents/website-copy-l3ai-customer-website-copy-081.zh-CN.html">中文官网页面</a></li>
+            <li><a href="web/en/documents/website-copy-l3ai-customer-website-copy-081.en.pdf">English website PDF</a></li>
+            <li><a href="web/zh-CN/documents/website-copy-l3ai-customer-website-copy-081.zh-CN.pdf">中文官网 PDF</a></li>
+          </ul>
+        </section>
+        <section>
+          <h2>Resources</h2>
+          <p>Launch-ready materials for media review, investor conversations, and campaign preparation.</p>
+          <ul>
+            <li><a href="resources.html#media-kit">Media kit</a></li>
+            <li><a href="resources.html#investor-deck">Investor deck</a></li>
+            <li><a href="resources.html#marketing-assets">Marketing assets</a></li>
+            <li><a href="resources.html#video">Promo video</a></li>
+          </ul>
+        </section>
+        <section>
+          <h2>Get Started</h2>
+          <p>A simple public journey for first-time visitors, partners, media, and internal launch operators.</p>
+          <ul>
+            <li><a href="get-started.html#visitors">Visitors</a></li>
+            <li><a href="get-started.html#media">Media</a></li>
+            <li><a href="get-started.html#partners">Partners</a></li>
+            <li><a href="get-started.html#contact">Contact and feedback</a></li>
+          </ul>
+        </section>
+        <section>
+          <h2>Public Index</h2>
+          <p>Machine-readable public asset inventory and sitemap for review and verification.</p>
+          <ul>
+            <li><a href="PUBLIC_ASSET_MANIFEST.json">Public asset manifest</a></li>
+            <li><a href="sitemap.html">Human-readable sitemap</a></li>
+            <li><a href="sitemap.xml">XML sitemap</a></li>
+          </ul>
+        </section>
+        <section class="wide">
+          <h2>Launch Content Boundary</h2>
+          <p>This public repository contains only approved public-facing static materials. Private source code, backend services, security records, credentials, and non-public operational records are intentionally excluded.</p>
+        </section>
       </div>
     </main>
     <footer>
-      Generated 2026-07-01T09:37:13.106Z. Source: approved public export package only.
+      Public repository: <a href="https://github.com/xiaohongshu0215-afk/l3ai-public-site">github.com/xiaohongshu0215-afk/l3ai-public-site</a>
     </footer>
   </body>
 </html>

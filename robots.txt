@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xiaohongshu0215-afk.github.io/l3ai-public-site/sitemap.xml
