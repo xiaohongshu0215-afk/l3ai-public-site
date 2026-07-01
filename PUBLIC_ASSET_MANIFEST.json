@@ -1,8 +1,8 @@
 {
   "site": "l3ai-public-site",
   "base_url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/",
-  "asset_count": 617,
-  "generated_at": "2026-07-01T20:18:28.324Z",
+  "asset_count": 630,
+  "generated_at": "2026-07-01T20:38:56.513Z",
   "assets": [
     {
       "path": ".gitattributes",
@@ -15,9 +15,19 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "ai-quant-workflow.html",
+      "bytes": 7107,
+      "sha256": "abe04da55286ccfa109564229ed21fd73d8641bb5f3bb129e849362d876b4e7d"
+    },
+    {
       "path": "assets/public-site.css",
-      "bytes": 26404,
-      "sha256": "63ba24bfd62350022d45aef96ba9ced6bbe4dcef987345bb8839cf8cf2f2b4d2"
+      "bytes": 27978,
+      "sha256": "fb141f8ff1931e66224006ec4fb938ec58afc73ed7f668237213a15f915bdb08"
+    },
+    {
+      "path": "business-model.html",
+      "bytes": 7018,
+      "sha256": "44ce5087f496e38d549a243c6510a21b5ee9aeac00ec524826213845b8ae1dbc"
     },
     {
       "path": "collateral/alpha-engine/L3AI_Alpha_Engine_Public_Narrative_Pack_v1.html",
@@ -38,6 +48,21 @@
       "path": "collateral/alpha-engine/PUBLIC_COLLATERAL_021_MANIFEST.json",
       "bytes": 3246,
       "sha256": "d3bf79935a1ac1a5feb0fadd5559655384aed2c5220fc789b1aa36214714bc82"
+    },
+    {
+      "path": "collateral/conversion/L3AI_Premium_Conversion_Experience_Report_028.md",
+      "bytes": 2058,
+      "sha256": "e0b9725d47fa1e735d0f156568a1bfd33d5e82e8af97d42b53bc010fa59a7054"
+    },
+    {
+      "path": "collateral/conversion/PREMIUM_CONVERT_028_GAP_TRACKER.md",
+      "bytes": 1603,
+      "sha256": "3a5bb63e5e549ef6086b775c5b9f653e5cc2d7c4f701c419afbccdc2dc19ed0d"
+    },
+    {
+      "path": "collateral/conversion/PREMIUM_CONVERT_028_MANIFEST.json",
+      "bytes": 3372,
+      "sha256": "8a4c46f79d552a4aa03b2cfe58dd615ef03fdf799ef9cb0159ee4052c49f32b7"
     },
     {
       "path": "collateral/deck/L3AI_Executive_Deck_v2_speaker_notes.md",
@@ -1155,6 +1180,21 @@
       "sha256": "a8272cfede3410f52302d02730f3364f6eb9765222985f0ffad2e4319e173fb8"
     },
     {
+      "path": "contact-partner.html",
+      "bytes": 7195,
+      "sha256": "afd292efed931dc5f0b63eb32033a616b655c08e1bc66f0a3acdf948528a1e69"
+    },
+    {
+      "path": "ecosystem.html",
+      "bytes": 7015,
+      "sha256": "f637750b9afffb79a3bb1b63bf7022d45cdfdcc8c598d48948fd5f78065e94d1"
+    },
+    {
+      "path": "enterprise-use-cases.html",
+      "bytes": 7143,
+      "sha256": "171c1bbc8183d69df215a53efcd480a85cf3bf2da96f3ccfb451c354312706e2"
+    },
+    {
       "path": "faq.html",
       "bytes": 8337,
       "sha256": "422d1190772a82e2c8b323f57edd29d4bc468cab7e0be264f9169bafb30151c0"
@@ -1166,8 +1206,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 15251,
-      "sha256": "83e4d1b1ec4547a079bb4d97ec651c651c9d3806679de078b8709403e9d9c3d6"
+      "bytes": 16826,
+      "sha256": "4ef962a74adc217f83d28cd45f8e05bb78887618b0510b6926f9ef5f6fd68c10"
     },
     {
       "path": "marketing/en/documents/core-messaging-l3ai-customer-facing-core-messaging-081.en.html",
@@ -1860,14 +1900,24 @@
       "sha256": "0ff33174240478b68f7fdf3db1b92e06615eb1ca5cd9862373a73538eeebeb6f"
     },
     {
+      "path": "product-overview.html",
+      "bytes": 7276,
+      "sha256": "77969d28167a65ae7797e197bd48d7a0c870ec4f96e1507723a448be39b7ea37"
+    },
+    {
       "path": "README.md",
       "bytes": 480,
       "sha256": "3c994fc17b85baf5b62896e8892a57b4e00c2114fd6c93fdcb1192e9744deb3c"
     },
     {
       "path": "resources.html",
-      "bytes": 26912,
-      "sha256": "513bc55b16ba292ac0cb158049b826bd01446ca714dad3325a7c410ab2043ac7"
+      "bytes": 28815,
+      "sha256": "4638b9c2565f45f4b9c5ba4da46a12efc306ec00dfd8e19c977aafd3624a385f"
+    },
+    {
+      "path": "roadmap.html",
+      "bytes": 7017,
+      "sha256": "3f8e22e90a0b7fb741f73262cb75ae467e982ff54277793d6592aac60c1d3ca1"
     },
     {
       "path": "robots.txt",
@@ -1885,9 +1935,19 @@
       "sha256": "8335b43508b511846420e77fd5193272bee9f128ddd8b601df0b577d00cc5e8c"
     },
     {
+      "path": "scripts/build-premium-convert-028.mjs",
+      "bytes": 26487,
+      "sha256": "f8f660b3bb24b976971a846d63fee0a672adb54abdfb9cd590422089ed6e63be"
+    },
+    {
       "path": "scripts/build-premium-video-027.mjs",
       "bytes": 10743,
       "sha256": "0ee3cf6f40a9f0d9e9115ddcd62179aad4f05d188d050ee681b71db81108e3bc"
+    },
+    {
+      "path": "security-trust.html",
+      "bytes": 7037,
+      "sha256": "4443c97b1c59e0adf20459faa0509435679d590ca0bb6bd25769ac674e5bb933"
     },
     {
       "path": "showcase-ai-quant.html",
@@ -1911,13 +1971,13 @@
     },
     {
       "path": "sitemap.html",
-      "bytes": 8701,
-      "sha256": "df03a392aa685cd07260076935008090be1c9266c0b1b326dd9bc093e96a71bd"
+      "bytes": 10055,
+      "sha256": "3d525fc0f725b7cbf9d4f44b05f8b39cd44f193ed1b9a5fe8cf2c078656dca0e"
     },
     {
       "path": "sitemap.xml",
-      "bytes": 5958,
-      "sha256": "913c70a6e688877f45bc5487ab4ed4ddba89916da527763c969aa4986d5742ea"
+      "bytes": 5157,
+      "sha256": "b7f10960209da1e9e4ff052329b56d345c31fd9abece7be2631b65992fbb5c58"
     },
     {
       "path": "video/en/frames/frame-001.png",
@@ -1978,6 +2038,11 @@
       "path": "video/zh-CN/README.md",
       "bytes": 319,
       "sha256": "f40c872dee9de02d50f8b85754bcc6d887e15f999ba11d1c525a14536e8f4b41"
+    },
+    {
+      "path": "wallet-experience.html",
+      "bytes": 7071,
+      "sha256": "8f8219962a04bf3544c1040ae727e381db79322bf27694179887285307609964"
     },
     {
       "path": "web/en/documents/website-copy-l3ai-customer-website-copy-081.en.html",

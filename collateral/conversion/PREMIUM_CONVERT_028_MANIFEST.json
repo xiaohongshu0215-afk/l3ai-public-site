@@ -1,0 +1,83 @@
+{
+  "manifest_id": "PREMIUM_CONVERT_028_MANIFEST",
+  "task_id": "PREMIUM-CONVERT-028",
+  "generated_at": "2026-07-01T20:38:56.185Z",
+  "status": "prepared",
+  "public_base_url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/",
+  "product_pages": [
+    {
+      "title": "L3AI Product Overview",
+      "path": "product-overview.html",
+      "url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/product-overview.html",
+      "sha256": "77969d28167a65ae7797e197bd48d7a0c870ec4f96e1507723a448be39b7ea37"
+    },
+    {
+      "title": "L3AI AI Quant Workflow",
+      "path": "ai-quant-workflow.html",
+      "url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/ai-quant-workflow.html",
+      "sha256": "abe04da55286ccfa109564229ed21fd73d8641bb5f3bb129e849362d876b4e7d"
+    },
+    {
+      "title": "L3AI Wallet Experience",
+      "path": "wallet-experience.html",
+      "url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/wallet-experience.html",
+      "sha256": "8f8219962a04bf3544c1040ae727e381db79322bf27694179887285307609964"
+    },
+    {
+      "title": "L3AI Business Model",
+      "path": "business-model.html",
+      "url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/business-model.html",
+      "sha256": "44ce5087f496e38d549a243c6510a21b5ee9aeac00ec524826213845b8ae1dbc"
+    },
+    {
+      "title": "L3AI Ecosystem",
+      "path": "ecosystem.html",
+      "url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/ecosystem.html",
+      "sha256": "f637750b9afffb79a3bb1b63bf7022d45cdfdcc8c598d48948fd5f78065e94d1"
+    },
+    {
+      "title": "L3AI Security and Trust",
+      "path": "security-trust.html",
+      "url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/security-trust.html",
+      "sha256": "4443c97b1c59e0adf20459faa0509435679d590ca0bb6bd25769ac674e5bb933"
+    },
+    {
+      "title": "L3AI Roadmap",
+      "path": "roadmap.html",
+      "url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/roadmap.html",
+      "sha256": "3f8e22e90a0b7fb741f73262cb75ae467e982ff54277793d6592aac60c1d3ca1"
+    },
+    {
+      "title": "L3AI Enterprise Use Cases",
+      "path": "enterprise-use-cases.html",
+      "url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/enterprise-use-cases.html",
+      "sha256": "171c1bbc8183d69df215a53efcd480a85cf3bf2da96f3ccfb451c354312706e2"
+    },
+    {
+      "title": "L3AI Contact and Partner Review",
+      "path": "contact-partner.html",
+      "url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/contact-partner.html",
+      "sha256": "afd292efed931dc5f0b63eb32033a616b655c08e1bc66f0a3acdf948528a1e69"
+    }
+  ],
+  "outputs": [
+    "product-overview.html",
+    "ai-quant-workflow.html",
+    "wallet-experience.html",
+    "business-model.html",
+    "ecosystem.html",
+    "security-trust.html",
+    "roadmap.html",
+    "enterprise-use-cases.html",
+    "contact-partner.html",
+    "collateral/conversion/PREMIUM_CONVERT_028_GAP_TRACKER.md",
+    "collateral/conversion/L3AI_Premium_Conversion_Experience_Report_028.md",
+    "collateral/conversion/PREMIUM_CONVERT_028_MANIFEST.json"
+  ],
+  "remaining_manual_creative_work": [
+    "professional human voice-over and audio mastering",
+    "authenticated product screen recordings",
+    "advanced motion graphics and localized campaign variants",
+    "approved contact or conversion endpoint"
+  ]
+}

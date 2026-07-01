@@ -96,7 +96,8 @@ img {
 }
 
 .site-links a:hover,
-.site-links a:focus-visible {
+.site-links a:focus-visible,
+.site-links a[aria-current="page"] {
   background: #edf3ff;
   color: var(--blue-dark);
   outline: none;
@@ -1006,6 +1007,45 @@ section.card {
   padding: 58px 24px;
 }
 
+.conversion-hero {
+  background:
+    linear-gradient(90deg, rgba(6, 12, 24, .98), rgba(12, 23, 42, .92) 58%, rgba(12, 23, 42, .72)),
+    #0b1120;
+  color: #ffffff;
+}
+
+.conversion-hero-inner {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 78px 24px;
+  display: grid;
+  grid-template-columns: minmax(0, .9fr) minmax(360px, .85fr);
+  gap: 34px;
+  align-items: center;
+}
+
+.conversion-hero h1 {
+  color: #ffffff;
+  max-width: 780px;
+}
+
+.conversion-visual {
+  margin: 0;
+  border: 1px solid rgba(255, 255, 255, .18);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, .08);
+  box-shadow: 0 24px 54px rgba(0, 0, 0, .25);
+  overflow: hidden;
+}
+
+.conversion-visual img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  object-position: top center;
+}
+
 .intro-strip {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -1074,6 +1114,44 @@ section.card {
 .flagship-video-player p {
   margin: 12px 0 0;
   font-size: 14px;
+}
+
+.conversion-path-section {
+  padding-top: 72px;
+}
+
+.product-page-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.product-page-grid a {
+  min-width: 0;
+  min-height: 132px;
+  padding: 20px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #ffffff;
+  color: var(--ink);
+  text-decoration: none;
+  box-shadow: 0 12px 30px rgba(16, 24, 40, .08);
+}
+
+.product-page-grid a:hover,
+.product-page-grid a:focus-visible {
+  border-color: rgba(21, 94, 239, .45);
+  outline: none;
+}
+
+.product-page-grid strong,
+.product-page-grid span {
+  display: block;
+}
+
+.product-page-grid span {
+  margin-top: 8px;
+  color: var(--muted);
 }
 
 .section-heading {
@@ -1436,10 +1514,12 @@ section.card {
   .showcase-flow,
   .comparison-matrix,
   .split-note,
+  .conversion-hero-inner,
   .intro-strip,
   .product-flow,
   .visual-proof-section,
   .flagship-video,
+  .product-page-grid,
   .proof-gallery,
   .capability-grid,
   .roadmap-columns,
@@ -1460,7 +1540,8 @@ section.card {
   }
 
   .premium-hero-inner,
-  .premium-section {
+  .premium-section,
+  .conversion-hero-inner {
     padding-left: 18px;
     padding-right: 18px;
   }
