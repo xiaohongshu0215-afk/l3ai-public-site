@@ -1,8 +1,8 @@
 {
   "site": "l3ai-public-site",
   "base_url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/",
-  "asset_count": 693,
-  "generated_at": "2026-07-01T21:54:40.290Z",
+  "asset_count": 757,
+  "generated_at": "2026-07-01T22:18:06.087Z",
   "assets": [
     {
       "path": ".gitattributes",
@@ -63,6 +63,326 @@
       "path": "collateral/conversion/PREMIUM_CONVERT_028_MANIFEST.json",
       "bytes": 3372,
       "sha256": "08b9c96e338e86e5b9122cfd21aa7045fe9e3c7b4c07f1ec83fd8898661b472a"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-01.png",
+      "bytes": 84889,
+      "sha256": "13a6f935fd3074eb9ca481882dc2bb7531991088e1e8067e3a5a6741b436f089"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-02.png",
+      "bytes": 64594,
+      "sha256": "e5047b84bd98afb7881b3d2668e1a6097915318db7730ed3f85639dcd939ecd4"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-03.png",
+      "bytes": 54517,
+      "sha256": "e8df962f63b9647791b763ab70b648b3a4637620e12169a5f8cbf408a407f5f2"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-04.png",
+      "bytes": 194008,
+      "sha256": "e4bbe29eb9e60f7b33dffe825883068bc84ad6de57e4dee82448e5071ec35cc1"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-05.png",
+      "bytes": 70047,
+      "sha256": "ab27d9c8e4d7b305c54c92af4154c50d91129db4fc6b76d62e7be913bd6e6165"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-06.png",
+      "bytes": 185563,
+      "sha256": "3dffa2014c867b39ddd3b1351264994bc93f009dc02754180054fc4c0bf6aef5"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-07.png",
+      "bytes": 120865,
+      "sha256": "08535cb50d00bce16ee1e802f40ad207f0bcfd19af660e7f99d2517418b903db"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-08.png",
+      "bytes": 124576,
+      "sha256": "4b9ca168c614c2d2cd1e6e6f298d9fc9a74b808b18b3f65a9329ec6d2965796d"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-09.png",
+      "bytes": 139759,
+      "sha256": "38e446de03b90cc3621e6fcf93f1030fba703c10adee8e1cbeca94119c6d14e8"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-10.png",
+      "bytes": 50282,
+      "sha256": "43c3f4f2b4d9a8ce03e32668e8bcc0240395f2dc7a9cb6f7f5b16cca63d51ba2"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-11.png",
+      "bytes": 55852,
+      "sha256": "8f7a4a1c5cf187b6651a69356a98765a7e1716baeb225088fba236d4173cad81"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-12.png",
+      "bytes": 50202,
+      "sha256": "575fe470dadd8274fe1460d152668066a8825b4d1c3f1b6de892148200525797"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-13.png",
+      "bytes": 65769,
+      "sha256": "df33aa4e840d937f2a593ab5904e8a522ce51000d47c39fd3c5e0bd838d6f2b4"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-14.png",
+      "bytes": 77734,
+      "sha256": "66761efdc6724cca29f478b7e89bb4e8bea2c4a6ca20a74ee2640219d4bb2514"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-15.png",
+      "bytes": 50933,
+      "sha256": "7f596352eae31369adee3adbb91d20fff07df27c1c513fb2c9254ff66261d4a6"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-16.png",
+      "bytes": 220110,
+      "sha256": "565c2e22013803621f748d8426f7333ae29c8beb0999e4eb293bffd09c09749a"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-17.png",
+      "bytes": 67737,
+      "sha256": "af9a066441a9a2df8e3e0de77434fd97aa275a76ac6ce8e399fe5f598b291a66"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-18.png",
+      "bytes": 51788,
+      "sha256": "d2978fa3ed2f2378dfe24dd593b21851a2cde9eff15ec69582565579cf224521"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-19.png",
+      "bytes": 57322,
+      "sha256": "9336c106f74e3d12f93d5f8f97a89ed38eef38e002ee9ffd9c56c67afabed006"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-20.png",
+      "bytes": 69318,
+      "sha256": "21f307ab804a6bd2dd913949b979ad8c438497cc7132e0dd1993c74ccbc5be55"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-21.png",
+      "bytes": 51253,
+      "sha256": "dc5110e80ffed9346419af9a9adefe040c062292bd1876809ed811d2c21c8084"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-22.png",
+      "bytes": 49307,
+      "sha256": "aabc04ea753e15bcc6165570aa7da87bca7870c7183e0e2517c798e2b4935bdf"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-23.png",
+      "bytes": 52007,
+      "sha256": "7cbb90593242ef9fc57da8742f7e4cab2de4d8f7bb278e181511161395b6c781"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-24.png",
+      "bytes": 48317,
+      "sha256": "dda9c6d71a5c507c0938a8003da50fa4e587127327b54d4b7ab89810dbddb373"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-25.png",
+      "bytes": 60244,
+      "sha256": "169abac04f2a167f620e019196bbfd3f21a703524348f472762068828961a42a"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-26.png",
+      "bytes": 63784,
+      "sha256": "412ecfe0bb2ded2caf862a9ab3e8a8ee4a6777ce835a7a4e5086a516cdd33502"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-27.png",
+      "bytes": 51645,
+      "sha256": "51bfc1f1b6eb4e61bf71b4a02856ffe00d34d220cbae5bacf2f975c4941adc31"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-28.png",
+      "bytes": 69272,
+      "sha256": "c2b67df540744a83e3581b3b015b3fcd22112d2634873c4e616bc8c5e45e5f4e"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/deck-contact-sheet.png",
+      "bytes": 858137,
+      "sha256": "cec6915105ede45e2606c8b12f655099cc4b6a4f7692cc7858683e9efc43e600"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/deck-montage.webp",
+      "bytes": 42636,
+      "sha256": "a65cb3eb654632e24acafe0be7fab8f94cb9d66058ac4488a3cc57c7216989f7"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-01.layout.json",
+      "bytes": 17462,
+      "sha256": "1410906b76a2015cba5c615edf9af429db17b868cf9a42225d555b73d3690598"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-02.layout.json",
+      "bytes": 13851,
+      "sha256": "58e75e5773b1ac7baf1a5fb826c155a3661092c4e147692a9001c23e35cbc3c1"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-03.layout.json",
+      "bytes": 23592,
+      "sha256": "82b6510537a1038a3162dd37e3d8bd7c33ccbb21233cff9be36b64f22fa40ebd"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-04.layout.json",
+      "bytes": 14575,
+      "sha256": "93e07d51b33ca86f1218bf765ec893dd1bf9b5cb178ece5b14ab87cee7915a8d"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-05.layout.json",
+      "bytes": 33892,
+      "sha256": "73efe870add33e13de6a0e8c4e7146528750e88574ed5c5ad4820fff9d898bb9"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-06.layout.json",
+      "bytes": 14319,
+      "sha256": "9bc6f0df40456ba8936c40e34586e62337dcedd8413798eadc9dfa8c69d567b0"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-07.layout.json",
+      "bytes": 15981,
+      "sha256": "655502a1c86c14bacf9edcfeed316fead12301d7c3ad95097047f73fa094fef6"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-08.layout.json",
+      "bytes": 15949,
+      "sha256": "e341505469e748a2de95ed834ad2a5b6c3d04b35285c4c39128c9fdd7bd3bacd"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-09.layout.json",
+      "bytes": 15976,
+      "sha256": "bcd257390c944a8961c5798e117698ead509f915a5e07f7b570e42fad926fe59"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-10.layout.json",
+      "bytes": 32541,
+      "sha256": "ac271653c1d40284a24e16b0f8310d5c180f71d10c72d2477d9edfd1d70aeac2"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-11.layout.json",
+      "bytes": 30554,
+      "sha256": "3c2bfed16a188796778708b311cf1ba3f08b1d525efb1927e1d187d611a87030"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-12.layout.json",
+      "bytes": 23710,
+      "sha256": "c2a7e905a36f2a4b545fb6048fc40511aa42ed6a8a096f8cfce73116bebcc477"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-13.layout.json",
+      "bytes": 30714,
+      "sha256": "21aa16a7bf92aa1aca012d1d6f5b488aa9e19f761948b9254bbb6840954c780a"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-14.layout.json",
+      "bytes": 14359,
+      "sha256": "2cc74a9ab449b8457048b86276224cf530e770aeb9ff18236ad3142284274e7e"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-15.layout.json",
+      "bytes": 21970,
+      "sha256": "b79c5877e206aaab8ad99fdf20e1bbfac5efb672c089644f28a59f65f8616082"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-16.layout.json",
+      "bytes": 16153,
+      "sha256": "4044734ab7a56aed741605a332f9a55f302a42e4aabcb22a188a42f6230bf282"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-17.layout.json",
+      "bytes": 29851,
+      "sha256": "73cf2dc3e052bf4238bc536c159cf82eac10fae6e4744e1bb5ebd6f87763c055"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-18.layout.json",
+      "bytes": 27830,
+      "sha256": "9feac8299e1d93b90e7eeffca3c671538927f7f972c3e49174f86444791ad58d"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-19.layout.json",
+      "bytes": 28312,
+      "sha256": "d1c16075f45ecdfb90fc7dd1843b90b4f91a9d4b74d916f7c7579749cf1cddac"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-20.layout.json",
+      "bytes": 25120,
+      "sha256": "7e710e5f4c75b3dad78f9e7957f2f354a4fe1b77cf2168672e3426b5e126d290"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-21.layout.json",
+      "bytes": 25026,
+      "sha256": "e14459eafa1e86486f78dad0bf2303634cb4a7b598a03c42d33222833b317e90"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-22.layout.json",
+      "bytes": 24765,
+      "sha256": "c34f772542022321002d652f4695e49cd163e66ff07dfe2e2e6d724b7ce8361f"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-23.layout.json",
+      "bytes": 24880,
+      "sha256": "55ccce1be8e82b1e2f0a4541bae0ef5079febe595a7007ad2d7719337a9e9533"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-24.layout.json",
+      "bytes": 20999,
+      "sha256": "32c1aff8da873d65078e6021fa8edec9855c64cd72e018e88b4a4d6b08ca6bc3"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-25.layout.json",
+      "bytes": 30624,
+      "sha256": "b9a3ccc78cb3f619df0212aca8f50fd1328907cd046b8125819304ca96973419"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-26.layout.json",
+      "bytes": 30794,
+      "sha256": "ba590368307ecd30217afde3421c4c1d826a5d5f4358b310e672adc21c109cac"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-27.layout.json",
+      "bytes": 23567,
+      "sha256": "830af2681cbfa97b1c1a7c063f076cf4e41760b0c6e03eeea3fc5213d6939e5c"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/slide-28.layout.json",
+      "bytes": 20124,
+      "sha256": "50cdc275225999f9fa15486ff288d6ca8280db5deaba21568aded26ad8320fd7"
+    },
+    {
+      "path": "collateral/deck/L3AI_ENTERPRISE_ROADSHOW_031_MANIFEST.json",
+      "bytes": 7091,
+      "sha256": "d38e0e6ee49c19fcdce20c54b870026eac68b42dc8dfe31efe6bf041a93fedfd"
+    },
+    {
+      "path": "collateral/deck/L3AI_Enterprise_Roadshow_Deck_031.html",
+      "bytes": 11830,
+      "sha256": "3ce9a528eaf9eeb26f845a83dacbd3f4fb4a12e01c423e60c24d8a26aacd8cce"
+    },
+    {
+      "path": "collateral/deck/L3AI_Enterprise_Roadshow_Deck_031.pdf",
+      "bytes": 1846976,
+      "sha256": "2688788d8fc935adc3a9095fc9ac3e40aaccdadd1d632c0cb42e505763a0072d"
+    },
+    {
+      "path": "collateral/deck/L3AI_Enterprise_Roadshow_Deck_031.pptx",
+      "bytes": 6747858,
+      "sha256": "181cc54474b0091f63a4b40ac10a20bf064e895f6e5e8f7bc11c59d54fa51539"
+    },
+    {
+      "path": "collateral/deck/L3AI_Enterprise_Roadshow_Deck_031.pptx.inspect.ndjson",
+      "bytes": 95363,
+      "sha256": "e8b178ba087df2ae61463cb6f5ff7f49dcc788759933fc881700ea1150bbbc13"
+    },
+    {
+      "path": "collateral/deck/L3AI_Enterprise_Roadshow_Deck_031_speaker_notes.md",
+      "bytes": 12498,
+      "sha256": "3aedc2591f9278bb2076fd8bfb528abb2c1029372e87eb4c90c5665b309cbe13"
     },
     {
       "path": "collateral/deck/L3AI_Executive_Deck_v2.pptx",
@@ -1506,8 +1826,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 22159,
-      "sha256": "d3f055b3a314219450dfb2f55efb74d3d5dbf618811f2b6cab545adbd34eb0dd"
+      "bytes": 22172,
+      "sha256": "b61017e5eea25b6b8091f1e7d9fff95b8bba0da1c7a1ee2571eea63a65dbb062"
     },
     {
       "path": "marketing/en/documents/core-messaging-l3ai-customer-facing-core-messaging-081.en.html",
@@ -2206,8 +2526,8 @@
     },
     {
       "path": "PUBLIC_ASSET_MANIFEST.json",
-      "bytes": 129828,
-      "sha256": "59558ce44d863d6b7add9ceaa640b69572a22a0137f6de1fe38f845504a5d140"
+      "bytes": 142466,
+      "sha256": "10e8cc0bdd11b46751af24b376f4c284eca36da0d7d39b72ecd8858a0089d5b1"
     },
     {
       "path": "README.md",
@@ -2216,8 +2536,8 @@
     },
     {
       "path": "resources.html",
-      "bytes": 33148,
-      "sha256": "0284c2633fd30e503d2ea38ee015839bb59a556b65b7f8d74c854cab1174f397"
+      "bytes": 34319,
+      "sha256": "1b6fd971304a413f53fb73972027cf3a59a2713d2185bcaf1d9cf5b6f2535bd2"
     },
     {
       "path": "roadmap.html",

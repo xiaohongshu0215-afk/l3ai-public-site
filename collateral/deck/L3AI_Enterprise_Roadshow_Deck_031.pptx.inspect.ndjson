@@ -1,0 +1,581 @@
+{"kind":"deck","id":"pr/nbqw2r","name":"Deck"}
+{"kind":"layout","layoutId":"a8de3462-2fbb-40ab-9753-e43da38ecf93","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"a596e29b-a6e8-4949-80fd-2cd56c2647cb","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/yzri1s","slide":1,"title":"L3AI","textShapes":10}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":1,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/rytsvu9k","slide":1,"text":"OPENING","textPreview":"OPENING","textChars":7,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/yd0z6103","slide":1,"text":"031 / 01","textPreview":"031 / 01","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":1,"text":"L3AI Enterprise Roadshow","textPreview":"L3AI Enterprise Roadshow","textChars":24,"textLines":1,"bbox":[64,122,620,128]}
+{"kind":"textbox","id":"sh/rmhk3q5o","slide":1,"text":"L3AI 企业级路演","textPreview":"L3AI 企业级路演","textChars":10,"textLines":1,"bbox":[64,268,620,42]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":1,"text":"AI-native intelligence for Web3 decisions, built around clarity, wallet awareness and public-safe trust boundaries.","textPreview":"AI-native intelligence for Web3 decisions, built around clarity, wallet awareness and public-safe trust boundaries.","textChars":115,"textLines":1,"bbox":[64,348,620,74]}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":1,"text":"面向 Web3 决策的 AI 原生智能平台，以清晰、钱包感知和公开安全边界为核心。","textPreview":"面向 Web3 决策的 AI 原生智能平台，以清晰、钱包感知和公开安全边界为核心。","textChars":41,"textLines":1,"bbox":[64,434,620,52]}
+{"kind":"shape","id":"sh/g3ex0nux","slide":1,"bbox":[64,560,138,34]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":1,"text":"Public-safe","textPreview":"Public-safe","textChars":11,"textLines":1,"bbox":[76,568,114,18]}
+{"kind":"shape","id":"sh/fu18jqh0","slide":1,"bbox":[218,560,138,34]}
+{"kind":"textbox","id":"sh/4fu18jqh","slide":1,"text":"Roadshow","textPreview":"Roadshow","textChars":8,"textLines":1,"bbox":[230,568,114,18]}
+{"kind":"shape","id":"sh/x0nuxc3y","slide":1,"bbox":[372,560,138,34]}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":1,"text":"Bilingual","textPreview":"Bilingual","textChars":9,"textLines":1,"bbox":[384,568,114,18]}
+{"kind":"image","id":"im/cvixczed","slide":1,"name":"","geometry":"roundRect","alt":"L3AI enterprise launch visual","bbox":[702,96,474,266]}
+{"kind":"notes","id":"nt/yzri1s","slide":1,"text":"L3AI Enterprise Roadshow\nL3AI 企业级路演\nOpen with L3AI as a product-led clarity platform. Do not frame the deck as an investment solicitation, token sale, yield product or guaranteed outcome story.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/8q0hlt","slide":2,"title":"L3AI","textShapes":7}
+{"kind":"textbox","id":"sh/vy90je9c","slide":2,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":2,"text":"WHY NOW","textPreview":"WHY NOW","textChars":7,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":2,"text":"031 / 02","textPreview":"031 / 02","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/61032lsz","slide":2,"text":"Web3 users do not need more noise. They need context they can trust.","textPreview":"Web3 users do not need more noise. They need context they can trust.","textChars":68,"textLines":1,"bbox":[64,104,880,118]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":2,"text":"Web3 用户不缺信息，缺的是可信语境。","textPreview":"Web3 用户不缺信息，缺的是可信语境。","textChars":20,"textLines":1,"bbox":[64,234,780,38]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":2,"text":"• Wallet activity, market context, product modules and community updates live across disconnected surfaces.\n• AI can help organize that context, but only when the product keeps uncertainty and risk visible.","textPreview":"• Wallet activity, market context, product modules and community updates live across disconnected surfaces. | • AI can help organize that...","textChars":206,"textLines":2,"bbox":[64,324,720,116]}
+{"kind":"shape","id":"sh/dsji5sne","slide":2,"bbox":[64,500,900,92]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":2,"text":"By the end of this deck: understand why L3AI should be judged as a clarity infrastructure layer, not a hype-driven trading product.","textPreview":"By the end of this deck: understand why L3AI should be judged as a clarity infrastructure layer, not a hype-driven trading product.","textChars":131,"textLines":1,"bbox":[88,520,850,52]}
+{"kind":"notes","id":"nt/8q0hlt","slide":2,"text":"Web3 users do not need more noise. They need context they can trust.\nWeb3 用户不缺信息，缺的是可信语境。\nThis slide defines the communication job. Make the tension plain: abundance of information does not equal understanding.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/zmzqjx","slide":3,"title":"L3AI","textShapes":14}
+{"kind":"textbox","id":"sh/47y1kre1","slide":3,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/bm58z25k","slide":3,"text":"PROBLEM","textPreview":"PROBLEM","textChars":7,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":3,"text":"031 / 03","textPreview":"031 / 03","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/tgfmlkjm","slide":3,"text":"The user problem is understanding before action.","textPreview":"The user problem is understanding before action.","textChars":48,"textLines":1,"bbox":[64,84,760,102]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":3,"text":"核心问题是行动前的理解。","textPreview":"核心问题是行动前的理解。","textChars":12,"textLines":1,"bbox":[64,192,760,38]}
+{"kind":"shape","id":"sh/bat47y1k","slide":3,"bbox":[64,302,354,250]}
+{"kind":"shape","id":"sh/mp0bi9s3","slide":3,"bbox":[86,328,138,34]}
+{"kind":"textbox","id":"sh/t83itgfm","slide":3,"text":"信号分散","textPreview":"信号分散","textChars":4,"textLines":1,"bbox":[98,336,114,18]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":3,"text":"Fragmented signals","textPreview":"Fragmented signals","textChars":18,"textLines":1,"bbox":[90,382,302,42]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":3,"text":"Market, wallet and product information arrives without a shared structure.","textPreview":"Market, wallet and product information arrives without a shared structure.","textChars":74,"textLines":1,"bbox":[90,446,302,72]}
+{"kind":"shape","id":"sh/judg7ads","slide":3,"bbox":[463,302,354,250]}
+{"kind":"shape","id":"sh/cfa9w3m9","slide":3,"bbox":[485,328,138,34]}
+{"kind":"textbox","id":"sh/1032lszq","slide":3,"text":"风险语言不清晰","textPreview":"风险语言不清晰","textChars":7,"textLines":1,"bbox":[497,336,114,18]}
+{"kind":"textbox","id":"sh/u18jqh0f","slide":3,"text":"Unclear risk language","textPreview":"Unclear risk language","textChars":21,"textLines":1,"bbox":[489,382,302,42]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":3,"text":"Many journeys hide uncertainty behind promotional copy.","textPreview":"Many journeys hide uncertainty behind promotional copy.","textChars":55,"textLines":1,"bbox":[489,446,302,72]}
+{"kind":"shape","id":"sh/c7u54zid","slide":3,"bbox":[862,302,354,250]}
+{"kind":"shape","id":"sh/1orytsvu","slide":3,"bbox":[884,328,138,34]}
+{"kind":"textbox","id":"sh/upwb2hwf","slide":3,"text":"评审路径薄弱","textPreview":"评审路径薄弱","textChars":6,"textLines":1,"bbox":[896,336,114,18]}
+{"kind":"textbox","id":"sh/nap4r65w","slide":3,"text":"Weak review paths","textPreview":"Weak review paths","textChars":17,"textLines":1,"bbox":[888,382,302,42]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":3,"text":"Decks, sites and demos often do not map back to real product proof.","textPreview":"Decks, sites and demos often do not map back to real product proof.","textChars":67,"textLines":1,"bbox":[888,446,302,72]}
+{"kind":"notes","id":"nt/zmzqjx","slide":3,"text":"The user problem is understanding before action.\n核心问题是行动前的理解。\nKeep the problem human and operational. Avoid unsourced market-size claims.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/7vw5g1","slide":4,"title":"L3AI","textShapes":7}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":4,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/ulwval87","slide":4,"text":"SOLUTION","textPreview":"SOLUTION","textChars":8,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":4,"text":"031 / 04","textPreview":"031 / 04","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":4,"text":"L3AI turns fragmented Web3 context into a guided product journey.","textPreview":"L3AI turns fragmented Web3 context into a guided product journey.","textChars":65,"textLines":1,"bbox":[64,84,760,102]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":4,"text":"L3AI 将碎片化语境组织成清晰产品路径。","textPreview":"L3AI 将碎片化语境组织成清晰产品路径。","textChars":21,"textLines":1,"bbox":[64,192,760,38]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":4,"text":"• AI-assisted explanation supports clarity, not certainty.\n• Wallet-aware education helps users understand access and activity without exposing private data.\n• Public resources keep the deck, whitepaper, video and proof assets connected to the live site.","textPreview":"• AI-assisted explanation supports clarity, not certainty. | • Wallet-aware education helps users understand access and activity without ...","textChars":254,"textLines":3,"bbox":[64,300,456,220]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":4,"text":"Public-safe visual asset. No private source, credentials or real user data.","textPreview":"Public-safe visual asset. No private source, credentials or real user data.","textChars":75,"textLines":1,"bbox":[618,506,540,26]}
+{"kind":"image","id":"im/yxobm58z","slide":4,"name":"","geometry":"roundRect","alt":"L3AI public product screenshot","bbox":[612,126,562,356]}
+{"kind":"notes","id":"nt/7vw5g1","slide":4,"text":"L3AI turns fragmented Web3 context into a guided product journey.\nL3AI 将碎片化语境组织成清晰产品路径。\nPosition L3AI as one structured journey across product, content and trust. Mention public proof, not private implementation.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/lns23y","slide":5,"title":"L3AI","textShapes":21}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":5,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":5,"text":"PRODUCT SYSTEM","textPreview":"PRODUCT SYSTEM","textChars":14,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/94fu18jq","slide":5,"text":"031 / 05","textPreview":"031 / 05","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":5,"text":"Five product layers create the L3AI experience.","textPreview":"Five product layers create the L3AI experience.","textChars":47,"textLines":1,"bbox":[64,84,760,102]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":5,"text":"五个产品层构成 L3AI 体验。","textPreview":"五个产品层构成 L3AI 体验。","textChars":16,"textLines":1,"bbox":[64,192,760,38]}
+{"kind":"shape","id":"sh/gvy90je9","slide":5,"bbox":[76,248,884,52]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":5,"text":"01  AI market context","textPreview":"01  AI market context","textChars":21,"textLines":1,"bbox":[104,262,430,22]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":5,"text":"AI 市场语境","textPreview":"AI 市场语境","textChars":7,"textLines":1,"bbox":[558,263,230,22]}
+{"kind":"shape","id":"sh/re1w7mp0","slide":5,"bbox":[824,257,138,34]}
+{"kind":"textbox","id":"sh/bulwval8","slide":5,"text":"Current","textPreview":"Current","textChars":7,"textLines":1,"bbox":[836,265,114,18]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":5,"bbox":[102,318,832,52]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":5,"text":"02  Wallet-aware education","textPreview":"02  Wallet-aware education","textChars":26,"textLines":1,"bbox":[130,332,430,22]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":5,"text":"钱包感知教育","textPreview":"钱包感知教育","textChars":6,"textLines":1,"bbox":[558,333,230,22]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":5,"bbox":[798,327,138,34]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":5,"text":"Current","textPreview":"Current","textChars":7,"textLines":1,"bbox":[810,335,114,18]}
+{"kind":"shape","id":"sh/tovahoza","slide":5,"bbox":[128,388,780,52]}
+{"kind":"textbox","id":"sh/032lszqt","slide":5,"text":"03  Product resources","textPreview":"03  Product resources","textChars":21,"textLines":1,"bbox":[156,402,430,22]}
+{"kind":"textbox","id":"sh/b6xkf6dc","slide":5,"text":"产品资料","textPreview":"产品资料","textChars":4,"textLines":1,"bbox":[558,403,230,22]}
+{"kind":"shape","id":"sh/il0rqd4v","slide":5,"bbox":[772,397,138,34]}
+{"kind":"textbox","id":"sh/ulwval87","slide":5,"text":"Current","textPreview":"Current","textChars":7,"textLines":1,"bbox":[784,405,114,18]}
+{"kind":"shape","id":"sh/j6tovaho","slide":5,"bbox":[154,458,728,52]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":5,"text":"04  Community learning","textPreview":"04  Community learning","textChars":22,"textLines":1,"bbox":[182,472,430,22]}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":5,"text":"社区学习","textPreview":"社区学习","textChars":4,"textLines":1,"bbox":[558,473,230,22]}
+{"kind":"shape","id":"sh/uxc3ylc7","slide":5,"bbox":[746,467,138,34]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":5,"text":"In Progress","textPreview":"In Progress","textChars":11,"textLines":1,"bbox":[758,475,114,18]}
+{"kind":"shape","id":"sh/c3ylc7u5","slide":5,"bbox":[180,528,676,52]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":5,"text":"05  Ecosystem intelligence","textPreview":"05  Ecosystem intelligence","textChars":26,"textLines":1,"bbox":[208,542,430,22]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":5,"text":"生态智能","textPreview":"生态智能","textChars":4,"textLines":1,"bbox":[558,543,230,22]}
+{"kind":"shape","id":"sh/jqh0fepk","slide":5,"bbox":[720,537,138,34]}
+{"kind":"textbox","id":"sh/p8nqxs72","slide":5,"text":"Planned","textPreview":"Planned","textChars":7,"textLines":1,"bbox":[732,545,114,18]}
+{"kind":"textbox","id":"sh/0nuxc3yl","slide":5,"text":"Status markers are part of the product story: live surfaces, active production and roadmap items are never blended.","textPreview":"Status markers are part of the product story: live surfaces, active production and roadmap items are never blended.","textChars":115,"textLines":1,"bbox":[940,286,236,128]}
+{"kind":"notes","id":"nt/lns23y","slide":5,"text":"Five product layers create the L3AI experience.\n五个产品层构成 L3AI 体验。\nUse the status markers deliberately. Current means public material exists. In Progress and Planned are not live production claims.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/th7y7s","slide":6,"title":"L3AI","textShapes":7}
+{"kind":"textbox","id":"sh/47y1kre1","slide":6,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/bm58z25k","slide":6,"text":"PRODUCT PROOF","textPreview":"PRODUCT PROOF","textChars":13,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":6,"text":"031 / 06","textPreview":"031 / 06","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/tgfmlkjm","slide":6,"text":"The live public site is now the first proof surface.","textPreview":"The live public site is now the first proof surface.","textChars":52,"textLines":1,"bbox":[64,84,760,102]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":6,"text":"公开官网已经成为第一证明界面。","textPreview":"公开官网已经成为第一证明界面。","textChars":15,"textLines":1,"bbox":[64,192,760,38]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":6,"text":"• The homepage opens with product evidence and clear action paths.\n• Resources, recordings and manifests are available from public URLs.\n• The site avoids private source exposure and unsupported outcome claims.","textPreview":"• The homepage opens with product evidence and clear action paths. | • Resources, recordings and manifests are available from public URLs...","textChars":210,"textLines":3,"bbox":[64,300,456,220]}
+{"kind":"textbox","id":"sh/t83itgfm","slide":6,"text":"Public-safe visual asset. No private source, credentials or real user data.","textPreview":"Public-safe visual asset. No private source, credentials or real user data.","textChars":75,"textLines":1,"bbox":[618,506,540,26]}
+{"kind":"image","id":"im/7u54zido","slide":6,"name":"","geometry":"roundRect","alt":"L3AI public product screenshot","bbox":[612,126,562,356]}
+{"kind":"notes","id":"nt/th7y7s","slide":6,"text":"The live public site is now the first proof surface.\n公开官网已经成为第一证明界面。\nThis is the bridge from brand to proof. Reference the public GitHub Pages site only.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/vqmhgr","slide":7,"title":"L3AI","textShapes":8}
+{"kind":"textbox","id":"sh/tcj6tova","slide":7,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":7,"text":"AI WORKFLOW","textPreview":"AI WORKFLOW","textChars":11,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/b6xkf6dc","slide":7,"text":"031 / 07","textPreview":"031 / 07","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/0je9cvix","slide":7,"text":"AI Quant is framed as explanation before action.","textPreview":"AI Quant is framed as explanation before action.","textChars":48,"textLines":1,"bbox":[64,84,760,102]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":7,"text":"AI Quant 被定位为行动前解释。","textPreview":"AI Quant 被定位为行动前解释。","textChars":19,"textLines":1,"bbox":[64,192,760,38]}
+{"kind":"shape","id":"sh/idonyd0z","slide":7,"bbox":[64,238,138,34]}
+{"kind":"textbox","id":"sh/byhgn29g","slide":7,"text":"Current","textPreview":"Current","textChars":7,"textLines":1,"bbox":[76,246,114,18]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":7,"text":"• Collect public context.\n• Structure signals and assumptions.\n• Keep risk notes and uncertainty visible.\n• Route users to review, not automated trading.","textPreview":"• Collect public context. | • Structure signals and assumptions. | • Keep risk notes and uncertainty visible. | • Route users to review, ...","textChars":153,"textLines":4,"bbox":[64,300,456,220]}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":7,"text":"Public-safe visual asset. No private source, credentials or real user data.","textPreview":"Public-safe visual asset. No private source, credentials or real user data.","textChars":75,"textLines":1,"bbox":[618,506,540,26]}
+{"kind":"image","id":"im/knih4byh","slide":7,"name":"","geometry":"roundRect","alt":"L3AI public product screenshot","bbox":[612,126,562,356]}
+{"kind":"notes","id":"nt/vqmhgr","slide":7,"text":"AI Quant is framed as explanation before action.\nAI Quant 被定位为行动前解释。\nDo not say AI predicts outcomes. Say AI organizes, explains and supports review.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/6tssew","slide":8,"title":"L3AI","textShapes":8}
+{"kind":"textbox","id":"sh/ulwval87","slide":8,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":8,"text":"WALLET JOURNEY","textPreview":"WALLET JOURNEY","textChars":14,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":8,"text":"031 / 08","textPreview":"031 / 08","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":8,"text":"Wallet awareness stays educational and bounded.","textPreview":"Wallet awareness stays educational and bounded.","textChars":47,"textLines":1,"bbox":[64,84,760,102]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":8,"text":"钱包感知保持教育属性和边界。","textPreview":"钱包感知保持教育属性和边界。","textChars":14,"textLines":1,"bbox":[64,192,760,38]}
+{"kind":"shape","id":"sh/1kre1w7m","slide":8,"bbox":[64,238,138,34]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":8,"text":"Current","textPreview":"Current","textChars":7,"textLines":1,"bbox":[76,246,114,18]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":8,"text":"• The public journey explains wallet context without requesting signatures.\n• Screenshots and recordings contain no real user balances or private wallet material.\n• Conversion language stays calm and review-oriented.","textPreview":"• The public journey explains wallet context without requesting signatures. | • Screenshots and recordings contain no real user balances ...","textChars":216,"textLines":3,"bbox":[64,300,456,220]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":8,"text":"Public-safe visual asset. No private source, credentials or real user data.","textPreview":"Public-safe visual asset. No private source, credentials or real user data.","textChars":75,"textLines":1,"bbox":[618,506,540,26]}
+{"kind":"image","id":"im/jm1cfa9w","slide":8,"name":"","geometry":"roundRect","alt":"L3AI public product screenshot","bbox":[612,126,562,356]}
+{"kind":"notes","id":"nt/6tssew","slide":8,"text":"Wallet awareness stays educational and bounded.\n钱包感知保持教育属性和边界。\nEmphasize that public media does not show wallet signing or real balances.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/givvrq","slide":9,"title":"L3AI","textShapes":8}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":9,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":9,"text":"RESOURCES","textPreview":"RESOURCES","textChars":9,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":9,"text":"031 / 09","textPreview":"031 / 09","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":9,"text":"The resource center connects every public launch asset.","textPreview":"The resource center connects every public launch asset.","textChars":55,"textLines":1,"bbox":[64,84,760,102]}
+{"kind":"textbox","id":"sh/p4r65wju","slide":9,"text":"资源中心连接全部公开发布资产。","textPreview":"资源中心连接全部公开发布资产。","textChars":15,"textLines":1,"bbox":[64,192,760,38]}
+{"kind":"shape","id":"sh/ed8v6psf","slide":9,"bbox":[64,238,138,34]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":9,"text":"Current","textPreview":"Current","textChars":7,"textLines":1,"bbox":[76,246,114,18]}
+{"kind":"textbox","id":"sh/0nuxc3yl","slide":9,"text":"• Whitepaper, roadshow deck, video and social assets are organized in one place.\n• Manifest files make asset inventory and versioning reviewable.\n• Public-safe claims are easier to audit when assets are centralized.","textPreview":"• Whitepaper, roadshow deck, video and social assets are organized in one place. | • Manifest files make asset inventory and versioning r...","textChars":215,"textLines":3,"bbox":[64,300,456,220]}
+{"kind":"textbox","id":"sh/xobm58z2","slide":9,"text":"Public-safe visual asset. No private source, credentials or real user data.","textPreview":"Public-safe visual asset. No private source, credentials or real user data.","textChars":75,"textLines":1,"bbox":[618,506,540,26]}
+{"kind":"image","id":"im/kjm1cfa9","slide":9,"name":"","geometry":"roundRect","alt":"L3AI public product screenshot","bbox":[612,126,562,356]}
+{"kind":"notes","id":"nt/givvrq","slide":9,"text":"The resource center connects every public launch asset.\n资源中心连接全部公开发布资产。\nMake this about operating discipline. The resources page is a controlled library, not a dumping ground.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/1riscb","slide":10,"title":"L3AI","textShapes":21}
+{"kind":"textbox","id":"sh/cvixczed","slide":10,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/nap4r65w","slide":10,"text":"EXPERIENCE","textPreview":"EXPERIENCE","textChars":10,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/upwb2hwf","slide":10,"text":"031 / 10","textPreview":"031 / 10","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/54zidony","slide":10,"text":"The visitor journey moves from discovery to qualified review.","textPreview":"The visitor journey moves from discovery to qualified review.","textChars":61,"textLines":1,"bbox":[64,84,760,102]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":10,"text":"访客路径从发现走向合格评审。","textPreview":"访客路径从发现走向合格评审。","textChars":14,"textLines":1,"bbox":[64,192,760,38]}
+{"kind":"shape","id":"sh/nyd0z610","slide":10,"bbox":[220,382,102,4]}
+{"kind":"shape","id":"sh/udg7adsj","slide":10,"bbox":[64,274,218,176]}
+{"kind":"textbox","id":"sh/1032lszq","slide":10,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[86,298,60,30]}
+{"kind":"textbox","id":"sh/cfa9w3m9","slide":10,"text":"Discover","textPreview":"Discover","textChars":8,"textLines":1,"bbox":[86,348,172,30]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":10,"text":"发现","textPreview":"发现","textChars":2,"textLines":1,"bbox":[86,384,172,24]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":10,"text":"Homepage and product overview","textPreview":"Homepage and product overview","textChars":29,"textLines":1,"bbox":[86,416,172,42]}
+{"kind":"shape","id":"sh/kb6xkf6d","slide":10,"bbox":[498,382,102,4]}
+{"kind":"shape","id":"sh/9w3m94fu","slide":10,"bbox":[342,274,218,176]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":10,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[364,298,60,30]}
+{"kind":"textbox","id":"sh/re1w7mp0","slide":10,"text":"Understand","textPreview":"Understand","textChars":10,"textLines":1,"bbox":[364,348,172,30]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":10,"text":"理解","textPreview":"理解","textChars":2,"textLines":1,"bbox":[364,384,172,24]}
+{"kind":"textbox","id":"sh/9knih4by","slide":10,"text":"AI Quant, wallet and trust pages","textPreview":"AI Quant, wallet and trust pages","textChars":32,"textLines":1,"bbox":[364,416,172,42]}
+{"kind":"shape","id":"sh/2p8nqxs7","slide":10,"bbox":[776,382,102,4]}
+{"kind":"shape","id":"sh/ra5gbq1o","slide":10,"bbox":[620,274,218,176]}
+{"kind":"textbox","id":"sh/nyd0z610","slide":10,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[642,298,60,30]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":10,"text":"Evaluate","textPreview":"Evaluate","textChars":8,"textLines":1,"bbox":[642,348,172,30]}
+{"kind":"textbox","id":"sh/54zidony","slide":10,"text":"评估","textPreview":"评估","textChars":2,"textLines":1,"bbox":[642,384,172,24]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":10,"text":"Deck, whitepaper and recordings","textPreview":"Deck, whitepaper and recordings","textChars":31,"textLines":1,"bbox":[642,416,172,42]}
+{"kind":"shape","id":"sh/nap4r65w","slide":10,"bbox":[1054,382,0,4]}
+{"kind":"shape","id":"sh/upwb2hwf","slide":10,"bbox":[898,274,218,176]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":10,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[920,298,60,30]}
+{"kind":"textbox","id":"sh/cvixczed","slide":10,"text":"Engage","textPreview":"Engage","textChars":6,"textLines":1,"bbox":[920,348,172,30]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":10,"text":"接洽","textPreview":"接洽","textChars":2,"textLines":1,"bbox":[920,384,172,24]}
+{"kind":"textbox","id":"sh/u18jqh0f","slide":10,"text":"Partner or community handoff","textPreview":"Partner or community handoff","textChars":28,"textLines":1,"bbox":[920,416,172,42]}
+{"kind":"notes","id":"nt/1riscb","slide":10,"text":"The visitor journey moves from discovery to qualified review.\n访客路径从发现走向合格评审。\nThis slide should sound like a product path, not a sales funnel.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/jjutcf","slide":11,"title":"L3AI","textShapes":20}
+{"kind":"textbox","id":"sh/eloj2t83","slide":11,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":11,"text":"USE CASES","textPreview":"USE CASES","textChars":9,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":11,"text":"031 / 11","textPreview":"031 / 11","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/7u54zido","slide":11,"text":"Different audiences need different proof, not different promises.","textPreview":"Different audiences need different proof, not different promises.","textChars":65,"textLines":1,"bbox":[64,78,760,102]}
+{"kind":"textbox","id":"sh/ed8bat47","slide":11,"text":"不同受众需要不同证明，而不是不同承诺。","textPreview":"不同受众需要不同证明，而不是不同承诺。","textChars":19,"textLines":1,"bbox":[64,186,760,38]}
+{"kind":"shape","id":"sh/l0rqd4vm","slide":11,"bbox":[64,246,1082,44]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":11,"text":"Audience","textPreview":"Audience","textChars":8,"textLines":1,"bbox":[82,258,252,20]}
+{"kind":"textbox","id":"sh/7mp0bi9s","slide":11,"text":"What they need","textPreview":"What they need","textChars":14,"textLines":1,"bbox":[362,258,442,20]}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":11,"text":"Public route","textPreview":"Public route","textChars":12,"textLines":1,"bbox":[832,258,304,20]}
+{"kind":"shape","id":"sh/0rqd4vmt","slide":11,"bbox":[64,300,1082,58]}
+{"kind":"textbox","id":"sh/tcj6tova","slide":11,"text":"Web3 users","textPreview":"Web3 users","textChars":10,"textLines":1,"bbox":[82,314,252,32]}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":11,"text":"Clear market and wallet context","textPreview":"Clear market and wallet context","textChars":31,"textLines":1,"bbox":[362,314,442,32]}
+{"kind":"textbox","id":"sh/b6xkf6dc","slide":11,"text":"Product overview, AI Quant, FAQ","textPreview":"Product overview, AI Quant, FAQ","textChars":31,"textLines":1,"bbox":[832,314,304,32]}
+{"kind":"shape","id":"sh/0je9cvix","slide":11,"bbox":[64,370,1082,58]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":11,"text":"Media","textPreview":"Media","textChars":5,"textLines":1,"bbox":[82,384,252,32]}
+{"kind":"textbox","id":"sh/idonyd0z","slide":11,"text":"Approved language and assets","textPreview":"Approved language and assets","textChars":28,"textLines":1,"bbox":[362,384,442,32]}
+{"kind":"textbox","id":"sh/byhgn29g","slide":11,"text":"Resources, media kit, video","textPreview":"Resources, media kit, video","textChars":27,"textLines":1,"bbox":[832,384,304,32]}
+{"kind":"shape","id":"sh/0fepkzup","slide":11,"bbox":[64,440,1082,58]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":11,"text":"Partners","textPreview":"Partners","textChars":8,"textLines":1,"bbox":[82,454,252,32]}
+{"kind":"textbox","id":"sh/tsvu9kni","slide":11,"text":"Trust boundary and collaboration fit","textPreview":"Trust boundary and collaboration fit","textChars":36,"textLines":1,"bbox":[362,454,442,32]}
+{"kind":"textbox","id":"sh/47y1kre1","slide":11,"text":"Use cases, contact path","textPreview":"Use cases, contact path","textChars":23,"textLines":1,"bbox":[832,454,304,32]}
+{"kind":"shape","id":"sh/bm58z25k","slide":11,"bbox":[64,510,1082,58]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":11,"text":"Investors","textPreview":"Investors","textChars":9,"textLines":1,"bbox":[82,524,252,32]}
+{"kind":"textbox","id":"sh/tgfmlkjm","slide":11,"text":"Category logic and operating discipline","textPreview":"Category logic and operating discipline","textChars":39,"textLines":1,"bbox":[362,524,442,32]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":11,"text":"Roadshow deck, roadmap, model","textPreview":"Roadshow deck, roadmap, model","textChars":29,"textLines":1,"bbox":[832,524,304,32]}
+{"kind":"notes","id":"nt/jjutcf","slide":11,"text":"Different audiences need different proof, not different promises.\n不同受众需要不同证明，而不是不同承诺。\nNo fake personas or traction. These are review paths for known visitor types.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/v82r0r","slide":12,"title":"L3AI","textShapes":14}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":12,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":12,"text":"COMMERCIAL LOGIC","textPreview":"COMMERCIAL LOGIC","textChars":16,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":12,"text":"031 / 12","textPreview":"031 / 12","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":12,"text":"The business model is a clarity loop, not a reward promise.","textPreview":"The business model is a clarity loop, not a reward promise.","textChars":59,"textLines":1,"bbox":[64,84,760,102]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":12,"text":"商业模型是清晰度闭环，不是收益承诺。","textPreview":"商业模型是清晰度闭环，不是收益承诺。","textChars":18,"textLines":1,"bbox":[64,192,760,38]}
+{"kind":"shape","id":"sh/pg3ex0nu","slide":12,"bbox":[580,356,170,112]}
+{"kind":"textbox","id":"sh/wval87ed","slide":12,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[624,390,82,34]}
+{"kind":"shape","id":"sh/36hcrmhk","slide":12,"bbox":[122,260,310,98]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":12,"text":"Audience","textPreview":"Audience","textChars":8,"textLines":1,"bbox":[146,280,258,26]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":12,"text":"Users, media, partners, investors","textPreview":"Users, media, partners, investors","textChars":33,"textLines":1,"bbox":[146,312,258,30]}
+{"kind":"shape","id":"sh/lc7u54zi","slide":12,"bbox":[432,308,148,3]}
+{"kind":"shape","id":"sh/eloj2t83","slide":12,"bbox":[808,260,310,98]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":12,"text":"Experience","textPreview":"Experience","textChars":10,"textLines":1,"bbox":[832,280,258,26]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":12,"text":"AI context and wallet-aware education","textPreview":"AI context and wallet-aware education","textChars":37,"textLines":1,"bbox":[832,312,258,30]}
+{"kind":"shape","id":"sh/l0rqd4vm","slide":12,"bbox":[750,308,58,3]}
+{"kind":"shape","id":"sh/ed8bat47","slide":12,"bbox":[122,498,310,98]}
+{"kind":"textbox","id":"sh/7u54zido","slide":12,"text":"Trust","textPreview":"Trust","textChars":5,"textLines":1,"bbox":[146,518,258,26]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":12,"text":"Public-safe claims and review gates","textPreview":"Public-safe claims and review gates","textChars":35,"textLines":1,"bbox":[146,550,258,30]}
+{"kind":"shape","id":"sh/psfil0rq","slide":12,"bbox":[432,546,148,3]}
+{"kind":"shape","id":"sh/9w3m94fu","slide":12,"bbox":[808,498,310,98]}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":12,"text":"Growth","textPreview":"Growth","textChars":6,"textLines":1,"bbox":[832,518,258,26]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":12,"text":"Content, community and partner handoff","textPreview":"Content, community and partner handoff","textChars":38,"textLines":1,"bbox":[832,550,258,30]}
+{"kind":"shape","id":"sh/25kb6xkf","slide":12,"bbox":[750,546,58,3]}
+{"kind":"notes","id":"nt/v82r0r","slide":12,"text":"The business model is a clarity loop, not a reward promise.\n商业模型是清晰度闭环，不是收益承诺。\nThis slide deliberately avoids percentages, yield, token value or revenue forecasts.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/ahhhaz","slide":13,"title":"L3AI","textShapes":20}
+{"kind":"textbox","id":"sh/032lszqt","slide":13,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":13,"text":"COMMERCIAL LOGIC","textPreview":"COMMERCIAL LOGIC","textChars":16,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":13,"text":"031 / 13","textPreview":"031 / 13","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":13,"text":"Revenue categories remain evidence-gated before numeric forecasts.","textPreview":"Revenue categories remain evidence-gated before numeric forecasts.","textChars":66,"textLines":1,"bbox":[64,78,760,102]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":13,"text":"收入类别在形成数字预测前必须经过证据门禁。","textPreview":"收入类别在形成数字预测前必须经过证据门禁。","textChars":21,"textLines":1,"bbox":[64,186,760,38]}
+{"kind":"shape","id":"sh/bulwval8","slide":13,"bbox":[64,246,1082,44]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":13,"text":"Category","textPreview":"Category","textChars":8,"textLines":1,"bbox":[82,258,252,20]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":13,"text":"Possible value","textPreview":"Possible value","textChars":14,"textLines":1,"bbox":[362,258,442,20]}
+{"kind":"textbox","id":"sh/0je9cvix","slide":13,"text":"Status","textPreview":"Status","textChars":6,"textLines":1,"bbox":[832,258,304,20]}
+{"kind":"shape","id":"sh/a5gbq1or","slide":13,"bbox":[64,300,1082,58]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":13,"text":"Subscription or access","textPreview":"Subscription or access","textChars":22,"textLines":1,"bbox":[82,314,252,32]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":13,"text":"Workspace, education or premium context surfaces","textPreview":"Workspace, education or premium context surfaces","textChars":48,"textLines":1,"bbox":[362,314,442,32]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":13,"text":"Planned","textPreview":"Planned","textChars":7,"textLines":1,"bbox":[832,314,304,32]}
+{"kind":"shape","id":"sh/adsji5sn","slide":13,"bbox":[64,370,1082,58]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":13,"text":"Enterprise review package","textPreview":"Enterprise review package","textChars":25,"textLines":1,"bbox":[82,384,252,32]}
+{"kind":"textbox","id":"sh/sji5snel","slide":13,"text":"Partner, media or investor-ready material production","textPreview":"Partner, media or investor-ready material production","textChars":52,"textLines":1,"bbox":[362,384,442,32]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":13,"text":"In Progress","textPreview":"In Progress","textChars":11,"textLines":1,"bbox":[832,384,304,32]}
+{"kind":"shape","id":"sh/ap4r65wj","slide":13,"bbox":[64,440,1082,58]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":13,"text":"Community programs","textPreview":"Community programs","textChars":18,"textLines":1,"bbox":[82,454,252,32]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":13,"text":"Education, events and ecosystem participation","textPreview":"Education, events and ecosystem participation","textChars":45,"textLines":1,"bbox":[362,454,442,32]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":13,"text":"Planned","textPreview":"Planned","textChars":7,"textLines":1,"bbox":[832,454,304,32]}
+{"kind":"shape","id":"sh/9gr2p8nq","slide":13,"bbox":[64,510,1082,58]}
+{"kind":"textbox","id":"sh/gvy90je9","slide":13,"text":"Partner integrations","textPreview":"Partner integrations","textChars":20,"textLines":1,"bbox":[82,524,252,32]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":13,"text":"Approved ecosystem collaboration paths","textPreview":"Approved ecosystem collaboration paths","textChars":38,"textLines":1,"bbox":[362,524,442,32]}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":13,"text":"Planned","textPreview":"Planned","textChars":7,"textLines":1,"bbox":[832,524,304,32]}
+{"kind":"notes","id":"nt/ahhhaz","slide":13,"text":"Revenue categories remain evidence-gated before numeric forecasts.\n收入类别在形成数字预测前必须经过证据门禁。\nFinance/legal approval is required before any numeric model, forecast or fundraising claim.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/jjw19n","slide":14,"title":"L3AI","textShapes":7}
+{"kind":"textbox","id":"sh/bq1oryts","slide":14,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":14,"text":"ECOSYSTEM","textPreview":"ECOSYSTEM","textChars":9,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":14,"text":"031 / 14","textPreview":"031 / 14","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":14,"text":"The ecosystem map keeps product, content and trust in one view.","textPreview":"The ecosystem map keeps product, content and trust in one view.","textChars":63,"textLines":1,"bbox":[64,84,760,102]}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":14,"text":"生态图把产品、内容和信任边界放在同一视图。","textPreview":"生态图把产品、内容和信任边界放在同一视图。","textChars":21,"textLines":1,"bbox":[64,192,760,38]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":14,"text":"• AI market context and wallet education anchor the user experience.\n• Public resources, media kit and business deck support review.\n• Risk boundary remains visible across public materials.","textPreview":"• AI market context and wallet education anchor the user experience. | • Public resources, media kit and business deck support review. | ...","textChars":189,"textLines":3,"bbox":[64,300,456,220]}
+{"kind":"textbox","id":"sh/mp0bi9s3","slide":14,"text":"Public-safe visual asset. No private source, credentials or real user data.","textPreview":"Public-safe visual asset. No private source, credentials or real user data.","textChars":75,"textLines":1,"bbox":[618,506,540,26]}
+{"kind":"image","id":"im/cbulwval","slide":14,"name":"","geometry":"roundRect","alt":"L3AI public product screenshot","bbox":[612,126,562,356]}
+{"kind":"notes","id":"nt/jjw19n","slide":14,"text":"The ecosystem map keeps product, content and trust in one view.\n生态图把产品、内容和信任边界放在同一视图。\nUse this to show that L3AI is more than a single page or deck. It is a public experience system.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/sycrra","slide":15,"title":"L3AI","textShapes":13}
+{"kind":"textbox","id":"sh/y90je9cv","slide":15,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/5wjudg7a","slide":15,"text":"PRODUCTION SYSTEM","textPreview":"PRODUCTION SYSTEM","textChars":17,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/gbq1oryt","slide":15,"text":"031 / 15","textPreview":"031 / 15","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":15,"text":"The asset engine turns source facts into controlled public materials.","textPreview":"The asset engine turns source facts into controlled public materials.","textChars":69,"textLines":1,"bbox":[64,84,760,102]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":15,"text":"资产引擎将事实来源转化为受控公开资料。","textPreview":"资产引擎将事实来源转化为受控公开资料。","textChars":19,"textLines":1,"bbox":[64,192,760,38]}
+{"kind":"shape","id":"sh/58z25kb6","slide":15,"bbox":[64,308,224,160]}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":15,"text":"Source facts","textPreview":"Source facts","textChars":12,"textLines":1,"bbox":[84,338,184,34]}
+{"kind":"textbox","id":"sh/neloj2t8","slide":15,"text":"Approved docs and public site","textPreview":"Approved docs and public site","textChars":29,"textLines":1,"bbox":[84,392,184,46]}
+{"kind":"shape","id":"sh/ytsvu9kn","slide":15,"bbox":[288,386,50,4]}
+{"kind":"shape","id":"sh/83itgfml","slide":15,"bbox":[338,308,224,160]}
+{"kind":"textbox","id":"sh/xobm58z2","slide":15,"text":"Production","textPreview":"Production","textChars":10,"textLines":1,"bbox":[358,338,184,34]}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":15,"text":"Deck, PDF, HTML, video, social","textPreview":"Deck, PDF, HTML, video, social","textChars":30,"textLines":1,"bbox":[358,392,184,46]}
+{"kind":"shape","id":"sh/fil0rqd4","slide":15,"bbox":[562,386,50,4]}
+{"kind":"shape","id":"sh/4fu18jqh","slide":15,"bbox":[612,308,224,160]}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":15,"text":"Validation","textPreview":"Validation","textChars":10,"textLines":1,"bbox":[632,338,184,34]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":15,"text":"Links, manifests, sensitive scans","textPreview":"Links, manifests, sensitive scans","textChars":33,"textLines":1,"bbox":[632,392,184,46]}
+{"kind":"shape","id":"sh/fu18jqh0","slide":15,"bbox":[836,386,50,4]}
+{"kind":"shape","id":"sh/4r65wjud","slide":15,"bbox":[886,308,224,160]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":15,"text":"Distribution","textPreview":"Distribution","textChars":12,"textLines":1,"bbox":[906,338,184,34]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":15,"text":"GitHub Pages public package","textPreview":"GitHub Pages public package","textChars":27,"textLines":1,"bbox":[906,392,184,46]}
+{"kind":"notes","id":"nt/sycrra","slide":15,"text":"The asset engine turns source facts into controlled public materials.\n资产引擎将事实来源转化为受控公开资料。\nThis is an operations advantage. It does not imply autonomous external posting or live deploy without approval.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/hjlmw8","slide":16,"title":"L3AI","textShapes":8}
+{"kind":"textbox","id":"sh/gbq1oryt","slide":16,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/nuxc3ylc","slide":16,"text":"MEDIA","textPreview":"MEDIA","textChars":5,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":16,"text":"031 / 16","textPreview":"031 / 16","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/58z25kb6","slide":16,"text":"The video package supports the product story after the path is clear.","textPreview":"The video package supports the product story after the path is clear.","textChars":69,"textLines":1,"bbox":[64,84,760,102]}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":16,"text":"视频包在产品路径清晰后增强叙事。","textPreview":"视频包在产品路径清晰后增强叙事。","textChars":16,"textLines":1,"bbox":[64,192,760,38]}
+{"kind":"shape","id":"sh/n29gr2p8","slide":16,"bbox":[64,238,138,34]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":16,"text":"Current","textPreview":"Current","textChars":7,"textLines":1,"bbox":[76,246,114,18]}
+{"kind":"textbox","id":"sh/5kb6xkf6","slide":16,"text":"• 3-minute flagship promo asset with bilingual subtitles.\n• Authentic public-site recordings for homepage, AI Quant, wallet, business model and resources.\n• Human voice-over and paid-media trafficking remain optional external production steps.","textPreview":"• 3-minute flagship promo asset with bilingual subtitles. | • Authentic public-site recordings for homepage, AI Quant, wallet, business m...","textChars":243,"textLines":3,"bbox":[64,300,456,220]}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":16,"text":"Public-safe visual asset. No private source, credentials or real user data.","textPreview":"Public-safe visual asset. No private source, credentials or real user data.","textChars":75,"textLines":1,"bbox":[618,506,540,26]}
+{"kind":"image","id":"im/lszqtcj6","slide":16,"name":"","geometry":"roundRect","alt":"L3AI public product screenshot","bbox":[612,126,562,356]}
+{"kind":"notes","id":"nt/hjlmw8","slide":16,"text":"The video package supports the product story after the path is clear.\n视频包在产品路径清晰后增强叙事。\nDo not oversell the video as final paid media. It is a strong public launch asset with optional creative upgrades.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/h97toe","slide":17,"title":"L3AI","textShapes":18}
+{"kind":"textbox","id":"sh/i5sneloj","slide":17,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":17,"text":"RELEASE SYSTEM","textPreview":"RELEASE SYSTEM","textChars":14,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":17,"text":"031 / 17","textPreview":"031 / 17","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":17,"text":"Distribution is prepared, while external execution stays approval-gated.","textPreview":"Distribution is prepared, while external execution stays approval-gated.","textChars":72,"textLines":1,"bbox":[64,84,760,102]}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":17,"text":"分发准备已完成，外部执行保持审批门禁。","textPreview":"分发准备已完成，外部执行保持审批门禁。","textChars":19,"textLines":1,"bbox":[64,192,760,38]}
+{"kind":"shape","id":"sh/p4r65wju","slide":17,"bbox":[64,248,850,58]}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":17,"text":"Prepare","textPreview":"Prepare","textChars":7,"textLines":1,"bbox":[88,264,180,24]}
+{"kind":"textbox","id":"sh/72x4nap4","slide":17,"text":"OSS, CDN, Pages and social payloads","textPreview":"OSS, CDN, Pages and social payloads","textChars":35,"textLines":1,"bbox":[284,266,420,22]}
+{"kind":"shape","id":"sh/ih4byhgn","slide":17,"bbox":[724,260,138,34]}
+{"kind":"textbox","id":"sh/032lszqt","slide":17,"text":"Current","textPreview":"Current","textChars":7,"textLines":1,"bbox":[736,268,114,18]}
+{"kind":"shape","id":"sh/tovahoza","slide":17,"bbox":[120,326,778,58]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":17,"text":"Validate","textPreview":"Validate","textChars":8,"textLines":1,"bbox":[144,342,180,24]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":17,"text":"Checksums, manifests and public link scans","textPreview":"Checksums, manifests and public link scans","textChars":42,"textLines":1,"bbox":[340,344,420,22]}
+{"kind":"shape","id":"sh/0fepkzup","slide":17,"bbox":[768,338,138,34]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":17,"text":"Current","textPreview":"Current","textChars":7,"textLines":1,"bbox":[780,346,114,18]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":17,"bbox":[176,404,706,58]}
+{"kind":"textbox","id":"sh/bulwval8","slide":17,"text":"Approve","textPreview":"Approve","textChars":7,"textLines":1,"bbox":[200,420,180,24]}
+{"kind":"textbox","id":"sh/0je9cvix","slide":17,"text":"Human release approval and credential gate","textPreview":"Human release approval and credential gate","textChars":42,"textLines":1,"bbox":[396,422,420,22]}
+{"kind":"shape","id":"sh/t47y1kre","slide":17,"bbox":[812,416,138,34]}
+{"kind":"textbox","id":"sh/xobm58z2","slide":17,"text":"In Progress","textPreview":"In Progress","textChars":11,"textLines":1,"bbox":[824,424,114,18]}
+{"kind":"shape","id":"sh/83itgfml","slide":17,"bbox":[232,482,634,58]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":17,"text":"Execute","textPreview":"Execute","textChars":7,"textLines":1,"bbox":[256,498,180,24]}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":17,"text":"External deploy and social posting","textPreview":"External deploy and social posting","textChars":34,"textLines":1,"bbox":[452,500,420,22]}
+{"kind":"shape","id":"sh/x0nuxc3y","slide":17,"bbox":[856,494,138,34]}
+{"kind":"textbox","id":"sh/4fu18jqh","slide":17,"text":"Planned","textPreview":"Planned","textChars":7,"textLines":1,"bbox":[868,502,114,18]}
+{"kind":"shape","id":"sh/fu18jqh0","slide":17,"bbox":[64,568,930,52]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":17,"text":"External execution stays locked until human approval, protected credentials and workflow dispatch are explicitly configured.","textPreview":"External execution stays locked until human approval, protected credentials and workflow dispatch are explicitly configured.","textChars":124,"textLines":1,"bbox":[86,584,880,24]}
+{"kind":"notes","id":"nt/h97toe","slide":17,"text":"Distribution is prepared, while external execution stays approval-gated.\n分发准备已完成，外部执行保持审批门禁。\nThis slide protects the safety boundary. Preparation exists; real publish execution requires approved workflow and protected credentials.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/690yjc","slide":18,"title":"L3AI","textShapes":17}
+{"kind":"textbox","id":"sh/h0fepkzu","slide":18,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":18,"text":"TRUST","textPreview":"TRUST","textChars":5,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/zupwb2hw","slide":18,"text":"031 / 18","textPreview":"031 / 18","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/orytsvu9","slide":18,"text":"Trust is built by saying what L3AI will not claim.","textPreview":"Trust is built by saying what L3AI will not claim.","textChars":50,"textLines":1,"bbox":[64,78,760,102]}
+{"kind":"textbox","id":"sh/hcrmhk3q","slide":18,"text":"信任来自明确说明 L3AI 不会宣称什么。","textPreview":"信任来自明确说明 L3AI 不会宣称什么。","textChars":21,"textLines":1,"bbox":[64,186,760,38]}
+{"kind":"shape","id":"sh/al87ed8b","slide":18,"bbox":[64,260,504,106]}
+{"kind":"shape","id":"sh/z61032ls","slide":18,"bbox":[84,278,138,34]}
+{"kind":"textbox","id":"sh/oza1gvy9","slide":18,"text":"Boundary","textPreview":"Boundary","textChars":8,"textLines":1,"bbox":[96,286,114,18]}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":18,"text":"No guaranteed returns","textPreview":"No guaranteed returns","textChars":21,"textLines":1,"bbox":[240,280,292,28]}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":18,"text":"No APY, yield, token price or trading certainty.","textPreview":"No APY, yield, token price or trading certainty.","textChars":48,"textLines":1,"bbox":[84,322,454,28]}
+{"kind":"shape","id":"sh/svu9knih","slide":18,"bbox":[620,260,504,106]}
+{"kind":"shape","id":"sh/za1gvy90","slide":18,"bbox":[640,278,138,34]}
+{"kind":"textbox","id":"sh/ap4r65wj","slide":18,"text":"Privacy","textPreview":"Privacy","textChars":7,"textLines":1,"bbox":[652,286,114,18]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":18,"text":"No private-data exposure","textPreview":"No private-data exposure","textChars":24,"textLines":1,"bbox":[796,280,292,28]}
+{"kind":"textbox","id":"sh/s36hcrmh","slide":18,"text":"No keys, signatures, balances or internal source.","textPreview":"No keys, signatures, balances or internal source.","textChars":49,"textLines":1,"bbox":[640,322,454,28]}
+{"kind":"shape","id":"sh/zidonyd0","slide":18,"bbox":[64,410,504,106]}
+{"kind":"shape","id":"sh/a1gvy90j","slide":18,"bbox":[84,428,138,34]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":18,"text":"Evidence","textPreview":"Evidence","textChars":8,"textLines":1,"bbox":[96,436,114,18]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":18,"text":"No fake traction","textPreview":"No fake traction","textChars":16,"textLines":1,"bbox":[240,430,292,28]}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":18,"text":"No user counts, partners or revenue without evidence.","textPreview":"No user counts, partners or revenue without evidence.","textChars":53,"textLines":1,"bbox":[84,472,454,28]}
+{"kind":"shape","id":"sh/1gvy90je","slide":18,"bbox":[620,410,504,106]}
+{"kind":"shape","id":"sh/qtcj6tov","slide":18,"bbox":[640,428,138,34]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":18,"text":"AI","textPreview":"AI","textChars":2,"textLines":1,"bbox":[652,436,114,18]}
+{"kind":"textbox","id":"sh/87ed8bat","slide":18,"text":"No AI certainty","textPreview":"No AI certainty","textChars":15,"textLines":1,"bbox":[796,430,292,28]}
+{"kind":"textbox","id":"sh/xs72x4na","slide":18,"text":"AI supports explanation, not personal financial advice.","textPreview":"AI supports explanation, not personal financial advice.","textChars":55,"textLines":1,"bbox":[640,472,454,28]}
+{"kind":"notes","id":"nt/690yjc","slide":18,"text":"Trust is built by saying what L3AI will not claim.\n信任来自明确说明 L3AI 不会宣称什么。\nThis is one of the most important investor-quality slides. Restraint improves credibility.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/zfscnd","slide":19,"title":"L3AI","textShapes":17}
+{"kind":"textbox","id":"sh/yxobm58z","slide":19,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":19,"text":"SECURITY POSTURE","textPreview":"SECURITY POSTURE","textChars":16,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":19,"text":"031 / 19","textPreview":"031 / 19","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":19,"text":"Security and red-team work are treated as gates, not slogans.","textPreview":"Security and red-team work are treated as gates, not slogans.","textChars":61,"textLines":1,"bbox":[64,78,760,102]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":19,"text":"安全和红队工作是门禁，不是口号。","textPreview":"安全和红队工作是门禁，不是口号。","textChars":16,"textLines":1,"bbox":[64,186,760,38]}
+{"kind":"shape","id":"sh/9cvixcze","slide":19,"bbox":[64,260,504,106]}
+{"kind":"shape","id":"sh/gr2p8nqx","slide":19,"bbox":[84,278,138,34]}
+{"kind":"textbox","id":"sh/rytsvu9k","slide":19,"text":"Boundary","textPreview":"Boundary","textChars":8,"textLines":1,"bbox":[96,286,114,18]}
+{"kind":"textbox","id":"sh/yd0z6103","slide":19,"text":"Funds and settlement","textPreview":"Funds and settlement","textChars":20,"textLines":1,"bbox":[240,280,292,28]}
+{"kind":"textbox","id":"sh/wb2hwfyx","slide":19,"text":"Idempotency, replay and concurrency controls require evidence.","textPreview":"Idempotency, replay and concurrency controls require evidence.","textChars":62,"textLines":1,"bbox":[84,322,454,28]}
+{"kind":"shape","id":"sh/lwval87e","slide":19,"bbox":[620,260,504,106]}
+{"kind":"shape","id":"sh/e9cvixcz","slide":19,"bbox":[640,278,138,34]}
+{"kind":"textbox","id":"sh/3q5o7qpg","slide":19,"text":"Privacy","textPreview":"Privacy","textChars":7,"textLines":1,"bbox":[652,286,114,18]}
+{"kind":"textbox","id":"sh/w3m94fu1","slide":19,"text":"Permissions","textPreview":"Permissions","textChars":11,"textLines":1,"bbox":[796,280,292,28]}
+{"kind":"textbox","id":"sh/loj2t83i","slide":19,"text":"RBAC, admin actions and JWT boundaries remain review-critical.","textPreview":"RBAC, admin actions and JWT boundaries remain review-critical.","textChars":62,"textLines":1,"bbox":[640,322,454,28]}
+{"kind":"shape","id":"sh/ex0nuxc3","slide":19,"bbox":[64,410,504,106]}
+{"kind":"shape","id":"sh/3itgfmlk","slide":19,"bbox":[84,428,138,34]}
+{"kind":"textbox","id":"sh/szqtcj6t","slide":19,"text":"Evidence","textPreview":"Evidence","textChars":8,"textLines":1,"bbox":[96,436,114,18]}
+{"kind":"textbox","id":"sh/lkjm1cfa","slide":19,"text":"Queues and recovery","textPreview":"Queues and recovery","textChars":19,"textLines":1,"bbox":[240,430,292,28]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":19,"text":"Retry, crash and backlog drills must be staged before production claims.","textPreview":"Retry, crash and backlog drills must be staged before production claims.","textChars":72,"textLines":1,"bbox":[84,472,454,28]}
+{"kind":"shape","id":"sh/wra5gbq1","slide":19,"bbox":[620,410,504,106]}
+{"kind":"shape","id":"sh/36hcrmhk","slide":19,"bbox":[640,428,138,34]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":19,"text":"AI","textPreview":"AI","textChars":2,"textLines":1,"bbox":[652,436,114,18]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":19,"text":"Launch operations","textPreview":"Launch operations","textChars":17,"textLines":1,"bbox":[796,430,292,28]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":19,"text":"Rollback owners, monitoring and evidence records must stay current.","textPreview":"Rollback owners, monitoring and evidence records must stay current.","textChars":67,"textLines":1,"bbox":[640,472,454,28]}
+{"kind":"notes","id":"nt/zfscnd","slide":19,"text":"Security and red-team work are treated as gates, not slogans.\n安全和红队工作是门禁，不是口号。\nDo not say the system is risk-free. Say controls and evidence gates are part of the operating model.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/0lrx80","slide":20,"title":"L3AI","textShapes":11}
+{"kind":"textbox","id":"sh/onyd0z61","slide":20,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":20,"text":"STATUS","textPreview":"STATUS","textChars":6,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":20,"text":"031 / 20","textPreview":"031 / 20","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":20,"text":"Current, in-progress and planned capabilities are visibly separated.","textPreview":"Current, in-progress and planned capabilities are visibly separated.","textChars":68,"textLines":1,"bbox":[64,84,760,102]}
+{"kind":"textbox","id":"sh/ovahoza1","slide":20,"text":"当前、进行中和规划中能力必须清晰区分。","textPreview":"当前、进行中和规划中能力必须清晰区分。","textChars":19,"textLines":1,"bbox":[64,192,760,38]}
+{"kind":"shape","id":"sh/vahoza1g","slide":20,"bbox":[64,258,330,286]}
+{"kind":"shape","id":"sh/6tovahoz","slide":20,"bbox":[86,284,138,34]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":20,"text":"Current","textPreview":"Current","textChars":7,"textLines":1,"bbox":[98,292,114,18]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":20,"text":"• Public website\n• Product pages\n• Resources library\n• Video package\n• Recording assets","textPreview":"• Public website | • Product pages | • Resources library | • Video package | • Recording assets","textChars":87,"textLines":5,"bbox":[92,350,274,132]}
+{"kind":"shape","id":"sh/q5o7qpg3","slide":20,"bbox":[438,258,330,286]}
+{"kind":"shape","id":"sh/jqh0fepk","slide":20,"bbox":[460,284,138,34]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":20,"text":"In Progress","textPreview":"In Progress","textChars":11,"textLines":1,"bbox":[472,292,114,18]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":20,"text":"• Enterprise roadshow deck\n• Creative production sprint\n• Approval evidence closure\n• Advanced localization","textPreview":"• Enterprise roadshow deck | • Creative production sprint | • Approval evidence closure | • Advanced localization","textChars":107,"textLines":4,"bbox":[466,350,274,132]}
+{"kind":"shape","id":"sh/qh0fepkz","slide":20,"bbox":[812,258,330,286]}
+{"kind":"shape","id":"sh/j2t83itg","slide":20,"bbox":[834,284,138,34]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":20,"text":"Planned","textPreview":"Planned","textChars":7,"textLines":1,"bbox":[846,292,114,18]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":20,"text":"• Authenticated product recordings\n• Automated external publishing\n• Advanced partner integrations\n• AI growth system","textPreview":"• Authenticated product recordings | • Automated external publishing | • Advanced partner integrations | • AI growth system","textChars":117,"textLines":4,"bbox":[840,350,274,132]}
+{"kind":"notes","id":"nt/0lrx80","slide":20,"text":"Current, in-progress and planned capabilities are visibly separated.\n当前、进行中和规划中能力必须清晰区分。\nThis directly satisfies the current versus roadmap acceptance requirement.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/xvzqhe","slide":21,"title":"L3AI","textShapes":15}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":21,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":21,"text":"ROADMAP","textPreview":"ROADMAP","textChars":7,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/gvy90je9","slide":21,"text":"031 / 21","textPreview":"031 / 21","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":21,"text":"Year 1 focuses on public trust, product clarity and controlled launch readiness.","textPreview":"Year 1 focuses on public trust, product clarity and controlled launch readiness.","textChars":80,"textLines":1,"bbox":[64,84,760,102]}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":21,"text":"第一年聚焦公开信任、产品清晰度和受控上线准备。","textPreview":"第一年聚焦公开信任、产品清晰度和受控上线准备。","textChars":23,"textLines":1,"bbox":[64,192,760,38]}
+{"kind":"shape","id":"sh/94fu18jq","slide":21,"bbox":[64,238,138,34]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":21,"text":"Current and In Progress","textPreview":"Current and In Progress","textChars":23,"textLines":1,"bbox":[76,246,114,18]}
+{"kind":"shape","id":"sh/rqd4vmtw","slide":21,"bbox":[96,376,306,4]}
+{"kind":"shape","id":"sh/25kb6xkf","slide":21,"bbox":[64,316,322,158]}
+{"kind":"textbox","id":"sh/4fu18jqh","slide":21,"text":"Phase 1","textPreview":"Phase 1","textChars":7,"textLines":1,"bbox":[86,338,120,24]}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":21,"text":"Foundation","textPreview":"Foundation","textChars":10,"textLines":1,"bbox":[86,378,260,30]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":21,"text":"Public site, resources, deck, whitepaper and proof assets","textPreview":"Public site, resources, deck, whitepaper and proof assets","textChars":57,"textLines":1,"bbox":[86,424,260,42]}
+{"kind":"shape","id":"sh/fu18jqh0","slide":21,"bbox":[466,376,306,4]}
+{"kind":"shape","id":"sh/83itgfml","slide":21,"bbox":[434,316,322,158]}
+{"kind":"textbox","id":"sh/xobm58z2","slide":21,"text":"Phase 2","textPreview":"Phase 2","textChars":7,"textLines":1,"bbox":[456,338,120,24]}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":21,"text":"Validation","textPreview":"Validation","textChars":10,"textLines":1,"bbox":[456,378,260,30]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":21,"text":"QA, staging evidence, security and release approvals","textPreview":"QA, staging evidence, security and release approvals","textChars":52,"textLines":1,"bbox":[456,424,260,42]}
+{"kind":"shape","id":"sh/4zidonyd","slide":21,"bbox":[836,376,306,4]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":21,"bbox":[804,316,322,158]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":21,"text":"Phase 3","textPreview":"Phase 3","textChars":7,"textLines":1,"bbox":[826,338,120,24]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":21,"text":"Launch","textPreview":"Launch","textChars":6,"textLines":1,"bbox":[826,378,260,30]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":21,"text":"Controlled public launch and partner review paths","textPreview":"Controlled public launch and partner review paths","textChars":49,"textLines":1,"bbox":[826,424,260,42]}
+{"kind":"notes","id":"nt/xvzqhe","slide":21,"text":"Year 1 focuses on public trust, product clarity and controlled launch readiness.\n第一年聚焦公开信任、产品清晰度和受控上线准备。\nNo date promises. Keep this as a priority sequence.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/wxcsyy","slide":22,"title":"L3AI","textShapes":15}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":22,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":22,"text":"ROADMAP","textPreview":"ROADMAP","textChars":7,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/94fu18jq","slide":22,"text":"031 / 22","textPreview":"031 / 22","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":22,"text":"Year 2 expands community learning and partner-grade workflows.","textPreview":"Year 2 expands community learning and partner-grade workflows.","textChars":62,"textLines":1,"bbox":[64,84,760,102]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":22,"text":"第二年扩展社区学习和伙伴级工作流。","textPreview":"第二年扩展社区学习和伙伴级工作流。","textChars":17,"textLines":1,"bbox":[64,192,760,38]}
+{"kind":"shape","id":"sh/gvy90je9","slide":22,"bbox":[64,238,138,34]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":22,"text":"Planned","textPreview":"Planned","textChars":7,"textLines":1,"bbox":[76,246,114,18]}
+{"kind":"shape","id":"sh/2t83itgf","slide":22,"bbox":[96,376,306,4]}
+{"kind":"shape","id":"sh/re1w7mp0","slide":22,"bbox":[64,316,322,158]}
+{"kind":"textbox","id":"sh/bulwval8","slide":22,"text":"Phase 1","textPreview":"Phase 1","textChars":7,"textLines":1,"bbox":[86,338,120,24]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":22,"text":"Community","textPreview":"Community","textChars":9,"textLines":1,"bbox":[86,378,260,30]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":22,"text":"Learning programs, moderated content and onboarding paths","textPreview":"Learning programs, moderated content and onboarding paths","textChars":57,"textLines":1,"bbox":[86,424,260,42]}
+{"kind":"shape","id":"sh/0fepkzup","slide":22,"bbox":[466,376,306,4]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":22,"bbox":[434,316,322,158]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":22,"text":"Phase 2","textPreview":"Phase 2","textChars":7,"textLines":1,"bbox":[456,338,120,24]}
+{"kind":"textbox","id":"sh/tovahoza","slide":22,"text":"Partner workflow","textPreview":"Partner workflow","textChars":16,"textLines":1,"bbox":[456,378,260,30]}
+{"kind":"textbox","id":"sh/032lszqt","slide":22,"text":"Review packages, integrations and approved handoff paths","textPreview":"Review packages, integrations and approved handoff paths","textChars":56,"textLines":1,"bbox":[456,424,260,42]}
+{"kind":"shape","id":"sh/b6xkf6dc","slide":22,"bbox":[836,376,306,4]}
+{"kind":"shape","id":"sh/il0rqd4v","slide":22,"bbox":[804,316,322,158]}
+{"kind":"textbox","id":"sh/ulwval87","slide":22,"text":"Phase 3","textPreview":"Phase 3","textChars":7,"textLines":1,"bbox":[826,338,120,24]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":22,"text":"Localization","textPreview":"Localization","textChars":12,"textLines":1,"bbox":[826,378,260,30]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":22,"text":"Deeper bilingual and regional content operations","textPreview":"Deeper bilingual and regional content operations","textChars":48,"textLines":1,"bbox":[826,424,260,42]}
+{"kind":"notes","id":"nt/wxcsyy","slide":22,"text":"Year 2 expands community learning and partner-grade workflows.\n第二年扩展社区学习和伙伴级工作流。\nFrame this as a roadmap direction pending business, legal and product validation.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/p4byqq","slide":23,"title":"L3AI","textShapes":15}
+{"kind":"textbox","id":"sh/v6psfil0","slide":23,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/knih4byh","slide":23,"text":"ROADMAP","textPreview":"ROADMAP","textChars":7,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":23,"text":"031 / 23","textPreview":"031 / 23","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":23,"text":"Year 3 turns L3AI into a repeatable public intelligence operating system.","textPreview":"Year 3 turns L3AI into a repeatable public intelligence operating system.","textChars":73,"textLines":1,"bbox":[64,84,760,102]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":23,"text":"第三年将 L3AI 打造成可复用的公开智能运营系统。","textPreview":"第三年将 L3AI 打造成可复用的公开智能运营系统。","textChars":26,"textLines":1,"bbox":[64,192,760,38]}
+{"kind":"shape","id":"sh/kf6dcbul","slide":23,"bbox":[64,238,138,34]}
+{"kind":"textbox","id":"sh/d0z61032","slide":23,"text":"Planned","textPreview":"Planned","textChars":7,"textLines":1,"bbox":[76,246,114,18]}
+{"kind":"shape","id":"sh/2x4nap4r","slide":23,"bbox":[96,376,306,4]}
+{"kind":"shape","id":"sh/vixczed8","slide":23,"bbox":[64,316,322,158]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":23,"text":"Phase 1","textPreview":"Phase 1","textChars":7,"textLines":1,"bbox":[86,338,120,24]}
+{"kind":"textbox","id":"sh/61032lsz","slide":23,"text":"Intelligence OS","textPreview":"Intelligence OS","textChars":15,"textLines":1,"bbox":[86,378,260,30]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":23,"text":"Configurable content, review and evidence workflows","textPreview":"Configurable content, review and evidence workflows","textChars":51,"textLines":1,"bbox":[86,424,260,42]}
+{"kind":"shape","id":"sh/o7qpg3ex","slide":23,"bbox":[466,376,306,4]}
+{"kind":"shape","id":"sh/vy90je9c","slide":23,"bbox":[434,316,322,158]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":23,"text":"Phase 2","textPreview":"Phase 2","textChars":7,"textLines":1,"bbox":[456,338,120,24]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":23,"text":"Ecosystem layer","textPreview":"Ecosystem layer","textChars":15,"textLines":1,"bbox":[456,378,260,30]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":23,"text":"Partner content and product education surfaces","textPreview":"Partner content and product education surfaces","textChars":46,"textLines":1,"bbox":[456,424,260,42]}
+{"kind":"shape","id":"sh/z25kb6xk","slide":23,"bbox":[836,376,306,4]}
+{"kind":"shape","id":"sh/6hcrmhk3","slide":23,"bbox":[804,316,322,158]}
+{"kind":"textbox","id":"sh/at47y1kr","slide":23,"text":"Phase 3","textPreview":"Phase 3","textChars":7,"textLines":1,"bbox":[826,338,120,24]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":23,"text":"Operational moat","textPreview":"Operational moat","textChars":16,"textLines":1,"bbox":[826,378,260,30]}
+{"kind":"textbox","id":"sh/szqtcj6t","slide":23,"text":"Release governance, automation and safe distribution","textPreview":"Release governance, automation and safe distribution","textChars":52,"textLines":1,"bbox":[826,424,260,42]}
+{"kind":"notes","id":"nt/p4byqq","slide":23,"text":"Year 3 turns L3AI into a repeatable public intelligence operating system.\n第三年将 L3AI 打造成可复用的公开智能运营系统。\nLong-term vision should remain calm and evidence-gated.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/eija1v","slide":24,"title":"L3AI","textShapes":13}
+{"kind":"textbox","id":"sh/m58z25kb","slide":24,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":24,"text":"GTM","textPreview":"GTM","textChars":3,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":24,"text":"031 / 24","textPreview":"031 / 24","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":24,"text":"Go-to-market starts with education before conversion.","textPreview":"Go-to-market starts with education before conversion.","textChars":53,"textLines":1,"bbox":[64,84,760,102]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":24,"text":"市场进入从教育开始，而不是先转化。","textPreview":"市场进入从教育开始，而不是先转化。","textChars":17,"textLines":1,"bbox":[64,192,760,38]}
+{"kind":"shape","id":"sh/t83itgfm","slide":24,"bbox":[64,276,502,104]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":24,"text":"Website","textPreview":"Website","textChars":7,"textLines":1,"bbox":[88,298,184,28]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":24,"text":"Product path and resource library","textPreview":"Product path and resource library","textChars":33,"textLines":1,"bbox":[288,300,242,42]}
+{"kind":"shape","id":"sh/mp0bi9s3","slide":24,"bbox":[624,276,502,104]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":24,"text":"Content","textPreview":"Content","textChars":7,"textLines":1,"bbox":[648,298,184,28]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":24,"text":"Whitepaper, deck, video and FAQ","textPreview":"Whitepaper, deck, video and FAQ","textChars":31,"textLines":1,"bbox":[848,300,242,42]}
+{"kind":"shape","id":"sh/m58z25kb","slide":24,"bbox":[64,418,502,104]}
+{"kind":"textbox","id":"sh/bq1oryts","slide":24,"text":"Community","textPreview":"Community","textChars":9,"textLines":1,"bbox":[88,440,184,28]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":24,"text":"Learning and discussion without hype","textPreview":"Learning and discussion without hype","textChars":36,"textLines":1,"bbox":[288,442,242,42]}
+{"kind":"shape","id":"sh/t83itgfm","slide":24,"bbox":[624,418,502,104]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":24,"text":"Partners","textPreview":"Partners","textChars":8,"textLines":1,"bbox":[648,440,184,28]}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":24,"text":"Qualified review and collaboration path","textPreview":"Qualified review and collaboration path","textChars":39,"textLines":1,"bbox":[848,442,242,42]}
+{"kind":"notes","id":"nt/eija1v","slide":24,"text":"Go-to-market starts with education before conversion.\n市场进入从教育开始，而不是先转化。\nThis is not an ad plan. It is a trust-first entry strategy.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/55lxvi","slide":25,"title":"L3AI","textShapes":20}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":25,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/032lszqt","slide":25,"text":"PARTNERSHIP","textPreview":"PARTNERSHIP","textChars":11,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/tovahoza","slide":25,"text":"031 / 25","textPreview":"031 / 25","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":25,"text":"Partnerships should be qualified by fit, evidence and risk boundary.","textPreview":"Partnerships should be qualified by fit, evidence and risk boundary.","textChars":68,"textLines":1,"bbox":[64,78,760,102]}
+{"kind":"textbox","id":"sh/bulwval8","slide":25,"text":"合作应由契合度、证据和风险边界来判断。","textPreview":"合作应由契合度、证据和风险边界来判断。","textChars":19,"textLines":1,"bbox":[64,186,760,38]}
+{"kind":"shape","id":"sh/0fepkzup","slide":25,"bbox":[64,246,1082,44]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":25,"text":"Partner fit","textPreview":"Partner fit","textChars":11,"textLines":1,"bbox":[82,258,252,20]}
+{"kind":"textbox","id":"sh/idonyd0z","slide":25,"text":"L3AI provides","textPreview":"L3AI provides","textChars":13,"textLines":1,"bbox":[362,258,442,20]}
+{"kind":"textbox","id":"sh/byhgn29g","slide":25,"text":"Gate","textPreview":"Gate","textChars":4,"textLines":1,"bbox":[832,258,304,20]}
+{"kind":"shape","id":"sh/ra5gbq1o","slide":25,"bbox":[64,300,1082,58]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":25,"text":"Media and education","textPreview":"Media and education","textChars":19,"textLines":1,"bbox":[82,314,252,32]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":25,"text":"Approved public language and explainers","textPreview":"Approved public language and explainers","textChars":39,"textLines":1,"bbox":[362,314,442,32]}
+{"kind":"textbox","id":"sh/gvy90je9","slide":25,"text":"Brand and claim review","textPreview":"Brand and claim review","textChars":22,"textLines":1,"bbox":[832,314,304,32]}
+{"kind":"shape","id":"sh/r2p8nqxs","slide":25,"bbox":[64,370,1082,58]}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":25,"text":"Wallet or ecosystem","textPreview":"Wallet or ecosystem","textChars":19,"textLines":1,"bbox":[82,384,252,32]}
+{"kind":"textbox","id":"sh/94fu18jq","slide":25,"text":"Wallet-aware education surface","textPreview":"Wallet-aware education surface","textChars":30,"textLines":1,"bbox":[362,384,442,32]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":25,"text":"Privacy and legal review","textPreview":"Privacy and legal review","textChars":24,"textLines":1,"bbox":[832,384,304,32]}
+{"kind":"shape","id":"sh/rqd4vmtw","slide":25,"bbox":[64,440,1082,58]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":25,"text":"Enterprise reviewer","textPreview":"Enterprise reviewer","textChars":19,"textLines":1,"bbox":[82,454,252,32]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":25,"text":"Roadshow, resource and proof package","textPreview":"Roadshow, resource and proof package","textChars":36,"textLines":1,"bbox":[362,454,442,32]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":25,"text":"Owner approval","textPreview":"Owner approval","textChars":14,"textLines":1,"bbox":[832,454,304,32]}
+{"kind":"shape","id":"sh/s72x4nap","slide":25,"bbox":[64,510,1082,58]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":25,"text":"Community operator","textPreview":"Community operator","textChars":18,"textLines":1,"bbox":[82,524,252,32]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":25,"text":"Learning journeys and safe content","textPreview":"Learning journeys and safe content","textChars":34,"textLines":1,"bbox":[362,524,442,32]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":25,"text":"Moderation review","textPreview":"Moderation review","textChars":17,"textLines":1,"bbox":[832,524,304,32]}
+{"kind":"notes","id":"nt/55lxvi","slide":25,"text":"Partnerships should be qualified by fit, evidence and risk boundary.\n合作应由契合度、证据和风险边界来判断。\nAvoid implying any current partner unless separately approved.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/ubtf88","slide":26,"title":"L3AI","textShapes":20}
+{"kind":"textbox","id":"sh/dsji5sne","slide":26,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/61032lsz","slide":26,"text":"OPERATING METRICS","textPreview":"OPERATING METRICS","textChars":17,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":26,"text":"031 / 26","textPreview":"031 / 26","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":26,"text":"The KPI model measures quality of understanding, not financial outcomes.","textPreview":"The KPI model measures quality of understanding, not financial outcomes.","textChars":72,"textLines":1,"bbox":[64,78,760,102]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":26,"text":"KPI 模型衡量理解质量，而不是财务结果。","textPreview":"KPI 模型衡量理解质量，而不是财务结果。","textChars":21,"textLines":1,"bbox":[64,186,760,38]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":26,"bbox":[64,246,1082,44]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":26,"text":"Signal","textPreview":"Signal","textChars":6,"textLines":1,"bbox":[82,258,252,20]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":26,"text":"Why it matters","textPreview":"Why it matters","textChars":14,"textLines":1,"bbox":[362,258,442,20]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":26,"text":"Boundary","textPreview":"Boundary","textChars":8,"textLines":1,"bbox":[832,258,304,20]}
+{"kind":"shape","id":"sh/twra5gbq","slide":26,"bbox":[64,300,1082,58]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":26,"text":"Resource engagement","textPreview":"Resource engagement","textChars":19,"textLines":1,"bbox":[82,314,252,32]}
+{"kind":"textbox","id":"sh/bq1oryts","slide":26,"text":"Shows whether users can find approved materials","textPreview":"Shows whether users can find approved materials","textChars":47,"textLines":1,"bbox":[362,314,442,32]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":26,"text":"No investment inference","textPreview":"No investment inference","textChars":23,"textLines":1,"bbox":[832,314,304,32]}
+{"kind":"shape","id":"sh/t83itgfm","slide":26,"bbox":[64,370,1082,58]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":26,"text":"Product path completion","textPreview":"Product path completion","textChars":23,"textLines":1,"bbox":[82,384,252,32]}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":26,"text":"Shows clarity across overview, AI and wallet pages","textPreview":"Shows clarity across overview, AI and wallet pages","textChars":50,"textLines":1,"bbox":[362,384,442,32]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":26,"text":"No trading signal","textPreview":"No trading signal","textChars":17,"textLines":1,"bbox":[832,384,304,32]}
+{"kind":"shape","id":"sh/tgfmlkjm","slide":26,"bbox":[64,440,1082,58]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":26,"text":"FAQ and trust views","textPreview":"FAQ and trust views","textChars":19,"textLines":1,"bbox":[82,454,252,32]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":26,"text":"Shows risk-language visibility","textPreview":"Shows risk-language visibility","textChars":30,"textLines":1,"bbox":[362,454,442,32]}
+{"kind":"textbox","id":"sh/9cvixcze","slide":26,"text":"No legal advice claim","textPreview":"No legal advice claim","textChars":21,"textLines":1,"bbox":[832,454,304,32]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":26,"bbox":[64,510,1082,58]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":26,"text":"Qualified contact","textPreview":"Qualified contact","textChars":17,"textLines":1,"bbox":[82,524,252,32]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":26,"text":"Shows partner or reviewer intent","textPreview":"Shows partner or reviewer intent","textChars":32,"textLines":1,"bbox":[362,524,442,32]}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":26,"text":"No revenue forecast","textPreview":"No revenue forecast","textChars":19,"textLines":1,"bbox":[832,524,304,32]}
+{"kind":"notes","id":"nt/ubtf88","slide":26,"text":"The KPI model measures quality of understanding, not financial outcomes.\nKPI 模型衡量理解质量，而不是财务结果。\nNo invented targets, growth curves or conversion numbers.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/lku4od","slide":27,"title":"L3AI","textShapes":14}
+{"kind":"textbox","id":"sh/r65wjudg","slide":27,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":27,"text":"DIFFERENTIATION","textPreview":"DIFFERENTIATION","textChars":15,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/9cvixcze","slide":27,"text":"031 / 27","textPreview":"031 / 27","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/yxobm58z","slide":27,"text":"L3AI differentiates through restraint, structure and proof.","textPreview":"L3AI differentiates through restraint, structure and proof.","textChars":59,"textLines":1,"bbox":[64,84,760,102]}
+{"kind":"textbox","id":"sh/nih4byhg","slide":27,"text":"L3AI 的差异化来自克制、结构和证明。","textPreview":"L3AI 的差异化来自克制、结构和证明。","textChars":20,"textLines":1,"bbox":[64,192,760,38]}
+{"kind":"shape","id":"sh/g3ex0nux","slide":27,"bbox":[64,302,354,250]}
+{"kind":"shape","id":"sh/5o7qpg3e","slide":27,"bbox":[86,328,138,34]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":27,"text":"产品优先","textPreview":"产品优先","textChars":4,"textLines":1,"bbox":[98,336,114,18]}
+{"kind":"textbox","id":"sh/rmhk3q5o","slide":27,"text":"Product-first","textPreview":"Product-first","textChars":13,"textLines":1,"bbox":[90,382,302,42]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":27,"text":"The live site and recordings carry the story before the deck does.","textPreview":"The live site and recordings carry the story before the deck does.","textChars":66,"textLines":1,"bbox":[90,446,302,72]}
+{"kind":"shape","id":"sh/qpg3ex0n","slide":27,"bbox":[463,302,354,250]}
+{"kind":"shape","id":"sh/xczed8v6","slide":27,"bbox":[485,328,138,34]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":27,"text":"风险可见","textPreview":"风险可见","textChars":4,"textLines":1,"bbox":[497,336,114,18]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":27,"text":"Risk-aware","textPreview":"Risk-aware","textChars":10,"textLines":1,"bbox":[489,382,302,42]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":27,"text":"Boundaries are visible in the journey instead of hidden in footnotes.","textPreview":"Boundaries are visible in the journey instead of hidden in footnotes.","textChars":69,"textLines":1,"bbox":[489,446,302,72]}
+{"kind":"shape","id":"sh/x4nap4r6","slide":27,"bbox":[862,302,354,250]}
+{"kind":"shape","id":"sh/8jqh0fep","slide":27,"bbox":[884,328,138,34]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":27,"text":"生产可审计","textPreview":"生产可审计","textChars":5,"textLines":1,"bbox":[896,336,114,18]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":27,"text":"Production-ready","textPreview":"Production-ready","textChars":16,"textLines":1,"bbox":[888,382,302,42]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":27,"text":"Assets, manifests and QA records make public materials reviewable.","textPreview":"Assets, manifests and QA records make public materials reviewable.","textChars":66,"textLines":1,"bbox":[888,446,302,72]}
+{"kind":"notes","id":"nt/lku4od","slide":27,"text":"L3AI differentiates through restraint, structure and proof.\nL3AI 的差异化来自克制、结构和证明。\nDo not make competitor attack claims. Positive differentiation is enough.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}
+{"kind":"slide","id":"sl/wv7a6z","slide":28,"title":"L3AI","textShapes":11}
+{"kind":"textbox","id":"sh/d0z61032","slide":28,"text":"L3AI","textPreview":"L3AI","textChars":4,"textLines":1,"bbox":[64,26,110,24]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":28,"text":"DECISION","textPreview":"DECISION","textChars":8,"textLines":1,"bbox":[168,26,360,24]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":28,"text":"031 / 28","textPreview":"031 / 28","textChars":8,"textLines":1,"bbox":[1080,26,136,24]}
+{"kind":"textbox","id":"sh/knih4byh","slide":28,"text":"The next decision is to use L3AI as the controlled public story for launch review.","textPreview":"The next decision is to use L3AI as the controlled public story for launch review.","textChars":82,"textLines":1,"bbox":[64,92,920,118]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":28,"text":"下一步决策是将 L3AI 作为受控公开叙事进入发布评审。","textPreview":"下一步决策是将 L3AI 作为受控公开叙事进入发布评审。","textChars":28,"textLines":1,"bbox":[64,220,900,38]}
+{"kind":"shape","id":"sh/2lszqtcj","slide":28,"bbox":[64,316,934,46]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":28,"text":"1. Approve this roadshow deck as the flagship presentation.","textPreview":"1. Approve this roadshow deck as the flagship presentation.","textChars":59,"textLines":1,"bbox":[82,328,890,22]}
+{"kind":"shape","id":"sh/kre1w7mp","slide":28,"bbox":[64,378,934,46]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":28,"text":"2. Confirm public-safe language with product, legal, security and release owners.","textPreview":"2. Confirm public-safe language with product, legal, security and release owners.","textChars":81,"textLines":1,"bbox":[82,390,890,22]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":28,"bbox":[64,440,934,46]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":28,"text":"3. Use Resources as the single distribution point for deck, whitepaper, video and proof assets.","textPreview":"3. Use Resources as the single distribution point for deck, whitepaper, video and proof assets.","textChars":95,"textLines":1,"bbox":[82,452,890,22]}
+{"kind":"shape","id":"sh/3m94fu18","slide":28,"bbox":[64,502,934,46]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":28,"text":"4. Keep external publish execution behind explicit release approval.","textPreview":"4. Keep external publish execution behind explicit release approval.","textChars":68,"textLines":1,"bbox":[82,514,890,22]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":28,"bbox":[980,318,196,142]}
+{"kind":"textbox","id":"sh/sji5snel","slide":28,"text":"Next step","textPreview":"Next step","textChars":9,"textLines":1,"bbox":[1008,346,140,28]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":28,"text":"Use Resources as the single public handoff point.","textPreview":"Use Resources as the single public handoff point.","textChars":49,"textLines":1,"bbox":[1004,392,150,48]}
+{"kind":"notes","id":"nt/wv7a6z","slide":28,"text":"The next decision is to use L3AI as the controlled public story for launch review.\n下一步决策是将 L3AI 作为受控公开叙事进入发布评审。\nClose with a governance ask, not a fundraising ask. This is the public presentation package for review and launch readiness.\nPublic-safe boundary: do not add guaranteed returns, token value, private implementation details or unapproved partner claims."}

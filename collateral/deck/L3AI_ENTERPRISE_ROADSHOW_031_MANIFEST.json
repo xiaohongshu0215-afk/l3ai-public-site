@@ -1,0 +1,187 @@
+{
+  "id": "PREMIUM-DECK-031",
+  "title": "L3AI Enterprise Roadshow Deck",
+  "version": "V1.0",
+  "status": "Public-safe roadshow package",
+  "generated_at": "2026-07-01T22:16:43.046Z",
+  "slide_count": 28,
+  "outputs": [
+    {
+      "path": "collateral/deck/L3AI_Enterprise_Roadshow_Deck_031.pptx",
+      "bytes": 6747858,
+      "sha256": "181cc54474b0091f63a4b40ac10a20bf064e895f6e5e8f7bc11c59d54fa51539"
+    },
+    {
+      "path": "collateral/deck/L3AI_Enterprise_Roadshow_Deck_031.pdf",
+      "bytes": 1846976,
+      "sha256": "2688788d8fc935adc3a9095fc9ac3e40aaccdadd1d632c0cb42e505763a0072d"
+    },
+    {
+      "path": "collateral/deck/L3AI_Enterprise_Roadshow_Deck_031.html",
+      "bytes": 11830,
+      "sha256": "3ce9a528eaf9eeb26f845a83dacbd3f4fb4a12e01c423e60c24d8a26aacd8cce"
+    },
+    {
+      "path": "collateral/deck/L3AI_Enterprise_Roadshow_Deck_031_speaker_notes.md",
+      "bytes": 12498,
+      "sha256": "3aedc2591f9278bb2076fd8bfb528abb2c1029372e87eb4c90c5665b309cbe13"
+    },
+    {
+      "path": "collateral/deck/L3AI_Enterprise_Roadshow_Deck_031.pptx.inspect.ndjson",
+      "bytes": 95363,
+      "sha256": "e8b178ba087df2ae61463cb6f5ff7f49dcc788759933fc881700ea1150bbbc13"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/qa/deck-montage.webp",
+      "bytes": 42636,
+      "sha256": "a65cb3eb654632e24acafe0be7fab8f94cb9d66058ac4488a3cc57c7216989f7"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-01.png",
+      "bytes": 84889,
+      "sha256": "13a6f935fd3074eb9ca481882dc2bb7531991088e1e8067e3a5a6741b436f089"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-02.png",
+      "bytes": 64594,
+      "sha256": "e5047b84bd98afb7881b3d2668e1a6097915318db7730ed3f85639dcd939ecd4"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-03.png",
+      "bytes": 54517,
+      "sha256": "e8df962f63b9647791b763ab70b648b3a4637620e12169a5f8cbf408a407f5f2"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-04.png",
+      "bytes": 194008,
+      "sha256": "e4bbe29eb9e60f7b33dffe825883068bc84ad6de57e4dee82448e5071ec35cc1"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-05.png",
+      "bytes": 70047,
+      "sha256": "ab27d9c8e4d7b305c54c92af4154c50d91129db4fc6b76d62e7be913bd6e6165"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-06.png",
+      "bytes": 185563,
+      "sha256": "3dffa2014c867b39ddd3b1351264994bc93f009dc02754180054fc4c0bf6aef5"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-07.png",
+      "bytes": 120865,
+      "sha256": "08535cb50d00bce16ee1e802f40ad207f0bcfd19af660e7f99d2517418b903db"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-08.png",
+      "bytes": 124576,
+      "sha256": "4b9ca168c614c2d2cd1e6e6f298d9fc9a74b808b18b3f65a9329ec6d2965796d"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-09.png",
+      "bytes": 139759,
+      "sha256": "38e446de03b90cc3621e6fcf93f1030fba703c10adee8e1cbeca94119c6d14e8"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-10.png",
+      "bytes": 50282,
+      "sha256": "43c3f4f2b4d9a8ce03e32668e8bcc0240395f2dc7a9cb6f7f5b16cca63d51ba2"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-11.png",
+      "bytes": 55852,
+      "sha256": "8f7a4a1c5cf187b6651a69356a98765a7e1716baeb225088fba236d4173cad81"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-12.png",
+      "bytes": 50202,
+      "sha256": "575fe470dadd8274fe1460d152668066a8825b4d1c3f1b6de892148200525797"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-13.png",
+      "bytes": 65769,
+      "sha256": "df33aa4e840d937f2a593ab5904e8a522ce51000d47c39fd3c5e0bd838d6f2b4"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-14.png",
+      "bytes": 77734,
+      "sha256": "66761efdc6724cca29f478b7e89bb4e8bea2c4a6ca20a74ee2640219d4bb2514"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-15.png",
+      "bytes": 50933,
+      "sha256": "7f596352eae31369adee3adbb91d20fff07df27c1c513fb2c9254ff66261d4a6"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-16.png",
+      "bytes": 220110,
+      "sha256": "565c2e22013803621f748d8426f7333ae29c8beb0999e4eb293bffd09c09749a"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-17.png",
+      "bytes": 67737,
+      "sha256": "af9a066441a9a2df8e3e0de77434fd97aa275a76ac6ce8e399fe5f598b291a66"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-18.png",
+      "bytes": 51788,
+      "sha256": "d2978fa3ed2f2378dfe24dd593b21851a2cde9eff15ec69582565579cf224521"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-19.png",
+      "bytes": 57322,
+      "sha256": "9336c106f74e3d12f93d5f8f97a89ed38eef38e002ee9ffd9c56c67afabed006"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-20.png",
+      "bytes": 69318,
+      "sha256": "21f307ab804a6bd2dd913949b979ad8c438497cc7132e0dd1993c74ccbc5be55"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-21.png",
+      "bytes": 51253,
+      "sha256": "dc5110e80ffed9346419af9a9adefe040c062292bd1876809ed811d2c21c8084"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-22.png",
+      "bytes": 49307,
+      "sha256": "aabc04ea753e15bcc6165570aa7da87bca7870c7183e0e2517c798e2b4935bdf"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-23.png",
+      "bytes": 52007,
+      "sha256": "7cbb90593242ef9fc57da8742f7e4cab2de4d8f7bb278e181511161395b6c781"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-24.png",
+      "bytes": 48317,
+      "sha256": "dda9c6d71a5c507c0938a8003da50fa4e587127327b54d4b7ab89810dbddb373"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-25.png",
+      "bytes": 60244,
+      "sha256": "169abac04f2a167f620e019196bbfd3f21a703524348f472762068828961a42a"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-26.png",
+      "bytes": 63784,
+      "sha256": "412ecfe0bb2ded2caf862a9ab3e8a8ee4a6777ce835a7a4e5086a516cdd33502"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-27.png",
+      "bytes": 51645,
+      "sha256": "51bfc1f1b6eb4e61bf71b4a02856ffe00d34d220cbae5bacf2f975c4941adc31"
+    },
+    {
+      "path": "collateral/deck/enterprise-roadshow-031/preview/slide-28.png",
+      "bytes": 69272,
+      "sha256": "c2b67df540744a83e3581b3b015b3fcd22112d2634873c4e616bc8c5e45e5f4e"
+    }
+  ],
+  "safety": {
+    "public_safe": true,
+    "no_private_source": true,
+    "no_protected_material": true,
+    "no_guaranteed_returns": true,
+    "current_in_progress_planned_separated": true
+  }
+}
