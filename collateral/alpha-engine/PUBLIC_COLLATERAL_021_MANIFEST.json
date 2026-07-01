@@ -1,0 +1,80 @@
+{
+  "package_id": "PUBLIC-COLLATERAL-021",
+  "title": "L3AI Alpha Engine Public Narrative Pack",
+  "generated_at": "2026-07-01T14:45:00.000Z",
+  "source_ref": "origin/fix/v10-p0-core-blockers",
+  "public_boundary": [
+    "paper-only research operating-system prototype",
+    "no live trading",
+    "no external publishing or deployment execution",
+    "no private code, protected credential, wallet account material, or production data"
+  ],
+  "sources": [
+    {
+      "id": "product_overview",
+      "file": "mum-platform/docs/l3ai-alpha-engine-product-overview.md",
+      "sha256": "1a3ad1029dfea3d0f5adb82e5eb762bd936282f28546b5ce2e9fd20609526952"
+    },
+    {
+      "id": "business_whitepaper",
+      "file": "mum-platform/docs/l3ai-alpha-engine-product-whitepaper.md",
+      "sha256": "14c09c99da54a9e487b9c34d4e18b1b6d2c8f58f0b6648a83919abf6a417d154"
+    },
+    {
+      "id": "executive_architecture",
+      "file": "mum-platform/docs/l3ai-alpha-engine-executive-architecture.md",
+      "sha256": "ab4de37f5123bc525681bf672594c601bae0d5ae65d7dcdf80caae828dcfe02e"
+    },
+    {
+      "id": "capability_matrix",
+      "file": "mum-platform/docs/l3ai-alpha-engine-capability-matrix.md",
+      "sha256": "248612919ea6fec2c3104d0742f62f406ad096a768c9a0830307d602c39f46c9"
+    },
+    {
+      "id": "differentiation",
+      "file": "mum-platform/docs/l3ai-alpha-engine-differentiation.md",
+      "sha256": "950a6353ab2ce1100ad9f67ee4a6d1ec48b69c3145c1ee1a456b6b4ba9b3fe55"
+    },
+    {
+      "id": "use_cases",
+      "file": "mum-platform/docs/l3ai-alpha-engine-use-cases.md",
+      "sha256": "c1c133968f9fa73175fc331886ef860184fed20253b33684bef4f2187e7ac173"
+    },
+    {
+      "id": "three_year_roadmap",
+      "file": "mum-platform/docs/l3ai-alpha-engine-three-year-roadmap.md",
+      "sha256": "a3bfbbccfa56b269be3d5a3484dfad401200e25e30cdb1375acbfd64a77ef360"
+    },
+    {
+      "id": "business_glossary",
+      "file": "mum-platform/docs/l3ai-alpha-engine-business-glossary.md",
+      "sha256": "05318a324a8bec8089c75cd5b924dcd6ce50f9b8d0a9f8e47b94bdb296edba69"
+    },
+    {
+      "id": "visual_asset_suggestions",
+      "file": "mum-platform/docs/l3ai-alpha-engine-visual-asset-suggestions.md",
+      "sha256": "c51bb6dc5bd1116a7f102ab271a0190f5d4f4b66b7f9c3912546d86959927bd3"
+    },
+    {
+      "id": "business_materials_pack",
+      "file": "mum-platform/docs/l3ai-alpha-engine-business-materials-pack.md",
+      "sha256": "52f942e6213f45d021e02f1921c464346eaa49bd4843107b926d7cc1b094088c"
+    },
+    {
+      "id": "investor_faq",
+      "file": "mum-platform/docs/l3ai-alpha-engine-investor-faq.md",
+      "sha256": "396c563d8d57bd68191b4b77f9aa9857342077070019a02b71c3a6f1bd6dcbd4"
+    },
+    {
+      "id": "llm_runtime_review",
+      "file": "mum-platform/docs/l3ai-alpha-engine-pi-4-llm-runtime-integration-review.md",
+      "sha256": "c3236dec29bc2f8ab7729ded9a80c6ebc8efb941c864427de8b8551a6b760149"
+    }
+  ],
+  "outputs": [
+    "collateral/alpha-engine/L3AI_Alpha_Engine_Public_Narrative_Pack_v1.md",
+    "collateral/alpha-engine/L3AI_Alpha_Engine_Public_Narrative_Pack_v1.html",
+    "collateral/alpha-engine/L3AI_Alpha_Engine_Public_Narrative_Pack_v1.pdf",
+    "collateral/alpha-engine/PUBLIC_COLLATERAL_021_MANIFEST.json"
+  ]
+}

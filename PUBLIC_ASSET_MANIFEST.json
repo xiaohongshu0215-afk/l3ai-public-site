@@ -1,8 +1,8 @@
 {
   "site": "l3ai-public-site",
   "base_url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/",
-  "asset_count": 503,
-  "generated_at": "2026-07-01T14:01:33.803Z",
+  "asset_count": 509,
+  "generated_at": "2026-07-01T14:45:00.000Z",
   "assets": [
     {
       "path": ".nojekyll",
@@ -15,6 +15,30 @@
       "bytes": 10437,
       "sha256": "ee4af79e14fbcb7bedec3b73bedfb08a73fd4c1b2dc77d595cc9d15e8bcf578c",
       "type": "text/css"
+    },
+    {
+      "path": "collateral/alpha-engine/L3AI_Alpha_Engine_Public_Narrative_Pack_v1.html",
+      "bytes": 11210,
+      "sha256": "7e6706bd65288e72abdb08169a5e6611e9e59bd03cc65a3e74e6f1a9203de7c5",
+      "type": "text/html"
+    },
+    {
+      "path": "collateral/alpha-engine/L3AI_Alpha_Engine_Public_Narrative_Pack_v1.md",
+      "bytes": 8057,
+      "sha256": "d9f09c329906c2c4ec467f6cede979dbe5fb09273c6895b2b67515ed31e1c85f",
+      "type": "text/markdown"
+    },
+    {
+      "path": "collateral/alpha-engine/L3AI_Alpha_Engine_Public_Narrative_Pack_v1.pdf",
+      "bytes": 11848,
+      "sha256": "a2422278b93fb56be78f307b240601623cd8124fe238381ebcc1aaff05ba4011",
+      "type": "application/pdf"
+    },
+    {
+      "path": "collateral/alpha-engine/PUBLIC_COLLATERAL_021_MANIFEST.json",
+      "bytes": 3246,
+      "sha256": "d3bf79935a1ac1a5feb0fadd5559655384aed2c5220fc789b1aa36214714bc82",
+      "type": "application/json"
     },
     {
       "path": "collateral/deck/L3AI_Public_Business_Plan_v1_speaker_notes.md",
@@ -494,7 +518,7 @@
       "path": "collateral/video/frames/concat.txt",
       "bytes": 1011,
       "sha256": "74345faafed729009e2713a8e863089eb06f0cda0cb738f9e553bec3b60cdf23",
-      "type": "text/plain"
+      "type": "application/octet-stream"
     },
     {
       "path": "collateral/video/frames/scene-01.png",
@@ -744,8 +768,8 @@
     },
     {
       "path": "faq.html",
-      "bytes": 7569,
-      "sha256": "ccfeee2b206f54b554b9228554df45f82c2e5e54faa4f9a1ad02bc01e472fa0d",
+      "bytes": 8337,
+      "sha256": "422d1190772a82e2c8b323f57edd29d4bc468cab7e0be264f9169bafb30151c0",
       "type": "text/html"
     },
     {
@@ -756,8 +780,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 11545,
-      "sha256": "28a93ecca1d31cb957c8f99c847457a889dc6b8aa4b472eea965d7bcf5df8697",
+      "bytes": 11935,
+      "sha256": "16bdc92424a19a773a1dc2abdb9cf72a9dd692591bb22e5456a4aec0921dfcc8",
       "type": "text/html"
     },
     {
@@ -1596,26 +1620,38 @@
     },
     {
       "path": "resources.html",
-      "bytes": 11126,
-      "sha256": "8438746ab04cd0ea1af6a607b3ffdb894193c821eb4924247a42ae3b90c75223",
+      "bytes": 12870,
+      "sha256": "cd7921cb8a2b1ce702c5ab6bdf246c32815f173d39460f0ff4dab7b8a3d740ed",
       "type": "text/html"
     },
     {
       "path": "robots.txt",
       "bytes": 100,
       "sha256": "1ee462d2819ba44c7c0e71978db823d4b38374bd3c041e63ced8a82fda4b4db3",
-      "type": "text/plain"
+      "type": "application/octet-stream"
+    },
+    {
+      "path": "scripts/build-alpha-engine-public-pack-pdf.py",
+      "bytes": 5688,
+      "sha256": "69dc7a97227d4e1609e367282400317caa1d036c0a7cdc97383836769321f48e",
+      "type": "application/octet-stream"
+    },
+    {
+      "path": "scripts/build-alpha-engine-public-pack.mjs",
+      "bytes": 16286,
+      "sha256": "8335b43508b511846420e77fd5193272bee9f128ddd8b601df0b577d00cc5e8c",
+      "type": "application/octet-stream"
     },
     {
       "path": "sitemap.html",
-      "bytes": 5677,
-      "sha256": "c01178193d4e883d313402d934b5bca4475cd2f552183cb665d593473f9bd4b7",
+      "bytes": 6101,
+      "sha256": "872e7f1ac9b963fb19c5ad17c637cbd9066c936328b6774b128fc391ac0054c6",
       "type": "text/html"
     },
     {
       "path": "sitemap.xml",
-      "bytes": 2865,
-      "sha256": "7cdb72f9364a5e8e0440016adfb8acd1bafc23ab5011ab5b1b3f76aced98b517",
+      "bytes": 3305,
+      "sha256": "82c368df944e11dc65b543d51f37014fe27afcb75674720cde47fc97c771b915",
       "type": "application/xml"
     },
     {
