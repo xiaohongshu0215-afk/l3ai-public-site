@@ -1,0 +1,234 @@
+{
+  "asset_id": "L3AI_BUSINESS_PARTNERSHIP_DECK_V1",
+  "title": "L3AI Business & Partnership Deck v1",
+  "version": "v1",
+  "status": "prepared",
+  "public_use": "controlled_public_review",
+  "generated_at": "2026-07-01T23:32:49.097Z",
+  "source_policy": "Reference PDFs were used only for narrative rhythm, information hierarchy, pacing and visual inspiration. No wording, branding or layouts were copied.",
+  "safety_boundary": [
+    "No outcome promises",
+    "No funding-action instructions",
+    "No protected-source content",
+    "No protected-system implementation details",
+    "No secrets or credentials",
+    "Roadmap items explicitly marked Current / In Progress / Planned"
+  ],
+  "files": [
+    {
+      "path": "collateral/brand-system/L3AI_Business_Partnership_Deck_v1.pptx",
+      "bytes": 5195299,
+      "sha256": "b250fa7423b61f6c195dd7363670d20c0b979a188448343dd6bb42fa9620ff29"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Business_Partnership_Deck_v1.pdf",
+      "bytes": 1066217,
+      "sha256": "ed90642f09574bd9f67e8d9d56a26552c15eb3b68900738c2504b9d5c8a70b04"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Business_Partnership_Deck_v1.html",
+      "bytes": 8319,
+      "sha256": "dd9151b4cc57797ff8765f607c3ebd39c3ee8b77f2e131dea676859a8347bf0b"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Business_Partnership_Deck_v1_speaker_notes.md",
+      "bytes": 2468,
+      "sha256": "7181019af0534e20e367abe074c09706bd114ffccba023e5f6c41cee708b6c95"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Business_Partnership_Deck_v1.pptx.inspect.ndjson",
+      "bytes": 62634,
+      "sha256": "8b1f571d846ef827db4315690fd919bffc6c0eeade1911e08376fd15e72604bd"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/deck-montage.webp",
+      "bytes": 58574,
+      "sha256": "852b66f5c032ad6c28df58f293e7b1bbb01f98efd26004bd67e16e2ca6379725"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/deck-contact-sheet.png",
+      "bytes": 310412,
+      "sha256": "616c556301f658da5511009c8a4a3a6d5f28672ffde9675feaf5e439f1ab2f4a"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-01.png",
+      "bytes": 123317,
+      "sha256": "5c67fff6338ce367f1d47e6604b883fa15324273f4ce0d6550461f1f99d1618a"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-02.png",
+      "bytes": 50936,
+      "sha256": "e1bb3446538007c53c94323cb918ac693a09a59f06fdad2ca11bf530e5f5beb9"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-03.png",
+      "bytes": 45034,
+      "sha256": "e37fe4ad566426117f83a95de45d4e07c06929a615892ea1623184c53eae5193"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-04.png",
+      "bytes": 183506,
+      "sha256": "c20445274edbd233a16db593fbbe4577985fd99c593aa847af6476f1ad81c742"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-05.png",
+      "bytes": 53398,
+      "sha256": "f5debbc463a7a4bfd09f059485d880ea56f4b9b5feeae81dbec19f80af5b309e"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-06.png",
+      "bytes": 49684,
+      "sha256": "8e507c9df67eceb2586b2bf00fe6e5b27412d64d1860c0ea69bd4e78ca155a7a"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-07.png",
+      "bytes": 50210,
+      "sha256": "f5d69d8bb6ad1809f3b334d116447096e3d163ddb8ce4dec31737f02e3256e2c"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-08.png",
+      "bytes": 49811,
+      "sha256": "c4ce69eb2d56a5a0b44acb07d6d7632dbc9429ad0e65db14a266d0277120dfc0"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-09.png",
+      "bytes": 144484,
+      "sha256": "dd034f5633f387f471b63435a3506fa583d67fb152fb1d0012cd60f5155e0a9d"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-10.png",
+      "bytes": 53057,
+      "sha256": "ce31462ff11592e16cc746b9a82f474014784bdbe02fc39bcf6cbaed1aee16d3"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-11.png",
+      "bytes": 50755,
+      "sha256": "0a94a23fab3ae7138f1de043a5d934131df099351099ef52d8f34359a66b41f2"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-12.png",
+      "bytes": 53205,
+      "sha256": "f4f63ccb8c4e906c5bf9367877e622baa703619d18696805f6583ca3f9ca6a28"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-13.png",
+      "bytes": 101174,
+      "sha256": "45f6cb643da9b3659e9224f1757870a1d2a7a40de4469f47835b8b06cfad07f5"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-14.png",
+      "bytes": 48653,
+      "sha256": "30cd25db83599ce60b0f6a3d00da923deae2f109e6213e1b1f7549c22ed04c5f"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-15.png",
+      "bytes": 43815,
+      "sha256": "23462728d4ddaf3408d324da4115881c72a612eaaab137b34d148e0684e6ccb5"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-16.png",
+      "bytes": 55242,
+      "sha256": "b5b7d194efbc07570043d6f73b811bcd77d16f7f23dd6fa564db882a385f2777"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-17.png",
+      "bytes": 46957,
+      "sha256": "f98f401c72e0b69de4bf90e16d89beebe933cf4668dc0fa5ff2c36b2546bf4ec"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-18.png",
+      "bytes": 111204,
+      "sha256": "ac08864827830ff9766d239550c4532a58f8064477a0bf1aa7ac940554c78f8a"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-01.layout.json",
+      "bytes": 15744,
+      "sha256": "1c211b1ee5deec1048f6d075bca72d30474f04ea520374f6b100dd7009cb64fc"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-02.layout.json",
+      "bytes": 21115,
+      "sha256": "1cfe0b6830b1c7e628f372d1071437580aedc2f55beb43984fa85cfd5f8482c9"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-03.layout.json",
+      "bytes": 28984,
+      "sha256": "c8ebd1a5af6d73f7361963a689eed6ae71843aa82b8ad76011edceb188431d30"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-04.layout.json",
+      "bytes": 25202,
+      "sha256": "51b6cdfc2019a6227c9b07890cdbb63474b7e275b05bb79f40f3b7db9c580600"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-05.layout.json",
+      "bytes": 35466,
+      "sha256": "7ab42d5a26a253bff11f8f7a74f2a150858a9d0d213cb412f8ac0aa8490c2aa7"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-06.layout.json",
+      "bytes": 21221,
+      "sha256": "74f49ba4c91d4ecfed26fc150281c9ae9495411f7be1476f0377b7be954f2d57"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-07.layout.json",
+      "bytes": 20809,
+      "sha256": "efc93e337e0d83e466c595560cc62b4351d8b34656ffaa66c27dfb7b7f7fe5ed"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-08.layout.json",
+      "bytes": 20822,
+      "sha256": "038340259629b7ae801bb9590c333158d923a81e8820283dfcacc62d681909e5"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-09.layout.json",
+      "bytes": 25098,
+      "sha256": "0599fe292cdbf76586bdccfb6a13c313f29fde41ab0f5ca0f5025899cf324409"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-10.layout.json",
+      "bytes": 20940,
+      "sha256": "4eeed69e916cf627c9bb034ae327e2d96d20c04ea24feabf1e2ac1e93cf532da"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-11.layout.json",
+      "bytes": 33423,
+      "sha256": "911ffd96e923a4876886545c1dd28817d3daf7ac883eba6f4b0a5a43f10d1b11"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-12.layout.json",
+      "bytes": 21276,
+      "sha256": "66b0adefa9fb662bc1a3df5d7ac87224f726635a90693fc2156a1d232ab50901"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-13.layout.json",
+      "bytes": 24775,
+      "sha256": "18bb60b32809e9c6ec6aec0d1e1b6c476d2b7d3772cd46e15bb68e8954e9c140"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-14.layout.json",
+      "bytes": 21192,
+      "sha256": "e92f4d35102a00adabde155ec37891eb60a3199d981d9bcfae711f0d67b6a23e"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-15.layout.json",
+      "bytes": 28790,
+      "sha256": "dad32eee4b74412d6d423a562215c245ecd3c9a175596dd43035600449c7b1c6"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-16.layout.json",
+      "bytes": 35462,
+      "sha256": "6ec5308af7c2778a653576bc1f664d25fbb7869519e940afb1a4eee67b129920"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-17.layout.json",
+      "bytes": 20816,
+      "sha256": "08ff59ad7964253220434d1dee1916f1ea1a077aafe86510ee96e0665021d753"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-18.layout.json",
+      "bytes": 13570,
+      "sha256": "0e8540c23c830ff15b8e6650d6dffb31dee9c1daf0b8a58601a6255264f19c24"
+    }
+  ]
+}

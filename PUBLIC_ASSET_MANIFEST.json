@@ -1,9 +1,9 @@
 {
-  "site": "l3ai-public-site",
-  "base_url": "https://xiaohongshu0215-afk.github.io/l3ai-public-site/",
-  "asset_count": 811,
-  "generated_at": "2026-07-01T22:53:41.326Z",
-  "assets": [
+  "asset_id": "L3AI_PUBLIC_SITE_ASSET_MANIFEST",
+  "status": "prepared",
+  "generated_at": "2026-07-01T23:37:46.414Z",
+  "total_assets": 934,
+  "files": [
     {
       "path": ".gitattributes",
       "bytes": 107,
@@ -48,6 +48,601 @@
       "path": "collateral/alpha-engine/PUBLIC_COLLATERAL_021_MANIFEST.json",
       "bytes": 3246,
       "sha256": "d3bf79935a1ac1a5feb0fadd5559655384aed2c5220fc789b1aa36214714bc82"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-01.png",
+      "bytes": 123317,
+      "sha256": "5c67fff6338ce367f1d47e6604b883fa15324273f4ce0d6550461f1f99d1618a"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-02.png",
+      "bytes": 50936,
+      "sha256": "e1bb3446538007c53c94323cb918ac693a09a59f06fdad2ca11bf530e5f5beb9"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-03.png",
+      "bytes": 45034,
+      "sha256": "e37fe4ad566426117f83a95de45d4e07c06929a615892ea1623184c53eae5193"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-04.png",
+      "bytes": 183506,
+      "sha256": "c20445274edbd233a16db593fbbe4577985fd99c593aa847af6476f1ad81c742"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-05.png",
+      "bytes": 53398,
+      "sha256": "f5debbc463a7a4bfd09f059485d880ea56f4b9b5feeae81dbec19f80af5b309e"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-06.png",
+      "bytes": 49684,
+      "sha256": "8e507c9df67eceb2586b2bf00fe6e5b27412d64d1860c0ea69bd4e78ca155a7a"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-07.png",
+      "bytes": 50210,
+      "sha256": "f5d69d8bb6ad1809f3b334d116447096e3d163ddb8ce4dec31737f02e3256e2c"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-08.png",
+      "bytes": 49811,
+      "sha256": "c4ce69eb2d56a5a0b44acb07d6d7632dbc9429ad0e65db14a266d0277120dfc0"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-09.png",
+      "bytes": 144484,
+      "sha256": "dd034f5633f387f471b63435a3506fa583d67fb152fb1d0012cd60f5155e0a9d"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-10.png",
+      "bytes": 53057,
+      "sha256": "ce31462ff11592e16cc746b9a82f474014784bdbe02fc39bcf6cbaed1aee16d3"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-11.png",
+      "bytes": 50755,
+      "sha256": "0a94a23fab3ae7138f1de043a5d934131df099351099ef52d8f34359a66b41f2"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-12.png",
+      "bytes": 53205,
+      "sha256": "f4f63ccb8c4e906c5bf9367877e622baa703619d18696805f6583ca3f9ca6a28"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-13.png",
+      "bytes": 101174,
+      "sha256": "45f6cb643da9b3659e9224f1757870a1d2a7a40de4469f47835b8b06cfad07f5"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-14.png",
+      "bytes": 48653,
+      "sha256": "30cd25db83599ce60b0f6a3d00da923deae2f109e6213e1b1f7549c22ed04c5f"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-15.png",
+      "bytes": 43815,
+      "sha256": "23462728d4ddaf3408d324da4115881c72a612eaaab137b34d148e0684e6ccb5"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-16.png",
+      "bytes": 55242,
+      "sha256": "b5b7d194efbc07570043d6f73b811bcd77d16f7f23dd6fa564db882a385f2777"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-17.png",
+      "bytes": 46957,
+      "sha256": "f98f401c72e0b69de4bf90e16d89beebe933cf4668dc0fa5ff2c36b2546bf4ec"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/preview/slide-18.png",
+      "bytes": 111204,
+      "sha256": "ac08864827830ff9766d239550c4532a58f8064477a0bf1aa7ac940554c78f8a"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/deck-contact-sheet.png",
+      "bytes": 310412,
+      "sha256": "616c556301f658da5511009c8a4a3a6d5f28672ffde9675feaf5e439f1ab2f4a"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/deck-montage.webp",
+      "bytes": 58574,
+      "sha256": "852b66f5c032ad6c28df58f293e7b1bbb01f98efd26004bd67e16e2ca6379725"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-01.layout.json",
+      "bytes": 15744,
+      "sha256": "1c211b1ee5deec1048f6d075bca72d30474f04ea520374f6b100dd7009cb64fc"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-02.layout.json",
+      "bytes": 21115,
+      "sha256": "1cfe0b6830b1c7e628f372d1071437580aedc2f55beb43984fa85cfd5f8482c9"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-03.layout.json",
+      "bytes": 28984,
+      "sha256": "c8ebd1a5af6d73f7361963a689eed6ae71843aa82b8ad76011edceb188431d30"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-04.layout.json",
+      "bytes": 25202,
+      "sha256": "51b6cdfc2019a6227c9b07890cdbb63474b7e275b05bb79f40f3b7db9c580600"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-05.layout.json",
+      "bytes": 35466,
+      "sha256": "7ab42d5a26a253bff11f8f7a74f2a150858a9d0d213cb412f8ac0aa8490c2aa7"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-06.layout.json",
+      "bytes": 21221,
+      "sha256": "74f49ba4c91d4ecfed26fc150281c9ae9495411f7be1476f0377b7be954f2d57"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-07.layout.json",
+      "bytes": 20809,
+      "sha256": "efc93e337e0d83e466c595560cc62b4351d8b34656ffaa66c27dfb7b7f7fe5ed"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-08.layout.json",
+      "bytes": 20822,
+      "sha256": "038340259629b7ae801bb9590c333158d923a81e8820283dfcacc62d681909e5"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-09.layout.json",
+      "bytes": 25098,
+      "sha256": "0599fe292cdbf76586bdccfb6a13c313f29fde41ab0f5ca0f5025899cf324409"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-10.layout.json",
+      "bytes": 20940,
+      "sha256": "4eeed69e916cf627c9bb034ae327e2d96d20c04ea24feabf1e2ac1e93cf532da"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-11.layout.json",
+      "bytes": 33423,
+      "sha256": "911ffd96e923a4876886545c1dd28817d3daf7ac883eba6f4b0a5a43f10d1b11"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-12.layout.json",
+      "bytes": 21276,
+      "sha256": "66b0adefa9fb662bc1a3df5d7ac87224f726635a90693fc2156a1d232ab50901"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-13.layout.json",
+      "bytes": 24775,
+      "sha256": "18bb60b32809e9c6ec6aec0d1e1b6c476d2b7d3772cd46e15bb68e8954e9c140"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-14.layout.json",
+      "bytes": 21192,
+      "sha256": "e92f4d35102a00adabde155ec37891eb60a3199d981d9bcfae711f0d67b6a23e"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-15.layout.json",
+      "bytes": 28790,
+      "sha256": "dad32eee4b74412d6d423a562215c245ecd3c9a175596dd43035600449c7b1c6"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-16.layout.json",
+      "bytes": 35462,
+      "sha256": "6ec5308af7c2778a653576bc1f664d25fbb7869519e940afb1a4eee67b129920"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-17.layout.json",
+      "bytes": 20816,
+      "sha256": "08ff59ad7964253220434d1dee1916f1ea1a077aafe86510ee96e0665021d753"
+    },
+    {
+      "path": "collateral/brand-system/business-partnership-deck-v1/qa/slide-18.layout.json",
+      "bytes": 13570,
+      "sha256": "0e8540c23c830ff15b8e6650d6dffb31dee9c1daf0b8a58601a6255264f19c24"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_BUSINESS_PARTNERSHIP_DECK_V1_MANIFEST.json",
+      "bytes": 9732,
+      "sha256": "c61be93d564e31b92d9e236d473b43f0e66a70f48406ad48c231173fd15c9e7a"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Business_Partnership_Deck_v1_speaker_notes.md",
+      "bytes": 2468,
+      "sha256": "7181019af0534e20e367abe074c09706bd114ffccba023e5f6c41cee708b6c95"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Business_Partnership_Deck_v1.html",
+      "bytes": 8319,
+      "sha256": "dd9151b4cc57797ff8765f607c3ebd39c3ee8b77f2e131dea676859a8347bf0b"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Business_Partnership_Deck_v1.pdf",
+      "bytes": 1066217,
+      "sha256": "ed90642f09574bd9f67e8d9d56a26552c15eb3b68900738c2504b9d5c8a70b04"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Business_Partnership_Deck_v1.pptx",
+      "bytes": 5195299,
+      "sha256": "b250fa7423b61f6c195dd7363670d20c0b979a188448343dd6bb42fa9620ff29"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Business_Partnership_Deck_v1.pptx.inspect.ndjson",
+      "bytes": 62634,
+      "sha256": "8b1f571d846ef827db4315690fd919bffc6c0eeade1911e08376fd15e72604bd"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_PRODUCT_BOOK_V1_MANIFEST.json",
+      "bytes": 7962,
+      "sha256": "38a31c209094aa5230889c883a8f5bbfdaab931f31475d6f21131b978d6dbb06"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Product_Book_v1_speaker_notes.md",
+      "bytes": 1965,
+      "sha256": "deada8b00c5c3d015c7d8e4dc7f4422a9188767b7866625a952200cfa0453deb"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Product_Book_v1.html",
+      "bytes": 6778,
+      "sha256": "34c129d633dc63762e3a481a74515d11d31f95a79fd870ef6dec00186963aa53"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Product_Book_v1.pdf",
+      "bytes": 1136176,
+      "sha256": "a958a810c40abbed253304c5f0177664d9cce6e428c8cf07181a4a7be932dd05"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Product_Book_v1.pptx",
+      "bytes": 7812814,
+      "sha256": "779ef653d210c25f58dee7ff9864d8a62f8713aa9ffc5a46b51b50ac1b186be6"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Product_Book_v1.pptx.inspect.ndjson",
+      "bytes": 52159,
+      "sha256": "bf95a9a8168e4176c7ee0dad0edeaa6dbc9fe0ef8fd93889ceb865b16c1f8cd6"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_PUBLIC_NARRATIVE_SYSTEM_V1_MANIFEST.json",
+      "bytes": 26041,
+      "sha256": "ffdc4986b26c1976a0c5c967a2ec114796e89acc546d5e4af62af1b23a9af2f1"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_STORY_BOOK_V1_MANIFEST.json",
+      "bytes": 6709,
+      "sha256": "830294d9815753ddf5b0458edc8a57ca94837eb15201338e0ff30073d5849926"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Story_Book_v1_speaker_notes.md",
+      "bytes": 2030,
+      "sha256": "943def601cc523195dc980698c3fab829ec7749235c97b8204227e16707f8cc8"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Story_Book_v1.html",
+      "bytes": 6333,
+      "sha256": "51563302b31ee4674b5deb72b7ec5a7457aa4035b377615cad26973d54285632"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Story_Book_v1.pdf",
+      "bytes": 916373,
+      "sha256": "ba88b13bc7363147af32d2aaab2de0d5a087f5e272750ff37ce5968940c5a0a6"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Story_Book_v1.pptx",
+      "bytes": 5605824,
+      "sha256": "2230d517477d7dcbdf2295d775006ac167bb5372d4e4a51717e5076fae33ef98"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Story_Book_v1.pptx.inspect.ndjson",
+      "bytes": 42539,
+      "sha256": "78a18a0e445bbf62e6772a919e7b662a51a2ae8e5f70efe9f1f946873285b079"
+    },
+    {
+      "path": "collateral/brand-system/page-qa/resources-desktop.png",
+      "bytes": 352544,
+      "sha256": "a301bce3517bb53879bcc5ea51a6a3cbc94153fd5b8807e29621cf44563dba72"
+    },
+    {
+      "path": "collateral/brand-system/page-qa/resources-mobile.png",
+      "bytes": 161759,
+      "sha256": "eb0a272287cc616e4d6665bf3caae089b0084d3e161921748eb2f9d31978b306"
+    },
+    {
+      "path": "collateral/brand-system/page-qa/story-desktop.png",
+      "bytes": 269289,
+      "sha256": "78da4124586669a822a38ea8368764fbc27c1bc5ecc42297941cdf340fc78d51"
+    },
+    {
+      "path": "collateral/brand-system/page-qa/story-mobile.png",
+      "bytes": 129743,
+      "sha256": "0768373f5efd1875487281842e44f53e5de0ba16506d0175c39453138d4a3816"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/preview/slide-01.png",
+      "bytes": 173487,
+      "sha256": "4bd29c158bdc6ce12fb7d876d5c0befb00c425ee479faa08604ea4dc8b8ebf3a"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/preview/slide-02.png",
+      "bytes": 184877,
+      "sha256": "4564b51e041599118359e410765cbeeff06ffada67a7f534dca333b5ab7c2ba8"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/preview/slide-03.png",
+      "bytes": 124551,
+      "sha256": "e460b88c133a5bc13f58c40a7dfc761329eeb93aa071b06fded07a140c31a734"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/preview/slide-04.png",
+      "bytes": 128880,
+      "sha256": "eb883ca123679cd013659306dfc407a73a2c0bab2029a3a7e0a9bd66c87ba593"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/preview/slide-05.png",
+      "bytes": 125407,
+      "sha256": "1cc461c73c947622958c1a370110a446c71f6d5a2b067c62b6f3e4e2e347077e"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/preview/slide-06.png",
+      "bytes": 144885,
+      "sha256": "04eb835f2e513a3dc3507df4c612cfe758b8a447a91832b13d0ce690b5086712"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/preview/slide-07.png",
+      "bytes": 48740,
+      "sha256": "85aa2753d0659adac8c140efb747360c4468b018726d19641ff8f8d1639666d5"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/preview/slide-08.png",
+      "bytes": 46207,
+      "sha256": "0a9cc92a758106a22df840be13677bdbe5c8644742b54d323f1aa5980f64557b"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/preview/slide-09.png",
+      "bytes": 44593,
+      "sha256": "8f39fd406ef8a377cad9fdc85b34f41711b5c418af0ababd07388e1eff6cda72"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/preview/slide-10.png",
+      "bytes": 46511,
+      "sha256": "b93e3209e7fb3ac709430f41e592207fa4acb1aadc8a21ef10dd3fb6663dce48"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/preview/slide-11.png",
+      "bytes": 47305,
+      "sha256": "2e4500b0cc2d70cb8e2970fa49e42c2746e6ca7e1d96c5c213a6bd5d9b43cb52"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/preview/slide-12.png",
+      "bytes": 45047,
+      "sha256": "72c29671435eeb2346b694c4fb6a1a4cebccff4b553238a2d973116a5215ee52"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/preview/slide-13.png",
+      "bytes": 48951,
+      "sha256": "0eae63ce330e49ae3945ea39934758ba8208dc7517f7f462f67dd607f824a76c"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/preview/slide-14.png",
+      "bytes": 44726,
+      "sha256": "d670bd225b9843577b585d766ee453ddfb0ef87a3ba9dfdf394585d045b181d4"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/preview/slide-15.png",
+      "bytes": 106216,
+      "sha256": "67b1ead0bc37098e0399bd79b7462cac9de6f6f7caff56fa1e5d49257c7c2df4"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/qa/deck-contact-sheet.png",
+      "bytes": 268737,
+      "sha256": "8c98af664ff0f9f005c5778be3648d8591cdf469db0f09c43770999279714d4b"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/qa/deck-montage.webp",
+      "bytes": 62574,
+      "sha256": "982ea3c0176955197b8dc55e4a2f67236c2414cf1d429b224bbb844edfc1e0b1"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/qa/slide-01.layout.json",
+      "bytes": 15459,
+      "sha256": "643796b851f9875dc73646f983f0336d16f5011d8e0ade328d4cd8a4a047a725"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/qa/slide-02.layout.json",
+      "bytes": 25292,
+      "sha256": "5a6e853ce2f380c66044705bd9dcf6f8331d326d2b6ffaf11879a2d04f3055b0"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/qa/slide-03.layout.json",
+      "bytes": 24954,
+      "sha256": "79ff7ca9b5e7902b85e131acccf77edc69b6764d4c6f9c1fdb28e4cb30bf1b71"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/qa/slide-04.layout.json",
+      "bytes": 25366,
+      "sha256": "780dc003c4d7da3f146606a4605a046f6446017f378d9023afb2784a488ff051"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/qa/slide-05.layout.json",
+      "bytes": 25303,
+      "sha256": "58edf0b4925f818e6cd6fce71d5df1d4f4926b5f328b11a9e4a60b72f3bc03e9"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/qa/slide-06.layout.json",
+      "bytes": 25294,
+      "sha256": "0f5b41d266f8c4f99eae7ee9434546d00e8e3f8cbf8e298d384e51bd93904d8f"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/qa/slide-07.layout.json",
+      "bytes": 35044,
+      "sha256": "ed51df1d8d268cbd914c4afeace2243853f6e6e6f7761fd1d44c66b5b4e345ab"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/qa/slide-08.layout.json",
+      "bytes": 32833,
+      "sha256": "e703603a8dc3baf3703662b2c1f3b5c69be3f9d3a799008cd3e520458db65823"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/qa/slide-09.layout.json",
+      "bytes": 32792,
+      "sha256": "cecbab5aada48a96ae9e0ec3785fa0913912765182afae276dc8dca02a7a2633"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/qa/slide-10.layout.json",
+      "bytes": 20801,
+      "sha256": "f0eaa770f82342a952025bdad1f1c43a9e553edddae1af70b25ceed5cd90d494"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/qa/slide-11.layout.json",
+      "bytes": 21062,
+      "sha256": "f9f1d639e9d625a90125ab116b0c9e16cf5149ea22f2151e95ea7f8be1046200"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/qa/slide-12.layout.json",
+      "bytes": 20596,
+      "sha256": "91e9e09a94bf2e127278bb75797f5c2dbe9ec16b05c17d9de47b4b1871aacd94"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/qa/slide-13.layout.json",
+      "bytes": 32974,
+      "sha256": "4ad2d42346313491659a6d79d2a17018e33c6f0f748ca73daf2a89266d40af20"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/qa/slide-14.layout.json",
+      "bytes": 20485,
+      "sha256": "274cfa7524d1dbdfe7d305d37aa881f72a9f02ee06478cf618c66362d8f98c9d"
+    },
+    {
+      "path": "collateral/brand-system/product-book-v1/qa/slide-15.layout.json",
+      "bytes": 13329,
+      "sha256": "39d1940fca5ca6f32d25a3526b83ab2683ed53b5f2d4a289affef05f7c1e4963"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/preview/slide-01.png",
+      "bytes": 173165,
+      "sha256": "1be6828d69c19aea4fc29681fe85bf948e6f2124d27ec1e63013e32d208541cf"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/preview/slide-02.png",
+      "bytes": 51096,
+      "sha256": "54f87370ff23fe3630792cb4356704129a4f09efa78c879f05291f250bdcd98b"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/preview/slide-03.png",
+      "bytes": 109429,
+      "sha256": "cace531a170564f40331d9f1db92e9c6f992aa30f0149c3e0d434ee239dc36e2"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/preview/slide-04.png",
+      "bytes": 53692,
+      "sha256": "00d3495af1f050a2245d0fe346a36404a03b2f3915442edd6559dbe6151b0423"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/preview/slide-05.png",
+      "bytes": 136091,
+      "sha256": "372a9139866f0642cb6ee6698011e88ed0d9262d1f4f94b31f5536511b678134"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/preview/slide-06.png",
+      "bytes": 135689,
+      "sha256": "9ac54c19b3e179e2c5e2ca80a66f75e0cef3b4acf9dd2838e965354f5f315eaa"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/preview/slide-07.png",
+      "bytes": 49039,
+      "sha256": "230473abec977d8bbcedd2155309d6dabe9224f01f429328161df6eb66f13738"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/preview/slide-08.png",
+      "bytes": 146934,
+      "sha256": "35c682f4f425d5772f2a1835c3f48549b2bb9670e6ebcf939d54ee350732c9d9"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/preview/slide-09.png",
+      "bytes": 54810,
+      "sha256": "3713160c3bad4f0c1a7512c4b14122682f35b6a3cefd3a315036e90109192b31"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/preview/slide-10.png",
+      "bytes": 43670,
+      "sha256": "4f0cbaf23324eefeed147a7ddb587ef7c3a2f9c7a0b5dbefad1a9c1b8624f158"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/preview/slide-11.png",
+      "bytes": 50348,
+      "sha256": "dfca84ba9d69d20dfa82c401d23e147e42ee30d63c75dda5e307c3d1d71b1531"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/preview/slide-12.png",
+      "bytes": 102864,
+      "sha256": "5bbc6680b1c3dc6838908266b4f62026645437039824e355825c586a7ceea46c"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/deck-contact-sheet.png",
+      "bytes": 237479,
+      "sha256": "89b25d44dad6c025837bd5da878ccf14b6e7baa0f9ca3a2d35283d0df243529e"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/deck-montage.webp",
+      "bytes": 62296,
+      "sha256": "af0bfeb9ca25221c40a8335196b0b58f5f3821bd867ab693b167251834ceced1"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/slide-01.layout.json",
+      "bytes": 15363,
+      "sha256": "e2e8a0a6c109ff543db00a16993f6c044d1a3a1fe9a1777db6ef955edc1acd92"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/slide-02.layout.json",
+      "bytes": 21295,
+      "sha256": "de55ef1122b912bd52d385b26d1900589d3afb38cb16c798ab2339a6c5e3a16c"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/slide-03.layout.json",
+      "bytes": 25290,
+      "sha256": "9362b0cdd4caeca9f7095afc9492dd4b7e1790bca4a9e281cc9fed765ec35369"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/slide-04.layout.json",
+      "bytes": 35472,
+      "sha256": "4143ccddfc3762224a7383c7072f2110ddd7dfeffda042386e91785e61b19656"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/slide-05.layout.json",
+      "bytes": 25566,
+      "sha256": "d368814419a281df569c028e9a989b29d6f186478c0c9bb0431e5caf2704e814"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/slide-06.layout.json",
+      "bytes": 25681,
+      "sha256": "31f6a824ba857962b5ce6216ea694e9209eb0f4b952f5d5091f7ba57cf7ffb0d"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/slide-07.layout.json",
+      "bytes": 21046,
+      "sha256": "e2a9bbc3221327fe134dbae8d62b7f0c3780ac46d5a0627e07e53f041e2d0518"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/slide-08.layout.json",
+      "bytes": 25599,
+      "sha256": "cf8f6f1c22f786b3c600aebcf45e79f03aa3c7f9c7a27d9e89ccaa12b0198471"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/slide-09.layout.json",
+      "bytes": 33793,
+      "sha256": "570051f5999c237d617108f081d48fc248b86416ac430292e6ee38b7632d9c65"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/slide-10.layout.json",
+      "bytes": 28910,
+      "sha256": "62a7ed80565f4fdb82454fa4c9d23990347d49e665b01a870115d60f118df021"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/slide-11.layout.json",
+      "bytes": 21227,
+      "sha256": "92204bd9cf5283b50df655d49cc33379f9508eebd29d2c4de8efa049e9012570"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/slide-12.layout.json",
+      "bytes": 13229,
+      "sha256": "9dcd3a74ad0b86f12c64f5651b222b408e0a7e8115fd7b158f37e98275d50673"
     },
     {
       "path": "collateral/conversion/L3AI_Premium_Conversion_Experience_Report_028.md",
@@ -1635,6 +2230,16 @@
       "sha256": "36b01307c7b47ab933c9a59bab897a1a077669c59193f893ed6abf9d9c01c93e"
     },
     {
+      "path": "collateral/video/brand-system/L3AI_Public_Story_Promo_Narrative_v1.md",
+      "bytes": 2535,
+      "sha256": "e7aafbe99717120e29773d3619507fccdb23670fb5252b839d2a2eb6bad0abac"
+    },
+    {
+      "path": "collateral/video/brand-system/L3AI_Public_Story_Promo_Storyboard_v1.json",
+      "bytes": 1504,
+      "sha256": "deb0f0b34fdbcae14a7bf5356accbae781dd7e5d26ba4e9502a7d0f8eb685c56"
+    },
+    {
       "path": "collateral/video/deck-remake-032/L3AI_Product_Business_Promo_Narrative_032.md",
       "bytes": 2948,
       "sha256": "783b495c18a2dad34240ff61f574b2c1b9ee1bada00042a89f41b97a3cdb37c0"
@@ -2096,8 +2701,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 22167,
-      "sha256": "1797632905c3e4731e2a76d9b78b26e9ed17a6fe4037744d15b891d465d64432"
+      "bytes": 23886,
+      "sha256": "2066f8bb1e6d871d1d8db6356ff9e036c35255f94c41abea721b5377119a5def"
     },
     {
       "path": "marketing/en/documents/core-messaging-l3ai-customer-facing-core-messaging-081.en.html",
@@ -2801,8 +3406,8 @@
     },
     {
       "path": "resources.html",
-      "bytes": 36457,
-      "sha256": "16287b4bfa46186b8e224f445f05eedd989e5eb755dd0afc7efb56c79218b107"
+      "bytes": 42540,
+      "sha256": "210e0663c19d2e0b25b624c4e6cb23423f228beadf7217c8617d88fa2080e745"
     },
     {
       "path": "roadmap.html",
@@ -2845,6 +3450,11 @@
       "sha256": "27b14524782224ec3c61f6c5e6ca2558951bf191cb65c48f2e4b9d5ae682083f"
     },
     {
+      "path": "scripts/build-public-narrative-system.mjs",
+      "bytes": 57093,
+      "sha256": "8efdfa6608f3818c816d97b140e589852f285af221276366b6063ac535ace89d"
+    },
+    {
       "path": "scripts/capture-premium-assets-030.mjs",
       "bytes": 6157,
       "sha256": "5d9ab5aa803a9a0ead7b5e6bf8ecdf88500a52bad8693657b736923fcbe17919"
@@ -2876,13 +3486,18 @@
     },
     {
       "path": "sitemap.html",
-      "bytes": 10907,
-      "sha256": "a00e49ecefb4ae1e5e6ff8180fae3823ec54fca78358b823d66abcb27c18b828"
+      "bytes": 12430,
+      "sha256": "30cac24637d5b51a4e21b012b3b7688e6dc6901a9ae4dfb05346341fff1532c3"
     },
     {
       "path": "sitemap.xml",
-      "bytes": 2374,
-      "sha256": "ae6a6648da5d0bd47d41470f385213aca64d7fd5fcb9d3c3fd7e55d36954d22f"
+      "bytes": 3555,
+      "sha256": "b293b4ffa24c63cef3bec1a335a2718be07219e3584ca234b63394cc79510fdc"
+    },
+    {
+      "path": "story.html",
+      "bytes": 8514,
+      "sha256": "e45a55779cfbf00d1a3d7db2fa9f20a2aecbdcda657c0d10dd439b68b1383985"
     },
     {
       "path": "video/en/frames/frame-001.png",

@@ -1,0 +1,55 @@
+{
+  "asset_id": "L3AI_PUBLIC_STORY_PROMO_STORYBOARD_V1",
+  "status": "prepared",
+  "execution": "narrative_only_no_publish",
+  "scenes": [
+    {
+      "order": 1,
+      "title": "Confidence gap",
+      "visual": "collateral/premium-assets-030/visuals/l3ai-enterprise-hero-030.png",
+      "status": "Current"
+    },
+    {
+      "order": 2,
+      "title": "Homepage story room",
+      "visual": "collateral/premium-assets-030/screens/homepage-flow-desktop.png",
+      "status": "Current"
+    },
+    {
+      "order": 3,
+      "title": "AI Quant explain-first context",
+      "visual": "collateral/premium-assets-030/screens/ai-quant-workflow-desktop.png",
+      "status": "Current"
+    },
+    {
+      "order": 4,
+      "title": "Wallet-aware education checkpoint",
+      "visual": "collateral/premium-assets-030/screens/wallet-experience-desktop.png",
+      "status": "Current"
+    },
+    {
+      "order": 5,
+      "title": "Commercial loop",
+      "visual": "collateral/premium-assets-030/screens/business-model-desktop.png",
+      "status": "Current"
+    },
+    {
+      "order": 6,
+      "title": "Resources proof room",
+      "visual": "collateral/premium-assets-030/screens/resources-flow-desktop.png",
+      "status": "Current"
+    },
+    {
+      "order": 7,
+      "title": "Three flagship books",
+      "visual": "story.html",
+      "status": "Current"
+    },
+    {
+      "order": 8,
+      "title": "Controlled review CTA",
+      "visual": "contact-partner.html",
+      "status": "Current"
+    }
+  ]
+}

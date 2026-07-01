@@ -1,0 +1,174 @@
+{
+  "asset_id": "L3AI_STORY_BOOK_V1",
+  "title": "L3AI Story Book v1",
+  "version": "v1",
+  "status": "prepared",
+  "public_use": "controlled_public_review",
+  "generated_at": "2026-07-01T23:32:42.482Z",
+  "source_policy": "Reference PDFs were used only for narrative rhythm, information hierarchy, pacing and visual inspiration. No wording, branding or layouts were copied.",
+  "safety_boundary": [
+    "No outcome promises",
+    "No funding-action instructions",
+    "No protected-source content",
+    "No protected-system implementation details",
+    "No secrets or credentials",
+    "Roadmap items explicitly marked Current / In Progress / Planned"
+  ],
+  "files": [
+    {
+      "path": "collateral/brand-system/L3AI_Story_Book_v1.pptx",
+      "bytes": 5605824,
+      "sha256": "2230d517477d7dcbdf2295d775006ac167bb5372d4e4a51717e5076fae33ef98"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Story_Book_v1.pdf",
+      "bytes": 916373,
+      "sha256": "ba88b13bc7363147af32d2aaab2de0d5a087f5e272750ff37ce5968940c5a0a6"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Story_Book_v1.html",
+      "bytes": 6333,
+      "sha256": "51563302b31ee4674b5deb72b7ec5a7457aa4035b377615cad26973d54285632"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Story_Book_v1_speaker_notes.md",
+      "bytes": 2030,
+      "sha256": "943def601cc523195dc980698c3fab829ec7749235c97b8204227e16707f8cc8"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Story_Book_v1.pptx.inspect.ndjson",
+      "bytes": 42539,
+      "sha256": "78a18a0e445bbf62e6772a919e7b662a51a2ae8e5f70efe9f1f946873285b079"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/deck-montage.webp",
+      "bytes": 62296,
+      "sha256": "af0bfeb9ca25221c40a8335196b0b58f5f3821bd867ab693b167251834ceced1"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/deck-contact-sheet.png",
+      "bytes": 237479,
+      "sha256": "89b25d44dad6c025837bd5da878ccf14b6e7baa0f9ca3a2d35283d0df243529e"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/preview/slide-01.png",
+      "bytes": 173165,
+      "sha256": "1be6828d69c19aea4fc29681fe85bf948e6f2124d27ec1e63013e32d208541cf"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/preview/slide-02.png",
+      "bytes": 51096,
+      "sha256": "54f87370ff23fe3630792cb4356704129a4f09efa78c879f05291f250bdcd98b"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/preview/slide-03.png",
+      "bytes": 109429,
+      "sha256": "cace531a170564f40331d9f1db92e9c6f992aa30f0149c3e0d434ee239dc36e2"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/preview/slide-04.png",
+      "bytes": 53692,
+      "sha256": "00d3495af1f050a2245d0fe346a36404a03b2f3915442edd6559dbe6151b0423"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/preview/slide-05.png",
+      "bytes": 136091,
+      "sha256": "372a9139866f0642cb6ee6698011e88ed0d9262d1f4f94b31f5536511b678134"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/preview/slide-06.png",
+      "bytes": 135689,
+      "sha256": "9ac54c19b3e179e2c5e2ca80a66f75e0cef3b4acf9dd2838e965354f5f315eaa"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/preview/slide-07.png",
+      "bytes": 49039,
+      "sha256": "230473abec977d8bbcedd2155309d6dabe9224f01f429328161df6eb66f13738"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/preview/slide-08.png",
+      "bytes": 146934,
+      "sha256": "35c682f4f425d5772f2a1835c3f48549b2bb9670e6ebcf939d54ee350732c9d9"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/preview/slide-09.png",
+      "bytes": 54810,
+      "sha256": "3713160c3bad4f0c1a7512c4b14122682f35b6a3cefd3a315036e90109192b31"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/preview/slide-10.png",
+      "bytes": 43670,
+      "sha256": "4f0cbaf23324eefeed147a7ddb587ef7c3a2f9c7a0b5dbefad1a9c1b8624f158"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/preview/slide-11.png",
+      "bytes": 50348,
+      "sha256": "dfca84ba9d69d20dfa82c401d23e147e42ee30d63c75dda5e307c3d1d71b1531"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/preview/slide-12.png",
+      "bytes": 102864,
+      "sha256": "5bbc6680b1c3dc6838908266b4f62026645437039824e355825c586a7ceea46c"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/slide-01.layout.json",
+      "bytes": 15363,
+      "sha256": "e2e8a0a6c109ff543db00a16993f6c044d1a3a1fe9a1777db6ef955edc1acd92"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/slide-02.layout.json",
+      "bytes": 21295,
+      "sha256": "de55ef1122b912bd52d385b26d1900589d3afb38cb16c798ab2339a6c5e3a16c"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/slide-03.layout.json",
+      "bytes": 25290,
+      "sha256": "9362b0cdd4caeca9f7095afc9492dd4b7e1790bca4a9e281cc9fed765ec35369"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/slide-04.layout.json",
+      "bytes": 35472,
+      "sha256": "4143ccddfc3762224a7383c7072f2110ddd7dfeffda042386e91785e61b19656"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/slide-05.layout.json",
+      "bytes": 25566,
+      "sha256": "d368814419a281df569c028e9a989b29d6f186478c0c9bb0431e5caf2704e814"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/slide-06.layout.json",
+      "bytes": 25681,
+      "sha256": "31f6a824ba857962b5ce6216ea694e9209eb0f4b952f5d5091f7ba57cf7ffb0d"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/slide-07.layout.json",
+      "bytes": 21046,
+      "sha256": "e2a9bbc3221327fe134dbae8d62b7f0c3780ac46d5a0627e07e53f041e2d0518"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/slide-08.layout.json",
+      "bytes": 25599,
+      "sha256": "cf8f6f1c22f786b3c600aebcf45e79f03aa3c7f9c7a27d9e89ccaa12b0198471"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/slide-09.layout.json",
+      "bytes": 33793,
+      "sha256": "570051f5999c237d617108f081d48fc248b86416ac430292e6ee38b7632d9c65"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/slide-10.layout.json",
+      "bytes": 28910,
+      "sha256": "62a7ed80565f4fdb82454fa4c9d23990347d49e665b01a870115d60f118df021"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/slide-11.layout.json",
+      "bytes": 21227,
+      "sha256": "92204bd9cf5283b50df655d49cc33379f9508eebd29d2c4de8efa049e9012570"
+    },
+    {
+      "path": "collateral/brand-system/story-book-v1/qa/slide-12.layout.json",
+      "bytes": 13229,
+      "sha256": "9dcd3a74ad0b86f12c64f5651b222b408e0a7e8115fd7b158f37e98275d50673"
+    }
+  ]
+}

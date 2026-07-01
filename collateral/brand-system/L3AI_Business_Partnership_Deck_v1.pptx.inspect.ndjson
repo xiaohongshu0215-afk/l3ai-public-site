@@ -1,0 +1,437 @@
+{"kind":"deck","id":"pr/icueu9","name":"Deck"}
+{"kind":"layout","layoutId":"642f1a0a-275f-4e27-a2a2-6d060916fcc4","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"747d49b6-93fe-4262-bde8-41c5beefebe5","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/m9za60","slide":1,"title":"Business & Partnership Deck v1","textShapes":8}
+{"kind":"shape","id":"sh/ed8bat47","slide":1,"bbox":[72,58,324,42]}
+{"kind":"textbox","id":"sh/7u54zido","slide":1,"text":"Business & Partnership Deck v1","textPreview":"Business & Partnership Deck v1","textChars":30,"textLines":1,"bbox":[96,68,270,20]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":1,"text":"L3AI creates a safer path from Web3 attention to qualified review","textPreview":"L3AI creates a safer path from Web3 attention to qualified review","textChars":65,"textLines":1,"bbox":[72,136,570,232]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":1,"text":"Business and partnership narrative for external review, partner conversations and investor-style diligence.","textPreview":"Business and partnership narrative for external review, partner conversations and investor-style diligence.","textChars":107,"textLines":1,"bbox":[72,392,570,74]}
+{"kind":"shape","id":"sh/eloj2t83","slide":1,"bbox":[72,512,500,96]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":1,"text":"What this book does","textPreview":"What this book does","textChars":19,"textLines":1,"bbox":[94,530,456,30]}
+{"kind":"textbox","id":"sh/wval87ed","slide":1,"text":"Partner and investor-style business deck. Connect product proof, commercial loop, roadmap gates and partner review path.","textPreview":"Partner and investor-style business deck. Connect product proof, commercial loop, roadmap gates and partner review path.","textChars":120,"textLines":1,"bbox":[94,568,456,26]}
+{"kind":"shape","id":"sh/pg3ex0nu","slide":1,"bbox":[708,438,390,28]}
+{"kind":"textbox","id":"sh/loj2t83i","slide":1,"text":"Current / In Progress / Planned kept separate","textPreview":"Current / In Progress / Planned kept separate","textChars":45,"textLines":1,"bbox":[722,443,362,18]}
+{"kind":"shape","id":"sh/w3m94fu1","slide":1,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/3itgfmlk","slide":1,"text":"L3AI Business & Partnership Deck v1","textPreview":"L3AI Business & Partnership Deck v1","textChars":35,"textLines":1,"bbox":[72,654,460,24]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1148,654,60,24]}
+{"kind":"image","id":"im/8v6psfil","slide":1,"name":"","geometry":"roundRect","alt":"business-model-desktop.png","bbox":[682,68,526,338]}
+{"kind":"notes","id":"nt/m9za60","slide":1,"text":"Open with the commercial logic: L3AI organizes attention into qualified review, not speculative promises."}
+{"kind":"slide","id":"sl/eab4ty","slide":2,"title":"Why now","textShapes":12}
+{"kind":"textbox","id":"sh/bm58z25k","slide":2,"text":"Why now","textPreview":"Why now","textChars":7,"textLines":1,"bbox":[72,54,560,24]}
+{"kind":"textbox","id":"sh/47y1kre1","slide":2,"text":"Web3 attention is abundant. Qualified trust is scarce.","textPreview":"Web3 attention is abundant. Qualified trust is scarce.","textChars":54,"textLines":1,"bbox":[72,90,920,96]}
+{"kind":"textbox","id":"sh/tsvu9kni","slide":2,"text":"The brands that win the next cycle will make their product, proof and risk boundaries legible.","textPreview":"The brands that win the next cycle will make their product, proof and risk boundaries legible.","textChars":94,"textLines":1,"bbox":[72,200,800,62]}
+{"kind":"shape","id":"sh/mp0bi9s3","slide":2,"bbox":[76,304,340,172]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":2,"text":"Audience fatigue","textPreview":"Audience fatigue","textChars":16,"textLines":1,"bbox":[98,322,296,30]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":2,"text":"Users are tired of noisy claims and unclear product paths.","textPreview":"Users are tired of noisy claims and unclear product paths.","textChars":58,"textLines":1,"bbox":[98,360,296,102]}
+{"kind":"shape","id":"sh/tgfmlkjm","slide":2,"bbox":[470,304,340,172]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":2,"text":"Review pressure","textPreview":"Review pressure","textChars":15,"textLines":1,"bbox":[492,322,296,30]}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":2,"text":"Partners and media need approved, public-safe facts.","textPreview":"Partners and media need approved, public-safe facts.","textChars":52,"textLines":1,"bbox":[492,360,296,102]}
+{"kind":"shape","id":"sh/f6dcbulw","slide":2,"bbox":[864,304,340,172]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":2,"text":"Trust premium","textPreview":"Trust premium","textChars":13,"textLines":1,"bbox":[886,322,296,30]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":2,"text":"Clear boundaries create better conversations and fewer support failures.","textPreview":"Clear boundaries create better conversations and fewer support failures.","textChars":72,"textLines":1,"bbox":[886,360,296,102]}
+{"kind":"shape","id":"sh/4r65wjud","slide":2,"bbox":[130,532,1020,72]}
+{"kind":"shape","id":"sh/fepkzupw","slide":2,"bbox":[130,532,7,72]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":2,"text":"The brands that win the next cycle will make their product, proof and risk boundaries legible.","textPreview":"The brands that win the next cycle will make their product, proof and risk boundaries legible.","textChars":94,"textLines":1,"bbox":[158,550,970,40]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":2,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":2,"text":"L3AI Business & Partnership Deck v1","textPreview":"L3AI Business & Partnership Deck v1","textChars":35,"textLines":1,"bbox":[72,654,460,24]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1148,654,60,24]}
+{"kind":"notes","id":"nt/eab4ty","slide":2,"text":"Keep this macro slide grounded. Do not use market-size claims that are not sourced."}
+{"kind":"slide","id":"sl/z40p7a","slide":3,"title":"Audience problem","textShapes":19}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":3,"text":"Audience problem","textPreview":"Audience problem","textChars":16,"textLines":1,"bbox":[72,54,560,24]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":3,"text":"Each audience asks a different diligence question.","textPreview":"Each audience asks a different diligence question.","textChars":50,"textLines":1,"bbox":[72,90,920,96]}
+{"kind":"shape","id":"sh/ulwval87","slide":3,"bbox":[76,290,1128,274]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":3,"text":"Audience / Capability","textPreview":"Audience / Capability","textChars":21,"textLines":1,"bbox":[104,312,310,20]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":3,"text":"Question / Function","textPreview":"Question / Function","textChars":19,"textLines":1,"bbox":[430,312,310,20]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":3,"text":"Route / Status","textPreview":"Route / Status","textChars":14,"textLines":1,"bbox":[820,312,310,20]}
+{"kind":"shape","id":"sh/uxc3ylc7","slide":3,"bbox":[102,350,1050,2]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":3,"text":"Customer","textPreview":"Customer","textChars":8,"textLines":1,"bbox":[104,368,290,30]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":3,"text":"Can I understand the product safely?","textPreview":"Can I understand the product safely?","textChars":36,"textLines":1,"bbox":[430,368,330,30]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":3,"text":"Product path","textPreview":"Product path","textChars":12,"textLines":1,"bbox":[820,368,330,30]}
+{"kind":"shape","id":"sh/neloj2t8","slide":3,"bbox":[102,410,1050,2]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":3,"text":"Partner","textPreview":"Partner","textChars":7,"textLines":1,"bbox":[104,422,290,30]}
+{"kind":"textbox","id":"sh/5kb6xkf6","slide":3,"text":"Is the ecosystem narrative coherent?","textPreview":"Is the ecosystem narrative coherent?","textChars":36,"textLines":1,"bbox":[430,422,330,30]}
+{"kind":"textbox","id":"sh/u54zidon","slide":3,"text":"Business model","textPreview":"Business model","textChars":14,"textLines":1,"bbox":[820,422,330,30]}
+{"kind":"shape","id":"sh/nqxs72x4","slide":3,"bbox":[102,464,1050,2]}
+{"kind":"textbox","id":"sh/cbulwval","slide":3,"text":"Media","textPreview":"Media","textChars":5,"textLines":1,"bbox":[104,476,290,30]}
+{"kind":"textbox","id":"sh/5sneloj2","slide":3,"text":"Can I quote approved facts?","textPreview":"Can I quote approved facts?","textChars":27,"textLines":1,"bbox":[430,476,330,30]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":3,"text":"Resources","textPreview":"Resources","textChars":9,"textLines":1,"bbox":[820,476,330,30]}
+{"kind":"shape","id":"sh/nuxc3ylc","slide":3,"bbox":[102,518,1050,2]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":3,"text":"Investor-style reviewer","textPreview":"Investor-style reviewer","textChars":23,"textLines":1,"bbox":[104,530,290,30]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":3,"text":"Is the roadmap disciplined?","textPreview":"Is the roadmap disciplined?","textChars":27,"textLines":1,"bbox":[430,530,330,30]}
+{"kind":"textbox","id":"sh/xs72x4na","slide":3,"text":"Deck + manifests","textPreview":"Deck + manifests","textChars":16,"textLines":1,"bbox":[820,530,330,30]}
+{"kind":"shape","id":"sh/87ed8bat","slide":3,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":3,"text":"L3AI Business & Partnership Deck v1","textPreview":"L3AI Business & Partnership Deck v1","textChars":35,"textLines":1,"bbox":[72,654,460,24]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1148,654,60,24]}
+{"kind":"notes","id":"nt/z40p7a","slide":3,"text":"This gives partners a simple way to understand segmentation."}
+{"kind":"slide","id":"sl/ni521l","slide":4,"title":"Product proof","textShapes":15}
+{"kind":"textbox","id":"sh/neloj2t8","slide":4,"text":"Product proof","textPreview":"Product proof","textChars":13,"textLines":1,"bbox":[72,54,560,24]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":4,"text":"The product proof is already public.","textPreview":"The product proof is already public.","textChars":36,"textLines":1,"bbox":[72,90,585,96]}
+{"kind":"textbox","id":"sh/5kb6xkf6","slide":4,"text":"The homepage, product pages, recordings and Resources center are visible before any private conversation.","textPreview":"The homepage, product pages, recordings and Resources center are visible before any private conversation.","textChars":105,"textLines":1,"bbox":[72,200,565,62]}
+{"kind":"shape","id":"sh/nqxs72x4","slide":4,"bbox":[82,320,24,24]}
+{"kind":"textbox","id":"sh/cbulwval","slide":4,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[82,325,24,14]}
+{"kind":"textbox","id":"sh/5sneloj2","slide":4,"text":"Public site","textPreview":"Public site","textChars":11,"textLines":1,"bbox":[124,318,510,26]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":4,"text":"The product story is accessible.","textPreview":"The product story is accessible.","textChars":32,"textLines":1,"bbox":[124,348,510,40]}
+{"kind":"shape","id":"sh/nuxc3ylc","slide":4,"bbox":[82,398,24,24]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":4,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[82,403,24,14]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":4,"text":"Public recordings","textPreview":"Public recordings","textChars":17,"textLines":1,"bbox":[124,396,510,26]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":4,"text":"Key flows are captured.","textPreview":"Key flows are captured.","textChars":23,"textLines":1,"bbox":[124,426,510,40]}
+{"kind":"shape","id":"sh/wra5gbq1","slide":4,"bbox":[82,476,24,24]}
+{"kind":"textbox","id":"sh/7u54zido","slide":4,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[82,481,24,14]}
+{"kind":"textbox","id":"sh/ed8bat47","slide":4,"text":"Public resources","textPreview":"Public resources","textChars":16,"textLines":1,"bbox":[124,474,510,26]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":4,"text":"Decks and proof files are downloadable.","textPreview":"Decks and proof files are downloadable.","textChars":39,"textLines":1,"bbox":[124,504,510,40]}
+{"kind":"shape","id":"sh/wfyxobm5","slide":4,"bbox":[704,506,470,72]}
+{"kind":"shape","id":"sh/7mp0bi9s","slide":4,"bbox":[704,506,7,72]}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":4,"text":"The homepage, product pages, recordings and Resources center are visible before any private conversation.","textPreview":"The homepage, product pages, recordings and Resources center are visible before any private conversation.","textChars":105,"textLines":1,"bbox":[732,524,420,40]}
+{"kind":"shape","id":"sh/qxs72x4n","slide":4,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":4,"text":"L3AI Business & Partnership Deck v1","textPreview":"L3AI Business & Partnership Deck v1","textChars":35,"textLines":1,"bbox":[72,654,460,24]}
+{"kind":"textbox","id":"sh/83itgfml","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1148,654,60,24]}
+{"kind":"image","id":"im/7qpg3ex0","slide":4,"name":"","geometry":"roundRect","alt":"homepage-flow-desktop.png","bbox":[690,118,516,360]}
+{"kind":"notes","id":"nt/ni521l","slide":4,"text":"This is the foundation of the business story."}
+{"kind":"slide","id":"sl/7lzohv","slide":5,"title":"Commercial loop","textShapes":21}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":5,"text":"Commercial loop","textPreview":"Commercial loop","textChars":15,"textLines":1,"bbox":[72,54,560,24]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":5,"text":"The commercial loop starts with clarity.","textPreview":"The commercial loop starts with clarity.","textChars":40,"textLines":1,"bbox":[72,90,920,96]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":5,"text":"L3AI turns attention into understanding, understanding into trust and trust into qualified handoff.","textPreview":"L3AI turns attention into understanding, understanding into trust and trust into qualified handoff.","textChars":99,"textLines":1,"bbox":[72,200,800,62]}
+{"kind":"shape","id":"sh/wjudg7ad","slide":5,"bbox":[86,324,194,136]}
+{"kind":"shape","id":"sh/7y1kre1w","slide":5,"bbox":[104,342,72,28]}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":5,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[118,347,44,18]}
+{"kind":"textbox","id":"sh/p8nqxs72","slide":5,"text":"Attention","textPreview":"Attention","textChars":9,"textLines":1,"bbox":[106,382,154,28]}
+{"kind":"textbox","id":"sh/0nuxc3yl","slide":5,"text":"Public channel","textPreview":"Public channel","textChars":14,"textLines":1,"bbox":[106,416,154,38]}
+{"kind":"shape","id":"sh/ih4byhgn","slide":5,"bbox":[288,392,16,0]}
+{"kind":"shape","id":"sh/72x4nap4","slide":5,"bbox":[310,324,194,136]}
+{"kind":"shape","id":"sh/0nuxc3yl","slide":5,"bbox":[328,342,72,28]}
+{"kind":"textbox","id":"sh/p8nqxs72","slide":5,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[342,347,44,18]}
+{"kind":"textbox","id":"sh/itgfmlkj","slide":5,"text":"Understanding","textPreview":"Understanding","textChars":13,"textLines":1,"bbox":[330,382,154,28]}
+{"kind":"textbox","id":"sh/7ed8bat4","slide":5,"text":"Product story","textPreview":"Product story","textChars":13,"textLines":1,"bbox":[330,416,154,38]}
+{"kind":"shape","id":"sh/0z61032l","slide":5,"bbox":[512,392,16,0]}
+{"kind":"shape","id":"sh/pkzupwb2","slide":5,"bbox":[534,324,194,136]}
+{"kind":"shape","id":"sh/i5sneloj","slide":5,"bbox":[552,342,72,28]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":5,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[566,347,44,18]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":5,"text":"Trust","textPreview":"Trust","textChars":5,"textLines":1,"bbox":[554,382,154,28]}
+{"kind":"textbox","id":"sh/65wjudg7","slide":5,"text":"Boundary + proof","textPreview":"Boundary + proof","textChars":16,"textLines":1,"bbox":[554,416,154,38]}
+{"kind":"shape","id":"sh/hwfyxobm","slide":5,"bbox":[736,392,16,0]}
+{"kind":"shape","id":"sh/obm58z25","slide":5,"bbox":[758,324,194,136]}
+{"kind":"shape","id":"sh/zed8v6ps","slide":5,"bbox":[776,342,72,28]}
+{"kind":"textbox","id":"sh/6xkf6dcb","slide":5,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[790,347,44,18]}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":5,"text":"Review","textPreview":"Review","textChars":6,"textLines":1,"bbox":[778,382,154,28]}
+{"kind":"textbox","id":"sh/oza1gvy9","slide":5,"text":"Resources","textPreview":"Resources","textChars":9,"textLines":1,"bbox":[778,416,154,38]}
+{"kind":"shape","id":"sh/z61032ls","slide":5,"bbox":[960,392,16,0]}
+{"kind":"shape","id":"sh/al87ed8b","slide":5,"bbox":[982,324,194,136]}
+{"kind":"shape","id":"sh/032lszqt","slide":5,"bbox":[1000,342,72,28]}
+{"kind":"textbox","id":"sh/tovahoza","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1014,347,44,18]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":5,"text":"Handoff","textPreview":"Handoff","textChars":7,"textLines":1,"bbox":[1002,382,154,28]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":5,"text":"Contact path","textPreview":"Contact path","textChars":12,"textLines":1,"bbox":[1002,416,154,38]}
+{"kind":"shape","id":"sh/0fepkzup","slide":5,"bbox":[144,520,992,72]}
+{"kind":"shape","id":"sh/p0bi9s36","slide":5,"bbox":[144,520,7,72]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":5,"text":"L3AI turns attention into understanding, understanding into trust and trust into qualified handoff.","textPreview":"L3AI turns attention into understanding, understanding into trust and trust into qualified handoff.","textChars":99,"textLines":1,"bbox":[172,538,942,40]}
+{"kind":"shape","id":"sh/bulwval8","slide":5,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/0je9cvix","slide":5,"text":"L3AI Business & Partnership Deck v1","textPreview":"L3AI Business & Partnership Deck v1","textChars":35,"textLines":1,"bbox":[72,654,460,24]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1148,654,60,24]}
+{"kind":"image","id":"im/wfyxobm5","slide":5,"name":"","alt":"l3ai-business-model-loop-030.png","bbox":[860,100,282,154]}
+{"kind":"notes","id":"nt/7lzohv","slide":5,"text":"This is the business model without overpromising revenue."}
+{"kind":"slide","id":"sl/nlt4bs","slide":6,"title":"Partner value","textShapes":12}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":6,"text":"Partner value","textPreview":"Partner value","textChars":13,"textLines":1,"bbox":[72,54,560,24]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":6,"text":"Partners get a cleaner launch surface.","textPreview":"Partners get a cleaner launch surface.","textChars":38,"textLines":1,"bbox":[72,90,920,96]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":6,"text":"The value is not only content. It is a controlled review experience that can support co-marketing and diligence.","textPreview":"The value is not only content. It is a controlled review experience that can support co-marketing and diligence.","textChars":112,"textLines":1,"bbox":[72,200,800,62]}
+{"kind":"shape","id":"sh/svu9knih","slide":6,"bbox":[76,304,340,172]}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":6,"text":"Narrative clarity","textPreview":"Narrative clarity","textChars":17,"textLines":1,"bbox":[98,322,296,30]}
+{"kind":"textbox","id":"sh/ap4r65wj","slide":6,"text":"One story across homepage, decks, videos and resources.","textPreview":"One story across homepage, decks, videos and resources.","textChars":55,"textLines":1,"bbox":[98,360,296,102]}
+{"kind":"shape","id":"sh/za1gvy90","slide":6,"bbox":[470,304,340,172]}
+{"kind":"textbox","id":"sh/sji5snel","slide":6,"text":"Public-safe assets","textPreview":"Public-safe assets","textChars":18,"textLines":1,"bbox":[492,322,296,30]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":6,"text":"Approved screenshots, recordings, notes and manifests.","textPreview":"Approved screenshots, recordings, notes and manifests.","textChars":54,"textLines":1,"bbox":[492,360,296,102]}
+{"kind":"shape","id":"sh/p4r65wju","slide":6,"bbox":[864,304,340,172]}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":6,"text":"Qualified routing","textPreview":"Qualified routing","textChars":17,"textLines":1,"bbox":[886,322,296,30]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":6,"text":"Cleaner contact path for deeper conversations.","textPreview":"Cleaner contact path for deeper conversations.","textChars":46,"textLines":1,"bbox":[886,360,296,102]}
+{"kind":"shape","id":"sh/ed8v6psf","slide":6,"bbox":[130,532,1020,72]}
+{"kind":"shape","id":"sh/pwb2hwfy","slide":6,"bbox":[130,532,7,72]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":6,"text":"The value is not only content. It is a controlled review experience that can support co-marketing and diligence.","textPreview":"The value is not only content. It is a controlled review experience that can support co-marketing and diligence.","textChars":112,"textLines":1,"bbox":[158,550,970,40]}
+{"kind":"shape","id":"sh/7qpg3ex0","slide":6,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":6,"text":"L3AI Business & Partnership Deck v1","textPreview":"L3AI Business & Partnership Deck v1","textChars":35,"textLines":1,"bbox":[72,654,460,24]}
+{"kind":"textbox","id":"sh/pkzupwb2","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1148,654,60,24]}
+{"kind":"notes","id":"nt/nlt4bs","slide":6,"text":"Partners care about repeatability and risk control."}
+{"kind":"slide","id":"sl/zk6qli","slide":7,"title":"Media value","textShapes":12}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":7,"text":"Media value","textPreview":"Media value","textChars":11,"textLines":1,"bbox":[72,54,560,24]}
+{"kind":"textbox","id":"sh/ap4r65wj","slide":7,"text":"Media reviewers can use approved facts without guessing.","textPreview":"Media reviewers can use approved facts without guessing.","textChars":56,"textLines":1,"bbox":[72,90,920,96]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":7,"text":"The Resources center acts as a media room for public narratives, screenshots, video and review notes.","textPreview":"The Resources center acts as a media room for public narratives, screenshots, video and review notes.","textChars":101,"textLines":1,"bbox":[72,200,800,62]}
+{"kind":"shape","id":"sh/s36hcrmh","slide":7,"bbox":[76,304,340,172]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":7,"text":"Press-ready story","textPreview":"Press-ready story","textChars":17,"textLines":1,"bbox":[98,322,296,30]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":7,"text":"Short, consistent and boundary-aware.","textPreview":"Short, consistent and boundary-aware.","textChars":37,"textLines":1,"bbox":[98,360,296,102]}
+{"kind":"shape","id":"sh/zidonyd0","slide":7,"bbox":[470,304,340,172]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":7,"text":"Visual proof","textPreview":"Visual proof","textChars":12,"textLines":1,"bbox":[492,322,296,30]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":7,"text":"Screenshots and recordings from public pages.","textPreview":"Screenshots and recordings from public pages.","textChars":45,"textLines":1,"bbox":[492,360,296,102]}
+{"kind":"shape","id":"sh/h0fepkzu","slide":7,"bbox":[864,304,340,172]}
+{"kind":"textbox","id":"sh/sfil0rqd","slide":7,"text":"Version control","textPreview":"Version control","textChars":15,"textLines":1,"bbox":[886,322,296,30]}
+{"kind":"textbox","id":"sh/zupwb2hw","slide":7,"text":"Manifests and stable asset paths.","textPreview":"Manifests and stable asset paths.","textChars":33,"textLines":1,"bbox":[886,360,296,102]}
+{"kind":"shape","id":"sh/a9w3m94f","slide":7,"bbox":[130,532,1020,72]}
+{"kind":"shape","id":"sh/hcrmhk3q","slide":7,"bbox":[130,532,7,72]}
+{"kind":"textbox","id":"sh/orytsvu9","slide":7,"text":"The Resources center acts as a media room for public narratives, screenshots, video and review notes.","textPreview":"The Resources center acts as a media room for public narratives, screenshots, video and review notes.","textChars":101,"textLines":1,"bbox":[158,550,970,40]}
+{"kind":"shape","id":"sh/z61032ls","slide":7,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/al87ed8b","slide":7,"text":"L3AI Business & Partnership Deck v1","textPreview":"L3AI Business & Partnership Deck v1","textChars":35,"textLines":1,"bbox":[72,654,460,24]}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1148,654,60,24]}
+{"kind":"notes","id":"nt/zk6qli","slide":7,"text":"This slide explains why the asset library matters commercially."}
+{"kind":"slide","id":"sl/il2nyv","slide":8,"title":"Enterprise buyer value","textShapes":12}
+{"kind":"textbox","id":"sh/knih4byh","slide":8,"text":"Enterprise buyer value","textPreview":"Enterprise buyer value","textChars":22,"textLines":1,"bbox":[72,54,560,24]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":8,"text":"Enterprise-style buyers need confidence before depth.","textPreview":"Enterprise-style buyers need confidence before depth.","textChars":53,"textLines":1,"bbox":[72,90,920,96]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":8,"text":"L3AI's public layer gives them an initial review path before any private demo or partner conversation.","textPreview":"L3AI's public layer gives them an initial review path before any private demo or partner conversation.","textChars":102,"textLines":1,"bbox":[72,200,800,62]}
+{"kind":"shape","id":"sh/d0z61032","slide":8,"bbox":[76,304,340,172]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":8,"text":"Easy orientation","textPreview":"Easy orientation","textChars":16,"textLines":1,"bbox":[98,322,296,30]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":8,"text":"What it is, who it is for and what is current.","textPreview":"What it is, who it is for and what is current.","textChars":46,"textLines":1,"bbox":[98,360,296,102]}
+{"kind":"shape","id":"sh/29gr2p8n","slide":8,"bbox":[470,304,340,172]}
+{"kind":"textbox","id":"sh/donyd0z6","slide":8,"text":"Risk-aware messaging","textPreview":"Risk-aware messaging","textChars":20,"textLines":1,"bbox":[492,322,296,30]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":8,"text":"No unsupported promises or private detail.","textPreview":"No unsupported promises or private detail.","textChars":42,"textLines":1,"bbox":[492,360,296,102]}
+{"kind":"shape","id":"sh/at47y1kr","slide":8,"bbox":[864,304,340,172]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":8,"text":"Handoff readiness","textPreview":"Handoff readiness","textChars":17,"textLines":1,"bbox":[886,322,296,30]}
+{"kind":"textbox","id":"sh/szqtcj6t","slide":8,"text":"Clear contact and partner review route.","textPreview":"Clear contact and partner review route.","textChars":39,"textLines":1,"bbox":[886,360,296,102]}
+{"kind":"shape","id":"sh/lkjm1cfa","slide":8,"bbox":[130,532,1020,72]}
+{"kind":"shape","id":"sh/ahoza1gv","slide":8,"bbox":[130,532,7,72]}
+{"kind":"textbox","id":"sh/32lszqtc","slide":8,"text":"L3AI's public layer gives them an initial review path before any private demo or partner conversation.","textPreview":"L3AI's public layer gives them an initial review path before any private demo or partner conversation.","textChars":102,"textLines":1,"bbox":[158,550,970,40]}
+{"kind":"shape","id":"sh/sneloj2t","slide":8,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/l87ed8ba","slide":8,"text":"L3AI Business & Partnership Deck v1","textPreview":"L3AI Business & Partnership Deck v1","textChars":35,"textLines":1,"bbox":[72,654,460,24]}
+{"kind":"textbox","id":"sh/e9cvixcz","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1148,654,60,24]}
+{"kind":"notes","id":"nt/il2nyv","slide":8,"text":"This is not an enterprise sales claim; it is a buyer-experience claim."}
+{"kind":"slide","id":"sl/xs0zaa","slide":9,"title":"Community path","textShapes":15}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":9,"text":"Community path","textPreview":"Community path","textChars":14,"textLines":1,"bbox":[72,54,560,24]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":9,"text":"A community path works when education comes before conversion.","textPreview":"A community path works when education comes before conversion.","textChars":62,"textLines":1,"bbox":[72,90,585,96]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":9,"text":"Public product pages and FAQs give communities safer language for discussing the platform.","textPreview":"Public product pages and FAQs give communities safer language for discussing the platform.","textChars":90,"textLines":1,"bbox":[72,200,565,62]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":9,"bbox":[82,320,24,24]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":9,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[82,325,24,14]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":9,"text":"Shared facts","textPreview":"Shared facts","textChars":12,"textLines":1,"bbox":[124,318,510,26]}
+{"kind":"textbox","id":"sh/83itgfml","slide":9,"text":"Use approved resources.","textPreview":"Use approved resources.","textChars":23,"textLines":1,"bbox":[124,348,510,40]}
+{"kind":"shape","id":"sh/xobm58z2","slide":9,"bbox":[82,398,24,24]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":9,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[82,403,24,14]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":9,"text":"Shared boundaries","textPreview":"Shared boundaries","textChars":17,"textLines":1,"bbox":[124,396,510,26]}
+{"kind":"textbox","id":"sh/val87ed8","slide":9,"text":"Avoid unsupported claims.","textPreview":"Avoid unsupported claims.","textChars":25,"textLines":1,"bbox":[124,426,510,40]}
+{"kind":"shape","id":"sh/6psfil0r","slide":9,"bbox":[82,476,24,24]}
+{"kind":"textbox","id":"sh/donyd0z6","slide":9,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[82,481,24,14]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":9,"text":"Shared next steps","textPreview":"Shared next steps","textChars":17,"textLines":1,"bbox":[124,474,510,26]}
+{"kind":"textbox","id":"sh/vixczed8","slide":9,"text":"Route qualified questions.","textPreview":"Route qualified questions.","textChars":26,"textLines":1,"bbox":[124,504,510,40]}
+{"kind":"shape","id":"sh/2x4nap4r","slide":9,"bbox":[704,506,470,72]}
+{"kind":"shape","id":"sh/d0z61032","slide":9,"bbox":[704,506,7,72]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":9,"text":"Public product pages and FAQs give communities safer language for discussing the platform.","textPreview":"Public product pages and FAQs give communities safer language for discussing the platform.","textChars":90,"textLines":1,"bbox":[732,524,420,40]}
+{"kind":"shape","id":"sh/0bi9s36h","slide":9,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":9,"text":"L3AI Business & Partnership Deck v1","textPreview":"L3AI Business & Partnership Deck v1","textChars":35,"textLines":1,"bbox":[72,654,460,24]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1148,654,60,24]}
+{"kind":"image","id":"im/l87ed8ba","slide":9,"name":"","geometry":"roundRect","alt":"resources-flow-desktop.png","bbox":[690,118,516,360]}
+{"kind":"notes","id":"nt/xs0zaa","slide":9,"text":"This supports community without claiming automated social publishing."}
+{"kind":"slide","id":"sl/eseupd","slide":10,"title":"Automation system","textShapes":12}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":10,"text":"Automation system","textPreview":"Automation system","textChars":17,"textLines":1,"bbox":[72,54,560,24]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":10,"text":"The operating system is built for preparation, not uncontrolled publishing.","textPreview":"The operating system is built for preparation, not uncontrolled publishing.","textChars":75,"textLines":1,"bbox":[72,90,920,96]}
+{"kind":"textbox","id":"sh/61032lsz","slide":10,"text":"Distribution and release systems prepare packages, validate assets and enforce approval gates before any external execution.","textPreview":"Distribution and release systems prepare packages, validate assets and enforce approval gates before any external execution.","textChars":124,"textLines":1,"bbox":[72,200,800,62]}
+{"kind":"shape","id":"sh/d4vmtwra","slide":10,"bbox":[76,304,340,172]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":10,"text":"Prepare","textPreview":"Prepare","textChars":7,"textLines":1,"bbox":[98,322,296,30]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":10,"text":"Organize assets and manifests.","textPreview":"Organize assets and manifests.","textChars":30,"textLines":1,"bbox":[98,360,296,102]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":10,"bbox":[470,304,340,172]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":10,"text":"Validate","textPreview":"Validate","textChars":8,"textLines":1,"bbox":[492,322,296,30]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":10,"text":"Run public safety and link checks.","textPreview":"Run public safety and link checks.","textChars":34,"textLines":1,"bbox":[492,360,296,102]}
+{"kind":"shape","id":"sh/epkzupwb","slide":10,"bbox":[864,304,340,172]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":10,"text":"Approve","textPreview":"Approve","textChars":7,"textLines":1,"bbox":[886,322,296,30]}
+{"kind":"textbox","id":"sh/wval87ed","slide":10,"text":"Keep execution behind gates.","textPreview":"Keep execution behind gates.","textChars":28,"textLines":1,"bbox":[886,360,296,102]}
+{"kind":"shape","id":"sh/pg3ex0nu","slide":10,"bbox":[130,532,1020,72]}
+{"kind":"shape","id":"sh/e1w7mp0b","slide":10,"bbox":[130,532,7,72]}
+{"kind":"textbox","id":"sh/7mp0bi9s","slide":10,"text":"Distribution and release systems prepare packages, validate assets and enforce approval gates before any external execution.","textPreview":"Distribution and release systems prepare packages, validate assets and enforce approval gates before any external execution.","textChars":124,"textLines":1,"bbox":[158,550,970,40]}
+{"kind":"shape","id":"sh/w7mp0bi9","slide":10,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":10,"text":"L3AI Business & Partnership Deck v1","textPreview":"L3AI Business & Partnership Deck v1","textChars":35,"textLines":1,"bbox":[72,654,460,24]}
+{"kind":"textbox","id":"sh/ed8bat47","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1148,654,60,24]}
+{"kind":"notes","id":"nt/eseupd","slide":10,"text":"This reflects the current safe-mode operating model."}
+{"kind":"slide","id":"sl/3k1p62","slide":11,"title":"Roadmap gates","textShapes":20}
+{"kind":"textbox","id":"sh/bulwval8","slide":11,"text":"Roadmap gates","textPreview":"Roadmap gates","textChars":13,"textLines":1,"bbox":[72,54,560,24]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":11,"text":"Growth only enters the story after it passes the right gate.","textPreview":"Growth only enters the story after it passes the right gate.","textChars":60,"textLines":1,"bbox":[72,90,920,96]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":11,"text":"Current, in-progress and planned capabilities are separated to protect credibility.","textPreview":"Current, in-progress and planned capabilities are separated to protect credibility.","textChars":83,"textLines":1,"bbox":[72,200,800,62]}
+{"kind":"shape","id":"sh/ixczed8v","slide":11,"bbox":[76,284,340,260]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":11,"bbox":[98,306,86,28]}
+{"kind":"textbox","id":"sh/032lszqt","slide":11,"text":"Current","textPreview":"Current","textChars":7,"textLines":1,"bbox":[112,311,58,18]}
+{"kind":"textbox","id":"sh/tovahoza","slide":11,"text":"Public product site","textPreview":"Public product site","textChars":19,"textLines":1,"bbox":[104,362,280,24]}
+{"kind":"shape","id":"sh/il0rqd4v","slide":11,"bbox":[104,394,284,2]}
+{"kind":"textbox","id":"sh/b6xkf6dc","slide":11,"text":"Flagship books","textPreview":"Flagship books","textChars":14,"textLines":1,"bbox":[104,402,280,24]}
+{"kind":"shape","id":"sh/32lszqtc","slide":11,"bbox":[104,434,284,2]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":11,"text":"Resources room","textPreview":"Resources room","textChars":14,"textLines":1,"bbox":[104,442,280,24]}
+{"kind":"shape","id":"sh/l87ed8ba","slide":11,"bbox":[104,474,284,2]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":11,"text":"Safety QA","textPreview":"Safety QA","textChars":9,"textLines":1,"bbox":[104,482,280,24]}
+{"kind":"shape","id":"sh/3ex0nuxc","slide":11,"bbox":[470,284,340,260]}
+{"kind":"shape","id":"sh/at47y1kr","slide":11,"bbox":[492,306,118,28]}
+{"kind":"textbox","id":"sh/lkjm1cfa","slide":11,"text":"In Progress","textPreview":"In Progress","textChars":11,"textLines":1,"bbox":[506,311,90,18]}
+{"kind":"textbox","id":"sh/szqtcj6t","slide":11,"text":"Creative motion","textPreview":"Creative motion","textChars":15,"textLines":1,"bbox":[498,362,280,24]}
+{"kind":"shape","id":"sh/3itgfmlk","slide":11,"bbox":[498,394,284,2]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":11,"text":"Localization","textPreview":"Localization","textChars":12,"textLines":1,"bbox":[498,402,280,24]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":11,"bbox":[498,434,284,2]}
+{"kind":"textbox","id":"sh/bulwval8","slide":11,"text":"More recordings","textPreview":"More recordings","textChars":15,"textLines":1,"bbox":[498,442,280,24]}
+{"kind":"shape","id":"sh/0fepkzup","slide":11,"bbox":[498,474,284,2]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":11,"text":"Campaign polish","textPreview":"Campaign polish","textChars":15,"textLines":1,"bbox":[498,482,280,24]}
+{"kind":"shape","id":"sh/ixczed8v","slide":11,"bbox":[864,284,340,260]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":11,"bbox":[886,306,86,28]}
+{"kind":"textbox","id":"sh/032lszqt","slide":11,"text":"Planned","textPreview":"Planned","textChars":7,"textLines":1,"bbox":[900,311,58,18]}
+{"kind":"textbox","id":"sh/tovahoza","slide":11,"text":"Automated growth loops","textPreview":"Automated growth loops","textChars":22,"textLines":1,"bbox":[892,362,280,24]}
+{"kind":"shape","id":"sh/il0rqd4v","slide":11,"bbox":[892,394,284,2]}
+{"kind":"textbox","id":"sh/b6xkf6dc","slide":11,"text":"Partner portals","textPreview":"Partner portals","textChars":15,"textLines":1,"bbox":[892,402,280,24]}
+{"kind":"shape","id":"sh/hwfyxobm","slide":11,"bbox":[892,434,284,2]}
+{"kind":"textbox","id":"sh/obm58z25","slide":11,"text":"Broader integrations","textPreview":"Broader integrations","textChars":20,"textLines":1,"bbox":[892,442,280,24]}
+{"kind":"shape","id":"sh/zqtcj6to","slide":11,"bbox":[892,474,284,2]}
+{"kind":"textbox","id":"sh/65wjudg7","slide":11,"text":"Advanced analytics","textPreview":"Advanced analytics","textChars":18,"textLines":1,"bbox":[892,482,280,24]}
+{"kind":"shape","id":"sh/hk3q5o7q","slide":11,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/oza1gvy9","slide":11,"text":"L3AI Business & Partnership Deck v1","textPreview":"L3AI Business & Partnership Deck v1","textChars":35,"textLines":1,"bbox":[72,654,460,24]}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1148,654,60,24]}
+{"kind":"notes","id":"nt/3k1p62","slide":11,"text":"Roadmap gates make the business story mature."}
+{"kind":"slide","id":"sl/1wvvpo","slide":12,"title":"Revenue discipline","textShapes":12}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":12,"text":"Revenue discipline","textPreview":"Revenue discipline","textChars":18,"textLines":1,"bbox":[72,54,560,24]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":12,"text":"Revenue categories stay evidence-gated.","textPreview":"Revenue categories stay evidence-gated.","textChars":39,"textLines":1,"bbox":[72,90,920,96]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":12,"text":"The deck can discuss commercial categories without fabricating traction, partnerships or guarantees.","textPreview":"The deck can discuss commercial categories without fabricating traction, partnerships or guarantees.","textChars":100,"textLines":1,"bbox":[72,200,800,62]}
+{"kind":"shape","id":"sh/sji5snel","slide":12,"bbox":[76,304,340,172]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":12,"text":"Product-led conversion","textPreview":"Product-led conversion","textChars":22,"textLines":1,"bbox":[98,322,296,30]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":12,"text":"Qualified users and partners move through public review.","textPreview":"Qualified users and partners move through public review.","textChars":56,"textLines":1,"bbox":[98,360,296,102]}
+{"kind":"shape","id":"sh/3ylc7u54","slide":12,"bbox":[470,304,340,172]}
+{"kind":"textbox","id":"sh/svu9knih","slide":12,"text":"Partner programs","textPreview":"Partner programs","textChars":16,"textLines":1,"bbox":[492,322,296,30]}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":12,"text":"Co-marketing and ecosystem opportunities remain review-based.","textPreview":"Co-marketing and ecosystem opportunities remain review-based.","textChars":61,"textLines":1,"bbox":[492,360,296,102]}
+{"kind":"shape","id":"sh/tgfmlkjm","slide":12,"bbox":[864,304,340,172]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":12,"text":"Services and enablement","textPreview":"Services and enablement","textChars":23,"textLines":1,"bbox":[886,322,296,30]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":12,"text":"Support around content, education and launch operations can be explored.","textPreview":"Support around content, education and launch operations can be explored.","textChars":72,"textLines":1,"bbox":[886,360,296,102]}
+{"kind":"shape","id":"sh/mp0bi9s3","slide":12,"bbox":[130,532,1020,72]}
+{"kind":"shape","id":"sh/tsvu9kni","slide":12,"bbox":[130,532,7,72]}
+{"kind":"textbox","id":"sh/47y1kre1","slide":12,"text":"The deck can discuss commercial categories without fabricating traction, partnerships or guarantees.","textPreview":"The deck can discuss commercial categories without fabricating traction, partnerships or guarantees.","textChars":100,"textLines":1,"bbox":[158,550,970,40]}
+{"kind":"shape","id":"sh/bm58z25k","slide":12,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":12,"text":"L3AI Business & Partnership Deck v1","textPreview":"L3AI Business & Partnership Deck v1","textChars":35,"textLines":1,"bbox":[72,654,460,24]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1148,654,60,24]}
+{"kind":"notes","id":"nt/1wvvpo","slide":12,"text":"Do not make financial forecasts here unless separately approved and evidenced."}
+{"kind":"slide","id":"sl/6lwvmu","slide":13,"title":"Go-to-market","textShapes":15}
+{"kind":"textbox","id":"sh/1orytsvu","slide":13,"text":"Go-to-market","textPreview":"Go-to-market","textChars":12,"textLines":1,"bbox":[72,54,560,24]}
+{"kind":"textbox","id":"sh/u18jqh0f","slide":13,"text":"GTM starts with the public site, not a private pitch.","textPreview":"GTM starts with the public site, not a private pitch.","textChars":53,"textLines":1,"bbox":[72,90,585,96]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":13,"text":"Every channel should point back to the same story, product proof and resources.","textPreview":"Every channel should point back to the same story, product proof and resources.","textChars":79,"textLines":1,"bbox":[72,200,565,62]}
+{"kind":"shape","id":"sh/1032lszq","slide":13,"bbox":[82,320,24,24]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":13,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[82,325,24,14]}
+{"kind":"textbox","id":"sh/judg7ads","slide":13,"text":"Homepage","textPreview":"Homepage","textChars":8,"textLines":1,"bbox":[124,318,510,26]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":13,"text":"Narrative entry.","textPreview":"Narrative entry.","textChars":16,"textLines":1,"bbox":[124,348,510,40]}
+{"kind":"shape","id":"sh/54zidony","slide":13,"bbox":[82,398,24,24]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":13,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[82,403,24,14]}
+{"kind":"textbox","id":"sh/0je9cvix","slide":13,"text":"Product pages","textPreview":"Product pages","textChars":13,"textLines":1,"bbox":[124,396,510,26]}
+{"kind":"textbox","id":"sh/byhgn29g","slide":13,"text":"Proof and explanation.","textPreview":"Proof and explanation.","textChars":22,"textLines":1,"bbox":[124,426,510,40]}
+{"kind":"shape","id":"sh/idonyd0z","slide":13,"bbox":[82,476,24,24]}
+{"kind":"textbox","id":"sh/tcj6tova","slide":13,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[82,481,24,14]}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":13,"text":"Resources","textPreview":"Resources","textChars":9,"textLines":1,"bbox":[124,474,510,26]}
+{"kind":"textbox","id":"sh/b6xkf6dc","slide":13,"text":"Files and manifests.","textPreview":"Files and manifests.","textChars":20,"textLines":1,"bbox":[124,504,510,40]}
+{"kind":"shape","id":"sh/il0rqd4v","slide":13,"bbox":[704,506,470,72]}
+{"kind":"shape","id":"sh/tovahoza","slide":13,"bbox":[704,506,7,72]}
+{"kind":"textbox","id":"sh/032lszqt","slide":13,"text":"Every channel should point back to the same story, product proof and resources.","textPreview":"Every channel should point back to the same story, product proof and resources.","textChars":79,"textLines":1,"bbox":[732,524,420,40]}
+{"kind":"shape","id":"sh/czed8v6p","slide":13,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/5kb6xkf6","slide":13,"text":"L3AI Business & Partnership Deck v1","textPreview":"L3AI Business & Partnership Deck v1","textChars":35,"textLines":1,"bbox":[72,654,460,24]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1148,654,60,24]}
+{"kind":"image","id":"im/donyd0z6","slide":13,"name":"","geometry":"roundRect","alt":"l3ai-enterprise-hero-030.png","bbox":[690,118,516,360]}
+{"kind":"notes","id":"nt/6lwvmu","slide":13,"text":"This explains how social, media and partner routes should converge."}
+{"kind":"slide","id":"sl/3h4k97","slide":14,"title":"Trust model","textShapes":12}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":14,"text":"Trust model","textPreview":"Trust model","textChars":11,"textLines":1,"bbox":[72,54,560,24]}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":14,"text":"The trust model is visible by design.","textPreview":"The trust model is visible by design.","textChars":37,"textLines":1,"bbox":[72,90,920,96]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":14,"text":"The public launch package is built to prevent common launch risks.","textPreview":"The public launch package is built to prevent common launch risks.","textChars":66,"textLines":1,"bbox":[72,200,800,62]}
+{"kind":"shape","id":"sh/5wjudg7a","slide":14,"bbox":[76,304,340,172]}
+{"kind":"textbox","id":"sh/gbq1oryt","slide":14,"text":"No private exposure","textPreview":"No private exposure","textChars":19,"textLines":1,"bbox":[98,322,296,30]}
+{"kind":"textbox","id":"sh/nuxc3ylc","slide":14,"text":"No credentials, protected data or internal implementation detail.","textPreview":"No credentials, protected data or internal implementation detail.","textChars":65,"textLines":1,"bbox":[98,360,296,102]}
+{"kind":"shape","id":"sh/y90je9cv","slide":14,"bbox":[470,304,340,172]}
+{"kind":"textbox","id":"sh/5sneloj2","slide":14,"text":"No unsupported claims","textPreview":"No unsupported claims","textChars":21,"textLines":1,"bbox":[492,322,296,30]}
+{"kind":"textbox","id":"sh/cbulwval","slide":14,"text":"No performance, yield-rate, listing-status, unverified traction or unapproved partnership claims.","textPreview":"No performance, yield-rate, listing-status, unverified traction or unapproved partnership claims.","textChars":97,"textLines":1,"bbox":[492,360,296,102]}
+{"kind":"shape","id":"sh/e9cvixcz","slide":14,"bbox":[864,304,340,172]}
+{"kind":"textbox","id":"sh/3q5o7qpg","slide":14,"text":"No uncontrolled execution","textPreview":"No uncontrolled execution","textChars":25,"textLines":1,"bbox":[886,322,296,30]}
+{"kind":"textbox","id":"sh/wb2hwfyx","slide":14,"text":"Publishing and production operations require separate approval gates.","textPreview":"Publishing and production operations require separate approval gates.","textChars":69,"textLines":1,"bbox":[886,360,296,102]}
+{"kind":"shape","id":"sh/lwval87e","slide":14,"bbox":[130,532,1020,72]}
+{"kind":"shape","id":"sh/ex0nuxc3","slide":14,"bbox":[130,532,7,72]}
+{"kind":"textbox","id":"sh/3itgfmlk","slide":14,"text":"The public launch package is built to prevent common launch risks.","textPreview":"The public launch package is built to prevent common launch risks.","textChars":66,"textLines":1,"bbox":[158,550,970,40]}
+{"kind":"shape","id":"sh/w3m94fu1","slide":14,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/loj2t83i","slide":14,"text":"L3AI Business & Partnership Deck v1","textPreview":"L3AI Business & Partnership Deck v1","textChars":35,"textLines":1,"bbox":[72,654,460,24]}
+{"kind":"textbox","id":"sh/at47y1kr","slide":14,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1148,654,60,24]}
+{"kind":"notes","id":"nt/3h4k97","slide":14,"text":"This is a board-level trust slide."}
+{"kind":"slide","id":"sl/7l86vm","slide":15,"title":"Flagship asset system","textShapes":19}
+{"kind":"textbox","id":"sh/65wjudg7","slide":15,"text":"Flagship asset system","textPreview":"Flagship asset system","textChars":21,"textLines":1,"bbox":[72,54,560,24]}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":15,"text":"The release package now has three primary books.","textPreview":"The release package now has three primary books.","textChars":48,"textLines":1,"bbox":[72,90,920,96]}
+{"kind":"shape","id":"sh/obm58z25","slide":15,"bbox":[76,290,1128,274]}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":15,"text":"Audience / Capability","textPreview":"Audience / Capability","textChars":21,"textLines":1,"bbox":[104,312,310,20]}
+{"kind":"textbox","id":"sh/6xkf6dcb","slide":15,"text":"Question / Function","textPreview":"Question / Function","textChars":19,"textLines":1,"bbox":[430,312,310,20]}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":15,"text":"Route / Status","textPreview":"Route / Status","textChars":14,"textLines":1,"bbox":[820,312,310,20]}
+{"kind":"shape","id":"sh/oza1gvy9","slide":15,"bbox":[102,350,1050,2]}
+{"kind":"textbox","id":"sh/z61032ls","slide":15,"text":"Story Book","textPreview":"Story Book","textChars":10,"textLines":1,"bbox":[104,368,290,30]}
+{"kind":"textbox","id":"sh/al87ed8b","slide":15,"text":"First-time visitors","textPreview":"First-time visitors","textChars":19,"textLines":1,"bbox":[430,368,330,30]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":15,"text":"Narrative entry","textPreview":"Narrative entry","textChars":15,"textLines":1,"bbox":[820,368,330,30]}
+{"kind":"shape","id":"sh/donyd0z6","slide":15,"bbox":[102,410,1050,2]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":15,"text":"Product Book","textPreview":"Product Book","textChars":12,"textLines":1,"bbox":[104,422,290,30]}
+{"kind":"textbox","id":"sh/vixczed8","slide":15,"text":"Prospective users","textPreview":"Prospective users","textChars":17,"textLines":1,"bbox":[430,422,330,30]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":15,"text":"Product evaluation","textPreview":"Product evaluation","textChars":18,"textLines":1,"bbox":[820,422,330,30]}
+{"kind":"shape","id":"sh/dcbulwva","slide":15,"bbox":[102,464,1050,2]}
+{"kind":"textbox","id":"sh/6psfil0r","slide":15,"text":"Business Deck","textPreview":"Business Deck","textChars":13,"textLines":1,"bbox":[104,476,290,30]}
+{"kind":"textbox","id":"sh/val87ed8","slide":15,"text":"Partners and investors","textPreview":"Partners and investors","textChars":22,"textLines":1,"bbox":[430,476,330,30]}
+{"kind":"textbox","id":"sh/knih4byh","slide":15,"text":"Commercial review","textPreview":"Commercial review","textChars":17,"textLines":1,"bbox":[820,476,330,30]}
+{"kind":"shape","id":"sh/d8bat47y","slide":15,"bbox":[102,518,1050,2]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":15,"text":"Resources","textPreview":"Resources","textChars":9,"textLines":1,"bbox":[104,530,290,30]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":15,"text":"Everyone","textPreview":"Everyone","textChars":8,"textLines":1,"bbox":[430,530,330,30]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":15,"text":"Downloadable proof","textPreview":"Downloadable proof","textChars":18,"textLines":1,"bbox":[820,530,330,30]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":15,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":15,"text":"L3AI Business & Partnership Deck v1","textPreview":"L3AI Business & Partnership Deck v1","textChars":35,"textLines":1,"bbox":[72,654,460,24]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":15,"text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1148,654,60,24]}
+{"kind":"notes","id":"nt/7l86vm","slide":15,"text":"This is the 033 deliverable map."}
+{"kind":"slide","id":"sl/r71i2u","slide":16,"title":"Partner review path","textShapes":21}
+{"kind":"textbox","id":"sh/6psfil0r","slide":16,"text":"Partner review path","textPreview":"Partner review path","textChars":19,"textLines":1,"bbox":[72,54,560,24]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":16,"text":"A partner can review L3AI in a controlled sequence.","textPreview":"A partner can review L3AI in a controlled sequence.","textChars":51,"textLines":1,"bbox":[72,90,920,96]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":16,"text":"This path creates a clean handoff without requiring access to private systems.","textPreview":"This path creates a clean handoff without requiring access to private systems.","textChars":78,"textLines":1,"bbox":[72,200,800,62]}
+{"kind":"shape","id":"sh/2x4nap4r","slide":16,"bbox":[86,324,194,136]}
+{"kind":"shape","id":"sh/donyd0z6","slide":16,"bbox":[104,342,72,28]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":16,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[118,347,44,18]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":16,"text":"Story","textPreview":"Story","textChars":5,"textLines":1,"bbox":[106,382,154,28]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":16,"text":"Read narrative","textPreview":"Read narrative","textChars":14,"textLines":1,"bbox":[106,416,154,38]}
+{"kind":"shape","id":"sh/kre1w7mp","slide":16,"bbox":[288,392,16,0]}
+{"kind":"shape","id":"sh/dcbulwva","slide":16,"bbox":[310,324,194,136]}
+{"kind":"shape","id":"sh/6psfil0r","slide":16,"bbox":[328,342,72,28]}
+{"kind":"textbox","id":"sh/val87ed8","slide":16,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[342,347,44,18]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":16,"text":"Product","textPreview":"Product","textChars":7,"textLines":1,"bbox":[330,382,154,28]}
+{"kind":"textbox","id":"sh/donyd0z6","slide":16,"text":"Open public flows","textPreview":"Open public flows","textChars":17,"textLines":1,"bbox":[330,416,154,38]}
+{"kind":"shape","id":"sh/2x4nap4r","slide":16,"bbox":[512,392,16,0]}
+{"kind":"shape","id":"sh/vixczed8","slide":16,"bbox":[534,324,194,136]}
+{"kind":"shape","id":"sh/kf6dcbul","slide":16,"bbox":[552,342,72,28]}
+{"kind":"textbox","id":"sh/d0z61032","slide":16,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[566,347,44,18]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":16,"text":"Business","textPreview":"Business","textChars":8,"textLines":1,"bbox":[554,382,154,28]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":16,"text":"Review commercial loop","textPreview":"Review commercial loop","textChars":22,"textLines":1,"bbox":[554,416,154,38]}
+{"kind":"shape","id":"sh/vmtwra5g","slide":16,"bbox":[736,392,16,0]}
+{"kind":"shape","id":"sh/61032lsz","slide":16,"bbox":[758,324,194,136]}
+{"kind":"shape","id":"sh/d4vmtwra","slide":16,"bbox":[776,342,72,28]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":16,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[790,347,44,18]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":16,"text":"Proof","textPreview":"Proof","textChars":5,"textLines":1,"bbox":[778,382,154,28]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":16,"text":"Download assets","textPreview":"Download assets","textChars":15,"textLines":1,"bbox":[778,416,154,38]}
+{"kind":"shape","id":"sh/d8v6psfi","slide":16,"bbox":[960,392,16,0]}
+{"kind":"shape","id":"sh/onyd0z61","slide":16,"bbox":[982,324,194,136]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":16,"bbox":[1000,342,72,28]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":16,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1014,347,44,18]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":16,"text":"Contact","textPreview":"Contact","textChars":7,"textLines":1,"bbox":[1002,382,154,28]}
+{"kind":"textbox","id":"sh/9cvixcze","slide":16,"text":"Open partner path","textPreview":"Open partner path","textChars":17,"textLines":1,"bbox":[1002,416,154,38]}
+{"kind":"shape","id":"sh/yxobm58z","slide":16,"bbox":[144,520,992,72]}
+{"kind":"shape","id":"sh/nih4byhg","slide":16,"bbox":[144,520,7,72]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":16,"text":"This path creates a clean handoff without requiring access to private systems.","textPreview":"This path creates a clean handoff without requiring access to private systems.","textChars":78,"textLines":1,"bbox":[172,538,942,40]}
+{"kind":"shape","id":"sh/5o7qpg3e","slide":16,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":16,"text":"L3AI Business & Partnership Deck v1","textPreview":"L3AI Business & Partnership Deck v1","textChars":35,"textLines":1,"bbox":[72,654,460,24]}
+{"kind":"textbox","id":"sh/rmhk3q5o","slide":16,"text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1148,654,60,24]}
+{"kind":"image","id":"im/ulwval87","slide":16,"name":"","alt":"l3ai-ecosystem-map-030.png","bbox":[860,100,282,154]}
+{"kind":"notes","id":"nt/r71i2u","slide":16,"text":"Use this as the practical next-step slide in partner calls."}
+{"kind":"slide","id":"sl/i6uyg7","slide":17,"title":"Approval and next step","textShapes":12}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":17,"text":"Approval and next step","textPreview":"Approval and next step","textChars":22,"textLines":1,"bbox":[72,54,560,24]}
+{"kind":"textbox","id":"sh/sji5snel","slide":17,"text":"What a partner should ask for next.","textPreview":"What a partner should ask for next.","textChars":35,"textLines":1,"bbox":[72,90,920,96]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":17,"text":"The public package should lead to clear, qualified asks rather than vague interest.","textPreview":"The public package should lead to clear, qualified asks rather than vague interest.","textChars":83,"textLines":1,"bbox":[72,200,800,62]}
+{"kind":"shape","id":"sh/a5gbq1or","slide":17,"bbox":[76,304,340,172]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":17,"text":"Content review","textPreview":"Content review","textChars":14,"textLines":1,"bbox":[98,322,296,30]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":17,"text":"Confirm public narrative fit and localization needs.","textPreview":"Confirm public narrative fit and localization needs.","textChars":52,"textLines":1,"bbox":[98,360,296,102]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":17,"bbox":[470,304,340,172]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":17,"text":"Launch alignment","textPreview":"Launch alignment","textChars":16,"textLines":1,"bbox":[492,322,296,30]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":17,"text":"Confirm timing, channels and approved claims.","textPreview":"Confirm timing, channels and approved claims.","textChars":45,"textLines":1,"bbox":[492,360,296,102]}
+{"kind":"shape","id":"sh/re1w7mp0","slide":17,"bbox":[864,304,340,172]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":17,"text":"Pilot scope","textPreview":"Pilot scope","textChars":11,"textLines":1,"bbox":[886,322,296,30]}
+{"kind":"textbox","id":"sh/9knih4by","slide":17,"text":"Define what can be evaluated without private exposure.","textPreview":"Define what can be evaluated without private exposure.","textChars":54,"textLines":1,"bbox":[886,360,296,102]}
+{"kind":"shape","id":"sh/kzupwb2h","slide":17,"bbox":[130,532,1020,72]}
+{"kind":"shape","id":"sh/rqd4vmtw","slide":17,"bbox":[130,532,7,72]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":17,"text":"The public package should lead to clear, qualified asks rather than vague interest.","textPreview":"The public package should lead to clear, qualified asks rather than vague interest.","textChars":83,"textLines":1,"bbox":[158,550,970,40]}
+{"kind":"shape","id":"sh/9w3m94fu","slide":17,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":17,"text":"L3AI Business & Partnership Deck v1","textPreview":"L3AI Business & Partnership Deck v1","textChars":35,"textLines":1,"bbox":[72,654,460,24]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":17,"text":"17","textPreview":"17","textChars":2,"textLines":1,"bbox":[1148,654,60,24]}
+{"kind":"notes","id":"nt/i6uyg7","slide":17,"text":"This keeps the conversation productive."}
+{"kind":"slide","id":"sl/cms5r9","slide":18,"title":"Close","textShapes":7}
+{"kind":"textbox","id":"sh/2t83itgf","slide":18,"text":"Close","textPreview":"Close","textChars":5,"textLines":1,"bbox":[72,72,480,24]}
+{"kind":"textbox","id":"sh/re1w7mp0","slide":18,"text":"L3AI turns a noisy category into a reviewable product story.","textPreview":"L3AI turns a noisy category into a reviewable product story.","textChars":60,"textLines":1,"bbox":[72,124,620,194]}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":18,"text":"The business opportunity begins with trust: a public product path, a controlled asset room and a disciplined roadmap.","textPreview":"The business opportunity begins with trust: a public product path, a controlled asset room and a disciplined roadmap.","textChars":117,"textLines":1,"bbox":[72,344,620,74]}
+{"kind":"shape","id":"sh/9w3m94fu","slide":18,"bbox":[72,486,620,78]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":18,"text":"Story Book -> Product Book -> Business Deck -> Partner Review","textPreview":"Story Book -> Product Book -> Business Deck -> Partner Review","textChars":61,"textLines":1,"bbox":[100,512,560,30]}
+{"kind":"shape","id":"sh/rqd4vmtw","slide":18,"bbox":[796,430,198,28]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":18,"text":"Public review package","textPreview":"Public review package","textChars":21,"textLines":1,"bbox":[810,435,170,18]}
+{"kind":"shape","id":"sh/94fu18jq","slide":18,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/1orytsvu","slide":18,"text":"L3AI Business & Partnership Deck v1","textPreview":"L3AI Business & Partnership Deck v1","textChars":35,"textLines":1,"bbox":[72,654,460,24]}
+{"kind":"textbox","id":"sh/c7u54zid","slide":18,"text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[1148,654,60,24]}
+{"kind":"image","id":"im/gfmlkjm1","slide":18,"name":"","geometry":"roundRect","alt":"resources-flow-desktop.png","bbox":[716,82,454,286]}
+{"kind":"notes","id":"nt/cms5r9","slide":18,"text":"Close with confidence, but without hype."}
