@@ -1,0 +1,102 @@
+{
+  "task_id": "PREMIUM-VIDEO-027",
+  "duration_seconds": 180,
+  "scenes": [
+    {
+      "id": 1,
+      "title": "AI-native intelligence for Web3 decisions",
+      "kicker": "L3AI flagship story",
+      "copy": "L3AI turns fragmented market signals, wallet-aware journeys, education and risk boundaries into one guided public experience.",
+      "visual": "../../../premium-site/screens/l3ai-premium-homepage-desktop-026.png",
+      "line": "L3AI opens with a product-led public experience for Web3 decision context."
+    },
+    {
+      "id": 2,
+      "title": "The public site now starts with product proof",
+      "kicker": "Premium homepage",
+      "copy": "Visitors see the platform story, live demo proof, business model and safety boundary before they reach the download library.",
+      "visual": "../../../showcase/screens/l3ai-showcase-homepage.png",
+      "line": "The homepage now leads with product proof before documents."
+    },
+    {
+      "id": 3,
+      "title": "A guided journey replaces disconnected files",
+      "kicker": "Customer path",
+      "copy": "The experience routes users through discovery, onboarding, product understanding, business review and public resources.",
+      "visual": "../../../showcase/screens/l3ai-showcase-get-started.png",
+      "line": "A guided journey helps every visitor choose the right next step."
+    },
+    {
+      "id": 4,
+      "title": "AI Quant explains before action",
+      "kicker": "Product workflow",
+      "copy": "The AI Quant path is framed as research context and explanation, not a promise of performance or automated trading.",
+      "visual": "../../../showcase/screens/l3ai-showcase-ai-quant.png",
+      "line": "AI Quant is positioned as explain-before-action research context."
+    },
+    {
+      "id": 5,
+      "title": "Wallet-aware journeys stay public safe",
+      "kicker": "Wallet experience",
+      "copy": "Wallet-aware education shows context, verification and records without exposing real private wallet data or balances.",
+      "visual": "../../../showcase/screens/l3ai-showcase-wallet.png",
+      "line": "Wallet-aware journeys keep private wallet data outside the public story."
+    },
+    {
+      "id": 6,
+      "title": "Business model review is visible",
+      "kicker": "Investor narrative",
+      "copy": "The public business plan connects audience, experience, trust and growth while avoiding forecasts, returns and unsupported claims.",
+      "visual": "../../../showcase/screens/l3ai-showcase-business-presentation.png",
+      "line": "The business model is reviewable without making financial promises."
+    },
+    {
+      "id": 7,
+      "title": "Resources become a launch room",
+      "kicker": "Launch experience center",
+      "copy": "Whitepaper, deck, demo package, video assets, media kit, manifests and FAQ are organized for different reviewers.",
+      "visual": "../../../showcase/screens/l3ai-showcase-resources.png",
+      "line": "The resource center becomes a launch room for customers, media, partners and operators."
+    },
+    {
+      "id": 8,
+      "title": "The trust boundary is part of the product",
+      "kicker": "Risk language",
+      "copy": "L3AI avoids personalized investment advice, guaranteed outcomes, exchange endorsements and real-funds demonstrations.",
+      "visual": "../../../showcase/screens/l3ai-showcase-faq.png",
+      "line": "Clear public boundaries are part of the product experience."
+    },
+    {
+      "id": 9,
+      "title": "The ecosystem connects product, content and governance",
+      "kicker": "Operating model",
+      "copy": "Source facts, public collateral, QA gates, manifests and approval records keep launch materials controlled and traceable.",
+      "visual": "../../../demo/screens/l3ai-launch-experience-center-desktop.png",
+      "line": "The ecosystem connects product narrative, public content and release governance."
+    },
+    {
+      "id": 10,
+      "title": "The executive deck tells the story visually",
+      "kicker": "Collateral upgrade",
+      "copy": "The upgraded deck turns the product, trust model, ecosystem and roadmap into presentation-grade investor collateral.",
+      "visual": "../../../deck/qa/L3AI_Public_Business_Plan_v1_montage.webp",
+      "line": "The executive deck becomes a visual decision aid rather than a document dump."
+    },
+    {
+      "id": 11,
+      "title": "The video and website now reinforce each other",
+      "kicker": "Media system",
+      "copy": "The homepage points to the flagship video, while the video directs viewers back to the live public demo and resources.",
+      "visual": "../../../premium-site/screens/l3ai-premium-homepage-mobile-026.png",
+      "line": "The website and video now work as one launch experience."
+    },
+    {
+      "id": 12,
+      "title": "L3AI is ready for controlled public review",
+      "kicker": "Close",
+      "copy": "Explore the demo, read the whitepaper, open the executive deck and verify public assets through the manifest.",
+      "visual": "../../../showcase/screens/l3ai-showcase-homepage.png",
+      "line": "L3AI is ready for controlled public review through official assets only."
+    }
+  ]
+}

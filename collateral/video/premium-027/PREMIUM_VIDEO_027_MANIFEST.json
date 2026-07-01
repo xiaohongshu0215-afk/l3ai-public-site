@@ -1,0 +1,166 @@
+{
+  "manifest_id": "PREMIUM_VIDEO_027_MANIFEST",
+  "task_id": "PREMIUM-VIDEO-027",
+  "generated_at": "2026-07-01T20:15:53.118Z",
+  "release_surface": "GitHub Pages public collateral",
+  "external_execution": "none",
+  "assets": [
+    {
+      "asset_id": "premium-video-027-001",
+      "task_id": "PREMIUM-VIDEO-027",
+      "channel": "public-collateral",
+      "language": "multi",
+      "type": "video/mp4",
+      "file_path": "collateral/video/premium-027/L3AI_Premium_Promo_3min_027.mp4",
+      "size_bytes": 8080554,
+      "sha256": "7956a0c3cd476a2d1a084cd4be76942984d38b10f3c24bfca9e9d55da2defd97",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-video-027-002",
+      "task_id": "PREMIUM-VIDEO-027",
+      "channel": "public-collateral",
+      "language": "multi",
+      "type": "image/png",
+      "file_path": "collateral/video/premium-027/L3AI_Premium_Promo_027_poster.png",
+      "size_bytes": 498016,
+      "sha256": "e37c4f73b6f73ce38bce3c9d24be26e93314c10dbd23487ffca00bde0d958b3d",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-video-027-003",
+      "task_id": "PREMIUM-VIDEO-027",
+      "channel": "public-collateral",
+      "language": "multi",
+      "type": "image/png",
+      "file_path": "collateral/video/premium-027/L3AI_Premium_Promo_027_thumbnail_1200x675.png",
+      "size_bytes": 354179,
+      "sha256": "3e60fe05a4674bf82993cf32a11ced72470889870690aa26cb837a0eda9121e3",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-video-027-004",
+      "task_id": "PREMIUM-VIDEO-027",
+      "channel": "public-collateral",
+      "language": "en",
+      "type": "subtitle/srt",
+      "file_path": "collateral/video/premium-027/L3AI_Premium_Promo_027.en.srt",
+      "size_bytes": 1242,
+      "sha256": "1edaed4d26bf92a9993b2c26bad3c03cf8167d3122c5b1ce2d058591526797b7",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-video-027-005",
+      "task_id": "PREMIUM-VIDEO-027",
+      "channel": "public-collateral",
+      "language": "zh-CN",
+      "type": "subtitle/srt",
+      "file_path": "collateral/video/premium-027/L3AI_Premium_Promo_027.zh-CN.srt",
+      "size_bytes": 1083,
+      "sha256": "e8948c6e1ceb49127e4e03c3a74645bef683433bcdf4d80d0de98796904f1366",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-video-027-006",
+      "task_id": "PREMIUM-VIDEO-027",
+      "channel": "public-collateral",
+      "language": "multi",
+      "type": "application/json",
+      "file_path": "collateral/video/premium-027/PREMIUM_VIDEO_027_STORYBOARD.json",
+      "size_bytes": 5158,
+      "sha256": "ddecb519d9b4e9c43d8fdbb2c024e9ee22fcc4759679784b9ced4decdb380d90",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-video-027-007",
+      "task_id": "PREMIUM-VIDEO-027",
+      "channel": "public-collateral",
+      "language": "multi",
+      "type": "presentation/pptx",
+      "file_path": "collateral/deck/L3AI_Executive_Deck_v2.pptx",
+      "size_bytes": 3714393,
+      "sha256": "a1a229987c7acbcb9675f8877b4739d7799d8cba9fbc92bb1fcac05dadf7a6b6",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-video-027-008",
+      "task_id": "PREMIUM-VIDEO-027",
+      "channel": "public-collateral",
+      "language": "multi",
+      "type": "text/markdown",
+      "file_path": "collateral/deck/L3AI_Executive_Deck_v2_speaker_notes.md",
+      "size_bytes": 243,
+      "sha256": "15725d178d9166b0aaedf906a9748b1d51a8f90907916836238bd87893399567",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-video-027-009",
+      "task_id": "PREMIUM-VIDEO-027",
+      "channel": "public-collateral",
+      "language": "multi",
+      "type": "image/jpeg",
+      "file_path": "collateral/deck/qa/executive-v2/L3AI_Executive_Deck_v2_contact_sheet.jpg",
+      "size_bytes": 256872,
+      "sha256": "e062e3167df881a2abb09a5917c165842169da88a548faf3c51ccc32a0a9d406",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-video-027-010",
+      "task_id": "PREMIUM-VIDEO-027",
+      "channel": "public-collateral",
+      "language": "multi",
+      "type": "script/node",
+      "file_path": "scripts/build-premium-video-027.mjs",
+      "size_bytes": 10743,
+      "sha256": "0ee3cf6f40a9f0d9e9115ddcd62179aad4f05d188d050ee681b71db81108e3bc",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-video-027-011",
+      "task_id": "PREMIUM-VIDEO-027",
+      "channel": "website",
+      "language": "multi",
+      "type": "text/html",
+      "file_path": "index.html",
+      "size_bytes": 15226,
+      "sha256": "a0196f4451b0ef534ecdbb86ed2457e6a068b5c7f01adbccf7b1a167f82629b5",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-video-027-012",
+      "task_id": "PREMIUM-VIDEO-027",
+      "channel": "website",
+      "language": "multi",
+      "type": "text/html",
+      "file_path": "resources.html",
+      "size_bytes": 26912,
+      "sha256": "513bc55b16ba292ac0cb158049b826bd01446ca714dad3325a7c410ab2043ac7",
+      "status": "prepared"
+    },
+    {
+      "asset_id": "premium-video-027-013",
+      "task_id": "PREMIUM-VIDEO-027",
+      "channel": "website",
+      "language": "multi",
+      "type": "text/css",
+      "file_path": "assets/public-site.css",
+      "size_bytes": 26404,
+      "sha256": "63ba24bfd62350022d45aef96ba9ced6bbe4dcef987345bb8839cf8cf2f2b4d2",
+      "status": "prepared"
+    }
+  ],
+  "acceptance_evidence": {
+    "video_duration_seconds": 195,
+    "video_resolution": "1920x1080",
+    "video_codec": "h264",
+    "deck_slide_count": 12,
+    "homepage_featured_video_section": "index.html#flagship-video",
+    "resource_library_section": "resources.html#premium-video-027"
+  },
+  "remaining_manual_creative_work": [
+    "Professional human voice-over and audio mastering",
+    "Authenticated product screen recordings after final product environment is approved",
+    "Advanced editor polish, motion graphics and localized creative variants",
+    "Legal-approved contact or conversion endpoint if used in public campaigns"
+  ]
+}

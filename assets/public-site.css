@@ -1045,6 +1045,37 @@ section.card {
   font-weight: 700;
 }
 
+.flagship-video {
+  display: grid;
+  grid-template-columns: minmax(280px, .76fr) minmax(0, 1.24fr);
+  gap: 28px;
+  align-items: center;
+}
+
+.flagship-video-copy h2 {
+  max-width: 680px;
+  font-size: 38px;
+}
+
+.flagship-video-player {
+  min-width: 0;
+}
+
+.flagship-video-player video {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 1px solid rgba(16, 24, 40, .16);
+  border-radius: 8px;
+  background: #06101f;
+  box-shadow: 0 18px 46px rgba(16, 24, 40, .16);
+}
+
+.flagship-video-player p {
+  margin: 12px 0 0;
+  font-size: 14px;
+}
+
 .section-heading {
   max-width: 760px;
   margin-bottom: 24px;
@@ -1408,6 +1439,7 @@ section.card {
   .intro-strip,
   .product-flow,
   .visual-proof-section,
+  .flagship-video,
   .proof-gallery,
   .capability-grid,
   .roadmap-columns,
