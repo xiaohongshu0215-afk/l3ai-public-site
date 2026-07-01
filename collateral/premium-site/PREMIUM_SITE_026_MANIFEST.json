@@ -21,14 +21,12 @@
     "resources integration"
   ],
   "toolchain_status": {
-    "ffmpeg": "not detected on PATH",
-    "imagemagick_magick": "not detected on PATH",
+    "ffmpeg": "installed through winget and verified after PATH refresh",
+    "imagemagick_magick": "installed through winget and verified after PATH refresh",
     "chrome": "detected",
     "playwright": "usable through npx"
   },
   "not_claimed_complete": [
-    "final MP4/MOV rendering",
-    "ImageMagick-based image processing",
     "professional video editor export",
     "authenticated product recording"
   ],

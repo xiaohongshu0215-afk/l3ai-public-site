@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T19:40:57.487Z",
+  "generated_at": "2026-07-01T19:54:09.344Z",
   "asset_count": 556,
   "assets": [
     {
@@ -494,8 +494,8 @@
     },
     {
       "path": "collateral/premium-site/PREMIUM_SITE_026_MANIFEST.json",
-      "bytes": 1318,
-      "sha256": "514d37a7396b2679367e6d4f2c979233bcdea521aac3e7a12e58bcf94acc7cab"
+      "bytes": 1317,
+      "sha256": "d7d43f90da1111db935c172434bf33254fcee2b6b5146465216af8fd1b8e52ee"
     },
     {
       "path": "collateral/premium-site/screens/l3ai-premium-homepage-desktop-026.png",
@@ -1554,8 +1554,8 @@
     },
     {
       "path": "PUBLIC_ASSET_MANIFEST.json",
-      "bytes": 118375,
-      "sha256": "42d12a217d7d384e628474673b8e2f0576b1562b9b2f9744effdc6d34495cac8"
+      "bytes": 103298,
+      "sha256": "680aee3c1f3fbe839affbc8cfb829ad68fa5917bb1317684bbf4ac27457dfe1f"
     },
     {
       "path": "README.md",
