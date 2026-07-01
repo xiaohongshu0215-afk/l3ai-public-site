@@ -1,9 +1,7 @@
-# L3AI video zh-CN production output
+﻿# L3AI public launch assets
 
-Task: PROD-ENGINE-001
-Build: prod-engine-001-local
-Status: Local Production Output / Not Published / Approval Required
+Folder: video\zh-CN\README.md
 
-This directory contains local export files generated from repository source assets.
+This folder is part of the public L3AI launch site package and contains public-facing assets for review and download.
 
-No external release, upload, hosting, approval evidence, Public Ready status, or Go status is created here.
+Private source code, backend services, credentials, non-public operational records and local build job files are intentionally excluded.

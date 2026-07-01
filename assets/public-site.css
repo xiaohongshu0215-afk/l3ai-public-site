@@ -449,6 +449,48 @@ section.card {
   padding: 16px;
 }
 
+.numbered-grid {
+  counter-reset: step;
+}
+
+.numbered-grid .card::before {
+  counter-increment: step;
+  content: counter(step, decimal-leading-zero);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  margin-bottom: 12px;
+  border-radius: 8px;
+  background: #eef4ff;
+  color: var(--blue-dark);
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.faq-stack {
+  display: grid;
+  gap: 12px;
+}
+
+.faq-item {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #ffffff;
+  padding: 16px;
+}
+
+.faq-item h3 {
+  margin-bottom: 8px;
+}
+
+.split-note {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 16px;
+}
+
 .site-footer {
   padding-top: 0;
   padding-bottom: 36px;
@@ -585,7 +627,8 @@ section.card {
   .visual-caption,
   .product-grid,
   .feature-strip,
-  .story-block {
+  .story-block,
+  .split-note {
     grid-template-columns: 1fr;
   }
 
