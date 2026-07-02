@@ -1,8 +1,8 @@
 {
   "asset_id": "L3AI_PUBLIC_SITE_ASSET_MANIFEST",
   "status": "prepared",
-  "generated_at": "2026-07-02T03:09:54.766Z",
-  "total_assets": 967,
+  "generated_at": "2026-07-02T03:39:03.698Z",
+  "total_assets": 1042,
   "files": [
     {
       "path": ".gitattributes",
@@ -240,6 +240,296 @@
       "sha256": "0e8540c23c830ff15b8e6650d6dffb31dee9c1daf0b8a58601a6255264f19c24"
     },
     {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-01.png",
+      "bytes": 98311,
+      "sha256": "b2647f8a3632189f0978bd6785862cc915f4e64488f726b8c6f0f2cf5e112c6b"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-02.png",
+      "bytes": 150125,
+      "sha256": "5158dfc2030946d5eaaff4033db6fdf6e1f5cec41813bacb455e01cc70daa521"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-03.png",
+      "bytes": 100802,
+      "sha256": "35d1316391476efbb86d19a5b78746e6a82922c6247056657af8ea03d72e83c3"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-04.png",
+      "bytes": 164688,
+      "sha256": "94e1efd7c1227364418735e1cec1c9888f7ed0269870ea612882b8c578194c0d"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-05.png",
+      "bytes": 50889,
+      "sha256": "20d52db9f3a5dc3ae4e180ec443368a7d0a552cb4f0a7f333e26413a68512464"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-06.png",
+      "bytes": 61549,
+      "sha256": "6fd0fc2a92e88709fd55ed2c87764cdaedd5400c0a2232b1074c550ecdcb6f11"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-07.png",
+      "bytes": 111421,
+      "sha256": "565c16ba48f09ef056110be90041060848200a54f92bbcb8cbd3ce26a9f19d43"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-08.png",
+      "bytes": 117925,
+      "sha256": "23a0f44a82af091837d9e463d2d43c479dd3878a4e0723fcd455cd93650b2e69"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-09.png",
+      "bytes": 101249,
+      "sha256": "d7156ed8c6a2b875d5d44841b203a8367bd22216aad93fd15ca0ab78e3f5d597"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-10.png",
+      "bytes": 111512,
+      "sha256": "a14849d9313a08215ff92de7673bda31f1759ba3bcb80d25497e07676688fd82"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-11.png",
+      "bytes": 114393,
+      "sha256": "8ad840d4a8a230ba145b24fe4bffb0db47ae0daa07c1669641246154d99281fd"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-12.png",
+      "bytes": 128793,
+      "sha256": "612194c33eca6e55642df07e095dbe9f6b5dc9b8172274a4ecc5f9e0f80a6b76"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-13.png",
+      "bytes": 88948,
+      "sha256": "195ef5794902c5faf10d24a1feca6bcec38b36ae31fceb31155fbb41c2cad125"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-14.png",
+      "bytes": 132138,
+      "sha256": "e067c44baa391269cc5982c885827ae6326f285d4c668e945b0413da4035ac15"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-15.png",
+      "bytes": 130435,
+      "sha256": "d6564e8e2ff58aa965954fa83c778989a4b7f50d9051bd37483e28400b5deb18"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-16.png",
+      "bytes": 92768,
+      "sha256": "774e03ff11f9a768320a97804ca93f1519a767c1e7661a779a736c6bf12f564e"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-17.png",
+      "bytes": 109235,
+      "sha256": "7b2e33b0f3c93bd294b2e02b3e4feff0b20eb51afa505387ee955122e6aa8902"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-18.png",
+      "bytes": 54046,
+      "sha256": "2cc205ae003d2c199918ef749a046b6bad2caeb4380dbe9af611b68c10dda7e4"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-19.png",
+      "bytes": 108815,
+      "sha256": "9acd52ec3c2654af16f2b4e14e5dde5688c16d9cd441a7976194870778549dfa"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-20.png",
+      "bytes": 122203,
+      "sha256": "5f7e1b687284ab6d3f23c22ea4339160aab93a7827e766766164ac6bec1af68c"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-21.png",
+      "bytes": 88996,
+      "sha256": "59b4d48db3b7f97a67e100671777c3d2c29a9576a25bfabcedd7b34845b20915"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-22.png",
+      "bytes": 152940,
+      "sha256": "25192ce7c3af9dea257e7dd371e26c91820764397c8bae545d63509fc0ec3416"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-23.png",
+      "bytes": 104752,
+      "sha256": "384364d03bd868496771c8f52492376a6a731406a08bb342ddb9a8b02f84ee63"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-24.png",
+      "bytes": 59791,
+      "sha256": "9a9ea7d5c8cddb167dc00cd46b5906e7adadfe9587bee4bb37eadb11886d5db7"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-25.png",
+      "bytes": 92648,
+      "sha256": "b2fcc291cf8957adb6c15568b73f34a3aaf6059e106e15c11a340e9ca0d8a9ce"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-26.png",
+      "bytes": 97716,
+      "sha256": "f6a1f4d9cc5efb45e32a9ac027390b6d9c5b4352dabb03bd34e2da42ea176982"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-27.png",
+      "bytes": 97984,
+      "sha256": "607abe6ddd78f671a85a9d30a72d5689742b54d4675aa36367bd1268cfae3f96"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/preview/slide-28.png",
+      "bytes": 77492,
+      "sha256": "77c991b36f16b83cc2dc0aab20f987ab133f6c564bbbaeffe61fe712566a63d7"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/deck-contact-sheet.png",
+      "bytes": 621110,
+      "sha256": "ab3b25dfb9b2ab51895085f2b49cf0bdff3c186c7d371f101bd1100cd7e3daf0"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/deck-montage.webp",
+      "bytes": 53200,
+      "sha256": "ad0f0ac8d5959cfe0ffe6b0774094a0e2e90cdb957cb4ef603beb415f0b04b14"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-01.layout.json",
+      "bytes": 14684,
+      "sha256": "fc7579737bb677f704184db49a612be3c432b7fd256d5a25189126cf358945d5"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-02.layout.json",
+      "bytes": 14618,
+      "sha256": "ec86b827b23252775e1cd16af95cb7d6b343c87f8fc2d1320ba9d805bda99273"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-03.layout.json",
+      "bytes": 14527,
+      "sha256": "a796e7b3e01365f204670ffef9e8805a638e4bbb8c80aa4872bd3b460e73fc07"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-04.layout.json",
+      "bytes": 14013,
+      "sha256": "7c5902a1c6be780cba7023d28ed08ceb0d66898e598102fb6e14fe389f93e069"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-05.layout.json",
+      "bytes": 24637,
+      "sha256": "741f977d60e1d317dccce8d865f79f89f47ecb9d67980be22c4fe3abbf66c57b"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-06.layout.json",
+      "bytes": 21617,
+      "sha256": "71d32311efee3b1d937e51af5285076760bde57b8efe2259c61c257e090478b1"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-07.layout.json",
+      "bytes": 14208,
+      "sha256": "ce40e7d20be98413b3e1338545fc1895bc9bed3e45e6ddc439e145d8675b9b43"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-08.layout.json",
+      "bytes": 14254,
+      "sha256": "0d8f3c7b3458380c6011467b412b70991fcc2c927442813e0fd19a52efdc13bb"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-09.layout.json",
+      "bytes": 14758,
+      "sha256": "cdb05a39bd02c922822d64df377d74c0dedf5b52695ba2f4ea666368fcc2908f"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-10.layout.json",
+      "bytes": 14445,
+      "sha256": "f475fe725e0a5808fa00f5914fd8a931834012e43c138814a2f1ab721b57e990"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-11.layout.json",
+      "bytes": 14253,
+      "sha256": "6ba94eb2aae7cc3938e643af6b380411f6487b7ff940afd4cb89363a6199084f"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-12.layout.json",
+      "bytes": 14443,
+      "sha256": "3423277de3bdaffdec8ffa53f34b13944b3c11609c5714bc7f301cfae8685c3c"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-13.layout.json",
+      "bytes": 14291,
+      "sha256": "7fb5727b5a61652313114cbb8c09c87fc9882b246928527f9989276a5b059553"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-14.layout.json",
+      "bytes": 14330,
+      "sha256": "a018c26d5a2d70b4cdf2c4e1a49f76c87dce98773684a908baf29be431b02f27"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-15.layout.json",
+      "bytes": 14300,
+      "sha256": "78a5b8b6b59c30de54202092a83fed3216e7917a204787c40113d9b7730c0235"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-16.layout.json",
+      "bytes": 14628,
+      "sha256": "98d3d47455e327dd430a02e5726f8d65d9644f2f23b81a6b3730e0692df02cbd"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-17.layout.json",
+      "bytes": 14241,
+      "sha256": "bfcf4c70cc57fe64f1587b475c16db036e041dc4a49ea2104ec2df55dc5112d4"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-18.layout.json",
+      "bytes": 24770,
+      "sha256": "35e48327f144eec82400e59af5b3fd0d6088d84106068b9edd70ceb625c93a51"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-19.layout.json",
+      "bytes": 14484,
+      "sha256": "d67bf2ba56620d63220b4bd21be965efe92f682cd21afbb93ca12178eb200ea0"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-20.layout.json",
+      "bytes": 14442,
+      "sha256": "d8967a840305c07cba60a8485b1a85c98988e09b5cdff8676c2dcfbfabc017e6"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-21.layout.json",
+      "bytes": 14824,
+      "sha256": "12666f21c1c308c56a68a888970120f5daaaea38fbf9d182950b516e460d55d0"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-22.layout.json",
+      "bytes": 14159,
+      "sha256": "008d0f7defc5d65af970057f187cac2ed9a561c515f8b6532324b5ea7d3483c2"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-23.layout.json",
+      "bytes": 14059,
+      "sha256": "bb44e66f565f76285f529de9f4629c75406c287b4d60385e6f865407e41d46b4"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-24.layout.json",
+      "bytes": 21690,
+      "sha256": "f118851c1e566ed82502b9078b6acc3c2d57549be62818bacead89892a2a4bf3"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-25.layout.json",
+      "bytes": 14035,
+      "sha256": "97a70ed4bd191b99e345866fea3e19911c535954eec312ff21945842d5ecd6e3"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-26.layout.json",
+      "bytes": 14457,
+      "sha256": "c708e96443c772a015cbf52146f88c46a1854a1600d5958060b90bda495ee09f"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-27.layout.json",
+      "bytes": 14052,
+      "sha256": "63604f75c7c4a882befd68d97fc8c8b382e16ac404a085de0f0fbf4b538cb286"
+    },
+    {
+      "path": "collateral/brand-system/customer-story-book/qa/slide-28.layout.json",
+      "bytes": 14595,
+      "sha256": "9cb118ae4a6e3778284fec49d430874dbdbb48d730ac54a06fe73684dc51cbf1"
+    },
+    {
       "path": "collateral/brand-system/L3AI_BUSINESS_PARTNERSHIP_DECK_V1_MANIFEST.json",
       "bytes": 9732,
       "sha256": "c61be93d564e31b92d9e236d473b43f0e66a70f48406ad48c231173fd15c9e7a"
@@ -268,6 +558,36 @@
       "path": "collateral/brand-system/L3AI_Business_Partnership_Deck_v1.pptx.inspect.ndjson",
       "bytes": 62634,
       "sha256": "8b1f571d846ef827db4315690fd919bffc6c0eeade1911e08376fd15e72604bd"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_CUSTOMER_STORY_BOOK_V1_MANIFEST.json",
+      "bytes": 13516,
+      "sha256": "18f0a141650c6d5424e3f1b1e944dbfa300a90ba6cbe2d19a21ec1ea1ebd7433"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Customer_Story_Book_v1_speaker_notes.md",
+      "bytes": 3333,
+      "sha256": "a7a9b70d93c186ec1dc8e4cbbe319188f16cc943f74ef0fc8f9802f0e138232f"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Customer_Story_Book_v1.html",
+      "bytes": 9821,
+      "sha256": "e10e370271de5cfac869ce3d1310bdadab60125f3bbbeff87a6ee2a745d7f052"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Customer_Story_Book_v1.pdf",
+      "bytes": 2560379,
+      "sha256": "f21189890907df2bec403591223de3e259f15d1c0653f876b52043277866432b"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Customer_Story_Book_v1.pptx",
+      "bytes": 8747483,
+      "sha256": "9e7bd49a8a0fc9ee6189eb758cac00275dad0536ccb9c0fb2f9b1985c0a176de"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Customer_Story_Book_v1.pptx.inspect.ndjson",
+      "bytes": 67556,
+      "sha256": "77031116a5c82e712d02b95899dfbfc70797c470e1c325bcea33190a6440b3ec"
     },
     {
       "path": "collateral/brand-system/L3AI_PRODUCT_BOOK_V1_MANIFEST.json",
@@ -365,6 +685,31 @@
       "sha256": "78a18a0e445bbf62e6772a919e7b662a51a2ae8e5f70efe9f1f946873285b079"
     },
     {
+      "path": "collateral/brand-system/page-qa/customer-resources-desktop.png",
+      "bytes": 313193,
+      "sha256": "3cf78c5a82b301c158ab3308295014c599be9fa602ce4d67dfccf634cbc43dbb"
+    },
+    {
+      "path": "collateral/brand-system/page-qa/customer-resources-mobile.png",
+      "bytes": 148900,
+      "sha256": "2f84c2295ca2208fdeac69b5654314dfc0535482654d5764143c89944460d565"
+    },
+    {
+      "path": "collateral/brand-system/page-qa/customer-story-book-html-desktop.png",
+      "bytes": 510746,
+      "sha256": "d52c05d7b391d1e44f46749bc14d2a7d3df07b0bf779c9c97fc4fc6e785c8274"
+    },
+    {
+      "path": "collateral/brand-system/page-qa/customer-story-desktop.png",
+      "bytes": 266432,
+      "sha256": "18b2bfb9acdfffb05bc419b48175dc705d8a4401ff465ef23dade28102c14765"
+    },
+    {
+      "path": "collateral/brand-system/page-qa/customer-story-mobile.png",
+      "bytes": 128732,
+      "sha256": "94e94b6461784b264dab592051d67e6b4e8c75e38cf5e354308f0f36393b1086"
+    },
+    {
       "path": "collateral/brand-system/page-qa/resources-desktop.png",
       "bytes": 352544,
       "sha256": "a301bce3517bb53879bcc5ea51a6a3cbc94153fd5b8807e29621cf44563dba72"
@@ -375,6 +720,21 @@
       "sha256": "eb0a272287cc616e4d6665bf3caae089b0084d3e161921748eb2f9d31978b306"
     },
     {
+      "path": "collateral/brand-system/page-qa/resources-v2-desktop.png",
+      "bytes": 314283,
+      "sha256": "8188001870c5443320d28b6e3d17931a65f533191453ac6bb90f4da463e5215e"
+    },
+    {
+      "path": "collateral/brand-system/page-qa/resources-v2-mobile.png",
+      "bytes": 148840,
+      "sha256": "a21f2c963616f2520880e4372b5c54558362584f6dd71aacf66ccf99ba8c3b6f"
+    },
+    {
+      "path": "collateral/brand-system/page-qa/story-book-v2-html-desktop.png",
+      "bytes": 146419,
+      "sha256": "5030282a21e59d1ab900be02ea408a0bc258b2ff7faf224c7900d9d200675e54"
+    },
+    {
       "path": "collateral/brand-system/page-qa/story-desktop.png",
       "bytes": 269289,
       "sha256": "78da4124586669a822a38ea8368764fbc27c1bc5ecc42297941cdf340fc78d51"
@@ -383,6 +743,16 @@
       "path": "collateral/brand-system/page-qa/story-mobile.png",
       "bytes": 129743,
       "sha256": "0768373f5efd1875487281842e44f53e5de0ba16506d0175c39453138d4a3816"
+    },
+    {
+      "path": "collateral/brand-system/page-qa/story-v2-desktop.png",
+      "bytes": 269466,
+      "sha256": "a0944f854fd6aae08cb269dda9b07f01430e6f3ccac459e5ec454a0f78b2b5c1"
+    },
+    {
+      "path": "collateral/brand-system/page-qa/story-v2-mobile.png",
+      "bytes": 129579,
+      "sha256": "06d3e56da96d4902cfc6bc80292aaa23c563623c5d19e44e50a9776c0298b900"
     },
     {
       "path": "collateral/brand-system/product-book-v1/preview/slide-01.png",
@@ -3566,8 +3936,8 @@
     },
     {
       "path": "resources.html",
-      "bytes": 43204,
-      "sha256": "80802515195ad480c90e910eb79972a42534f235bf7cdbffaa21d3e9935b9c39"
+      "bytes": 43806,
+      "sha256": "3c57dd4d2b7c8d9ee363752feca70d1c8d6620f36dd1f3e2c3b742fe0dc5921a"
     },
     {
       "path": "roadmap.html",
@@ -3588,6 +3958,11 @@
       "path": "scripts/build-alpha-engine-public-pack.mjs",
       "bytes": 16286,
       "sha256": "8335b43508b511846420e77fd5193272bee9f128ddd8b601df0b577d00cc5e8c"
+    },
+    {
+      "path": "scripts/build-customer-story-book.mjs",
+      "bytes": 28580,
+      "sha256": "474782d73a59242aa80a891360f7f761c6816df7e87c331d9b346a21c28e7e22"
     },
     {
       "path": "scripts/build-premium-assets-030.mjs",
@@ -3651,18 +4026,18 @@
     },
     {
       "path": "sitemap.html",
-      "bytes": 12795,
-      "sha256": "1f23be7f6008a063c6346ee82f4f5de9d6b05b1194ac46e04e5b6b6d18d22f0d"
+      "bytes": 13292,
+      "sha256": "1a11249b4a6c6e50860da680e95625c4e762f10fc0b0be8fff75522a5e16063a"
     },
     {
       "path": "sitemap.xml",
-      "bytes": 4103,
-      "sha256": "6891751d5e10849c8b29ca850154d163b049bc558487e4f1b99d29f84a9154ca"
+      "bytes": 4655,
+      "sha256": "c46d28567492abe81a259b7454371eacbe46222069fcbe27b7f63b382c4f76d5"
     },
     {
       "path": "story.html",
-      "bytes": 8597,
-      "sha256": "b4bd346a7049acc512973fe1bbe288ecb134e7b5bc1827f7de5dfd4972abf598"
+      "bytes": 8623,
+      "sha256": "1c3b614d45790099dfcbd26808b591259c40fac5cdcd063b9d0fcb52adb3e218"
     },
     {
       "path": "video/en/frames/frame-001.png",

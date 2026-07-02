@@ -1,0 +1,529 @@
+{"kind":"deck","id":"pr/43jnqo","name":"Deck"}
+{"kind":"layout","layoutId":"1c1cd3d6-e315-4e42-b72f-73c262d58729","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"8b81749a-03ff-40e9-b7b2-d30dcae81539","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/iuaehl","slide":1,"title":"L3AI Customer Story Book","textShapes":7}
+{"kind":"shape","id":"sh/y1kre1w7","slide":1,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/9s36hcrm","slide":1,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/g7adsji5","slide":1,"bbox":[0,46,1280,2]}
+{"kind":"shape","id":"sh/rytsvu9k","slide":1,"bbox":[900,-120,360,360]}
+{"kind":"shape","id":"sh/yd0z6103","slide":1,"bbox":[1020,88,220,220]}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":1,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,76,420,26]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":1,"text":"L3AI makes Web3 easier to understand before people participate.","textPreview":"L3AI makes Web3 easier to understand before people participate.","textChars":63,"textLines":1,"bbox":[72,142,650,240]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":1,"text":"A customer-ready story about intelligence, participation and the next layer of Web3 products.","textPreview":"A customer-ready story about intelligence, participation and the next layer of Web3 products.","textChars":93,"textLines":1,"bbox":[72,414,610,70]}
+{"kind":"shape","id":"sh/g7adsji5","slide":1,"bbox":[72,544,560,78]}
+{"kind":"shape","id":"sh/9s36hcrm","slide":1,"bbox":[72,544,8,78]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":1,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[98,557,508,18]}
+{"kind":"textbox","id":"sh/rmhk3q5o","slide":1,"text":"The first promise is clarity.","textPreview":"The first promise is clarity.","textChars":29,"textLines":1,"bbox":[98,580,508,28]}
+{"kind":"shape","id":"sh/gfmlkjm1","slide":1,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/90je9cvi","slide":1,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/yd0z6103","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/sji5snel","slide":1,"name":"","geometry":"roundRect","alt":"l3ai-enterprise-hero-030.png","bbox":[690,92,460,314]}
+{"kind":"notes","id":"nt/iuaehl","slide":1,"text":"The first promise is clarity."}
+{"kind":"slide","id":"sl/0mzmtc","slide":2,"title":"World and problem","textShapes":7}
+{"kind":"shape","id":"sh/byhgn29g","slide":2,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/0je9cvix","slide":2,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/t47y1kre","slide":2,"bbox":[0,46,1280,2]}
+{"kind":"shape","id":"sh/il0rqd4v","slide":2,"bbox":[900,-120,360,360]}
+{"kind":"shape","id":"sh/b6xkf6dc","slide":2,"bbox":[1020,88,220,220]}
+{"kind":"textbox","id":"sh/tcj6tova","slide":2,"text":"World and problem","textPreview":"World and problem","textChars":17,"textLines":1,"bbox":[72,76,360,24]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":2,"text":"Web3 has more signals than people can reasonably read.","textPreview":"Web3 has more signals than people can reasonably read.","textChars":54,"textLines":1,"bbox":[72,138,632,160]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":2,"text":"Markets, wallets, products, communities and automation now move faster than a normal user can interpret.","textPreview":"Markets, wallets, products, communities and automation now move faster than a normal user can interpret.","textChars":104,"textLines":1,"bbox":[72,332,580,78]}
+{"kind":"shape","id":"sh/rytsvu9k","slide":2,"bbox":[72,504,580,78]}
+{"kind":"shape","id":"sh/yd0z6103","slide":2,"bbox":[72,504,8,78]}
+{"kind":"textbox","id":"sh/90je9cvi","slide":2,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[98,517,528,18]}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":2,"text":"The new scarcity is understanding.","textPreview":"The new scarcity is understanding.","textChars":34,"textLines":1,"bbox":[98,540,528,28]}
+{"kind":"shape","id":"sh/rmhk3q5o","slide":2,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":2,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/9cvixcze","slide":2,"name":"","geometry":"roundRect","alt":"L3AI_Premium_Promo_027_poster.png","bbox":[742,96,416,300]}
+{"kind":"notes","id":"nt/0mzmtc","slide":2,"text":"The new scarcity is understanding."}
+{"kind":"slide","id":"sl/mmoddl","slide":3,"title":"World and problem","textShapes":7}
+{"kind":"shape","id":"sh/dsji5sne","slide":3,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/61032lsz","slide":3,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/vmtwra5g","slide":3,"bbox":[0,46,1280,2]}
+{"kind":"shape","id":"sh/oj2t83it","slide":3,"bbox":[900,-120,360,360]}
+{"kind":"shape","id":"sh/d4vmtwra","slide":3,"bbox":[1020,88,220,220]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":3,"text":"World and problem","textPreview":"World and problem","textChars":17,"textLines":1,"bbox":[72,76,360,24]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":3,"text":"The next platform layer is not another dashboard.","textPreview":"The next platform layer is not another dashboard.","textChars":49,"textLines":1,"bbox":[72,138,632,160]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":3,"text":"Users need a guide that turns scattered information into a path they can follow.","textPreview":"Users need a guide that turns scattered information into a path they can follow.","textChars":80,"textLines":1,"bbox":[72,332,580,78]}
+{"kind":"shape","id":"sh/twra5gbq","slide":3,"bbox":[72,504,580,78]}
+{"kind":"shape","id":"sh/4byhgn29","slide":3,"bbox":[72,504,8,78]}
+{"kind":"textbox","id":"sh/bq1oryts","slide":3,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[98,517,528,18]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":3,"text":"A product should make the decision space legible.","textPreview":"A product should make the decision space legible.","textChars":49,"textLines":1,"bbox":[98,540,528,28]}
+{"kind":"shape","id":"sh/t83itgfm","slide":3,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":3,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/nyd0z610","slide":3,"name":"","geometry":"roundRect","alt":"slide-04.png","bbox":[742,96,416,300]}
+{"kind":"notes","id":"nt/mmoddl","slide":3,"text":"A product should make the decision space legible."}
+{"kind":"slide","id":"sl/gn7wtu","slide":4,"title":"World and problem","textShapes":7}
+{"kind":"shape","id":"sh/at47y1kr","slide":4,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/lkjm1cfa","slide":4,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/szqtcj6t","slide":4,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/32lszqtc","slide":4,"text":"World and problem","textPreview":"World and problem","textChars":17,"textLines":1,"bbox":[72,56,380,24]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":4,"text":"L3AI is built for the moment before action.","textPreview":"L3AI is built for the moment before action.","textChars":43,"textLines":1,"bbox":[72,104,560,156]}
+{"kind":"textbox","id":"sh/l87ed8ba","slide":4,"text":"It helps users learn what they are seeing, review context and choose their next step with more confidence.","textPreview":"It helps users learn what they are seeing, review context and choose their next step with more confidence.","textChars":106,"textLines":1,"bbox":[72,294,520,86]}
+{"kind":"shape","id":"sh/3q5o7qpg","slide":4,"bbox":[72,500,520,78]}
+{"kind":"shape","id":"sh/e9cvixcz","slide":4,"bbox":[72,500,8,78]}
+{"kind":"textbox","id":"sh/87ed8bat","slide":4,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[98,513,468,18]}
+{"kind":"textbox","id":"sh/xs72x4na","slide":4,"text":"The product starts before the click.","textPreview":"The product starts before the click.","textChars":36,"textLines":1,"bbox":[98,536,468,28]}
+{"kind":"shape","id":"sh/q1orytsv","slide":4,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":4,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/9knih4by","slide":4,"name":"","geometry":"roundRect","alt":"homepage-flow-desktop.png","bbox":[672,82,504,360]}
+{"kind":"notes","id":"nt/gn7wtu","slide":4,"text":"The product starts before the click."}
+{"kind":"slide","id":"sl/il77bk","slide":5,"title":"World and problem","textShapes":12}
+{"kind":"shape","id":"sh/u18jqh0f","slide":5,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/1orytsvu","slide":5,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/c7u54zid","slide":5,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/judg7ads","slide":5,"text":"World and problem","textPreview":"World and problem","textChars":17,"textLines":1,"bbox":[72,56,380,24]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":5,"text":"The journey begins with a simple sequence.","textPreview":"The journey begins with a simple sequence.","textChars":42,"textLines":1,"bbox":[72,104,1000,106]}
+{"kind":"textbox","id":"sh/1032lszq","slide":5,"text":"Learn, review, compare, participate and return. L3AI turns that loop into a repeatable experience.","textPreview":"Learn, review, compare, participate and return. L3AI turns that loop into a repeatable experience.","textChars":98,"textLines":1,"bbox":[72,232,790,52]}
+{"kind":"shape","id":"sh/cfa9w3m9","slide":5,"bbox":[56,322,76,76]}
+{"kind":"shape","id":"sh/nyd0z610","slide":5,"bbox":[74,340,40,40]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":5,"text":"Learn","textPreview":"Learn","textChars":5,"textLines":1,"bbox":[58,424,110,28]}
+{"kind":"shape","id":"sh/czed8v6p","slide":5,"bbox":[152,392,104,0]}
+{"kind":"shape","id":"sh/5kb6xkf6","slide":5,"bbox":[280,322,76,76]}
+{"kind":"shape","id":"sh/ytsvu9kn","slide":5,"bbox":[298,340,40,40]}
+{"kind":"textbox","id":"sh/neloj2t8","slide":5,"text":"Review","textPreview":"Review","textChars":6,"textLines":1,"bbox":[282,424,110,28]}
+{"kind":"shape","id":"sh/cbulwval","slide":5,"bbox":[376,392,104,0]}
+{"kind":"shape","id":"sh/5sneloj2","slide":5,"bbox":[504,322,76,76]}
+{"kind":"shape","id":"sh/u54zidon","slide":5,"bbox":[522,340,40,40]}
+{"kind":"textbox","id":"sh/nqxs72x4","slide":5,"text":"Compare","textPreview":"Compare","textChars":7,"textLines":1,"bbox":[506,424,110,28]}
+{"kind":"shape","id":"sh/gbq1oryt","slide":5,"bbox":[600,392,104,0]}
+{"kind":"shape","id":"sh/5wjudg7a","slide":5,"bbox":[728,322,76,76]}
+{"kind":"shape","id":"sh/t47y1kre","slide":5,"bbox":[746,340,40,40]}
+{"kind":"textbox","id":"sh/0je9cvix","slide":5,"text":"Participate","textPreview":"Participate","textChars":11,"textLines":1,"bbox":[730,424,110,28]}
+{"kind":"shape","id":"sh/byhgn29g","slide":5,"bbox":[824,392,104,0]}
+{"kind":"shape","id":"sh/idonyd0z","slide":5,"bbox":[952,322,76,76]}
+{"kind":"shape","id":"sh/tcj6tova","slide":5,"bbox":[970,340,40,40]}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":5,"text":"Return","textPreview":"Return","textChars":6,"textLines":1,"bbox":[954,424,110,28]}
+{"kind":"shape","id":"sh/il0rqd4v","slide":5,"bbox":[246,540,790,78]}
+{"kind":"shape","id":"sh/tovahoza","slide":5,"bbox":[246,540,8,78]}
+{"kind":"textbox","id":"sh/032lszqt","slide":5,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[272,553,738,18]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":5,"text":"Participation works better when the path is visible.","textPreview":"Participation works better when the path is visible.","textChars":52,"textLines":1,"bbox":[272,576,738,28]}
+{"kind":"shape","id":"sh/3itgfmlk","slide":5,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/w3m94fu1","slide":5,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/loj2t83i","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/orytsvu9","slide":5,"name":"","geometry":"rect","alt":"l3ai-ai-quant-workflow-030.png","bbox":[896,282,220,118]}
+{"kind":"notes","id":"nt/il77bk","slide":5,"text":"Participation works better when the path is visible."}
+{"kind":"slide","id":"sl/ijccny","slide":6,"title":"World and problem","textShapes":11}
+{"kind":"shape","id":"sh/at47y1kr","slide":6,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/lkjm1cfa","slide":6,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/szqtcj6t","slide":6,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/32lszqtc","slide":6,"text":"World and problem","textPreview":"World and problem","textChars":17,"textLines":1,"bbox":[72,56,380,24]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":6,"text":"One platform connects intelligence, wallet context and community learning.","textPreview":"One platform connects intelligence, wallet context and community learning.","textChars":74,"textLines":1,"bbox":[72,104,970,104]}
+{"kind":"textbox","id":"sh/l87ed8ba","slide":6,"text":"The pieces are easier to trust when they are part of one system.","textPreview":"The pieces are easier to trust when they are part of one system.","textChars":64,"textLines":1,"bbox":[72,226,790,52]}
+{"kind":"shape","id":"sh/3q5o7qpg","slide":6,"bbox":[126,302,76,76]}
+{"kind":"shape","id":"sh/e9cvixcz","slide":6,"bbox":[144,320,40,40]}
+{"kind":"textbox","id":"sh/87ed8bat","slide":6,"text":"AI Quant","textPreview":"AI Quant","textChars":8,"textLines":1,"bbox":[90,392,150,24]}
+{"kind":"shape","id":"sh/xs72x4na","slide":6,"bbox":[814,302,76,76]}
+{"kind":"shape","id":"sh/q1orytsv","slide":6,"bbox":[832,320,40,40]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":6,"text":"Wallet","textPreview":"Wallet","textChars":6,"textLines":1,"bbox":[778,392,150,24]}
+{"kind":"shape","id":"sh/8z25kb6x","slide":6,"bbox":[192,478,76,76]}
+{"kind":"shape","id":"sh/1gvy90je","slide":6,"bbox":[210,496,40,40]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":6,"text":"Compute","textPreview":"Compute","textChars":7,"textLines":1,"bbox":[156,568,150,24]}
+{"kind":"shape","id":"sh/je9cvixc","slide":6,"bbox":[760,478,76,76]}
+{"kind":"shape","id":"sh/8v6psfil","slide":6,"bbox":[778,496,40,40]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":6,"text":"Community","textPreview":"Community","textChars":9,"textLines":1,"bbox":[724,568,150,24]}
+{"kind":"shape","id":"sh/hoza1gvy","slide":6,"bbox":[396,562,490,78]}
+{"kind":"shape","id":"sh/s36hcrmh","slide":6,"bbox":[396,562,8,78]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":6,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[422,575,438,18]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":6,"text":"L3AI is a connected experience, not a folder of tools.","textPreview":"L3AI is a connected experience, not a folder of tools.","textChars":54,"textLines":1,"bbox":[422,598,438,28]}
+{"kind":"shape","id":"sh/hgn29gr2","slide":6,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/svu9knih","slide":6,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/l0rqd4vm","slide":6,"name":"","geometry":"rect","alt":"l3ai-ecosystem-map-030.png","bbox":[446,308,330,186]}
+{"kind":"notes","id":"nt/ijccny","slide":6,"text":"L3AI is a connected experience, not a folder of tools."}
+{"kind":"slide","id":"sl/4uj9bv","slide":7,"title":"Product and participation","textShapes":7}
+{"kind":"shape","id":"sh/w3m94fu1","slide":7,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/3itgfmlk","slide":7,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/ex0nuxc3","slide":7,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/wb2hwfyx","slide":7,"text":"Product and participation","textPreview":"Product and participation","textChars":25,"textLines":1,"bbox":[666,72,360,24]}
+{"kind":"textbox","id":"sh/3q5o7qpg","slide":7,"text":"AI Quant turns market noise into a readable context layer.","textPreview":"AI Quant turns market noise into a readable context layer.","textChars":58,"textLines":1,"bbox":[666,126,500,154]}
+{"kind":"textbox","id":"sh/e9cvixcz","slide":7,"text":"Instead of asking users to chase every signal, L3AI organizes what matters into explainable scenarios.","textPreview":"Instead of asking users to chase every signal, L3AI organizes what matters into explainable scenarios.","textChars":102,"textLines":1,"bbox":[666,312,484,90]}
+{"kind":"shape","id":"sh/l87ed8ba","slide":7,"bbox":[666,506,484,78]}
+{"kind":"shape","id":"sh/sneloj2t","slide":7,"bbox":[666,506,8,78]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":7,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[692,519,432,18]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":7,"text":"The user sees context before conclusion.","textPreview":"The user sees context before conclusion.","textChars":40,"textLines":1,"bbox":[692,542,432,28]}
+{"kind":"shape","id":"sh/8jqh0fep","slide":7,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":7,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/szqtcj6t","slide":7,"name":"","geometry":"roundRect","alt":"ai-quant-workflow-desktop.png","bbox":[82,96,510,358]}
+{"kind":"notes","id":"nt/4uj9bv","slide":7,"text":"The user sees context before conclusion."}
+{"kind":"slide","id":"sl/ex0ig0","slide":8,"title":"Product and participation","textShapes":7}
+{"kind":"shape","id":"sh/x4nap4r6","slide":8,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/qd4vmtwr","slide":8,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/fyxobm58","slide":8,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":8,"text":"Product and participation","textPreview":"Product and participation","textChars":25,"textLines":1,"bbox":[72,56,380,24]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":8,"text":"AI Quant is designed to explain before it recommends any direction.","textPreview":"AI Quant is designed to explain before it recommends any direction.","textChars":67,"textLines":1,"bbox":[72,104,560,156]}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":8,"text":"The experience frames signals, assumptions and review notes so users can understand the situation first.","textPreview":"The experience frames signals, assumptions and review notes so users can understand the situation first.","textChars":104,"textLines":1,"bbox":[72,294,520,86]}
+{"kind":"shape","id":"sh/8z25kb6x","slide":8,"bbox":[72,500,520,78]}
+{"kind":"shape","id":"sh/1gvy90je","slide":8,"bbox":[72,500,8,78]}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":8,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[98,513,468,18]}
+{"kind":"textbox","id":"sh/wval87ed","slide":8,"text":"Better context creates better questions.","textPreview":"Better context creates better questions.","textChars":40,"textLines":1,"bbox":[98,536,468,28]}
+{"kind":"shape","id":"sh/7adsji5s","slide":8,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":8,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/ytsvu9kn","slide":8,"name":"","geometry":"roundRect","alt":"l3ai-showcase-ai-quant.png","bbox":[672,82,504,360]}
+{"kind":"notes","id":"nt/ex0ig0","slide":8,"text":"Better context creates better questions."}
+{"kind":"slide","id":"sl/dz4azu","slide":9,"title":"Product and participation","textShapes":7}
+{"kind":"shape","id":"sh/65wjudg7","slide":9,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/hwfyxobm","slide":9,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/obm58z25","slide":9,"bbox":[0,46,1280,2]}
+{"kind":"shape","id":"sh/zed8v6ps","slide":9,"bbox":[900,-120,360,360]}
+{"kind":"shape","id":"sh/6xkf6dcb","slide":9,"bbox":[1020,88,220,220]}
+{"kind":"textbox","id":"sh/oza1gvy9","slide":9,"text":"Product and participation","textPreview":"Product and participation","textChars":25,"textLines":1,"bbox":[72,76,360,24]}
+{"kind":"textbox","id":"sh/z61032ls","slide":9,"text":"The intelligence layer becomes more useful when it is repeatable.","textPreview":"The intelligence layer becomes more useful when it is repeatable.","textChars":65,"textLines":1,"bbox":[72,138,632,160]}
+{"kind":"textbox","id":"sh/al87ed8b","slide":9,"text":"Users can return to the same pattern: see the context, read the explanation and decide what to explore next.","textPreview":"Users can return to the same pattern: see the context, read the explanation and decide what to explore next.","textChars":108,"textLines":1,"bbox":[72,332,580,78]}
+{"kind":"shape","id":"sh/k3q5o7qp","slide":9,"bbox":[72,504,580,78]}
+{"kind":"shape","id":"sh/donyd0z6","slide":9,"bbox":[72,504,8,78]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":9,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[98,517,528,18]}
+{"kind":"textbox","id":"sh/vixczed8","slide":9,"text":"Consistency is part of trust.","textPreview":"Consistency is part of trust.","textChars":29,"textLines":1,"bbox":[98,540,528,28]}
+{"kind":"shape","id":"sh/kre1w7mp","slide":9,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":9,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/6psfil0r","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/sji5snel","slide":9,"name":"","geometry":"roundRect","alt":"slide-06.png","bbox":[742,96,416,300]}
+{"kind":"notes","id":"nt/dz4azu","slide":9,"text":"Consistency is part of trust."}
+{"kind":"slide","id":"sl/mkb1zf","slide":10,"title":"Product and participation","textShapes":7}
+{"kind":"shape","id":"sh/hgn29gr2","slide":10,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/ap4r65wj","slide":10,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/za1gvy90","slide":10,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":10,"text":"Product and participation","textPreview":"Product and participation","textChars":25,"textLines":1,"bbox":[666,72,360,24]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":10,"text":"Wallet-aware journeys make participation easier to understand.","textPreview":"Wallet-aware journeys make participation easier to understand.","textChars":62,"textLines":1,"bbox":[666,126,500,154]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":10,"text":"Wallet context can feel technical and final. L3AI turns that moment into education, state awareness and careful user guidance.","textPreview":"Wallet context can feel technical and final. L3AI turns that moment into education, state awareness and careful user guidance.","textChars":126,"textLines":1,"bbox":[666,312,484,90]}
+{"kind":"shape","id":"sh/s72x4nap","slide":10,"bbox":[666,506,484,78]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":10,"bbox":[666,506,8,78]}
+{"kind":"textbox","id":"sh/h0fepkzu","slide":10,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[692,519,432,18]}
+{"kind":"textbox","id":"sh/sfil0rqd","slide":10,"text":"The wallet moment should feel understandable.","textPreview":"The wallet moment should feel understandable.","textChars":45,"textLines":1,"bbox":[692,542,432,28]}
+{"kind":"shape","id":"sh/zupwb2hw","slide":10,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":10,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/hcrmhk3q","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/lszqtcj6","slide":10,"name":"","geometry":"roundRect","alt":"wallet-experience-desktop.png","bbox":[82,96,510,358]}
+{"kind":"notes","id":"nt/mkb1zf","slide":10,"text":"The wallet moment should feel understandable."}
+{"kind":"slide","id":"sl/pn45tj","slide":11,"title":"Product and participation","textShapes":7}
+{"kind":"shape","id":"sh/bm58z25k","slide":11,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/47y1kre1","slide":11,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/tsvu9kni","slide":11,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/mp0bi9s3","slide":11,"text":"Product and participation","textPreview":"Product and participation","textChars":25,"textLines":1,"bbox":[72,56,380,24]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":11,"text":"Wallet context connects identity, access and product state.","textPreview":"Wallet context connects identity, access and product state.","textChars":59,"textLines":1,"bbox":[72,104,560,156]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":11,"text":"The user does not need a lecture. They need a clear explanation of where they are and what each step means.","textPreview":"The user does not need a lecture. They need a clear explanation of where they are and what each step means.","textChars":107,"textLines":1,"bbox":[72,294,520,86]}
+{"kind":"shape","id":"sh/mhk3q5o7","slide":11,"bbox":[72,500,520,78]}
+{"kind":"shape","id":"sh/b2hwfyxo","slide":11,"bbox":[72,500,8,78]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":11,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[98,513,468,18]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":11,"text":"A good product explains the state it creates.","textPreview":"A good product explains the state it creates.","textChars":45,"textLines":1,"bbox":[98,536,468,28]}
+{"kind":"shape","id":"sh/xc3ylc7u","slide":11,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":11,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/0bi9s36h","slide":11,"name":"","geometry":"roundRect","alt":"l3ai-showcase-wallet.png","bbox":[672,82,504,360]}
+{"kind":"notes","id":"nt/pn45tj","slide":11,"text":"A good product explains the state it creates."}
+{"kind":"slide","id":"sl/jvmp6r","slide":12,"title":"Product and participation","textShapes":7}
+{"kind":"shape","id":"sh/5gbq1ory","slide":12,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/upwb2hwf","slide":12,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/nap4r65w","slide":12,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/54zidony","slide":12,"text":"Product and participation","textPreview":"Product and participation","textChars":25,"textLines":1,"bbox":[666,72,360,24]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":12,"text":"Compute gives the platform a way to organize work behind the scenes.","textPreview":"Compute gives the platform a way to organize work behind the scenes.","textChars":68,"textLines":1,"bbox":[666,126,500,154]}
+{"kind":"textbox","id":"sh/nyd0z610","slide":12,"text":"Compute is the platform layer for structured tasks, AI workflows and repeatable product operations as the ecosystem grows.","textPreview":"Compute is the platform layer for structured tasks, AI workflows and repeatable product operations as the ecosystem grows.","textChars":122,"textLines":1,"bbox":[666,312,484,90]}
+{"kind":"shape","id":"sh/cfa9w3m9","slide":12,"bbox":[666,506,484,78]}
+{"kind":"shape","id":"sh/1032lszq","slide":12,"bbox":[666,506,8,78]}
+{"kind":"textbox","id":"sh/xs72x4na","slide":12,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[692,519,432,18]}
+{"kind":"textbox","id":"sh/87ed8bat","slide":12,"text":"The system needs a work layer, not just pages.","textPreview":"The system needs a work layer, not just pages.","textChars":46,"textLines":1,"bbox":[692,542,432,28]}
+{"kind":"shape","id":"sh/fmlkjm1c","slide":12,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":12,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/p0bi9s36","slide":12,"name":"","geometry":"roundRect","alt":"slide-04.png","bbox":[82,96,510,358]}
+{"kind":"notes","id":"nt/jvmp6r","slide":12,"text":"The system needs a work layer, not just pages."}
+{"kind":"slide","id":"sl/lqxvvl","slide":13,"title":"Product and participation","textShapes":7}
+{"kind":"shape","id":"sh/bulwval8","slide":13,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/0fepkzup","slide":13,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/p0bi9s36","slide":13,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":13,"text":"Product and participation","textPreview":"Product and participation","textChars":25,"textLines":1,"bbox":[72,56,380,24]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":13,"text":"Automation should help the user keep momentum.","textPreview":"Automation should help the user keep momentum.","textChars":46,"textLines":1,"bbox":[72,104,560,156]}
+{"kind":"textbox","id":"sh/032lszqt","slide":13,"text":"L3AI can connect learning, review, alerts, content and product flows into repeatable journeys without making the experience feel mechanical.","textPreview":"L3AI can connect learning, review, alerts, content and product flows into repeatable journeys without making the experience feel mechanical.","textChars":140,"textLines":1,"bbox":[72,294,520,86]}
+{"kind":"shape","id":"sh/il0rqd4v","slide":13,"bbox":[72,500,520,78]}
+{"kind":"shape","id":"sh/b6xkf6dc","slide":13,"bbox":[72,500,8,78]}
+{"kind":"textbox","id":"sh/32lszqtc","slide":13,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[98,513,468,18]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":13,"text":"Automation should reduce confusion.","textPreview":"Automation should reduce confusion.","textChars":35,"textLines":1,"bbox":[98,536,468,28]}
+{"kind":"shape","id":"sh/l87ed8ba","slide":13,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":13,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/orytsvu9","slide":13,"name":"","geometry":"roundRect","alt":"slide-10.png","bbox":[672,82,504,360]}
+{"kind":"notes","id":"nt/lqxvvl","slide":13,"text":"Automation should reduce confusion."}
+{"kind":"slide","id":"sl/8a3jci","slide":14,"title":"Product and participation","textShapes":7}
+{"kind":"shape","id":"sh/g3ex0nux","slide":14,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/nih4byhg","slide":14,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/yxobm58z","slide":14,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":14,"text":"Product and participation","textPreview":"Product and participation","textChars":25,"textLines":1,"bbox":[666,72,360,24]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":14,"text":"Membership turns a product visit into an ongoing relationship.","textPreview":"Membership turns a product visit into an ongoing relationship.","textChars":62,"textLines":1,"bbox":[666,126,500,154]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":14,"text":"A member journey can connect access, learning, community participation and future product modules in one place.","textPreview":"A member journey can connect access, learning, community participation and future product modules in one place.","textChars":111,"textLines":1,"bbox":[666,312,484,90]}
+{"kind":"shape","id":"sh/90je9cvi","slide":14,"bbox":[666,506,484,78]}
+{"kind":"shape","id":"sh/gfmlkjm1","slide":14,"bbox":[666,506,8,78]}
+{"kind":"textbox","id":"sh/65wjudg7","slide":14,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[692,519,432,18]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":14,"text":"Membership gives the platform memory.","textPreview":"Membership gives the platform memory.","textChars":37,"textLines":1,"bbox":[692,542,432,28]}
+{"kind":"shape","id":"sh/obm58z25","slide":14,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":14,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/6xkf6dcb","slide":14,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/svu9knih","slide":14,"name":"","geometry":"roundRect","alt":"l3ai-showcase-get-started.png","bbox":[82,96,510,358]}
+{"kind":"notes","id":"nt/8a3jci","slide":14,"text":"Membership gives the platform memory."}
+{"kind":"slide","id":"sl/x2gsbz","slide":15,"title":"Product and participation","textShapes":7}
+{"kind":"shape","id":"sh/m94fu18j","slide":15,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/x0nuxc3y","slide":15,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/4fu18jqh","slide":15,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":15,"text":"Product and participation","textPreview":"Product and participation","textChars":25,"textLines":1,"bbox":[72,56,380,24]}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":15,"text":"Community learning is the human layer of the product.","textPreview":"Community learning is the human layer of the product.","textChars":53,"textLines":1,"bbox":[72,104,560,156]}
+{"kind":"textbox","id":"sh/xobm58z2","slide":15,"text":"Moderated learning, shared explanations and official channels help users understand the platform without relying on hype.","textPreview":"Moderated learning, shared explanations and official channels help users understand the platform without relying on hype.","textChars":121,"textLines":1,"bbox":[72,294,520,86]}
+{"kind":"shape","id":"sh/fepkzupw","slide":15,"bbox":[72,500,520,78]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":15,"bbox":[72,500,8,78]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":15,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[98,513,468,18]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":15,"text":"The community should teach before it amplifies.","textPreview":"The community should teach before it amplifies.","textChars":47,"textLines":1,"bbox":[98,536,468,28]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":15,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":15,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":15,"text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/lkjm1cfa","slide":15,"name":"","geometry":"roundRect","alt":"l3ai-showcase-faq.png","bbox":[672,82,504,360]}
+{"kind":"notes","id":"nt/x2gsbz","slide":15,"text":"The community should teach before it amplifies."}
+{"kind":"slide","id":"sl/k3a61c","slide":16,"title":"Platform and roadmap","textShapes":7}
+{"kind":"shape","id":"sh/18jqh0fe","slide":16,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/qh0fepkz","slide":16,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/j2t83itg","slide":16,"bbox":[0,46,1280,2]}
+{"kind":"shape","id":"sh/8bat47y1","slide":16,"bbox":[900,-120,360,360]}
+{"kind":"shape","id":"sh/1w7mp0bi","slide":16,"bbox":[1020,88,220,220]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":16,"text":"Platform and roadmap","textPreview":"Platform and roadmap","textChars":20,"textLines":1,"bbox":[72,76,360,24]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":16,"text":"L3AI changes the role of content.","textPreview":"L3AI changes the role of content.","textChars":33,"textLines":1,"bbox":[72,138,632,160]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":16,"text":"Content is not only marketing. It becomes education, onboarding, product memory and a bridge between users and the platform.","textPreview":"Content is not only marketing. It becomes education, onboarding, product memory and a bridge between users and the platform.","textChars":124,"textLines":1,"bbox":[72,332,580,78]}
+{"kind":"shape","id":"sh/5o7qpg3e","slide":16,"bbox":[72,504,580,78]}
+{"kind":"shape","id":"sh/g3ex0nux","slide":16,"bbox":[72,504,8,78]}
+{"kind":"textbox","id":"sh/nih4byhg","slide":16,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[98,517,528,18]}
+{"kind":"textbox","id":"sh/yxobm58z","slide":16,"text":"The story becomes part of the product.","textPreview":"The story becomes part of the product.","textChars":38,"textLines":1,"bbox":[98,540,528,28]}
+{"kind":"shape","id":"sh/9cvixcze","slide":16,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":16,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":16,"text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/jm1cfa9w","slide":16,"name":"","geometry":"roundRect","alt":"slide-01.png","bbox":[742,96,416,300]}
+{"kind":"notes","id":"nt/k3a61c","slide":16,"text":"The story becomes part of the product."}
+{"kind":"slide","id":"sl/e6900i","slide":17,"title":"Platform and roadmap","textShapes":7}
+{"kind":"shape","id":"sh/tovahoza","slide":17,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/ixczed8v","slide":17,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":17,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":17,"text":"Platform and roadmap","textPreview":"Platform and roadmap","textChars":20,"textLines":1,"bbox":[666,72,360,24]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":17,"text":"The business model grows from trust, not pressure.","textPreview":"The business model grows from trust, not pressure.","textChars":50,"textLines":1,"bbox":[666,126,500,154]}
+{"kind":"textbox","id":"sh/bulwval8","slide":17,"text":"A visitor who understands the product is more likely to become a useful customer, member, partner or community contributor.","textPreview":"A visitor who understands the product is more likely to become a useful customer, member, partner or community contributor.","textChars":123,"textLines":1,"bbox":[666,312,484,90]}
+{"kind":"shape","id":"sh/0je9cvix","slide":17,"bbox":[666,506,484,78]}
+{"kind":"shape","id":"sh/t47y1kre","slide":17,"bbox":[666,506,8,78]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":17,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[692,519,432,18]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":17,"text":"Clarity improves the quality of growth.","textPreview":"Clarity improves the quality of growth.","textChars":39,"textLines":1,"bbox":[692,542,432,28]}
+{"kind":"shape","id":"sh/rmhk3q5o","slide":17,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":17,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/90je9cvi","slide":17,"text":"17","textPreview":"17","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/xs72x4na","slide":17,"name":"","geometry":"roundRect","alt":"business-model-desktop.png","bbox":[82,96,510,358]}
+{"kind":"notes","id":"nt/e6900i","slide":17,"text":"Clarity improves the quality of growth."}
+{"kind":"slide","id":"sl/xheae6","slide":18,"title":"Platform and roadmap","textShapes":12}
+{"kind":"shape","id":"sh/5sneloj2","slide":18,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/u54zidon","slide":18,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/nqxs72x4","slide":18,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":18,"text":"Platform and roadmap","textPreview":"Platform and roadmap","textChars":20,"textLines":1,"bbox":[72,56,380,24]}
+{"kind":"textbox","id":"sh/5kb6xkf6","slide":18,"text":"The participation loop is simple enough to remember.","textPreview":"The participation loop is simple enough to remember.","textChars":52,"textLines":1,"bbox":[72,104,1000,106]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":18,"text":"Discover the platform, understand the context, join the right journey, learn with the community and return with better questions.","textPreview":"Discover the platform, understand the context, join the right journey, learn with the community and return with better questions.","textChars":129,"textLines":1,"bbox":[72,232,790,52]}
+{"kind":"shape","id":"sh/neloj2t8","slide":18,"bbox":[56,322,76,76]}
+{"kind":"shape","id":"sh/gn29gr2p","slide":18,"bbox":[74,340,40,40]}
+{"kind":"textbox","id":"sh/58z25kb6","slide":18,"text":"Learn","textPreview":"Learn","textChars":5,"textLines":1,"bbox":[58,424,110,28]}
+{"kind":"shape","id":"sh/d8bat47y","slide":18,"bbox":[152,392,104,0]}
+{"kind":"shape","id":"sh/knih4byh","slide":18,"bbox":[280,322,76,76]}
+{"kind":"shape","id":"sh/v6psfil0","slide":18,"bbox":[298,340,40,40]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":18,"text":"Review","textPreview":"Review","textChars":6,"textLines":1,"bbox":[282,424,110,28]}
+{"kind":"shape","id":"sh/d0z61032","slide":18,"bbox":[376,392,104,0]}
+{"kind":"shape","id":"sh/kf6dcbul","slide":18,"bbox":[504,322,76,76]}
+{"kind":"shape","id":"sh/vu9knih4","slide":18,"bbox":[522,340,40,40]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":18,"text":"Compare","textPreview":"Compare","textChars":7,"textLines":1,"bbox":[506,424,110,28]}
+{"kind":"shape","id":"sh/donyd0z6","slide":18,"bbox":[600,392,104,0]}
+{"kind":"shape","id":"sh/k3q5o7qp","slide":18,"bbox":[728,322,76,76]}
+{"kind":"shape","id":"sh/kb6xkf6d","slide":18,"bbox":[746,340,40,40]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":18,"text":"Participate","textPreview":"Participate","textChars":11,"textLines":1,"bbox":[730,424,110,28]}
+{"kind":"shape","id":"sh/25kb6xkf","slide":18,"bbox":[824,392,104,0]}
+{"kind":"shape","id":"sh/rqd4vmtw","slide":18,"bbox":[952,322,76,76]}
+{"kind":"shape","id":"sh/kzupwb2h","slide":18,"bbox":[970,340,40,40]}
+{"kind":"textbox","id":"sh/9knih4by","slide":18,"text":"Return","textPreview":"Return","textChars":6,"textLines":1,"bbox":[954,424,110,28]}
+{"kind":"shape","id":"sh/re1w7mp0","slide":18,"bbox":[246,540,790,78]}
+{"kind":"shape","id":"sh/gvy90je9","slide":18,"bbox":[246,540,8,78]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":18,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[272,553,738,18]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":18,"text":"Growth is a loop of understanding.","textPreview":"Growth is a loop of understanding.","textChars":34,"textLines":1,"bbox":[272,576,738,28]}
+{"kind":"shape","id":"sh/qd4vmtwr","slide":18,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":18,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/8jqh0fep","slide":18,"text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/hwfyxobm","slide":18,"name":"","geometry":"rect","alt":"l3ai-business-model-loop-030.png","bbox":[896,282,220,118]}
+{"kind":"notes","id":"nt/xheae6","slide":18,"text":"Growth is a loop of understanding."}
+{"kind":"slide","id":"sl/o6dvrj","slide":19,"title":"Platform and roadmap","textShapes":7}
+{"kind":"shape","id":"sh/36hcrmhk","slide":19,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/wra5gbq1","slide":19,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/lc7u54zi","slide":19,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/7u54zido","slide":19,"text":"Platform and roadmap","textPreview":"Platform and roadmap","textChars":20,"textLines":1,"bbox":[666,72,360,24]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":19,"text":"The Universe roadmap gives the ecosystem room to expand.","textPreview":"The Universe roadmap gives the ecosystem room to expand.","textChars":56,"textLines":1,"bbox":[666,126,500,154]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":19,"text":"Universe is the long-range map for connected experiences, future modules and broader participation across the L3AI environment.","textPreview":"Universe is the long-range map for connected experiences, future modules and broader participation across the L3AI environment.","textChars":127,"textLines":1,"bbox":[666,312,484,90]}
+{"kind":"shape","id":"sh/e1w7mp0b","slide":19,"bbox":[666,506,484,78]}
+{"kind":"shape","id":"sh/7mp0bi9s","slide":19,"bbox":[666,506,8,78]}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":19,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[692,519,432,18]}
+{"kind":"textbox","id":"sh/6xkf6dcb","slide":19,"text":"The roadmap should feel like a world, not a backlog.","textPreview":"The roadmap should feel like a world, not a backlog.","textChars":52,"textLines":1,"bbox":[692,542,432,28]}
+{"kind":"shape","id":"sh/hk3q5o7q","slide":19,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/oza1gvy9","slide":19,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":19,"text":"19","textPreview":"19","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/3q5o7qpg","slide":19,"name":"","geometry":"roundRect","alt":"slide-09.png","bbox":[82,96,510,358]}
+{"kind":"notes","id":"nt/o6dvrj","slide":19,"text":"The roadmap should feel like a world, not a backlog."}
+{"kind":"slide","id":"sl/8g6vpm","slide":20,"title":"Platform and roadmap","textShapes":7}
+{"kind":"shape","id":"sh/czed8v6p","slide":20,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/neloj2t8","slide":20,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/ytsvu9kn","slide":20,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/5sneloj2","slide":20,"text":"Platform and roadmap","textPreview":"Platform and roadmap","textChars":20,"textLines":1,"bbox":[72,56,380,24]}
+{"kind":"textbox","id":"sh/cbulwval","slide":20,"text":"The roadmap separates what users can use now from what comes next.","textPreview":"The roadmap separates what users can use now from what comes next.","textChars":66,"textLines":1,"bbox":[72,104,560,156]}
+{"kind":"textbox","id":"sh/nqxs72x4","slide":20,"text":"Current product surfaces, active content systems and planned expansions are presented as different stages of one platform story.","textPreview":"Current product surfaces, active content systems and planned expansions are presented as different stages of one platform story.","textChars":128,"textLines":1,"bbox":[72,294,520,86]}
+{"kind":"shape","id":"sh/5wjudg7a","slide":20,"bbox":[72,500,520,78]}
+{"kind":"shape","id":"sh/gbq1oryt","slide":20,"bbox":[72,500,8,78]}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":20,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[98,513,468,18]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":20,"text":"A future is stronger when its stages are honest.","textPreview":"A future is stronger when its stages are honest.","textChars":48,"textLines":1,"bbox":[98,536,468,28]}
+{"kind":"shape","id":"sh/83itgfml","slide":20,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/xobm58z2","slide":20,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":20,"text":"20","textPreview":"20","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/r65wjudg","slide":20,"name":"","geometry":"roundRect","alt":"slide-16.png","bbox":[672,82,504,360]}
+{"kind":"notes","id":"nt/8g6vpm","slide":20,"text":"A future is stronger when its stages are honest."}
+{"kind":"slide","id":"sl/285nbr","slide":21,"title":"Platform and roadmap","textShapes":7}
+{"kind":"shape","id":"sh/hwfyxobm","slide":21,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/65wjudg7","slide":21,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/zqtcj6to","slide":21,"bbox":[0,46,1280,2]}
+{"kind":"shape","id":"sh/oza1gvy9","slide":21,"bbox":[900,-120,360,360]}
+{"kind":"shape","id":"sh/hk3q5o7q","slide":21,"bbox":[1020,88,220,220]}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":21,"text":"Platform and roadmap","textPreview":"Platform and roadmap","textChars":20,"textLines":1,"bbox":[72,76,360,24]}
+{"kind":"textbox","id":"sh/orytsvu9","slide":21,"text":"Why now? AI is becoming the interface for complex markets.","textPreview":"Why now? AI is becoming the interface for complex markets.","textChars":58,"textLines":1,"bbox":[72,138,632,160]}
+{"kind":"textbox","id":"sh/hcrmhk3q","slide":21,"text":"When information becomes too fast and fragmented, users look for a layer that can translate complexity into usable context.","textPreview":"When information becomes too fast and fragmented, users look for a layer that can translate complexity into usable context.","textChars":123,"textLines":1,"bbox":[72,332,580,78]}
+{"kind":"shape","id":"sh/d4vmtwra","slide":21,"bbox":[72,504,580,78]}
+{"kind":"shape","id":"sh/oj2t83it","slide":21,"bbox":[72,504,8,78]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":21,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[98,517,528,18]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":21,"text":"The timing is about behavior, not hype.","textPreview":"The timing is about behavior, not hype.","textChars":39,"textLines":1,"bbox":[98,540,528,28]}
+{"kind":"shape","id":"sh/dsji5sne","slide":21,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":21,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":21,"text":"21","textPreview":"21","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/nap4r65w","slide":21,"name":"","geometry":"roundRect","alt":"slide-05.png","bbox":[742,96,416,300]}
+{"kind":"notes","id":"nt/285nbr","slide":21,"text":"The timing is about behavior, not hype."}
+{"kind":"slide","id":"sl/16jpyb","slide":22,"title":"Platform and roadmap","textShapes":7}
+{"kind":"shape","id":"sh/0fepkzup","slide":22,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/bulwval8","slide":22,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":22,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/tovahoza","slide":22,"text":"Platform and roadmap","textPreview":"Platform and roadmap","textChars":20,"textLines":1,"bbox":[72,56,380,24]}
+{"kind":"textbox","id":"sh/032lszqt","slide":22,"text":"Why now? Web3 participation is becoming more product-led.","textPreview":"Why now? Web3 participation is becoming more product-led.","textChars":57,"textLines":1,"bbox":[72,104,560,156]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":22,"text":"Users expect better onboarding, clearer states, safer explanations and official content they can trust.","textPreview":"Users expect better onboarding, clearer states, safer explanations and official content they can trust.","textChars":103,"textLines":1,"bbox":[72,294,520,86]}
+{"kind":"shape","id":"sh/tcj6tova","slide":22,"bbox":[72,500,520,78]}
+{"kind":"shape","id":"sh/0rqd4vmt","slide":22,"bbox":[72,500,8,78]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":22,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[98,513,468,18]}
+{"kind":"textbox","id":"sh/bulwval8","slide":22,"text":"The category is ready for better experience design.","textPreview":"The category is ready for better experience design.","textChars":51,"textLines":1,"bbox":[98,536,468,28]}
+{"kind":"shape","id":"sh/0fepkzup","slide":22,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":22,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":22,"text":"22","textPreview":"22","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/7ed8bat4","slide":22,"name":"","geometry":"roundRect","alt":"l3ai-showcase-homepage.png","bbox":[672,82,504,360]}
+{"kind":"notes","id":"nt/16jpyb","slide":22,"text":"The category is ready for better experience design."}
+{"kind":"slide","id":"sl/w8eavy","slide":23,"title":"Next step","textShapes":7}
+{"kind":"shape","id":"sh/idonyd0z","slide":23,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/t47y1kre","slide":23,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/0je9cvix","slide":23,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":23,"text":"Next step","textPreview":"Next step","textChars":9,"textLines":1,"bbox":[666,72,360,24]}
+{"kind":"textbox","id":"sh/tcj6tova","slide":23,"text":"L3AI gives users a place to start.","textPreview":"L3AI gives users a place to start.","textChars":34,"textLines":1,"bbox":[666,126,500,154]}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":23,"text":"A first-time user does not need to understand every module on day one. They need a path that tells them where to begin.","textPreview":"A first-time user does not need to understand every module on day one. They need a path that tells them where to begin.","textChars":119,"textLines":1,"bbox":[666,312,484,90]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":23,"bbox":[666,506,484,78]}
+{"kind":"shape","id":"sh/ixczed8v","slide":23,"bbox":[666,506,8,78]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":23,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[692,519,432,18]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":23,"text":"The best product is easy to enter.","textPreview":"The best product is easy to enter.","textChars":34,"textLines":1,"bbox":[692,542,432,28]}
+{"kind":"shape","id":"sh/a5gbq1or","slide":23,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":23,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/sji5snel","slide":23,"text":"23","textPreview":"23","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/65wjudg7","slide":23,"name":"","geometry":"roundRect","alt":"contact-flow-desktop.png","bbox":[82,96,510,358]}
+{"kind":"notes","id":"nt/w8eavy","slide":23,"text":"The best product is easy to enter."}
+{"kind":"slide","id":"sl/capz6p","slide":24,"title":"Next step","textShapes":11}
+{"kind":"shape","id":"sh/6hcrmhk3","slide":24,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/d8v6psfi","slide":24,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/onyd0z61","slide":24,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":24,"text":"Next step","textPreview":"Next step","textChars":9,"textLines":1,"bbox":[72,56,380,24]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":24,"text":"Different audiences can follow the same story in different ways.","textPreview":"Different audiences can follow the same story in different ways.","textChars":64,"textLines":1,"bbox":[72,104,970,104]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":24,"text":"Users, members, partners and media reviewers each need a clear first step without changing the core narrative.","textPreview":"Users, members, partners and media reviewers each need a clear first step without changing the core narrative.","textChars":110,"textLines":1,"bbox":[72,226,790,52]}
+{"kind":"shape","id":"sh/vmtwra5g","slide":24,"bbox":[126,302,76,76]}
+{"kind":"shape","id":"sh/61032lsz","slide":24,"bbox":[144,320,40,40]}
+{"kind":"textbox","id":"sh/wval87ed","slide":24,"text":"AI Quant","textPreview":"AI Quant","textChars":8,"textLines":1,"bbox":[90,392,150,24]}
+{"kind":"shape","id":"sh/pg3ex0nu","slide":24,"bbox":[814,302,76,76]}
+{"kind":"shape","id":"sh/epkzupwb","slide":24,"bbox":[832,320,40,40]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":24,"text":"Wallet","textPreview":"Wallet","textChars":6,"textLines":1,"bbox":[778,392,150,24]}
+{"kind":"shape","id":"sh/w7mp0bi9","slide":24,"bbox":[192,478,76,76]}
+{"kind":"shape","id":"sh/psfil0rq","slide":24,"bbox":[210,496,40,40]}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":24,"text":"Compute","textPreview":"Compute","textChars":7,"textLines":1,"bbox":[156,568,150,24]}
+{"kind":"shape","id":"sh/7mp0bi9s","slide":24,"bbox":[760,478,76,76]}
+{"kind":"shape","id":"sh/wfyxobm5","slide":24,"bbox":[778,496,40,40]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":24,"text":"Community","textPreview":"Community","textChars":9,"textLines":1,"bbox":[724,568,150,24]}
+{"kind":"shape","id":"sh/pwb2hwfy","slide":24,"bbox":[396,562,490,78]}
+{"kind":"shape","id":"sh/0bi9s36h","slide":24,"bbox":[396,562,8,78]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":24,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[422,575,438,18]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":24,"text":"One story can support many entry points.","textPreview":"One story can support many entry points.","textChars":40,"textLines":1,"bbox":[422,598,438,28]}
+{"kind":"shape","id":"sh/p4r65wju","slide":24,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":24,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":24,"text":"24","textPreview":"24","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/pg3ex0nu","slide":24,"name":"","geometry":"rect","alt":"l3ai-public-icon-set-030.png","bbox":[446,308,330,186]}
+{"kind":"notes","id":"nt/capz6p","slide":24,"text":"One story can support many entry points."}
+{"kind":"slide","id":"sl/bk6f42","slide":25,"title":"Next step","textShapes":7}
+{"kind":"shape","id":"sh/xs72x4na","slide":25,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/q1orytsv","slide":25,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/fmlkjm1c","slide":25,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":25,"text":"Next step","textPreview":"Next step","textChars":9,"textLines":1,"bbox":[72,56,380,24]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":25,"text":"For partners, L3AI is a product ecosystem in motion.","textPreview":"For partners, L3AI is a product ecosystem in motion.","textChars":52,"textLines":1,"bbox":[72,104,560,156]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":25,"text":"The partnership conversation starts with user education, product surface, community learning and roadmap fit.","textPreview":"The partnership conversation starts with user education, product surface, community learning and roadmap fit.","textChars":109,"textLines":1,"bbox":[72,294,520,86]}
+{"kind":"shape","id":"sh/8v6psfil","slide":25,"bbox":[72,500,520,78]}
+{"kind":"shape","id":"sh/xczed8v6","slide":25,"bbox":[72,500,8,78]}
+{"kind":"textbox","id":"sh/donyd0z6","slide":25,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[98,513,468,18]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":25,"text":"Partnership begins with shared context.","textPreview":"Partnership begins with shared context.","textChars":39,"textLines":1,"bbox":[98,536,468,28]}
+{"kind":"shape","id":"sh/vixczed8","slide":25,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":25,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":25,"text":"25","textPreview":"25","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/udg7adsj","slide":25,"name":"","geometry":"roundRect","alt":"slide-08.png","bbox":[672,82,504,360]}
+{"kind":"notes","id":"nt/bk6f42","slide":25,"text":"Partnership begins with shared context."}
+{"kind":"slide","id":"sl/5fg8er","slide":26,"title":"Next step","textShapes":7}
+{"kind":"shape","id":"sh/nih4byhg","slide":26,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/g3ex0nux","slide":26,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/5o7qpg3e","slide":26,"bbox":[0,46,1280,2]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":26,"bbox":[900,-120,360,360]}
+{"kind":"shape","id":"sh/r65wjudg","slide":26,"bbox":[1020,88,220,220]}
+{"kind":"textbox","id":"sh/9cvixcze","slide":26,"text":"Next step","textPreview":"Next step","textChars":9,"textLines":1,"bbox":[72,76,360,24]}
+{"kind":"textbox","id":"sh/yd0z6103","slide":26,"text":"For users, the next step is simple.","textPreview":"For users, the next step is simple.","textChars":35,"textLines":1,"bbox":[72,138,632,160]}
+{"kind":"textbox","id":"sh/rytsvu9k","slide":26,"text":"Open the Story Book, explore the platform, learn the product language and choose the path that fits your intent.","textPreview":"Open the Story Book, explore the platform, learn the product language and choose the path that fits your intent.","textChars":112,"textLines":1,"bbox":[72,332,580,78]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":26,"bbox":[72,504,580,78]}
+{"kind":"shape","id":"sh/ixczed8v","slide":26,"bbox":[72,504,8,78]}
+{"kind":"textbox","id":"sh/tovahoza","slide":26,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[98,517,528,18]}
+{"kind":"textbox","id":"sh/032lszqt","slide":26,"text":"Start by understanding the platform.","textPreview":"Start by understanding the platform.","textChars":36,"textLines":1,"bbox":[98,540,528,28]}
+{"kind":"shape","id":"sh/bulwval8","slide":26,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":26,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":26,"text":"26","textPreview":"26","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/5kb6xkf6","slide":26,"name":"","geometry":"roundRect","alt":"resources-flow-desktop.png","bbox":[742,96,416,300]}
+{"kind":"notes","id":"nt/5fg8er","slide":26,"text":"Start by understanding the platform."}
+{"kind":"slide","id":"sl/34pae0","slide":27,"title":"Next step","textShapes":7}
+{"kind":"shape","id":"sh/h4byhgn2","slide":27,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/adsji5sn","slide":27,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/3ylc7u54","slide":27,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":27,"text":"Next step","textPreview":"Next step","textChars":9,"textLines":1,"bbox":[666,72,360,24]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":27,"text":"The story now leads with the user.","textPreview":"The story now leads with the user.","textChars":34,"textLines":1,"bbox":[666,126,500,154]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":27,"text":"This edition brings the platform into a customer narrative: why it matters, how it works and where to begin.","textPreview":"This edition brings the platform into a customer narrative: why it matters, how it works and where to begin.","textChars":108,"textLines":1,"bbox":[666,312,484,90]}
+{"kind":"shape","id":"sh/s36hcrmh","slide":27,"bbox":[666,506,484,78]}
+{"kind":"shape","id":"sh/hoza1gvy","slide":27,"bbox":[666,506,8,78]}
+{"kind":"textbox","id":"sh/58z25kb6","slide":27,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[692,519,432,18]}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":27,"text":"The customer should feel the path immediately.","textPreview":"The customer should feel the path immediately.","textChars":46,"textLines":1,"bbox":[692,542,432,28]}
+{"kind":"shape","id":"sh/n29gr2p8","slide":27,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":27,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/5wjudg7a","slide":27,"text":"27","textPreview":"27","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/90je9cvi","slide":27,"name":"","geometry":"roundRect","alt":"slide-15.png","bbox":[82,96,510,358]}
+{"kind":"notes","id":"nt/34pae0","slide":27,"text":"The customer should feel the path immediately."}
+{"kind":"slide","id":"sl/m246e6","slide":28,"title":"The starting point","textShapes":7}
+{"kind":"shape","id":"sh/k3q5o7qp","slide":28,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/vixczed8","slide":28,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/2x4nap4r","slide":28,"bbox":[0,46,1280,2]}
+{"kind":"shape","id":"sh/dcbulwva","slide":28,"bbox":[900,-120,360,360]}
+{"kind":"shape","id":"sh/kre1w7mp","slide":28,"bbox":[1020,88,220,220]}
+{"kind":"textbox","id":"sh/6psfil0r","slide":28,"text":"The starting point","textPreview":"The starting point","textChars":18,"textLines":1,"bbox":[72,76,380,24]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":28,"text":"L3AI is building the intelligence layer people can actually follow.","textPreview":"L3AI is building the intelligence layer people can actually follow.","textChars":67,"textLines":1,"bbox":[72,138,660,184]}
+{"kind":"textbox","id":"sh/knih4byh","slide":28,"text":"Understand the market. Learn the product. Join the journey.","textPreview":"Understand the market. Learn the product. Join the journey.","textChars":59,"textLines":1,"bbox":[72,360,612,70]}
+{"kind":"shape","id":"sh/uxc3ylc7","slide":28,"bbox":[72,520,580,78]}
+{"kind":"shape","id":"sh/ji5snelo","slide":28,"bbox":[72,520,8,78]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":28,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[98,533,528,18]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":28,"text":"This is the starting point for the L3AI world.","textPreview":"This is the starting point for the L3AI world.","textChars":46,"textLines":1,"bbox":[98,556,528,28]}
+{"kind":"shape","id":"sh/ulwval87","slide":28,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":28,"text":"L3AI Customer Story Book","textPreview":"L3AI Customer Story Book","textChars":24,"textLines":1,"bbox":[72,654,380,22]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":28,"text":"28","textPreview":"28","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/6psfil0r","slide":28,"name":"","geometry":"roundRect","alt":"l3ai-enterprise-hero-030.png","bbox":[748,94,374,250]}
+{"kind":"notes","id":"nt/m246e6","slide":28,"text":"This is the starting point for the L3AI world."}
