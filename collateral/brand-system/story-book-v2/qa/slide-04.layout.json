@@ -1,0 +1,657 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/ykj9od",
+    "id": "ykj9od",
+    "slide": 4,
+    "layoutId": "fbafd7f4-12c7-4c99-ac9f-302da185bbbc",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "3cf9b0ed-1625-4d3f-b0c8-35b1414fc6bd",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F7FAFC",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "fbafd7f4-12c7-4c99-ac9f-302da185bbbc",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "3cf9b0ed-1625-4d3f-b0c8-35b1414fc6bd",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "3cf9b0ed-1625-4d3f-b0c8-35b1414fc6bd",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kzupwb2h",
+      "id": "1",
+      "bbox": [
+        72,
+        54,
+        460,
+        22
+      ],
+      "geometry": "rect",
+      "text": "First impression",
+      "textPreview": "First impression",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#155EEF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "First impression"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "First impression",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#155EEF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "First impression",
+              "fontSize": 14,
+              "color": "#155EEF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/re1w7mp0",
+      "id": "2",
+      "bbox": [
+        72,
+        92,
+        540,
+        108
+      ],
+      "geometry": "rect",
+      "text": "The homepage has to prove the company before the deck does.",
+      "textPreview": "The homepage has to prove the company before the deck does.",
+      "resolvedFontSize": 36,
+      "resolvedTextStyle": {
+        "fontSize": 36,
+        "typeface": "+mn-lt",
+        "color": "#07111F",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The homepage has to prove the"
+          },
+          {
+            "index": 2,
+            "text": "company before the deck does."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The homepage has to prove the company before the deck does.",
+          "resolvedTextStyle": {
+            "fontSize": 36,
+            "color": "#07111F",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The homepage has to prove the company before the deck does.",
+              "fontSize": 36,
+              "color": "#07111F",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2t83itgf",
+      "id": "3",
+      "bbox": [
+        72,
+        214,
+        540,
+        54
+      ],
+      "geometry": "rect",
+      "text": "The public homepage now acts as a story room. It shows the product surface, routes visitors by intent and points them to controlled collateral.",
+      "textPreview": "The public homepage now acts as a story room. It shows the product surface, routes visitors by intent and points them to controlled colla...",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "fontSize": 19,
+        "typeface": "+mn-lt",
+        "color": "#475569",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The public homepage now acts as a story room. It shows the"
+          },
+          {
+            "index": 2,
+            "text": "product surface, routes visitors by intent and points them to"
+          },
+          {
+            "index": 3,
+            "text": "controlled collateral."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The public homepage now acts as a story room. It shows the product surface, routes visitors by intent and points them to controlled collateral.",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "color": "#475569",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The public homepage now acts as a story room. It shows the product surface, routes visitors by intent and points them to controlled collateral.",
+              "fontSize": 19,
+              "color": "#475569",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/8v6psfil",
+      "id": "4",
+      "bbox": [
+        642,
+        94,
+        554,
+        392
+      ],
+      "geometry": "roundRect",
+      "alt": "homepage-flow-desktop.png",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 3061"
+          }
+        ]
+      },
+      "asset": {
+        "assetId": "ea730b89-2c11-4aa2-a3c6-9a3bf1cad00c",
+        "contentType": "image/png",
+        "byteLength": 1945285
+      }
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kb6xkf6d",
+      "id": "5",
+      "bbox": [
+        78,
+        296,
+        486,
+        122
+      ],
+      "geometry": "rect",
+      "text": "The public homepage now acts as a story room. It shows the product surface, routes visitors by intent and points them to controlled collateral.",
+      "textPreview": "The public homepage now acts as a story room. It shows the product surface, routes visitors by intent and points them to controlled colla...",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "color": "#475569",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The public homepage now acts as a story room. It"
+          },
+          {
+            "index": 2,
+            "text": "shows the product surface, routes visitors by intent"
+          },
+          {
+            "index": 3,
+            "text": "and points them to controlled collateral."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The public homepage now acts as a story room. It shows the product surface, routes visitors by intent and points them to controlled collateral.",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "color": "#475569",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The public homepage now acts as a story room. It shows the product surface, routes visitors by intent and points them to controlled collateral.",
+              "fontSize": 22,
+              "color": "#475569",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rqd4vmtw",
+      "id": "6",
+      "bbox": [
+        78,
+        468,
+        486,
+        82
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#DFE8F2",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/25kb6xkf",
+      "id": "7",
+      "bbox": [
+        78,
+        468,
+        8,
+        82
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#155EEF",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/94fu18jq",
+      "id": "8",
+      "bbox": [
+        106,
+        482,
+        430,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Customer takeaway",
+      "textPreview": "Customer takeaway",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "+mn-lt",
+        "color": "#155EEF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Customer takeaway"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Customer takeaway",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "color": "#155EEF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Customer takeaway",
+              "fontSize": 12,
+              "color": "#155EEF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kjm1cfa9",
+      "id": "9",
+      "bbox": [
+        106,
+        504,
+        430,
+        30
+      ],
+      "geometry": "rect",
+      "text": "A mature brand makes the next step obvious.",
+      "textPreview": "A mature brand makes the next step obvious.",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#07111F",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "A mature brand makes the next step obvious."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "A mature brand makes the next step obvious.",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#07111F",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "A mature brand makes the next step obvious.",
+              "fontSize": 20,
+              "color": "#07111F",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mlkjm1cf",
+      "id": "10",
+      "bbox": [
+        72,
+        640,
+        1136,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#E4EAF2",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f6dcbulw",
+      "id": "11",
+      "bbox": [
+        72,
+        654,
+        420,
+        22
+      ],
+      "geometry": "rect",
+      "text": "L3AI Story Book Premium v2",
+      "textPreview": "L3AI Story Book Premium v2",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#64748B",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "L3AI Story Book Premium v2"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "L3AI Story Book Premium v2",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#64748B",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "L3AI Story Book Premium v2",
+              "fontSize": 13,
+              "color": "#64748B",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4r65wjud",
+      "id": "12",
+      "bbox": [
+        1142,
+        654,
+        66,
+        22
+      ],
+      "geometry": "rect",
+      "text": "04",
+      "textPreview": "04",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#64748B",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "04"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "04",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#64748B",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "04",
+              "fontSize": 13,
+              "color": "#64748B",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

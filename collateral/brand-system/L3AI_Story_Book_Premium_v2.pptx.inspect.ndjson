@@ -1,0 +1,266 @@
+{"kind":"deck","id":"pr/ohggtm","name":"Deck"}
+{"kind":"layout","layoutId":"3cf9b0ed-1625-4d3f-b0c8-35b1414fc6bd","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"fbafd7f4-12c7-4c99-ac9f-302da185bbbc","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/o6tayg","slide":1,"title":"Premium visual story edition","textShapes":8}
+{"kind":"shape","id":"sh/b6xkf6dc","slide":1,"bbox":[72,58,248,40]}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":1,"text":"Premium visual story edition","textPreview":"Premium visual story edition","textChars":28,"textLines":1,"bbox":[96,68,200,18]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":1,"text":"L3AI turns Web3 review into a guided product journey.","textPreview":"L3AI turns Web3 review into a guided product journey.","textChars":53,"textLines":1,"bbox":[72,136,572,220]}
+{"kind":"textbox","id":"sh/0je9cvix","slide":1,"text":"A visual-first public story for first-time customers, media, partners and investor-style reviewers.","textPreview":"A visual-first public story for first-time customers, media, partners and investor-style reviewers.","textChars":99,"textLines":1,"bbox":[72,392,560,70]}
+{"kind":"shape","id":"sh/byhgn29g","slide":1,"bbox":[72,512,558,72]}
+{"kind":"shape","id":"sh/idonyd0z","slide":1,"bbox":[72,512,8,72]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":1,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[100,526,502,18]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":1,"text":"Start with confidence, not noise.","textPreview":"Start with confidence, not noise.","textChars":33,"textLines":1,"bbox":[100,548,502,30]}
+{"kind":"textbox","id":"sh/itgfmlkj","slide":1,"text":"Story Book Premium v2","textPreview":"Story Book Premium v2","textChars":21,"textLines":1,"bbox":[780,452,310,30]}
+{"kind":"shape","id":"sh/7ed8bat4","slide":1,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/0z61032l","slide":1,"text":"L3AI Story Book Premium v2","textPreview":"L3AI Story Book Premium v2","textChars":26,"textLines":1,"bbox":[72,654,420,22]}
+{"kind":"textbox","id":"sh/pkzupwb2","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1142,654,66,22]}
+{"kind":"image","id":"im/d0z61032","slide":1,"name":"","geometry":"roundRect","alt":"l3ai-enterprise-hero-030.png","bbox":[668,80,520,338]}
+{"kind":"notes","id":"nt/o6tayg","slide":1,"text":"Open with the new positioning: L3AI is a guided review journey, not a hype-led pitch."}
+{"kind":"slide","id":"sl/h80b34","slide":2,"title":"Why L3AI exists","textShapes":11}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":2,"text":"Why L3AI exists","textPreview":"Why L3AI exists","textChars":15,"textLines":1,"bbox":[72,54,460,22]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":2,"text":"Users meet signals before they have a safe way to evaluate them.","textPreview":"Users meet signals before they have a safe way to evaluate them.","textChars":64,"textLines":1,"bbox":[72,92,575,108]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":2,"text":"The first problem is not access to information. It is the missing path from market context to product understanding, wallet-aware education and reviewable proof.","textPreview":"The first problem is not access to information. It is the missing path from market context to product understanding, wallet-aware educati...","textChars":161,"textLines":1,"bbox":[72,214,575,54]}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":2,"text":"The first problem is not access to information. It is the missing path from market context to product understanding, wallet-aware education and reviewable proof.","textPreview":"The first problem is not access to information. It is the missing path from market context to product understanding, wallet-aware educati...","textChars":161,"textLines":1,"bbox":[78,284,514,106]}
+{"kind":"shape","id":"sh/ap4r65wj","slide":2,"bbox":[82,428,132,34]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":2,"text":"Context","textPreview":"Context","textChars":7,"textLines":1,"bbox":[98,437,100,16]}
+{"kind":"shape","id":"sh/sji5snel","slide":2,"bbox":[246,428,132,34]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":2,"text":"Product proof","textPreview":"Product proof","textChars":13,"textLines":1,"bbox":[262,437,100,16]}
+{"kind":"shape","id":"sh/p4r65wju","slide":2,"bbox":[410,428,132,34]}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":2,"text":"Trust boundary","textPreview":"Trust boundary","textChars":14,"textLines":1,"bbox":[426,437,100,16]}
+{"kind":"shape","id":"sh/7y1kre1w","slide":2,"bbox":[704,448,482,80]}
+{"kind":"shape","id":"sh/ed8v6psf","slide":2,"bbox":[704,448,8,80]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":2,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[732,462,426,18]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":2,"text":"L3AI gives the first visit a clear sequence.","textPreview":"L3AI gives the first visit a clear sequence.","textChars":44,"textLines":1,"bbox":[732,484,426,30]}
+{"kind":"shape","id":"sh/7qpg3ex0","slide":2,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":2,"text":"L3AI Story Book Premium v2","textPreview":"L3AI Story Book Premium v2","textChars":26,"textLines":1,"bbox":[72,654,420,22]}
+{"kind":"textbox","id":"sh/pkzupwb2","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1142,654,66,22]}
+{"kind":"image","id":"im/5kb6xkf6","slide":2,"name":"","geometry":"roundRect","alt":"l3ai-social-banner-1200x675-030.png","bbox":[704,116,482,292]}
+{"kind":"notes","id":"nt/h80b34","slide":2,"text":"Keep the pain point human and practical. The product exists because the first decision moment is too compressed."}
+{"kind":"slide","id":"sl/cm0tkp","slide":3,"title":"The customer path","textShapes":22}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":3,"text":"The customer path","textPreview":"The customer path","textChars":17,"textLines":1,"bbox":[72,54,460,22]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":3,"text":"A visitor should always know where they are in the story.","textPreview":"A visitor should always know where they are in the story.","textChars":57,"textLines":1,"bbox":[72,92,860,108]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":3,"text":"The public experience is intentionally ordered: see the product, understand the context, review wallet education, check the boundary, then open proof.","textPreview":"The public experience is intentionally ordered: see the product, understand the context, review wallet education, check the boundary, the...","textChars":150,"textLines":1,"bbox":[72,214,760,54]}
+{"kind":"shape","id":"sh/fyxobm58","slide":3,"bbox":[76,320,178,154]}
+{"kind":"shape","id":"sh/8jqh0fep","slide":3,"bbox":[96,340,60,34]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":3,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[112,349,28,16]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":3,"text":"See","textPreview":"See","textChars":3,"textLines":1,"bbox":[100,394,120,28]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":3,"text":"Product surface","textPreview":"Product surface","textChars":15,"textLines":1,"bbox":[100,428,126,28]}
+{"kind":"shape","id":"sh/jqh0fepk","slide":3,"bbox":[260,398,34,0]}
+{"kind":"shape","id":"sh/q5o7qpg3","slide":3,"bbox":[302,320,178,154]}
+{"kind":"shape","id":"sh/1w7mp0bi","slide":3,"bbox":[322,340,60,34]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":3,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[338,349,28,16]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":3,"text":"Understand","textPreview":"Understand","textChars":10,"textLines":1,"bbox":[326,394,120,28]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":3,"text":"AI context","textPreview":"AI context","textChars":10,"textLines":1,"bbox":[326,428,126,28]}
+{"kind":"shape","id":"sh/18jqh0fe","slide":3,"bbox":[486,398,34,0]}
+{"kind":"shape","id":"sh/8nqxs72x","slide":3,"bbox":[528,320,178,154]}
+{"kind":"shape","id":"sh/j6tovaho","slide":3,"bbox":[548,340,60,34]}
+{"kind":"textbox","id":"sh/ulwval87","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[564,349,28,16]}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":3,"text":"Review","textPreview":"Review","textChars":6,"textLines":1,"bbox":[552,394,120,28]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":3,"text":"Wallet education","textPreview":"Wallet education","textChars":16,"textLines":1,"bbox":[552,428,126,28]}
+{"kind":"shape","id":"sh/wjudg7ad","slide":3,"bbox":[712,398,34,0]}
+{"kind":"shape","id":"sh/p4r65wju","slide":3,"bbox":[754,320,178,154]}
+{"kind":"shape","id":"sh/i5sneloj","slide":3,"bbox":[774,340,60,34]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":3,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[790,349,28,16]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":3,"text":"Verify","textPreview":"Verify","textChars":6,"textLines":1,"bbox":[778,394,120,28]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":3,"text":"Trust boundary","textPreview":"Trust boundary","textChars":14,"textLines":1,"bbox":[778,428,126,28]}
+{"kind":"shape","id":"sh/itgfmlkj","slide":3,"bbox":[938,398,34,0]}
+{"kind":"shape","id":"sh/7ed8bat4","slide":3,"bbox":[980,320,178,154]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":3,"bbox":[1000,340,60,34]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":3,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1016,349,28,16]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":3,"text":"Open","textPreview":"Open","textChars":4,"textLines":1,"bbox":[1004,394,120,28]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":3,"text":"Resources","textPreview":"Resources","textChars":9,"textLines":1,"bbox":[1004,428,126,28]}
+{"kind":"shape","id":"sh/xc3ylc7u","slide":3,"bbox":[190,540,900,62]}
+{"kind":"shape","id":"sh/4r65wjud","slide":3,"bbox":[190,540,8,62]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":3,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[218,554,844,18]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":3,"text":"Every page answers one customer question.","textPreview":"Every page answers one customer question.","textChars":41,"textLines":1,"bbox":[218,576,844,30]}
+{"kind":"shape","id":"sh/x0nuxc3y","slide":3,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/4fu18jqh","slide":3,"text":"L3AI Story Book Premium v2","textPreview":"L3AI Story Book Premium v2","textChars":26,"textLines":1,"bbox":[72,654,420,22]}
+{"kind":"textbox","id":"sh/svu9knih","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1142,654,66,22]}
+{"kind":"image","id":"im/zed8v6ps","slide":3,"name":"","geometry":"rect","alt":"l3ai-ai-quant-workflow-030.png","bbox":[892,98,252,132]}
+{"kind":"notes","id":"nt/cm0tkp","slide":3,"text":"The page rhythm mirrors the user journey rather than an internal feature list."}
+{"kind":"slide","id":"sl/ykj9od","slide":4,"title":"First impression","textShapes":8}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":4,"text":"First impression","textPreview":"First impression","textChars":16,"textLines":1,"bbox":[72,54,460,22]}
+{"kind":"textbox","id":"sh/re1w7mp0","slide":4,"text":"The homepage has to prove the company before the deck does.","textPreview":"The homepage has to prove the company before the deck does.","textChars":59,"textLines":1,"bbox":[72,92,540,108]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":4,"text":"The public homepage now acts as a story room. It shows the product surface, routes visitors by intent and points them to controlled collateral.","textPreview":"The public homepage now acts as a story room. It shows the product surface, routes visitors by intent and points them to controlled colla...","textChars":143,"textLines":1,"bbox":[72,214,540,54]}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":4,"text":"The public homepage now acts as a story room. It shows the product surface, routes visitors by intent and points them to controlled collateral.","textPreview":"The public homepage now acts as a story room. It shows the product surface, routes visitors by intent and points them to controlled colla...","textChars":143,"textLines":1,"bbox":[78,296,486,122]}
+{"kind":"shape","id":"sh/rqd4vmtw","slide":4,"bbox":[78,468,486,82]}
+{"kind":"shape","id":"sh/25kb6xkf","slide":4,"bbox":[78,468,8,82]}
+{"kind":"textbox","id":"sh/94fu18jq","slide":4,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[106,482,430,18]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":4,"text":"A mature brand makes the next step obvious.","textPreview":"A mature brand makes the next step obvious.","textChars":43,"textLines":1,"bbox":[106,504,430,30]}
+{"kind":"shape","id":"sh/mlkjm1cf","slide":4,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":4,"text":"L3AI Story Book Premium v2","textPreview":"L3AI Story Book Premium v2","textChars":26,"textLines":1,"bbox":[72,654,420,22]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1142,654,66,22]}
+{"kind":"image","id":"im/8v6psfil","slide":4,"name":"","geometry":"roundRect","alt":"homepage-flow-desktop.png","bbox":[642,94,554,392]}
+{"kind":"notes","id":"nt/ykj9od","slide":4,"text":"Explain that the site is not only a wrapper around PDFs. It is the first layer of product proof."}
+{"kind":"slide","id":"sl/z25z13","slide":5,"title":"AI Quant","textShapes":8}
+{"kind":"textbox","id":"sh/val87ed8","slide":5,"text":"AI Quant","textPreview":"AI Quant","textChars":8,"textLines":1,"bbox":[72,54,460,22]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":5,"text":"AI Quant explains the signal before a user forms a conclusion.","textPreview":"AI Quant explains the signal before a user forms a conclusion.","textChars":62,"textLines":1,"bbox":[72,92,545,108]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":5,"text":"The workflow is explain-first. It organizes market context, visible limitations and user review steps without promising performance or automating financial decisions.","textPreview":"The workflow is explain-first. It organizes market context, visible limitations and user review steps without promising performance or au...","textChars":166,"textLines":1,"bbox":[72,214,545,54]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":5,"text":"The workflow is explain-first. It organizes market context, visible limitations and user review steps without promising performance or automating financial decisions.","textPreview":"The workflow is explain-first. It organizes market context, visible limitations and user review steps without promising performance or au...","textChars":166,"textLines":1,"bbox":[78,302,506,116]}
+{"kind":"shape","id":"sh/donyd0z6","slide":5,"bbox":[78,472,506,82]}
+{"kind":"shape","id":"sh/29gr2p8n","slide":5,"bbox":[78,472,8,82]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":5,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[106,486,450,18]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":5,"text":"The product helps users review context, not chase certainty.","textPreview":"The product helps users review context, not chase certainty.","textChars":60,"textLines":1,"bbox":[106,508,450,30]}
+{"kind":"shape","id":"sh/adsji5sn","slide":5,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":5,"text":"L3AI Story Book Premium v2","textPreview":"L3AI Story Book Premium v2","textChars":26,"textLines":1,"bbox":[72,654,420,22]}
+{"kind":"textbox","id":"sh/sji5snel","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1142,654,66,22]}
+{"kind":"image","id":"im/fil0rqd4","slide":5,"name":"","geometry":"roundRect","alt":"ai-quant-workflow-desktop.png","bbox":[674,88,500,286]}
+{"kind":"image","id":"im/qxs72x4n","slide":5,"name":"","geometry":"rect","alt":"l3ai-ai-quant-workflow-030.png","bbox":[744,414,358,156]}
+{"kind":"notes","id":"nt/z25z13","slide":5,"text":"Make the safety boundary explicit: no guaranteed outcomes, no investment instruction."}
+{"kind":"slide","id":"sl/d0anqi","slide":6,"title":"Wallet-aware education","textShapes":8}
+{"kind":"textbox","id":"sh/1orytsvu","slide":6,"text":"Wallet-aware education","textPreview":"Wallet-aware education","textChars":22,"textLines":1,"bbox":[72,54,460,22]}
+{"kind":"textbox","id":"sh/u18jqh0f","slide":6,"text":"Wallet moments become checkpoints instead of pressure points.","textPreview":"Wallet moments become checkpoints instead of pressure points.","textChars":61,"textLines":1,"bbox":[72,92,540,108]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":6,"text":"L3AI can frame wallet-aware journeys while keeping signing material, credentials and real account data out of public collateral.","textPreview":"L3AI can frame wallet-aware journeys while keeping signing material, credentials and real account data out of public collateral.","textChars":128,"textLines":1,"bbox":[72,214,540,54]}
+{"kind":"textbox","id":"sh/1032lszq","slide":6,"text":"L3AI can frame wallet-aware journeys while keeping signing material, credentials and real account data out of public collateral.","textPreview":"L3AI can frame wallet-aware journeys while keeping signing material, credentials and real account data out of public collateral.","textChars":128,"textLines":1,"bbox":[78,296,486,122]}
+{"kind":"shape","id":"sh/u9knih4b","slide":6,"bbox":[78,468,486,82]}
+{"kind":"shape","id":"sh/judg7ads","slide":6,"bbox":[78,468,8,82]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":6,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[106,482,430,18]}
+{"kind":"textbox","id":"sh/54zidony","slide":6,"text":"Education comes before action.","textPreview":"Education comes before action.","textChars":30,"textLines":1,"bbox":[106,504,430,30]}
+{"kind":"shape","id":"sh/t47y1kre","slide":6,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/0je9cvix","slide":6,"text":"L3AI Story Book Premium v2","textPreview":"L3AI Story Book Premium v2","textChars":26,"textLines":1,"bbox":[72,654,420,22]}
+{"kind":"textbox","id":"sh/byhgn29g","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1142,654,66,22]}
+{"kind":"image","id":"im/t83itgfm","slide":6,"name":"","geometry":"roundRect","alt":"wallet-experience-desktop.png","bbox":[642,94,554,392]}
+{"kind":"notes","id":"nt/d0anqi","slide":6,"text":"This slide protects the brand and explains the product stance around sensitive wallet contexts."}
+{"kind":"slide","id":"sl/178rwr","slide":7,"title":"Business flywheel","textShapes":8}
+{"kind":"textbox","id":"sh/nyd0z610","slide":7,"text":"Business flywheel","textPreview":"Business flywheel","textChars":17,"textLines":1,"bbox":[72,54,460,22]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":7,"text":"The business grows when visitors can verify the story.","textPreview":"The business grows when visitors can verify the story.","textChars":54,"textLines":1,"bbox":[72,92,545,108]}
+{"kind":"textbox","id":"sh/54zidony","slide":7,"text":"Attention becomes understanding. Understanding creates trust. Trust improves the quality of customer, partner and media conversations.","textPreview":"Attention becomes understanding. Understanding creates trust. Trust improves the quality of customer, partner and media conversations.","textChars":134,"textLines":1,"bbox":[72,214,545,54]}
+{"kind":"textbox","id":"sh/cvixczed","slide":7,"text":"Attention becomes understanding. Understanding creates trust. Trust improves the quality of customer, partner and media conversations.","textPreview":"Attention becomes understanding. Understanding creates trust. Trust improves the quality of customer, partner and media conversations.","textChars":134,"textLines":1,"bbox":[78,302,506,116]}
+{"kind":"shape","id":"sh/5gbq1ory","slide":7,"bbox":[78,472,506,82]}
+{"kind":"shape","id":"sh/u18jqh0f","slide":7,"bbox":[78,472,8,82]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":7,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[106,486,450,18]}
+{"kind":"textbox","id":"sh/b6xkf6dc","slide":7,"text":"The commercial loop starts with clarity.","textPreview":"The commercial loop starts with clarity.","textChars":40,"textLines":1,"bbox":[106,508,450,30]}
+{"kind":"shape","id":"sh/il0rqd4v","slide":7,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/tcj6tova","slide":7,"text":"L3AI Story Book Premium v2","textPreview":"L3AI Story Book Premium v2","textChars":26,"textLines":1,"bbox":[72,654,420,22]}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1142,654,66,22]}
+{"kind":"image","id":"im/7u54zido","slide":7,"name":"","geometry":"roundRect","alt":"business-model-desktop.png","bbox":[674,88,500,286]}
+{"kind":"image","id":"im/ed8bat47","slide":7,"name":"","geometry":"rect","alt":"l3ai-business-model-loop-030.png","bbox":[744,414,358,156]}
+{"kind":"notes","id":"nt/178rwr","slide":7,"text":"Use the flywheel as business logic, not as a revenue promise."}
+{"kind":"slide","id":"sl/s4f0kj","slide":8,"title":"Ecosystem map","textShapes":15}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":8,"text":"Ecosystem map","textPreview":"Ecosystem map","textChars":13,"textLines":1,"bbox":[72,54,460,22]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":8,"text":"L3AI connects public education, product proof and partner review.","textPreview":"L3AI connects public education, product proof and partner review.","textChars":65,"textLines":1,"bbox":[72,92,720,108]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":8,"text":"Customers, partners, media and investor-style reviewers need different paths, but the same controlled source of truth.","textPreview":"Customers, partners, media and investor-style reviewers need different paths, but the same controlled source of truth.","textChars":118,"textLines":1,"bbox":[72,214,720,54]}
+{"kind":"shape","id":"sh/epkzupwb","slide":8,"bbox":[668,292,234,94]}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":8,"text":"Customers","textPreview":"Customers","textChars":9,"textLines":1,"bbox":[690,310,188,24]}
+{"kind":"textbox","id":"sh/wval87ed","slide":8,"text":"Product value","textPreview":"Product value","textChars":13,"textLines":1,"bbox":[690,342,188,28]}
+{"kind":"shape","id":"sh/36hcrmhk","slide":8,"bbox":[920,292,234,94]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":8,"text":"Partners","textPreview":"Partners","textChars":8,"textLines":1,"bbox":[942,310,188,24]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":8,"text":"Ecosystem fit","textPreview":"Ecosystem fit","textChars":13,"textLines":1,"bbox":[942,342,188,28]}
+{"kind":"shape","id":"sh/lc7u54zi","slide":8,"bbox":[668,416,234,94]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":8,"text":"Media","textPreview":"Media","textChars":5,"textLines":1,"bbox":[690,434,188,24]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":8,"text":"Approved facts","textPreview":"Approved facts","textChars":14,"textLines":1,"bbox":[690,466,188,28]}
+{"kind":"shape","id":"sh/wfyxobm5","slide":8,"bbox":[920,416,234,94]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":8,"text":"Reviewers","textPreview":"Reviewers","textChars":9,"textLines":1,"bbox":[942,434,188,24]}
+{"kind":"textbox","id":"sh/ed8bat47","slide":8,"text":"Roadmap status","textPreview":"Roadmap status","textChars":14,"textLines":1,"bbox":[942,466,188,28]}
+{"kind":"shape","id":"sh/7u54zido","slide":8,"bbox":[668,546,504,62]}
+{"kind":"shape","id":"sh/w7mp0bi9","slide":8,"bbox":[668,546,8,62]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":8,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[696,560,448,18]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":8,"text":"One story, several review paths.","textPreview":"One story, several review paths.","textChars":32,"textLines":1,"bbox":[696,582,448,30]}
+{"kind":"shape","id":"sh/kb6xkf6d","slide":8,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":8,"text":"L3AI Story Book Premium v2","textPreview":"L3AI Story Book Premium v2","textChars":26,"textLines":1,"bbox":[72,654,420,22]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1142,654,66,22]}
+{"kind":"image","id":"im/itgfmlkj","slide":8,"name":"","geometry":"rect","alt":"l3ai-ecosystem-map-030.png","bbox":[122,286,464,254]}
+{"kind":"notes","id":"nt/s4f0kj","slide":8,"text":"Position the ecosystem as a public review architecture."}
+{"kind":"slide","id":"sl/19l1al","slide":9,"title":"Roadmap discipline","textShapes":20}
+{"kind":"textbox","id":"sh/61032lsz","slide":9,"text":"Roadmap discipline","textPreview":"Roadmap discipline","textChars":18,"textLines":1,"bbox":[72,54,460,22]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":9,"text":"Every claim sits in a visible status lane.","textPreview":"Every claim sits in a visible status lane.","textChars":42,"textLines":1,"bbox":[72,92,860,108]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":9,"text":"Current, in-progress and planned capabilities are separated so public materials stay credible.","textPreview":"Current, in-progress and planned capabilities are separated so public materials stay credible.","textChars":94,"textLines":1,"bbox":[72,214,760,54]}
+{"kind":"shape","id":"sh/vy90je9c","slide":9,"bbox":[76,286,340,258]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":9,"bbox":[100,310,136,34]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":9,"text":"Current","textPreview":"Current","textChars":7,"textLines":1,"bbox":[116,319,104,16]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":9,"text":"Public website","textPreview":"Public website","textChars":14,"textLines":1,"bbox":[106,368,270,24]}
+{"kind":"shape","id":"sh/z25kb6xk","slide":9,"bbox":[106,398,280,2]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":9,"text":"AI Quant explanation","textPreview":"AI Quant explanation","textChars":20,"textLines":1,"bbox":[106,408,270,24]}
+{"kind":"shape","id":"sh/gr2p8nqx","slide":9,"bbox":[106,438,280,2]}
+{"kind":"textbox","id":"sh/9cvixcze","slide":9,"text":"Wallet education","textPreview":"Wallet education","textChars":16,"textLines":1,"bbox":[106,448,270,24]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":9,"bbox":[106,478,280,2]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":9,"text":"Resource library","textPreview":"Resource library","textChars":16,"textLines":1,"bbox":[106,488,270,24]}
+{"kind":"shape","id":"sh/g3ex0nux","slide":9,"bbox":[468,286,340,258]}
+{"kind":"shape","id":"sh/5o7qpg3e","slide":9,"bbox":[492,310,136,34]}
+{"kind":"textbox","id":"sh/yxobm58z","slide":9,"text":"In Progress","textPreview":"In Progress","textChars":11,"textLines":1,"bbox":[508,319,104,16]}
+{"kind":"textbox","id":"sh/nih4byhg","slide":9,"text":"Creative polish","textPreview":"Creative polish","textChars":15,"textLines":1,"bbox":[498,368,270,24]}
+{"kind":"shape","id":"sh/g7adsji5","slide":9,"bbox":[498,398,280,2]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":9,"text":"Localized campaigns","textPreview":"Localized campaigns","textChars":19,"textLines":1,"bbox":[498,408,270,24]}
+{"kind":"shape","id":"sh/twra5gbq","slide":9,"bbox":[498,438,280,2]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":9,"text":"More recordings","textPreview":"More recordings","textChars":15,"textLines":1,"bbox":[498,448,270,24]}
+{"kind":"shape","id":"sh/bq1oryts","slide":9,"bbox":[498,478,280,2]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":9,"text":"Launch QA evidence","textPreview":"Launch QA evidence","textChars":18,"textLines":1,"bbox":[498,488,270,24]}
+{"kind":"shape","id":"sh/t83itgfm","slide":9,"bbox":[860,286,340,258]}
+{"kind":"shape","id":"sh/4nap4r65","slide":9,"bbox":[884,310,136,34]}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":9,"text":"Planned","textPreview":"Planned","textChars":7,"textLines":1,"bbox":[900,319,104,16]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":9,"text":"Partner kits","textPreview":"Partner kits","textChars":12,"textLines":1,"bbox":[890,368,270,24]}
+{"kind":"shape","id":"sh/tgfmlkjm","slide":9,"bbox":[890,398,280,2]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":9,"text":"Growth automation","textPreview":"Growth automation","textChars":17,"textLines":1,"bbox":[890,408,270,24]}
+{"kind":"shape","id":"sh/epkzupwb","slide":9,"bbox":[890,438,280,2]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":9,"text":"Motion package","textPreview":"Motion package","textChars":14,"textLines":1,"bbox":[890,448,270,24]}
+{"kind":"shape","id":"sh/wval87ed","slide":9,"bbox":[890,478,280,2]}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":9,"text":"Channel expansion","textPreview":"Channel expansion","textChars":17,"textLines":1,"bbox":[890,488,270,24]}
+{"kind":"shape","id":"sh/e1w7mp0b","slide":9,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/7mp0bi9s","slide":9,"text":"L3AI Story Book Premium v2","textPreview":"L3AI Story Book Premium v2","textChars":26,"textLines":1,"bbox":[72,654,420,22]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1142,654,66,22]}
+{"kind":"notes","id":"nt/19l1al","slide":9,"text":"This is a core maturity signal. Do not overstate future features."}
+{"kind":"slide","id":"sl/tprzyk","slide":10,"title":"Trust boundary","textShapes":15}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":10,"text":"Trust boundary","textPreview":"Trust boundary","textChars":14,"textLines":1,"bbox":[72,54,460,22]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":10,"text":"The strongest public story says what it will not do.","textPreview":"The strongest public story says what it will not do.","textChars":52,"textLines":1,"bbox":[72,92,760,108]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":10,"text":"The rebuilt Story Book avoids private implementation details, protected data, outcome promises, deposit prompts and unsupported financial claims.","textPreview":"The rebuilt Story Book avoids private implementation details, protected data, outcome promises, deposit prompts and unsupported financial...","textChars":145,"textLines":1,"bbox":[72,214,760,54]}
+{"kind":"shape","id":"sh/j2t83itg","slide":10,"bbox":[86,300,234,94]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":10,"text":"No outcome promises","textPreview":"No outcome promises","textChars":19,"textLines":1,"bbox":[108,318,188,24]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":10,"text":"No performance, yield-rate or asset-price promises.","textPreview":"No performance, yield-rate or asset-price promises.","textChars":51,"textLines":1,"bbox":[108,350,188,28]}
+{"kind":"shape","id":"sh/8nqxs72x","slide":10,"bbox":[638,300,234,94]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":10,"text":"No deposit prompts","textPreview":"No deposit prompts","textChars":18,"textLines":1,"bbox":[660,318,188,24]}
+{"kind":"textbox","id":"sh/ulwval87","slide":10,"text":"No instruction to fund, trade or sign from public collateral.","textPreview":"No instruction to fund, trade or sign from public collateral.","textChars":61,"textLines":1,"bbox":[660,350,188,28]}
+{"kind":"shape","id":"sh/4vmtwra5","slide":10,"bbox":[86,422,234,94]}
+{"kind":"textbox","id":"sh/tgfmlkjm","slide":10,"text":"No private exposure","textPreview":"No private exposure","textChars":19,"textLines":1,"bbox":[108,440,188,24]}
+{"kind":"textbox","id":"sh/mp0bi9s3","slide":10,"text":"No protected routes, credentials, signing data or internal source detail.","textPreview":"No protected routes, credentials, signing data or internal source detail.","textChars":73,"textLines":1,"bbox":[108,472,188,28]}
+{"kind":"shape","id":"sh/bat47y1k","slide":10,"bbox":[638,422,234,94]}
+{"kind":"textbox","id":"sh/47y1kre1","slide":10,"text":"Status lanes remain visible","textPreview":"Status lanes remain visible","textChars":27,"textLines":1,"bbox":[660,440,188,24]}
+{"kind":"textbox","id":"sh/tsvu9kni","slide":10,"text":"Current, in-progress and planned work are kept separate.","textPreview":"Current, in-progress and planned work are kept separate.","textChars":56,"textLines":1,"bbox":[660,472,188,28]}
+{"kind":"shape","id":"sh/m1cfa9w3","slide":10,"bbox":[206,566,868,62]}
+{"kind":"shape","id":"sh/bm58z25k","slide":10,"bbox":[206,566,8,62]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":10,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[234,580,812,18]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":10,"text":"Clear boundaries make the brand safer to share.","textPreview":"Clear boundaries make the brand safer to share.","textChars":47,"textLines":1,"bbox":[234,602,812,30]}
+{"kind":"shape","id":"sh/1gvy90je","slide":10,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":10,"text":"L3AI Story Book Premium v2","textPreview":"L3AI Story Book Premium v2","textChars":26,"textLines":1,"bbox":[72,654,420,22]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1142,654,66,22]}
+{"kind":"notes","id":"nt/tprzyk","slide":10,"text":"Keep this page bold and minimal. It should feel like a brand principle, not a disclaimer dump."}
+{"kind":"slide","id":"sl/6x4r97","slide":11,"title":"Proof room","textShapes":13}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":11,"text":"Proof room","textPreview":"Proof room","textChars":10,"textLines":1,"bbox":[72,54,460,22]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":11,"text":"Resources turn the story into downloadable evidence.","textPreview":"Resources turn the story into downloadable evidence.","textChars":52,"textLines":1,"bbox":[72,92,560,108]}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":11,"text":"Visitors can move from the story to the product book, partnership deck, video narrative, screenshots, recordings and versioned manifests.","textPreview":"Visitors can move from the story to the product book, partnership deck, video narrative, screenshots, recordings and versioned manifests.","textChars":137,"textLines":1,"bbox":[72,214,560,54]}
+{"kind":"shape","id":"sh/q1orytsv","slide":11,"bbox":[82,318,176,34]}
+{"kind":"textbox","id":"sh/xs72x4na","slide":11,"text":"Story Book","textPreview":"Story Book","textChars":10,"textLines":1,"bbox":[98,327,144,16]}
+{"kind":"shape","id":"sh/87ed8bat","slide":11,"bbox":[292,318,176,34]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":11,"text":"Product Book","textPreview":"Product Book","textChars":12,"textLines":1,"bbox":[308,327,144,16]}
+{"kind":"shape","id":"sh/qd4vmtwr","slide":11,"bbox":[82,366,176,34]}
+{"kind":"textbox","id":"sh/sfil0rqd","slide":11,"text":"Partnership Deck","textPreview":"Partnership Deck","textChars":16,"textLines":1,"bbox":[98,375,144,16]}
+{"kind":"shape","id":"sh/h0fepkzu","slide":11,"bbox":[292,366,176,34]}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":11,"text":"Video narrative","textPreview":"Video narrative","textChars":15,"textLines":1,"bbox":[308,375,144,16]}
+{"kind":"shape","id":"sh/zupwb2hw","slide":11,"bbox":[82,414,176,34]}
+{"kind":"textbox","id":"sh/orytsvu9","slide":11,"text":"Manifest","textPreview":"Manifest","textChars":8,"textLines":1,"bbox":[98,423,144,16]}
+{"kind":"textbox","id":"sh/hcrmhk3q","slide":11,"text":"Visitors can move from the story to the product book, partnership deck, video narrative, screenshots, recordings and versioned manifests.","textPreview":"Visitors can move from the story to the product book, partnership deck, video narrative, screenshots, recordings and versioned manifests.","textChars":137,"textLines":1,"bbox":[82,474,496,54]}
+{"kind":"shape","id":"sh/al87ed8b","slide":11,"bbox":[82,548,496,62]}
+{"kind":"shape","id":"sh/z61032ls","slide":11,"bbox":[82,548,8,62]}
+{"kind":"textbox","id":"sh/oza1gvy9","slide":11,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[110,562,440,18]}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":11,"text":"The proof is organized, downloadable and public-safe.","textPreview":"The proof is organized, downloadable and public-safe.","textChars":53,"textLines":1,"bbox":[110,584,440,30]}
+{"kind":"shape","id":"sh/1w7mp0bi","slide":11,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":11,"text":"L3AI Story Book Premium v2","textPreview":"L3AI Story Book Premium v2","textChars":26,"textLines":1,"bbox":[72,654,420,22]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1142,654,66,22]}
+{"kind":"image","id":"im/m94fu18j","slide":11,"name":"","geometry":"roundRect","alt":"resources-flow-desktop.png","bbox":[640,96,546,372]}
+{"kind":"notes","id":"nt/6x4r97","slide":11,"text":"Use this as the handoff from story to evidence."}
+{"kind":"slide","id":"sl/p4643h","slide":12,"title":"Review path","textShapes":9}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":12,"text":"Review path","textPreview":"Review path","textChars":11,"textLines":1,"bbox":[72,72,440,22]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":12,"text":"Open the story. Review the product. Verify the boundary.","textPreview":"Open the story. Review the product. Verify the boundary.","textChars":56,"textLines":1,"bbox":[72,126,622,180]}
+{"kind":"textbox","id":"sh/87ed8bat","slide":12,"text":"L3AI is ready to be understood through a public product journey, not just a pitch deck.","textPreview":"L3AI is ready to be understood through a public product journey, not just a pitch deck.","textChars":87,"textLines":1,"bbox":[72,342,596,72]}
+{"kind":"shape","id":"sh/xs72x4na","slide":12,"bbox":[72,498,596,78]}
+{"kind":"shape","id":"sh/q1orytsv","slide":12,"bbox":[72,498,8,78]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":12,"text":"Customer takeaway","textPreview":"Customer takeaway","textChars":17,"textLines":1,"bbox":[100,512,540,18]}
+{"kind":"textbox","id":"sh/8jqh0fep","slide":12,"text":"Next step: open Resources or contact the team.","textPreview":"Next step: open Resources or contact the team.","textChars":46,"textLines":1,"bbox":[100,534,540,30]}
+{"kind":"shape","id":"sh/x4nap4r6","slide":12,"bbox":[782,428,154,34]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":12,"text":"Resources","textPreview":"Resources","textChars":9,"textLines":1,"bbox":[798,437,122,16]}
+{"kind":"shape","id":"sh/8bat47y1","slide":12,"bbox":[958,428,132,34]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":12,"text":"Contact","textPreview":"Contact","textChars":7,"textLines":1,"bbox":[974,437,100,16]}
+{"kind":"shape","id":"sh/q5o7qpg3","slide":12,"bbox":[72,640,1136,2]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":12,"text":"L3AI Story Book Premium v2","textPreview":"L3AI Story Book Premium v2","textChars":26,"textLines":1,"bbox":[72,654,420,22]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1142,654,66,22]}
+{"kind":"image","id":"im/wjudg7ad","slide":12,"name":"","geometry":"roundRect","alt":"resources-flow-desktop.png","bbox":[704,86,450,286]}
+{"kind":"notes","id":"nt/p4643h","slide":12,"text":"Close with a practical external handoff."}
