@@ -1,0 +1,576 @@
+{"kind":"deck","id":"pr/6r8qu4","name":"Deck"}
+{"kind":"layout","layoutId":"9a3bfcf3-7419-4e90-99d7-c337759f96e8","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"ba0ac8ce-8a09-4833-8949-c86921301341","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/62mctx","slide":1,"title":"L3AI Real Platform Product Book","textShapes":7}
+{"kind":"shape","id":"sh/idonyd0z","slide":1,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/t47y1kre","slide":1,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/0je9cvix","slide":1,"bbox":[0,46,1280,2]}
+{"kind":"shape","id":"sh/b6xkf6dc","slide":1,"bbox":[900,-120,360,360]}
+{"kind":"shape","id":"sh/il0rqd4v","slide":1,"bbox":[1020,88,220,220]}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":1,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,76,520,26]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":1,"text":"L3AI is the platform, not the website.","textPreview":"L3AI is the platform, not the website.","textChars":38,"textLines":1,"bbox":[72,142,650,240]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":1,"text":"A rebuilt product book based on the real application architecture: dashboard, wallet, AI Quant, compute, Sec60, growth, Universe and public-safe admin operations.","textPreview":"A rebuilt product book based on the real application architecture: dashboard, wallet, AI Quant, compute, Sec60, growth, Universe and publ...","textChars":162,"textLines":1,"bbox":[72,414,610,70]}
+{"kind":"shape","id":"sh/s72x4nap","slide":1,"bbox":[72,544,560,78]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":1,"bbox":[72,544,8,78]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":1,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[98,557,508,18]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":1,"text":"Use this version when a customer or partner asks what the actual L3AI product does.","textPreview":"Use this version when a customer or partner asks what the actual L3AI product does.","textChars":83,"textLines":1,"bbox":[98,580,508,28]}
+{"kind":"shape","id":"sh/sji5snel","slide":1,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":1,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/wra5gbq1","slide":1,"name":"","geometry":"roundRect","alt":"01-profile-dashboard.png","bbox":[690,92,460,314]}
+{"kind":"notes","id":"nt/62mctx","slide":1,"text":"Use this version when a customer or partner asks what the actual L3AI product does."}
+{"kind":"slide","id":"sl/frey1n","slide":2,"title":"Architecture correction","textShapes":7}
+{"kind":"shape","id":"sh/tgfmlkjm","slide":2,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/mp0bi9s3","slide":2,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/bat47y1k","slide":2,"bbox":[0,46,1280,2]}
+{"kind":"shape","id":"sh/47y1kre1","slide":2,"bbox":[900,-120,360,360]}
+{"kind":"shape","id":"sh/tsvu9kni","slide":2,"bbox":[1020,88,220,220]}
+{"kind":"textbox","id":"sh/bm58z25k","slide":2,"text":"Architecture correction","textPreview":"Architecture correction","textChars":23,"textLines":1,"bbox":[72,76,360,24]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":2,"text":"The previous book explained the wrapper, not the product.","textPreview":"The previous book explained the wrapper, not the product.","textChars":57,"textLines":1,"bbox":[72,138,632,160]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":2,"text":"Scenario: a reviewer opens a Product Book and expects to see the logged-in platform. They should not receive a guide to Resources, QA files or manifests.","textPreview":"Scenario: a reviewer opens a Product Book and expects to see the logged-in platform. They should not receive a guide to Resources, QA fil...","textChars":153,"textLines":1,"bbox":[72,332,580,78]}
+{"kind":"shape","id":"sh/1cfa9w3m","slide":2,"bbox":[72,504,580,78]}
+{"kind":"shape","id":"sh/crmhk3q5","slide":2,"bbox":[72,504,8,78]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":2,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[98,517,528,18]}
+{"kind":"textbox","id":"sh/ulwval87","slide":2,"text":"The website distributes the story. The product is the application system behind it.","textPreview":"The website distributes the story. The product is the application system behind it.","textChars":83,"textLines":1,"bbox":[98,540,528,28]}
+{"kind":"shape","id":"sh/1kre1w7m","slide":2,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":2,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/f6dcbulw","slide":2,"name":"","geometry":"roundRect","alt":"l3ai-enterprise-hero-030.png","bbox":[742,96,416,300]}
+{"kind":"notes","id":"nt/frey1n","slide":2,"text":"The website distributes the story. The product is the application system behind it."}
+{"kind":"slide","id":"sl/g144mq","slide":3,"title":"Architecture correction","textShapes":12}
+{"kind":"shape","id":"sh/gbq1oryt","slide":3,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/nuxc3ylc","slide":3,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/y90je9cv","slide":3,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/58z25kb6","slide":3,"text":"Architecture correction","textPreview":"Architecture correction","textChars":23,"textLines":1,"bbox":[72,56,380,24]}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":3,"text":"Scenario: a visitor becomes a platform user.","textPreview":"Scenario: a visitor becomes a platform user.","textChars":44,"textLines":1,"bbox":[72,104,1000,106]}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":3,"text":"Register, enter the dashboard, understand wallet state, choose a product path, track progress, grow through membership/community and return through history or Universe.","textPreview":"Register, enter the dashboard, understand wallet state, choose a product path, track progress, grow through membership/community and retu...","textChars":168,"textLines":1,"bbox":[72,232,790,52]}
+{"kind":"shape","id":"sh/yhgn29gr","slide":3,"bbox":[56,322,76,76]}
+{"kind":"shape","id":"sh/5kb6xkf6","slide":3,"bbox":[74,340,40,40]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":3,"text":"Register","textPreview":"Register","textChars":8,"textLines":1,"bbox":[58,424,110,28]}
+{"kind":"shape","id":"sh/2hwfyxob","slide":3,"bbox":[152,392,104,0]}
+{"kind":"shape","id":"sh/r2p8nqxs","slide":3,"bbox":[280,322,76,76]}
+{"kind":"shape","id":"sh/kjm1cfa9","slide":3,"bbox":[298,340,40,40]}
+{"kind":"textbox","id":"sh/94fu18jq","slide":3,"text":"Dashboard","textPreview":"Dashboard","textChars":9,"textLines":1,"bbox":[282,424,110,28]}
+{"kind":"shape","id":"sh/2p8nqxs7","slide":3,"bbox":[376,392,104,0]}
+{"kind":"shape","id":"sh/ra5gbq1o","slide":3,"bbox":[504,322,76,76]}
+{"kind":"shape","id":"sh/gvy90je9","slide":3,"bbox":[522,340,40,40]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":3,"text":"Wallet","textPreview":"Wallet","textChars":6,"textLines":1,"bbox":[506,424,110,28]}
+{"kind":"shape","id":"sh/2t83itgf","slide":3,"bbox":[600,392,104,0]}
+{"kind":"shape","id":"sh/re1w7mp0","slide":3,"bbox":[728,322,76,76]}
+{"kind":"shape","id":"sh/nap4r65w","slide":3,"bbox":[746,340,40,40]}
+{"kind":"textbox","id":"sh/upwb2hwf","slide":3,"text":"Products","textPreview":"Products","textChars":8,"textLines":1,"bbox":[730,424,110,28]}
+{"kind":"shape","id":"sh/5gbq1ory","slide":3,"bbox":[824,392,104,0]}
+{"kind":"shape","id":"sh/cvixczed","slide":3,"bbox":[952,322,76,76]}
+{"kind":"shape","id":"sh/nyd0z610","slide":3,"bbox":[970,340,40,40]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":3,"text":"Return","textPreview":"Return","textChars":6,"textLines":1,"bbox":[954,424,110,28]}
+{"kind":"shape","id":"sh/cj6tovah","slide":3,"bbox":[246,540,790,78]}
+{"kind":"shape","id":"sh/judg7ads","slide":3,"bbox":[246,540,8,78]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":3,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[272,553,738,18]}
+{"kind":"textbox","id":"sh/83itgfml","slide":3,"text":"The core product journey is a user lifecycle, not a website review path.","textPreview":"The core product journey is a user lifecycle, not a website review path.","textChars":72,"textLines":1,"bbox":[272,576,738,28]}
+{"kind":"shape","id":"sh/xobm58z2","slide":3,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":3,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/29gr2p8n","slide":3,"name":"","geometry":"rect","alt":"l3ai-ai-quant-workflow-030.png","bbox":[896,282,220,118]}
+{"kind":"notes","id":"nt/g144mq","slide":3,"text":"Register\nDashboard\nWallet\nProducts\nGrowth"}
+{"kind":"slide","id":"sl/jx7h4j","slide":4,"title":"Architecture correction","textShapes":11}
+{"kind":"shape","id":"sh/3q5o7qpg","slide":4,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/wb2hwfyx","slide":4,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/lwval87e","slide":4,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":4,"text":"Architecture correction","textPreview":"Architecture correction","textChars":23,"textLines":1,"bbox":[72,56,380,24]}
+{"kind":"textbox","id":"sh/3itgfmlk","slide":4,"text":"The real platform has eight connected domains.","textPreview":"The real platform has eight connected domains.","textChars":46,"textLines":1,"bbox":[72,104,970,104]}
+{"kind":"textbox","id":"sh/w3m94fu1","slide":4,"text":"Dashboard and identity, Wallet, AI Quant, Compute, Sec60, Growth, Universe, and Admin/Risk work together as one product architecture.","textPreview":"Dashboard and identity, Wallet, AI Quant, Compute, Sec60, Growth, Universe, and Admin/Risk work together as one product architecture.","textChars":133,"textLines":1,"bbox":[72,226,790,52]}
+{"kind":"shape","id":"sh/at47y1kr","slide":4,"bbox":[126,302,76,76]}
+{"kind":"shape","id":"sh/3ex0nuxc","slide":4,"bbox":[144,320,40,40]}
+{"kind":"textbox","id":"sh/3itgfmlk","slide":4,"text":"AI Quant","textPreview":"AI Quant","textChars":8,"textLines":1,"bbox":[90,392,150,24]}
+{"kind":"shape","id":"sh/ex0nuxc3","slide":4,"bbox":[392,284,76,76]}
+{"kind":"shape","id":"sh/loj2t83i","slide":4,"bbox":[410,302,40,40]}
+{"kind":"textbox","id":"sh/w3m94fu1","slide":4,"text":"Wallet","textPreview":"Wallet","textChars":6,"textLines":1,"bbox":[356,374,150,24]}
+{"kind":"shape","id":"sh/3q5o7qpg","slide":4,"bbox":[658,284,76,76]}
+{"kind":"shape","id":"sh/e9cvixcz","slide":4,"bbox":[676,302,40,40]}
+{"kind":"textbox","id":"sh/lwval87e","slide":4,"text":"Compute","textPreview":"Compute","textChars":7,"textLines":1,"bbox":[622,374,150,24]}
+{"kind":"shape","id":"sh/wb2hwfyx","slide":4,"bbox":[924,302,76,76]}
+{"kind":"shape","id":"sh/32lszqtc","slide":4,"bbox":[942,320,40,40]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":4,"text":"Community","textPreview":"Community","textChars":9,"textLines":1,"bbox":[888,392,150,24]}
+{"kind":"shape","id":"sh/il0rqd4v","slide":4,"bbox":[396,562,490,78]}
+{"kind":"shape","id":"sh/b6xkf6dc","slide":4,"bbox":[396,562,8,78]}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":4,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[422,575,438,18]}
+{"kind":"textbox","id":"sh/tcj6tova","slide":4,"text":"Every public explanation must map back to these real domains.","textPreview":"Every public explanation must map back to these real domains.","textChars":61,"textLines":1,"bbox":[422,598,438,28]}
+{"kind":"shape","id":"sh/idonyd0z","slide":4,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/byhgn29g","slide":4,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/0je9cvix","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/kb6xkf6d","slide":4,"name":"","geometry":"rect","alt":"l3ai-ecosystem-map-030.png","bbox":[446,308,330,186]}
+{"kind":"notes","id":"nt/jx7h4j","slide":4,"text":"Dashboard\nWallet\nAI Quant\nCompute\nSec60\nGrowth\nUniverse\nAdmin"}
+{"kind":"slide","id":"sl/hkbm37","slide":5,"title":"Core product modules","textShapes":7}
+{"kind":"shape","id":"sh/svu9knih","slide":5,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/za1gvy90","slide":5,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/ap4r65wj","slide":5,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/s36hcrmh","slide":5,"text":"Core product modules","textPreview":"Core product modules","textChars":20,"textLines":1,"bbox":[666,72,360,24]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":5,"text":"Scenario: the user logs in and needs one clear home.","textPreview":"Scenario: the user logs in and needs one clear home.","textChars":52,"textLines":1,"bbox":[666,126,500,154]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":5,"text":"The dashboard/profile hub shows identity, VIP state, asset summary, quick actions, benefits and entry points into AI, contract, Universe and compute surfaces.","textPreview":"The dashboard/profile hub shows identity, VIP state, asset summary, quick actions, benefits and entry points into AI, contract, Universe ...","textChars":158,"textLines":1,"bbox":[666,312,484,90]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":5,"bbox":[666,506,484,78]}
+{"kind":"shape","id":"sh/s72x4nap","slide":5,"bbox":[666,506,8,78]}
+{"kind":"textbox","id":"sh/idonyd0z","slide":5,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[692,519,432,18]}
+{"kind":"textbox","id":"sh/byhgn29g","slide":5,"text":"The dashboard is the first real product screen after authentication.","textPreview":"The dashboard is the first real product screen after authentication.","textChars":68,"textLines":1,"bbox":[692,542,432,28]}
+{"kind":"shape","id":"sh/0je9cvix","slide":5,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":5,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/s72x4nap","slide":5,"name":"","geometry":"roundRect","alt":"01-profile-dashboard.png","bbox":[82,96,510,358]}
+{"kind":"notes","id":"nt/hkbm37","slide":5,"text":"The dashboard is the first real product screen after authentication."}
+{"kind":"slide","id":"sl/w0p9cz","slide":6,"title":"Core product modules","textShapes":7}
+{"kind":"shape","id":"sh/d0z61032","slide":6,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/29gr2p8n","slide":6,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/vu9knih4","slide":6,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/knih4byh","slide":6,"text":"Core product modules","textPreview":"Core product modules","textChars":20,"textLines":1,"bbox":[72,56,380,24]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":6,"text":"Identity is more than a login form.","textPreview":"Identity is more than a login form.","textChars":35,"textLines":1,"bbox":[72,104,560,156]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":6,"text":"Scenario: a new user needs account state, profile identity, security status, public UID and a route back to product actions without guessing where to go.","textPreview":"Scenario: a new user needs account state, profile identity, security status, public UID and a route back to product actions without guess...","textChars":153,"textLines":1,"bbox":[72,294,520,86]}
+{"kind":"shape","id":"sh/kre1w7mp","slide":6,"bbox":[72,500,520,78]}
+{"kind":"shape","id":"sh/dcbulwva","slide":6,"bbox":[72,500,8,78]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":6,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[98,513,468,18]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":6,"text":"Authentication, profile and security turn a visitor into a product user.","textPreview":"Authentication, profile and security turn a visitor into a product user.","textChars":72,"textLines":1,"bbox":[98,536,468,28]}
+{"kind":"shape","id":"sh/3m94fu18","slide":6,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":6,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/2x4nap4r","slide":6,"name":"","geometry":"roundRect","alt":"01-profile-dashboard.png","bbox":[672,82,504,360]}
+{"kind":"notes","id":"nt/w0p9cz","slide":6,"text":"Authentication, profile and security turn a visitor into a product user."}
+{"kind":"slide","id":"sl/fctak8","slide":7,"title":"Core product modules","textShapes":7}
+{"kind":"shape","id":"sh/za1gvy90","slide":7,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/svu9knih","slide":7,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/hgn29gr2","slide":7,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":7,"text":"Core product modules","textPreview":"Core product modules","textChars":20,"textLines":1,"bbox":[666,72,360,24]}
+{"kind":"textbox","id":"sh/s36hcrmh","slide":7,"text":"Scenario: the user asks where their assets live.","textPreview":"Scenario: the user asks where their assets live.","textChars":48,"textLines":1,"bbox":[666,126,500,154]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":7,"text":"The wallet and asset center organizes platform balances, chain-aware deposit context, withdrawal, exchange, transfer, history and security verification states.","textPreview":"The wallet and asset center organizes platform balances, chain-aware deposit context, withdrawal, exchange, transfer, history and securit...","textChars":159,"textLines":1,"bbox":[666,312,484,90]}
+{"kind":"shape","id":"sh/a5gbq1or","slide":7,"bbox":[666,506,484,78]}
+{"kind":"shape","id":"sh/3m94fu18","slide":7,"bbox":[666,506,8,78]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":7,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[692,519,432,18]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":7,"text":"Wallet is a controlled asset-state surface, not a generic marketing page.","textPreview":"Wallet is a controlled asset-state surface, not a generic marketing page.","textChars":73,"textLines":1,"bbox":[692,542,432,28]}
+{"kind":"shape","id":"sh/hoza1gvy","slide":7,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/s36hcrmh","slide":7,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/byhgn29g","slide":7,"name":"","geometry":"roundRect","alt":"02-wallet-assets.png","bbox":[82,96,510,358]}
+{"kind":"notes","id":"nt/fctak8","slide":7,"text":"Wallet is a controlled asset-state surface, not a generic marketing page."}
+{"kind":"slide","id":"sl/x6mwpr","slide":8,"title":"Core product modules","textShapes":7}
+{"kind":"shape","id":"sh/ulwval87","slide":8,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/1cfa9w3m","slide":8,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/crmhk3q5","slide":8,"bbox":[0,46,1280,2]}
+{"kind":"shape","id":"sh/ji5snelo","slide":8,"bbox":[900,-120,360,360]}
+{"kind":"shape","id":"sh/uxc3ylc7","slide":8,"bbox":[1020,88,220,220]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":8,"text":"Core product modules","textPreview":"Core product modules","textChars":20,"textLines":1,"bbox":[72,76,360,24]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":8,"text":"Wallet copy must stay inside a safe boundary.","textPreview":"Wallet copy must stay inside a safe boundary.","textChars":45,"textLines":1,"bbox":[72,138,632,160]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":8,"text":"Scenario: a cautious user wants to know what is visible, what is pending and what requires verification. The product should explain state without exposing keys, signatures or real accounts.","textPreview":"Scenario: a cautious user wants to know what is visible, what is pending and what requires verification. The product should explain state...","textChars":189,"textLines":1,"bbox":[72,332,580,78]}
+{"kind":"shape","id":"sh/kzupwb2h","slide":8,"bbox":[72,504,580,78]}
+{"kind":"shape","id":"sh/9knih4by","slide":8,"bbox":[72,504,8,78]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":8,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[98,517,528,18]}
+{"kind":"textbox","id":"sh/re1w7mp0","slide":8,"text":"Public material may show wallet workflows, but never private signing, keys, secrets or live user data.","textPreview":"Public material may show wallet workflows, but never private signing, keys, secrets or live user data.","textChars":102,"textLines":1,"bbox":[98,540,528,28]}
+{"kind":"shape","id":"sh/kb6xkf6d","slide":8,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":8,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/kjm1cfa9","slide":8,"name":"","geometry":"roundRect","alt":"02-wallet-assets.png","bbox":[742,96,416,300]}
+{"kind":"notes","id":"nt/x6mwpr","slide":8,"text":"Public material may show wallet workflows, but never private signing, keys, secrets or live user data."}
+{"kind":"slide","id":"sl/fcypmn","slide":9,"title":"Core product modules","textShapes":7}
+{"kind":"shape","id":"sh/5sneloj2","slide":9,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/u54zidon","slide":9,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/nqxs72x4","slide":9,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/5kb6xkf6","slide":9,"text":"Core product modules","textPreview":"Core product modules","textChars":20,"textLines":1,"bbox":[666,72,360,24]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":9,"text":"Scenario: the user explores compute products.","textPreview":"Scenario: the user explores compute products.","textChars":45,"textLines":1,"bbox":[666,126,500,154]}
+{"kind":"textbox","id":"sh/neloj2t8","slide":9,"text":"The compute product center presents product cards, quota state, release wallet, order history, release logs, risk status and auto-renew controls.","textPreview":"The compute product center presents product cards, quota state, release wallet, order history, release logs, risk status and auto-renew c...","textChars":145,"textLines":1,"bbox":[666,312,484,90]}
+{"kind":"shape","id":"sh/gn29gr2p","slide":9,"bbox":[666,506,484,78]}
+{"kind":"shape","id":"sh/58z25kb6","slide":9,"bbox":[666,506,8,78]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":9,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[692,519,432,18]}
+{"kind":"textbox","id":"sh/knih4byh","slide":9,"text":"Compute is a real product center with order, release and claim lifecycle.","textPreview":"Compute is a real product center with order, release and claim lifecycle.","textChars":73,"textLines":1,"bbox":[692,542,432,28]}
+{"kind":"shape","id":"sh/v6psfil0","slide":9,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":9,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/d0z61032","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/d8bat47y","slide":9,"name":"","geometry":"roundRect","alt":"03-compute-products.png","bbox":[82,96,510,358]}
+{"kind":"notes","id":"nt/fcypmn","slide":9,"text":"Compute is a real product center with order, release and claim lifecycle."}
+{"kind":"slide","id":"sl/t5wmaa","slide":10,"title":"Core product modules","textShapes":7}
+{"kind":"shape","id":"sh/hk3q5o7q","slide":10,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/6xkf6dcb","slide":10,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/zed8v6ps","slide":10,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/obm58z25","slide":10,"text":"Core product modules","textPreview":"Core product modules","textChars":20,"textLines":1,"bbox":[72,56,380,24]}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":10,"text":"Compute has a complete operational loop.","textPreview":"Compute has a complete operational loop.","textChars":40,"textLines":1,"bbox":[72,104,560,156]}
+{"kind":"textbox","id":"sh/65wjudg7","slide":10,"text":"Scenario: a user previews an amount, accepts risk, creates an order, waits through the release cycle, reviews logs and claims available release balance.","textPreview":"Scenario: a user previews an amount, accepts risk, creates an order, waits through the release cycle, reviews logs and claims available r...","textChars":152,"textLines":1,"bbox":[72,294,520,86]}
+{"kind":"shape","id":"sh/sfil0rqd","slide":10,"bbox":[72,500,520,78]}
+{"kind":"shape","id":"sh/h0fepkzu","slide":10,"bbox":[72,500,8,78]}
+{"kind":"textbox","id":"sh/5wjudg7a","slide":10,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[98,513,468,18]}
+{"kind":"textbox","id":"sh/gbq1oryt","slide":10,"text":"The public book should explain lifecycle and controls, not promise fixed returns.","textPreview":"The public book should explain lifecycle and controls, not promise fixed returns.","textChars":81,"textLines":1,"bbox":[98,536,468,28]}
+{"kind":"shape","id":"sh/nuxc3ylc","slide":10,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":10,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/58z25kb6","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/ap4r65wj","slide":10,"name":"","geometry":"roundRect","alt":"03-compute-products.png","bbox":[672,82,504,360]}
+{"kind":"notes","id":"nt/t5wmaa","slide":10,"text":"The public book should explain lifecycle and controls, not promise fixed returns."}
+{"kind":"slide","id":"sl/vwrr7c","slide":11,"title":"Core product modules","textShapes":7}
+{"kind":"shape","id":"sh/hoza1gvy","slide":11,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/a1gvy90j","slide":11,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/zidonyd0","slide":11,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":11,"text":"Core product modules","textPreview":"Core product modules","textChars":20,"textLines":1,"bbox":[666,72,360,24]}
+{"kind":"textbox","id":"sh/ap4r65wj","slide":11,"text":"Scenario: the user wants AI-oriented portfolio context.","textPreview":"Scenario: the user wants AI-oriented portfolio context.","textChars":55,"textLines":1,"bbox":[666,126,500,154]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":11,"text":"AI Quant / Smart Profit shows product entry, active orders, history, market context, strategy signals, renew/redeem controls and reward-source context.","textPreview":"AI Quant / Smart Profit shows product entry, active orders, history, market context, strategy signals, renew/redeem controls and reward-s...","textChars":151,"textLines":1,"bbox":[666,312,484,90]}
+{"kind":"shape","id":"sh/sji5snel","slide":11,"bbox":[666,506,484,78]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":11,"bbox":[666,506,8,78]}
+{"kind":"textbox","id":"sh/p4r65wju","slide":11,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[692,519,432,18]}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":11,"text":"AI Quant is a product workflow with state and controls, not a vague AI slogan.","textPreview":"AI Quant is a product workflow with state and controls, not a vague AI slogan.","textChars":78,"textLines":1,"bbox":[692,542,432,28]}
+{"kind":"shape","id":"sh/7y1kre1w","slide":11,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":11,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/hk3q5o7q","slide":11,"name":"","geometry":"roundRect","alt":"04-ai-smart-profit.png","bbox":[82,96,510,358]}
+{"kind":"notes","id":"nt/vwrr7c","slide":11,"text":"AI Quant is a product workflow with state and controls, not a vague AI slogan."}
+{"kind":"slide","id":"sl/vqovj9","slide":12,"title":"Core product modules","textShapes":7}
+{"kind":"shape","id":"sh/d8bat47y","slide":12,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/2lszqtcj","slide":12,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/v6psfil0","slide":12,"bbox":[0,46,1280,2]}
+{"kind":"shape","id":"sh/kf6dcbul","slide":12,"bbox":[900,-120,360,360]}
+{"kind":"shape","id":"sh/d0z61032","slide":12,"bbox":[1020,88,220,220]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":12,"text":"Core product modules","textPreview":"Core product modules","textChars":20,"textLines":1,"bbox":[72,76,360,24]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":12,"text":"AI Quant claims need strict wording.","textPreview":"AI Quant claims need strict wording.","textChars":36,"textLines":1,"bbox":[72,138,632,160]}
+{"kind":"textbox","id":"sh/donyd0z6","slide":12,"text":"Scenario: a user reads AI material before deciding what to do. L3AI can explain signals, controls and history, but must not promise outcomes, prices, APY or guaranteed profit.","textPreview":"Scenario: a user reads AI material before deciding what to do. L3AI can explain signals, controls and history, but must not promise outco...","textChars":175,"textLines":1,"bbox":[72,332,580,78]}
+{"kind":"shape","id":"sh/p0bi9s36","slide":12,"bbox":[72,504,580,78]}
+{"kind":"shape","id":"sh/0fepkzup","slide":12,"bbox":[72,504,8,78]}
+{"kind":"textbox","id":"sh/bulwval8","slide":12,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[98,517,528,18]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":12,"text":"AI is positioned as decision support and product workflow, not a guarantee layer.","textPreview":"AI is positioned as decision support and product workflow, not a guarantee layer.","textChars":81,"textLines":1,"bbox":[98,540,528,28]}
+{"kind":"shape","id":"sh/tovahoza","slide":12,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/032lszqt","slide":12,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/32lszqtc","slide":12,"name":"","geometry":"roundRect","alt":"04-ai-smart-profit.png","bbox":[742,96,416,300]}
+{"kind":"notes","id":"nt/vqovj9","slide":12,"text":"AI is positioned as decision support and product workflow, not a guarantee layer."}
+{"kind":"slide","id":"sl/3a8wlz","slide":13,"title":"Core product modules","textShapes":7}
+{"kind":"shape","id":"sh/fepkzupw","slide":13,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/4zidonyd","slide":13,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":13,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":13,"text":"Core product modules","textPreview":"Core product modules","textChars":20,"textLines":1,"bbox":[666,72,360,24]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":13,"text":"Scenario: the user enters a short-duration market surface.","textPreview":"Scenario: the user enters a short-duration market surface.","textChars":58,"textLines":1,"bbox":[666,126,500,154]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":13,"text":"Sec60 combines market charting, symbol selection, period selection, direction, amount, confirmation, current orders, history, leaderboard and risk/recovery panels.","textPreview":"Sec60 combines market charting, symbol selection, period selection, direction, amount, confirmation, current orders, history, leaderboard...","textChars":163,"textLines":1,"bbox":[666,312,484,90]}
+{"kind":"shape","id":"sh/m94fu18j","slide":13,"bbox":[666,506,484,78]}
+{"kind":"shape","id":"sh/fu18jqh0","slide":13,"bbox":[666,506,8,78]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":13,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[692,519,432,18]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":13,"text":"Sec60 is a high-risk product surface and must be explained with risk-first language.","textPreview":"Sec60 is a high-risk product surface and must be explained with risk-first language.","textChars":84,"textLines":1,"bbox":[692,542,432,28]}
+{"kind":"shape","id":"sh/9cvixcze","slide":13,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":13,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/nih4byhg","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/re1w7mp0","slide":13,"name":"","geometry":"roundRect","alt":"05-sec60-trading.png","bbox":[82,96,510,358]}
+{"kind":"notes","id":"nt/3a8wlz","slide":13,"text":"Sec60 is a high-risk product surface and must be explained with risk-first language."}
+{"kind":"slide","id":"sl/84jz7f","slide":14,"title":"Core product modules","textShapes":7}
+{"kind":"shape","id":"sh/xs72x4na","slide":14,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/q1orytsv","slide":14,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/fmlkjm1c","slide":14,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":14,"text":"Core product modules","textPreview":"Core product modules","textChars":20,"textLines":1,"bbox":[72,56,380,24]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":14,"text":"Sec60 needs settlement and risk context.","textPreview":"Sec60 needs settlement and risk context.","textChars":40,"textLines":1,"bbox":[72,104,560,156]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":14,"text":"Scenario: after placing a short-duration order, the user needs countdown, result, history, risk controls and recovery context rather than a static product description.","textPreview":"Scenario: after placing a short-duration order, the user needs countdown, result, history, risk controls and recovery context rather than...","textChars":167,"textLines":1,"bbox":[72,294,520,86]}
+{"kind":"shape","id":"sh/8v6psfil","slide":14,"bbox":[72,500,520,78]}
+{"kind":"shape","id":"sh/xczed8v6","slide":14,"bbox":[72,500,8,78]}
+{"kind":"textbox","id":"sh/donyd0z6","slide":14,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[98,513,468,18]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":14,"text":"The core story is the full order-to-settlement loop.","textPreview":"The core story is the full order-to-settlement loop.","textChars":52,"textLines":1,"bbox":[98,536,468,28]}
+{"kind":"shape","id":"sh/vixczed8","slide":14,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":14,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":14,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/uxc3ylc7","slide":14,"name":"","geometry":"roundRect","alt":"05-sec60-trading.png","bbox":[672,82,504,360]}
+{"kind":"notes","id":"nt/84jz7f","slide":14,"text":"The core story is the full order-to-settlement loop."}
+{"kind":"slide","id":"sl/qyu4ew","slide":15,"title":"Growth and operations","textShapes":7}
+{"kind":"shape","id":"sh/nap4r65w","slide":15,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/cvixczed","slide":15,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/5gbq1ory","slide":15,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/nyd0z610","slide":15,"text":"Growth and operations","textPreview":"Growth and operations","textChars":21,"textLines":1,"bbox":[666,72,360,24]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":15,"text":"Scenario: the user grows inside the platform.","textPreview":"Scenario: the user grows inside the platform.","textChars":45,"textLines":1,"bbox":[666,126,500,154]}
+{"kind":"textbox","id":"sh/54zidony","slide":15,"text":"Membership, VIP, achievements, points and benefits connect product usage to account progression and eligibility states.","textPreview":"Membership, VIP, achievements, points and benefits connect product usage to account progression and eligibility states.","textChars":119,"textLines":1,"bbox":[666,312,484,90]}
+{"kind":"shape","id":"sh/u9knih4b","slide":15,"bbox":[666,506,484,78]}
+{"kind":"shape","id":"sh/judg7ads","slide":15,"bbox":[666,506,8,78]}
+{"kind":"textbox","id":"sh/nyd0z610","slide":15,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[692,519,432,18]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":15,"text":"Growth mechanics are product state, not just promotional decoration.","textPreview":"Growth mechanics are product state, not just promotional decoration.","textChars":68,"textLines":1,"bbox":[692,542,432,28]}
+{"kind":"shape","id":"sh/54zidony","slide":15,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":15,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/nap4r65w","slide":15,"text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/3ex0nuxc","slide":15,"name":"","geometry":"roundRect","alt":"01-profile-dashboard.png","bbox":[82,96,510,358]}
+{"kind":"notes","id":"nt/qyu4ew","slide":15,"text":"Growth mechanics are product state, not just promotional decoration."}
+{"kind":"slide","id":"sl/75lau9","slide":16,"title":"Growth and operations","textShapes":7}
+{"kind":"shape","id":"sh/5wjudg7a","slide":16,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/y90je9cv","slide":16,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/nuxc3ylc","slide":16,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/58z25kb6","slide":16,"text":"Growth and operations","textPreview":"Growth and operations","textChars":21,"textLines":1,"bbox":[666,72,360,24]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":16,"text":"Scenario: the user invites and manages a team path.","textPreview":"Scenario: the user invites and manages a team path.","textChars":51,"textLines":1,"bbox":[666,126,500,154]}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":16,"text":"Invite and community surfaces show invite code, partner count, active status, reward-source context, team status and growth-role eligibility.","textPreview":"Invite and community surfaces show invite code, partner count, active status, reward-source context, team status and growth-role eligibil...","textChars":141,"textLines":1,"bbox":[666,312,484,90]}
+{"kind":"shape","id":"sh/czed8v6p","slide":16,"bbox":[666,506,484,78]}
+{"kind":"shape","id":"sh/5kb6xkf6","slide":16,"bbox":[666,506,8,78]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":16,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[692,519,432,18]}
+{"kind":"textbox","id":"sh/8jqh0fep","slide":16,"text":"Referral and team features must be framed around eligibility, auditability and anti-abuse boundaries.","textPreview":"Referral and team features must be framed around eligibility, auditability and anti-abuse boundaries.","textChars":101,"textLines":1,"bbox":[692,542,432,28]}
+{"kind":"shape","id":"sh/fyxobm58","slide":16,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":16,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":16,"text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/lszqtcj6","slide":16,"name":"","geometry":"roundRect","alt":"06-invite-growth.png","bbox":[82,96,510,358]}
+{"kind":"notes","id":"nt/75lau9","slide":16,"text":"Referral and team features must be framed around eligibility, auditability and anti-abuse boundaries."}
+{"kind":"slide","id":"sl/nre5bz","slide":17,"title":"Growth and operations","textShapes":7}
+{"kind":"shape","id":"sh/0rqd4vmt","slide":17,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/b6xkf6dc","slide":17,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/il0rqd4v","slide":17,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":17,"text":"Growth and operations","textPreview":"Growth and operations","textChars":21,"textLines":1,"bbox":[72,56,380,24]}
+{"kind":"textbox","id":"sh/0je9cvix","slide":17,"text":"Revenue history closes the user feedback loop.","textPreview":"Revenue history closes the user feedback loop.","textChars":46,"textLines":1,"bbox":[72,104,560,156]}
+{"kind":"textbox","id":"sh/byhgn29g","slide":17,"text":"Scenario: after AI, Compute, Sec60 or team activity, the user needs a place to review balances, reward sources, transactions, claims and daily summaries.","textPreview":"Scenario: after AI, Compute, Sec60 or team activity, the user needs a place to review balances, reward sources, transactions, claims and ...","textChars":153,"textLines":1,"bbox":[72,294,520,86]}
+{"kind":"shape","id":"sh/p0bi9s36","slide":17,"bbox":[72,500,520,78]}
+{"kind":"shape","id":"sh/0fepkzup","slide":17,"bbox":[72,500,8,78]}
+{"kind":"textbox","id":"sh/itgfmlkj","slide":17,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[98,513,468,18]}
+{"kind":"textbox","id":"sh/7ed8bat4","slide":17,"text":"History and revenue surfaces help users understand state over time.","textPreview":"History and revenue surfaces help users understand state over time.","textChars":67,"textLines":1,"bbox":[98,536,468,28]}
+{"kind":"shape","id":"sh/0z61032l","slide":17,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/pkzupwb2","slide":17,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/ih4byhgn","slide":17,"text":"17","textPreview":"17","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/nqxs72x4","slide":17,"name":"","geometry":"roundRect","alt":"06-invite-growth.png","bbox":[672,82,504,360]}
+{"kind":"notes","id":"nt/nre5bz","slide":17,"text":"History and revenue surfaces help users understand state over time."}
+{"kind":"slide","id":"sl/y64nvv","slide":18,"title":"Growth and operations","textShapes":7}
+{"kind":"shape","id":"sh/t47y1kre","slide":18,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/idonyd0z","slide":18,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/byhgn29g","slide":18,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/tcj6tova","slide":18,"text":"Growth and operations","textPreview":"Growth and operations","textChars":21,"textLines":1,"bbox":[666,72,360,24]}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":18,"text":"Scenario: the user enters the ecosystem layer.","textPreview":"Scenario: the user enters the ecosystem layer.","textChars":46,"textLines":1,"bbox":[666,126,500,154]}
+{"kind":"textbox","id":"sh/b6xkf6dc","slide":18,"text":"Universe connects civilization status, energy, progress, farm, pets, guilds, rankings, market, NFT, DAO and AI agents into a broader retention system.","textPreview":"Universe connects civilization status, energy, progress, farm, pets, guilds, rankings, market, NFT, DAO and AI agents into a broader rete...","textChars":150,"textLines":1,"bbox":[666,312,484,90]}
+{"kind":"shape","id":"sh/032lszqt","slide":18,"bbox":[666,506,484,78]}
+{"kind":"shape","id":"sh/tovahoza","slide":18,"bbox":[666,506,8,78]}
+{"kind":"textbox","id":"sh/l87ed8ba","slide":18,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[692,519,432,18]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":18,"text":"Universe is a product ecosystem layer with current and planned surfaces.","textPreview":"Universe is a product ecosystem layer with current and planned surfaces.","textChars":72,"textLines":1,"bbox":[692,542,432,28]}
+{"kind":"shape","id":"sh/32lszqtc","slide":18,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":18,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/lkjm1cfa","slide":18,"text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/tcj6tova","slide":18,"name":"","geometry":"roundRect","alt":"07-universe-home.png","bbox":[82,96,510,358]}
+{"kind":"notes","id":"nt/y64nvv","slide":18,"text":"Universe is a product ecosystem layer with current and planned surfaces."}
+{"kind":"slide","id":"sl/5yhirx","slide":19,"title":"Growth and operations","textShapes":7}
+{"kind":"shape","id":"sh/re1w7mp0","slide":19,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/kzupwb2h","slide":19,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/9knih4by","slide":19,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":19,"text":"Growth and operations","textPreview":"Growth and operations","textChars":21,"textLines":1,"bbox":[666,72,360,24]}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":19,"text":"Scenario: the user deploys or reviews AI agents.","textPreview":"Scenario: the user deploys or reviews AI agents.","textChars":48,"textLines":1,"bbox":[666,126,500,154]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":19,"text":"The Agent market organizes agent types, rarity, capability scores, supply, cost and management entry points for the Universe experience.","textPreview":"The Agent market organizes agent types, rarity, capability scores, supply, cost and management entry points for the Universe experience.","textChars":136,"textLines":1,"bbox":[666,312,484,90]}
+{"kind":"shape","id":"sh/2hwfyxob","slide":19,"bbox":[666,506,484,78]}
+{"kind":"shape","id":"sh/r2p8nqxs","slide":19,"bbox":[666,506,8,78]}
+{"kind":"textbox","id":"sh/7ed8bat4","slide":19,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[692,519,432,18]}
+{"kind":"textbox","id":"sh/itgfmlkj","slide":19,"text":"Agents give the ecosystem a tangible product object, not just lore.","textPreview":"Agents give the ecosystem a tangible product object, not just lore.","textChars":67,"textLines":1,"bbox":[692,542,432,28]}
+{"kind":"shape","id":"sh/pkzupwb2","slide":19,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/0z61032l","slide":19,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/72x4nap4","slide":19,"text":"19","textPreview":"19","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/7y1kre1w","slide":19,"name":"","geometry":"roundRect","alt":"08-ai-agent-market.png","bbox":[82,96,510,358]}
+{"kind":"notes","id":"nt/5yhirx","slide":19,"text":"Agents give the ecosystem a tangible product object, not just lore."}
+{"kind":"slide","id":"sl/l2fg7a","slide":20,"title":"Growth and operations","textShapes":7}
+{"kind":"shape","id":"sh/p0bi9s36","slide":20,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":20,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/bulwval8","slide":20,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/032lszqt","slide":20,"text":"Growth and operations","textPreview":"Growth and operations","textChars":21,"textLines":1,"bbox":[72,56,380,24]}
+{"kind":"textbox","id":"sh/tovahoza","slide":20,"text":"DAO, guild, market and NFT are roadmap-sensitive.","textPreview":"DAO, guild, market and NFT are roadmap-sensitive.","textChars":49,"textLines":1,"bbox":[72,104,560,156]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":20,"text":"Scenario: a partner asks which ecosystem capabilities are live. The book separates current UI surfaces from features that require product, legal or operational approval.","textPreview":"Scenario: a partner asks which ecosystem capabilities are live. The book separates current UI surfaces from features that require product...","textChars":169,"textLines":1,"bbox":[72,294,520,86]}
+{"kind":"shape","id":"sh/0rqd4vmt","slide":20,"bbox":[72,500,520,78]}
+{"kind":"shape","id":"sh/tcj6tova","slide":20,"bbox":[72,500,8,78]}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":20,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[98,513,468,18]}
+{"kind":"textbox","id":"sh/obm58z25","slide":20,"text":"Roadmap features stay clearly marked until validated.","textPreview":"Roadmap features stay clearly marked until validated.","textChars":53,"textLines":1,"bbox":[98,536,468,28]}
+{"kind":"shape","id":"sh/zqtcj6to","slide":20,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/65wjudg7","slide":20,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":20,"text":"20","textPreview":"20","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/6tovahoz","slide":20,"name":"","geometry":"roundRect","alt":"07-universe-home.png","bbox":[672,82,504,360]}
+{"kind":"notes","id":"nt/l2fg7a","slide":20,"text":"Roadmap features stay clearly marked until validated."}
+{"kind":"slide","id":"sl/nwcc5c","slide":21,"title":"Growth and operations","textShapes":7}
+{"kind":"shape","id":"sh/d4vmtwra","slide":21,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":21,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/vy90je9c","slide":21,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":21,"text":"Growth and operations","textPreview":"Growth and operations","textChars":21,"textLines":1,"bbox":[666,72,360,24]}
+{"kind":"textbox","id":"sh/61032lsz","slide":21,"text":"Scenario: an operator must control the system safely.","textPreview":"Scenario: an operator must control the system safely.","textChars":53,"textLines":1,"bbox":[666,126,500,154]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":21,"text":"The admin platform exposes public-safe operational categories: users, wallet, revenue, products, Sec60, AI, risk, settlement, emergency, system and audit controls.","textPreview":"The admin platform exposes public-safe operational categories: users, wallet, revenue, products, Sec60, AI, risk, settlement, emergency, ...","textChars":163,"textLines":1,"bbox":[666,312,484,90]}
+{"kind":"shape","id":"sh/ovahoza1","slide":21,"bbox":[666,506,484,78]}
+{"kind":"shape","id":"sh/dg7adsji","slide":21,"bbox":[666,506,8,78]}
+{"kind":"textbox","id":"sh/1032lszq","slide":21,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[692,519,432,18]}
+{"kind":"textbox","id":"sh/cfa9w3m9","slide":21,"text":"Admin is part of the product architecture, but only capability-level details are public-safe.","textPreview":"Admin is part of the product architecture, but only capability-level details are public-safe.","textChars":93,"textLines":1,"bbox":[692,542,432,28]}
+{"kind":"shape","id":"sh/judg7ads","slide":21,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":21,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/1orytsvu","slide":21,"text":"21","textPreview":"21","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/5wjudg7a","slide":21,"name":"","geometry":"roundRect","alt":"09-admin-dashboard.png","bbox":[82,96,510,358]}
+{"kind":"notes","id":"nt/nwcc5c","slide":21,"text":"Admin is part of the product architecture, but only capability-level details are public-safe."}
+{"kind":"slide","id":"sl/5zik7a","slide":22,"title":"Growth and operations","textShapes":7}
+{"kind":"shape","id":"sh/val87ed8","slide":22,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/kre1w7mp","slide":22,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/dcbulwva","slide":22,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":22,"text":"Growth and operations","textPreview":"Growth and operations","textChars":21,"textLines":1,"bbox":[72,56,380,24]}
+{"kind":"textbox","id":"sh/vixczed8","slide":22,"text":"Risk and approvals protect the platform loop.","textPreview":"Risk and approvals protect the platform loop.","textChars":45,"textLines":1,"bbox":[72,104,560,156]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":22,"text":"Scenario: a financial or product setting changes. The operational layer needs RBAC, approval gates, audit records, emergency controls and settlement visibility.","textPreview":"Scenario: a financial or product setting changes. The operational layer needs RBAC, approval gates, audit records, emergency controls and...","textChars":160,"textLines":1,"bbox":[72,294,520,86]}
+{"kind":"shape","id":"sh/29gr2p8n","slide":22,"bbox":[72,500,520,78]}
+{"kind":"shape","id":"sh/vu9knih4","slide":22,"bbox":[72,500,8,78]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":22,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[98,513,468,18]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":22,"text":"Public collateral can describe governance without exposing implementation details.","textPreview":"Public collateral can describe governance without exposing implementation details.","textChars":82,"textLines":1,"bbox":[98,536,468,28]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":22,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/sji5snel","slide":22,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":22,"text":"22","textPreview":"22","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/ovahoza1","slide":22,"name":"","geometry":"roundRect","alt":"09-admin-dashboard.png","bbox":[672,82,504,360]}
+{"kind":"notes","id":"nt/5zik7a","slide":22,"text":"Public collateral can describe governance without exposing implementation details."}
+{"kind":"slide","id":"sl/ah07x2","slide":23,"title":"Flows and versions","textShapes":12}
+{"kind":"shape","id":"sh/8nqxs72x","slide":23,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/j2t83itg","slide":23,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/qh0fepkz","slide":23,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":23,"text":"Flows and versions","textPreview":"Flows and versions","textChars":18,"textLines":1,"bbox":[72,56,380,24]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":23,"text":"Money-state flow: wallet to product to settlement.","textPreview":"Money-state flow: wallet to product to settlement.","textChars":50,"textLines":1,"bbox":[72,104,1000,106]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":23,"text":"Wallet balance, product action, policy/risk checks, idempotent order, release or settlement, reward eligibility, history and return to dashboard.","textPreview":"Wallet balance, product action, policy/risk checks, idempotent order, release or settlement, reward eligibility, history and return to da...","textChars":145,"textLines":1,"bbox":[72,232,790,52]}
+{"kind":"shape","id":"sh/q5o7qpg3","slide":23,"bbox":[56,322,76,76]}
+{"kind":"shape","id":"sh/1kre1w7m","slide":23,"bbox":[74,340,40,40]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":23,"text":"Register","textPreview":"Register","textChars":8,"textLines":1,"bbox":[58,424,110,28]}
+{"kind":"shape","id":"sh/a1gvy90j","slide":23,"bbox":[152,392,104,0]}
+{"kind":"shape","id":"sh/zidonyd0","slide":23,"bbox":[280,322,76,76]}
+{"kind":"shape","id":"sh/s36hcrmh","slide":23,"bbox":[298,340,40,40]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":23,"text":"Dashboard","textPreview":"Dashboard","textChars":9,"textLines":1,"bbox":[282,424,110,28]}
+{"kind":"shape","id":"sh/ap4r65wj","slide":23,"bbox":[376,392,104,0]}
+{"kind":"shape","id":"sh/za1gvy90","slide":23,"bbox":[504,322,76,76]}
+{"kind":"shape","id":"sh/svu9knih","slide":23,"bbox":[522,340,40,40]}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":23,"text":"Wallet","textPreview":"Wallet","textChars":6,"textLines":1,"bbox":[506,424,110,28]}
+{"kind":"shape","id":"sh/adsji5sn","slide":23,"bbox":[600,392,104,0]}
+{"kind":"shape","id":"sh/3ylc7u54","slide":23,"bbox":[728,322,76,76]}
+{"kind":"shape","id":"sh/vu9knih4","slide":23,"bbox":[746,340,40,40]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":23,"text":"Products","textPreview":"Products","textChars":8,"textLines":1,"bbox":[730,424,110,28]}
+{"kind":"shape","id":"sh/d0z61032","slide":23,"bbox":[824,392,104,0]}
+{"kind":"shape","id":"sh/kf6dcbul","slide":23,"bbox":[952,322,76,76]}
+{"kind":"shape","id":"sh/v6psfil0","slide":23,"bbox":[970,340,40,40]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":23,"text":"Return","textPreview":"Return","textChars":6,"textLines":1,"bbox":[954,424,110,28]}
+{"kind":"shape","id":"sh/knih4byh","slide":23,"bbox":[246,540,790,78]}
+{"kind":"shape","id":"sh/val87ed8","slide":23,"bbox":[246,540,8,78]}
+{"kind":"textbox","id":"sh/6psfil0r","slide":23,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[272,553,738,18]}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":23,"text":"The product is credible when the money-state lifecycle is visible.","textPreview":"The product is credible when the money-state lifecycle is visible.","textChars":66,"textLines":1,"bbox":[272,576,738,28]}
+{"kind":"shape","id":"sh/58z25kb6","slide":23,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":23,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":23,"text":"23","textPreview":"23","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/yd0z6103","slide":23,"name":"","geometry":"rect","alt":"l3ai-business-model-loop-030.png","bbox":[896,282,220,118]}
+{"kind":"notes","id":"nt/ah07x2","slide":23,"text":"Wallet\nPolicy\nOrder\nSettlement\nHistory"}
+{"kind":"slide","id":"sl/hkb9t8","slide":24,"title":"Flows and versions","textShapes":12}
+{"kind":"shape","id":"sh/mtwra5gb","slide":24,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":24,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/4zidonyd","slide":24,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":24,"text":"Flows and versions","textPreview":"Flows and versions","textChars":18,"textLines":1,"bbox":[72,56,380,24]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":24,"text":"Growth flow: account state to community retention.","textPreview":"Growth flow: account state to community retention.","textChars":50,"textLines":1,"bbox":[72,104,1000,106]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":24,"text":"Profile, VIP, benefits, XP, invite, team, revenue history, Universe and Agent activity form a retention loop that can be audited and tuned.","textPreview":"Profile, VIP, benefits, XP, invite, team, revenue history, Universe and Agent activity form a retention loop that can be audited and tuned.","textChars":139,"textLines":1,"bbox":[72,232,790,52]}
+{"kind":"shape","id":"sh/4r65wjud","slide":24,"bbox":[56,322,76,76]}
+{"kind":"shape","id":"sh/fu18jqh0","slide":24,"bbox":[74,340,40,40]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":24,"text":"Register","textPreview":"Register","textChars":8,"textLines":1,"bbox":[58,424,110,28]}
+{"kind":"shape","id":"sh/sji5snel","slide":24,"bbox":[152,392,104,0]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":24,"bbox":[280,322,76,76]}
+{"kind":"shape","id":"sh/adsji5sn","slide":24,"bbox":[298,340,40,40]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":24,"text":"Dashboard","textPreview":"Dashboard","textChars":9,"textLines":1,"bbox":[282,424,110,28]}
+{"kind":"shape","id":"sh/s72x4nap","slide":24,"bbox":[376,392,104,0]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":24,"bbox":[504,322,76,76]}
+{"kind":"shape","id":"sh/a5gbq1or","slide":24,"bbox":[522,340,40,40]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":24,"text":"Wallet","textPreview":"Wallet","textChars":6,"textLines":1,"bbox":[506,424,110,28]}
+{"kind":"shape","id":"sh/s36hcrmh","slide":24,"bbox":[600,392,104,0]}
+{"kind":"shape","id":"sh/hoza1gvy","slide":24,"bbox":[728,322,76,76]}
+{"kind":"shape","id":"sh/lkjm1cfa","slide":24,"bbox":[746,340,40,40]}
+{"kind":"textbox","id":"sh/szqtcj6t","slide":24,"text":"Products","textPreview":"Products","textChars":8,"textLines":1,"bbox":[730,424,110,28]}
+{"kind":"shape","id":"sh/3ex0nuxc","slide":24,"bbox":[824,392,104,0]}
+{"kind":"shape","id":"sh/at47y1kr","slide":24,"bbox":[952,322,76,76]}
+{"kind":"shape","id":"sh/l87ed8ba","slide":24,"bbox":[970,340,40,40]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":24,"text":"Return","textPreview":"Return","textChars":6,"textLines":1,"bbox":[954,424,110,28]}
+{"kind":"shape","id":"sh/ahoza1gv","slide":24,"bbox":[246,540,790,78]}
+{"kind":"shape","id":"sh/lwval87e","slide":24,"bbox":[246,540,8,78]}
+{"kind":"textbox","id":"sh/wb2hwfyx","slide":24,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[272,553,738,18]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":24,"text":"Growth is a controlled product loop, not an unchecked reward promise.","textPreview":"Growth is a controlled product loop, not an unchecked reward promise.","textChars":69,"textLines":1,"bbox":[272,576,738,28]}
+{"kind":"shape","id":"sh/vy90je9c","slide":24,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":24,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":24,"text":"24","textPreview":"24","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/c3ylc7u5","slide":24,"name":"","geometry":"rect","alt":"slide-10.png","bbox":[896,282,220,118]}
+{"kind":"notes","id":"nt/hkb9t8","slide":24,"text":"Profile\nVIP\nInvite\nRevenue\nUniverse"}
+{"kind":"slide","id":"sl/fdp15y","slide":25,"title":"Flows and versions","textShapes":11}
+{"kind":"shape","id":"sh/ra5gbq1o","slide":25,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/gvy90je9","slide":25,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/9gr2p8nq","slide":25,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":25,"text":"Flows and versions","textPreview":"Flows and versions","textChars":18,"textLines":1,"bbox":[72,56,380,24]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":25,"text":"Current, In Progress and Planned must stay separate.","textPreview":"Current, In Progress and Planned must stay separate.","textChars":52,"textLines":1,"bbox":[72,104,970,104]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":25,"text":"Current: dashboard, wallet, AI, compute, Sec60, invite, Universe and admin surfaces. In Progress: deeper automation and creative polish. Planned: expanded ecosystem and partner workflows.","textPreview":"Current: dashboard, wallet, AI, compute, Sec60, invite, Universe and admin surfaces. In Progress: deeper automation and creative polish. ...","textChars":187,"textLines":1,"bbox":[72,226,790,52]}
+{"kind":"shape","id":"sh/25kb6xkf","slide":25,"bbox":[126,302,76,76]}
+{"kind":"shape","id":"sh/rqd4vmtw","slide":25,"bbox":[144,320,40,40]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":25,"text":"AI Quant","textPreview":"AI Quant","textChars":8,"textLines":1,"bbox":[90,392,150,24]}
+{"kind":"shape","id":"sh/u18jqh0f","slide":25,"bbox":[392,284,76,76]}
+{"kind":"shape","id":"sh/1orytsvu","slide":25,"bbox":[410,302,40,40]}
+{"kind":"textbox","id":"sh/c7u54zid","slide":25,"text":"Wallet","textPreview":"Wallet","textChars":6,"textLines":1,"bbox":[356,374,150,24]}
+{"kind":"shape","id":"sh/judg7ads","slide":25,"bbox":[658,284,76,76]}
+{"kind":"shape","id":"sh/u9knih4b","slide":25,"bbox":[676,302,40,40]}
+{"kind":"textbox","id":"sh/1032lszq","slide":25,"text":"Compute","textPreview":"Compute","textChars":7,"textLines":1,"bbox":[622,374,150,24]}
+{"kind":"shape","id":"sh/cfa9w3m9","slide":25,"bbox":[924,302,76,76]}
+{"kind":"shape","id":"sh/nyd0z610","slide":25,"bbox":[942,320,40,40]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":25,"text":"Community","textPreview":"Community","textChars":9,"textLines":1,"bbox":[888,392,150,24]}
+{"kind":"shape","id":"sh/2p8nqxs7","slide":25,"bbox":[396,562,490,78]}
+{"kind":"shape","id":"sh/ra5gbq1o","slide":25,"bbox":[396,562,8,78]}
+{"kind":"textbox","id":"sh/gvy90je9","slide":25,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[422,575,438,18]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":25,"text":"This status split prevents roadmap items from being sold as live functions.","textPreview":"This status split prevents roadmap items from being sold as live functions.","textChars":75,"textLines":1,"bbox":[422,598,438,28]}
+{"kind":"shape","id":"sh/2hwfyxob","slide":25,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":25,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":25,"text":"25","textPreview":"25","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/sfil0rqd","slide":25,"name":"","geometry":"rect","alt":"slide-09.png","bbox":[446,308,330,186]}
+{"kind":"notes","id":"nt/fdp15y","slide":25,"text":"Current\nIn Progress\nPlanned\nApproval"}
+{"kind":"slide","id":"sl/qpfwcy","slide":26,"title":"Flows and versions","textShapes":7}
+{"kind":"shape","id":"sh/gn29gr2p","slide":26,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/n29gr2p8","slide":26,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/yhgn29gr","slide":26,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/gbq1oryt","slide":26,"text":"Flows and versions","textPreview":"Flows and versions","textChars":18,"textLines":1,"bbox":[666,72,360,24]}
+{"kind":"textbox","id":"sh/nuxc3ylc","slide":26,"text":"Customer-facing version: show the product journey.","textPreview":"Customer-facing version: show the product journey.","textChars":50,"textLines":1,"bbox":[666,126,500,154]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":26,"text":"Scenario: a customer asks what happens after registration. The answer should walk through dashboard, wallet, AI, compute, Sec60, growth and ecosystem paths.","textPreview":"Scenario: a customer asks what happens after registration. The answer should walk through dashboard, wallet, AI, compute, Sec60, growth a...","textChars":156,"textLines":1,"bbox":[666,312,484,90]}
+{"kind":"shape","id":"sh/5sneloj2","slide":26,"bbox":[666,506,484,78]}
+{"kind":"shape","id":"sh/cbulwval","slide":26,"bbox":[666,506,8,78]}
+{"kind":"textbox","id":"sh/e9cvixcz","slide":26,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[692,519,432,18]}
+{"kind":"textbox","id":"sh/3q5o7qpg","slide":26,"text":"Customer copy starts with what users see and how they move.","textPreview":"Customer copy starts with what users see and how they move.","textChars":59,"textLines":1,"bbox":[692,542,432,28]}
+{"kind":"shape","id":"sh/wb2hwfyx","slide":26,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/lwval87e","slide":26,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":26,"text":"26","textPreview":"26","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/cj6tovah","slide":26,"name":"","geometry":"roundRect","alt":"01-profile-dashboard.png","bbox":[82,96,510,358]}
+{"kind":"notes","id":"nt/qpfwcy","slide":26,"text":"Customer copy starts with what users see and how they move."}
+{"kind":"slide","id":"sl/9vi3oz","slide":27,"title":"Flows and versions","textShapes":7}
+{"kind":"shape","id":"sh/0fepkzup","slide":27,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/bulwval8","slide":27,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":27,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/032lszqt","slide":27,"text":"Flows and versions","textPreview":"Flows and versions","textChars":18,"textLines":1,"bbox":[666,72,360,24]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":27,"text":"Partner-facing version: show the operating system.","textPreview":"Partner-facing version: show the operating system.","textChars":50,"textLines":1,"bbox":[666,126,500,154]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":27,"text":"Scenario: a partner asks how L3AI can scale. The answer connects product modules, business loops, risk controls, content assets and distribution surfaces.","textPreview":"Scenario: a partner asks how L3AI can scale. The answer connects product modules, business loops, risk controls, content assets and distr...","textChars":154,"textLines":1,"bbox":[666,312,484,90]}
+{"kind":"shape","id":"sh/tcj6tova","slide":27,"bbox":[666,506,484,78]}
+{"kind":"shape","id":"sh/0rqd4vmt","slide":27,"bbox":[666,506,8,78]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":27,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[692,519,432,18]}
+{"kind":"textbox","id":"sh/bulwval8","slide":27,"text":"Partner copy adds architecture and go-to-market logic without exposing private internals.","textPreview":"Partner copy adds architecture and go-to-market logic without exposing private internals.","textChars":89,"textLines":1,"bbox":[692,542,432,28]}
+{"kind":"shape","id":"sh/0fepkzup","slide":27,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":27,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":27,"text":"27","textPreview":"27","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/o7qpg3ex","slide":27,"name":"","geometry":"roundRect","alt":"slide-05.png","bbox":[82,96,510,358]}
+{"kind":"notes","id":"nt/9vi3oz","slide":27,"text":"Partner copy adds architecture and go-to-market logic without exposing private internals."}
+{"kind":"slide","id":"sl/m11181","slide":28,"title":"Flows and versions","textShapes":7}
+{"kind":"shape","id":"sh/3ylc7u54","slide":28,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/sji5snel","slide":28,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":28,"bbox":[0,46,1280,2]}
+{"kind":"shape","id":"sh/a5gbq1or","slide":28,"bbox":[900,-120,360,360]}
+{"kind":"shape","id":"sh/3m94fu18","slide":28,"bbox":[1020,88,220,220]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":28,"text":"Flows and versions","textPreview":"Flows and versions","textChars":18,"textLines":1,"bbox":[72,76,360,24]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":28,"text":"Public safety boundary for every product chapter.","textPreview":"Public safety boundary for every product chapter.","textChars":49,"textLines":1,"bbox":[72,138,632,160]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":28,"text":"No keys, tokens, tunnel state, private repository details, real user data, exact exploit paths, unsupported yield claims, legal approval claims or production status overstatements.","textPreview":"No keys, tokens, tunnel state, private repository details, real user data, exact exploit paths, unsupported yield claims, legal approval ...","textChars":180,"textLines":1,"bbox":[72,332,580,78]}
+{"kind":"shape","id":"sh/re1w7mp0","slide":28,"bbox":[72,504,580,78]}
+{"kind":"shape","id":"sh/2t83itgf","slide":28,"bbox":[72,504,8,78]}
+{"kind":"textbox","id":"sh/9knih4by","slide":28,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[98,517,528,18]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":28,"text":"Trust is built by explaining enough, and withholding what should remain private.","textPreview":"Trust is built by explaining enough, and withholding what should remain private.","textChars":80,"textLines":1,"bbox":[98,540,528,28]}
+{"kind":"shape","id":"sh/rqd4vmtw","slide":28,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":28,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":28,"text":"28","textPreview":"28","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/twra5gbq","slide":28,"name":"","geometry":"roundRect","alt":"L3AI_Premium_Promo_027_poster.png","bbox":[742,96,416,300]}
+{"kind":"notes","id":"nt/m11181","slide":28,"text":"Trust is built by explaining enough, and withholding what should remain private."}
+{"kind":"slide","id":"sl/o9rdxp","slide":29,"title":"Archive and handoff","textShapes":7}
+{"kind":"shape","id":"sh/wjudg7ad","slide":29,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/7y1kre1w","slide":29,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/ed8v6psf","slide":29,"bbox":[0,46,1280,2]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":29,"text":"Archive and handoff","textPreview":"Archive and handoff","textChars":19,"textLines":1,"bbox":[72,56,380,24]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":29,"text":"What replaces PRODUCT-BOOK-037?","textPreview":"What replaces PRODUCT-BOOK-037?","textChars":31,"textLines":1,"bbox":[72,104,560,156]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":29,"text":"The rebuilt Product Book becomes the primary product collateral. The old book remains archived as a superseded website-review draft, not a customer-facing product explanation.","textPreview":"The rebuilt Product Book becomes the primary product collateral. The old book remains archived as a superseded website-review draft, not ...","textChars":175,"textLines":1,"bbox":[72,294,520,86]}
+{"kind":"shape","id":"sh/pkzupwb2","slide":29,"bbox":[72,500,520,78]}
+{"kind":"shape","id":"sh/0z61032l","slide":29,"bbox":[72,500,8,78]}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":29,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[98,513,468,18]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":29,"text":"The primary asset now describes the real platform architecture.","textPreview":"The primary asset now describes the real platform architecture.","textChars":63,"textLines":1,"bbox":[98,536,468,28]}
+{"kind":"shape","id":"sh/8v6psfil","slide":29,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":29,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":29,"text":"29","textPreview":"29","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/n29gr2p8","slide":29,"name":"","geometry":"roundRect","alt":"slide-04.png","bbox":[672,82,504,360]}
+{"kind":"notes","id":"nt/o9rdxp","slide":29,"text":"The primary asset now describes the real platform architecture."}
+{"kind":"slide","id":"sl/au9nxe","slide":30,"title":"The starting point","textShapes":7}
+{"kind":"shape","id":"sh/gr2p8nqx","slide":30,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/r65wjudg","slide":30,"bbox":[0,0,1280,46]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":30,"bbox":[0,46,1280,2]}
+{"kind":"shape","id":"sh/5o7qpg3e","slide":30,"bbox":[900,-120,360,360]}
+{"kind":"shape","id":"sh/g3ex0nux","slide":30,"bbox":[1020,88,220,220]}
+{"kind":"textbox","id":"sh/yxobm58z","slide":30,"text":"The starting point","textPreview":"The starting point","textChars":18,"textLines":1,"bbox":[72,76,380,24]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":30,"text":"Next step: use this book as the product source.","textPreview":"Next step: use this book as the product source.","textChars":47,"textLines":1,"bbox":[72,138,660,184]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":30,"text":"Update Product Overview, Resources and launch materials from this architecture; keep future PPT, whitepaper, website and video work aligned to the actual platform modules.","textPreview":"Update Product Overview, Resources and launch materials from this architecture; keep future PPT, whitepaper, website and video work align...","textChars":171,"textLines":1,"bbox":[72,360,612,70]}
+{"kind":"shape","id":"sh/y1kre1w7","slide":30,"bbox":[72,520,580,78]}
+{"kind":"shape","id":"sh/rmhk3q5o","slide":30,"bbox":[72,520,8,78]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":30,"text":"Product answer","textPreview":"Product answer","textChars":14,"textLines":1,"bbox":[98,533,528,18]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":30,"text":"One product architecture now drives the public story.","textPreview":"One product architecture now drives the public story.","textChars":53,"textLines":1,"bbox":[98,556,528,28]}
+{"kind":"shape","id":"sh/yd0z6103","slide":30,"bbox":[72,640,1136,1]}
+{"kind":"textbox","id":"sh/rytsvu9k","slide":30,"text":"L3AI Real Platform Product Book","textPreview":"L3AI Real Platform Product Book","textChars":31,"textLines":1,"bbox":[72,654,460,22]}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":30,"text":"30","textPreview":"30","textChars":2,"textLines":1,"bbox":[1134,654,74,22]}
+{"kind":"image","id":"im/a1gvy90j","slide":30,"name":"","geometry":"roundRect","alt":"09-admin-dashboard.png","bbox":[748,94,374,250]}
+{"kind":"notes","id":"nt/au9nxe","slide":30,"text":"One product architecture now drives the public story."}
