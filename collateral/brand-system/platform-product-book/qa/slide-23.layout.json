@@ -1,0 +1,669 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/qrcae4",
+    "id": "qrcae4",
+    "slide": 23,
+    "layoutId": "4d32a568-4de2-4686-a287-cd449ab3d75f",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "bfba8cb5-f9ba-4125-8060-378d575e8db3",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#050B16",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "4d32a568-4de2-4686-a287-cd449ab3d75f",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "bfba8cb5-f9ba-4125-8060-378d575e8db3",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "bfba8cb5-f9ba-4125-8060-378d575e8db3",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g3ex0nux",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#050B16",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nih4byhg",
+      "id": "2",
+      "bbox": [
+        0,
+        0,
+        1280,
+        46
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0C1B31",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yxobm58z",
+      "id": "3",
+      "bbox": [
+        0,
+        46,
+        1280,
+        2
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#1A66FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9cvixcze",
+      "id": "4",
+      "bbox": [
+        900,
+        -120,
+        360,
+        360
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#0D4166",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gr2p8nqx",
+      "id": "5",
+      "bbox": [
+        1020,
+        88,
+        220,
+        220
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#0A6D8E",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/i5sneloj",
+      "id": "6",
+      "bbox": [
+        742,
+        96,
+        416,
+        300
+      ],
+      "geometry": "roundRect",
+      "alt": "L3AI_Premium_Promo_027_poster.png",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 4000"
+          }
+        ]
+      },
+      "asset": {
+        "assetId": "c54a3c7d-5d53-4754-b789-79062c9facfc",
+        "contentType": "image/png",
+        "byteLength": 498016
+      }
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ylc7u54z",
+      "id": "7",
+      "bbox": [
+        72,
+        76,
+        360,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Review path",
+      "textPreview": "Review path",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#19D4FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Review path"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Review path",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#19D4FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Review path",
+              "fontSize": 14,
+              "color": "#19D4FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/90je9cvi",
+      "id": "8",
+      "bbox": [
+        72,
+        138,
+        632,
+        160
+      ],
+      "geometry": "rect",
+      "text": "What should never appear in the public product book?",
+      "textPreview": "What should never appear in the public product book?",
+      "resolvedFontSize": 44,
+      "resolvedTextStyle": {
+        "fontSize": 44,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "What should never appear in the"
+          },
+          {
+            "index": 2,
+            "text": "public product book?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "What should never appear in the public product book?",
+          "resolvedTextStyle": {
+            "fontSize": 44,
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "What should never appear in the public product book?",
+              "fontSize": 44,
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gfmlkjm1",
+      "id": "9",
+      "bbox": [
+        72,
+        332,
+        580,
+        78
+      ],
+      "geometry": "rect",
+      "text": "No private repository detail, no API keys, no tunnel state, no real user data, no signing material, no deposit instructions, no unsupported financial claims and no internal task labels.",
+      "textPreview": "No private repository detail, no API keys, no tunnel state, no real user data, no signing material, no deposit instructions, no unsupport...",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "color": "#D8ECFF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "No private repository detail, no API keys, no tunnel state, no"
+          },
+          {
+            "index": 2,
+            "text": "real user data, no signing material, no deposit instructions, no"
+          },
+          {
+            "index": 3,
+            "text": "unsupported financial claims and no internal task labels."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "No private repository detail, no API keys, no tunnel state, no real user data, no signing material, no deposit instructions, no unsupported financial claims and no internal task labels.",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "color": "#D8ECFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "No private repository detail, no API keys, no tunnel state, no real user data, no signing material, no deposit instructions, no unsupported financial claims and no internal task labels.",
+              "fontSize": 22,
+              "color": "#D8ECFF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/65wjudg7",
+      "id": "10",
+      "bbox": [
+        72,
+        504,
+        580,
+        78
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0C1D32",
+      "lineColor": "#234A72",
+      "lineWidth": 1
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zqtcj6to",
+      "id": "11",
+      "bbox": [
+        72,
+        504,
+        8,
+        78
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#19D4FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/obm58z25",
+      "id": "12",
+      "bbox": [
+        98,
+        517,
+        528,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Product answer",
+      "textPreview": "Product answer",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "+mn-lt",
+        "color": "#19D4FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Product answer"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Product answer",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "color": "#19D4FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Product answer",
+              "fontSize": 12,
+              "color": "#19D4FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hwfyxobm",
+      "id": "13",
+      "bbox": [
+        98,
+        540,
+        528,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Public product material must stay safe enough to share.",
+      "textPreview": "Public product material must stay safe enough to share.",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Public product material must stay safe enough to share."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Public product material must stay safe enough to share.",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Public product material must stay safe enough to share.",
+              "fontSize": 20,
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6xkf6dcb",
+      "id": "14",
+      "bbox": [
+        72,
+        640,
+        1136,
+        1
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#1D3856",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zed8v6ps",
+      "id": "15",
+      "bbox": [
+        72,
+        654,
+        420,
+        22
+      ],
+      "geometry": "rect",
+      "text": "L3AI Platform Product Book",
+      "textPreview": "L3AI Platform Product Book",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#9BB4CF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "L3AI Platform Product Book"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "L3AI Platform Product Book",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#9BB4CF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "L3AI Platform Product Book",
+              "fontSize": 13,
+              "color": "#9BB4CF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oza1gvy9",
+      "id": "16",
+      "bbox": [
+        1134,
+        654,
+        74,
+        22
+      ],
+      "geometry": "rect",
+      "text": "23",
+      "textPreview": "23",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#9BB4CF",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "23"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "23",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#9BB4CF",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "23",
+              "fontSize": 13,
+              "color": "#9BB4CF",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

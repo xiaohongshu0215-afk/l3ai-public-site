@@ -1,0 +1,641 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/8cq7ui",
+    "id": "8cq7ui",
+    "slide": 15,
+    "layoutId": "4d32a568-4de2-4686-a287-cd449ab3d75f",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "bfba8cb5-f9ba-4125-8060-378d575e8db3",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#050B16",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "4d32a568-4de2-4686-a287-cd449ab3d75f",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "bfba8cb5-f9ba-4125-8060-378d575e8db3",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "bfba8cb5-f9ba-4125-8060-378d575e8db3",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ylc7u54",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#050B16",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sji5snel",
+      "id": "2",
+      "bbox": [
+        0,
+        0,
+        1280,
+        46
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0C1B31",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4byhgn2",
+      "id": "3",
+      "bbox": [
+        0,
+        46,
+        1280,
+        2
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#1A66FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a5gbq1or",
+      "id": "4",
+      "bbox": [
+        72,
+        56,
+        380,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Status and roadmap",
+      "textPreview": "Status and roadmap",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#19D4FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Status and roadmap"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Status and roadmap",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#19D4FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Status and roadmap",
+              "fontSize": 14,
+              "color": "#19D4FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3m94fu18",
+      "id": "5",
+      "bbox": [
+        72,
+        104,
+        560,
+        156
+      ],
+      "geometry": "rect",
+      "text": "What role does the community play?",
+      "textPreview": "What role does the community play?",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "What role does the"
+          },
+          {
+            "index": 2,
+            "text": "community play?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "What role does the community play?",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "What role does the community play?",
+              "fontSize": 42,
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s72x4nap",
+      "id": "6",
+      "bbox": [
+        72,
+        294,
+        520,
+        86
+      ],
+      "geometry": "rect",
+      "text": "Current: public FAQ and resources explain the product language. Planned community layers can support moderated learning, official updates and safer product education.",
+      "textPreview": "Current: public FAQ and resources explain the product language. Planned community layers can support moderated learning, official updates...",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "+mn-lt",
+        "color": "#D8ECFF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Current: public FAQ and resources explain the product"
+          },
+          {
+            "index": 2,
+            "text": "language. Planned community layers can support"
+          },
+          {
+            "index": 3,
+            "text": "moderated learning, official updates and safer product"
+          },
+          {
+            "index": 4,
+            "text": "education."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Current: public FAQ and resources explain the product language. Planned community layers can support moderated learning, official updates and safer product education.",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "color": "#D8ECFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Current: public FAQ and resources explain the product language. Planned community layers can support moderated learning, official updates and safer product education.",
+              "fontSize": 21,
+              "color": "#D8ECFF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/0nuxc3yl",
+      "id": "7",
+      "bbox": [
+        672,
+        82,
+        504,
+        360
+      ],
+      "geometry": "roundRect",
+      "alt": "l3ai-showcase-faq.png",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 3333"
+          }
+        ]
+      },
+      "asset": {
+        "assetId": "abb03c9f-7e1c-431a-a2dc-2e0b0d0ce8ad",
+        "contentType": "image/png",
+        "byteLength": 244989
+      }
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a1gvy90j",
+      "id": "8",
+      "bbox": [
+        72,
+        500,
+        520,
+        78
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0C1D32",
+      "lineColor": "#234A72",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zidonyd0",
+      "id": "9",
+      "bbox": [
+        72,
+        500,
+        8,
+        78
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#19D4FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/re1w7mp0",
+      "id": "10",
+      "bbox": [
+        98,
+        513,
+        468,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Product answer",
+      "textPreview": "Product answer",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "+mn-lt",
+        "color": "#19D4FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Product answer"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Product answer",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "color": "#19D4FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Product answer",
+              "fontSize": 12,
+              "color": "#19D4FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2t83itgf",
+      "id": "11",
+      "bbox": [
+        98,
+        536,
+        468,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Community should teach before it amplifies.",
+      "textPreview": "Community should teach before it amplifies.",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Community should teach before it amplifies."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Community should teach before it amplifies.",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Community should teach before it amplifies.",
+              "fontSize": 20,
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9knih4by",
+      "id": "12",
+      "bbox": [
+        72,
+        640,
+        1136,
+        1
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#1D3856",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kzupwb2h",
+      "id": "13",
+      "bbox": [
+        72,
+        654,
+        420,
+        22
+      ],
+      "geometry": "rect",
+      "text": "L3AI Platform Product Book",
+      "textPreview": "L3AI Platform Product Book",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#9BB4CF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "L3AI Platform Product Book"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "L3AI Platform Product Book",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#9BB4CF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "L3AI Platform Product Book",
+              "fontSize": 13,
+              "color": "#9BB4CF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rqd4vmtw",
+      "id": "14",
+      "bbox": [
+        1134,
+        654,
+        74,
+        22
+      ],
+      "geometry": "rect",
+      "text": "15",
+      "textPreview": "15",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#9BB4CF",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "15"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "15",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#9BB4CF",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "15",
+              "fontSize": 13,
+              "color": "#9BB4CF",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

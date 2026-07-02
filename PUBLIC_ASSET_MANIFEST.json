@@ -1,8 +1,8 @@
 {
   "asset_id": "L3AI_PUBLIC_SITE_ASSET_MANIFEST",
   "status": "prepared",
-  "generated_at": "2026-07-02T03:39:03.698Z",
-  "total_assets": 1042,
+  "generated_at": "2026-07-02T04:07:49.675Z",
+  "total_assets": 1104,
   "files": [
     {
       "path": ".gitattributes",
@@ -590,6 +590,36 @@
       "sha256": "77031116a5c82e712d02b95899dfbfc70797c470e1c325bcea33190a6440b3ec"
     },
     {
+      "path": "collateral/brand-system/L3AI_PLATFORM_PRODUCT_BOOK_V1_MANIFEST.json",
+      "bytes": 12172,
+      "sha256": "98c338848ee8334736c5a3dfebfba0ffbd63b9f53c4a5f6f564facc283c3a4c2"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Platform_Product_Book_v1_speaker_notes.md",
+      "bytes": 3026,
+      "sha256": "6994fd8d67c15ed6876753bb4b442c2ba3a3600090adf09e245dfdef71fe6046"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Platform_Product_Book_v1.html",
+      "bytes": 8599,
+      "sha256": "9d0ca135d584ae04d54638343320475bc96784ace4c03ee1b65cdf2d43df7976"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Platform_Product_Book_v1.pdf",
+      "bytes": 2295015,
+      "sha256": "d079d166df085757d9906b9a8818f9dc6f436e09767263dfda4c5428f2bd759b"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Platform_Product_Book_v1.pptx",
+      "bytes": 9275443,
+      "sha256": "64532ba8bf70e614c8610da25037cacf060db61a0c7dda1c07c0f91b94dbe147"
+    },
+    {
+      "path": "collateral/brand-system/L3AI_Platform_Product_Book_v1.pptx.inspect.ndjson",
+      "bytes": 61272,
+      "sha256": "33a0c56172857b899f35734359cc9eb941db1ec8fc542c15c49ffd6f4c88a0f7"
+    },
+    {
       "path": "collateral/brand-system/L3AI_PRODUCT_BOOK_V1_MANIFEST.json",
       "bytes": 7962,
       "sha256": "38a31c209094aa5230889c883a8f5bbfdaab931f31475d6f21131b978d6dbb06"
@@ -710,6 +740,31 @@
       "sha256": "94e94b6461784b264dab592051d67e6b4e8c75e38cf5e354308f0f36393b1086"
     },
     {
+      "path": "collateral/brand-system/page-qa/platform-product-book-html-desktop.png",
+      "bytes": 509262,
+      "sha256": "b112f42ac9e2a4c1d72d59a891bd70fa7ff7b3ec8a2c38d9004f40389afa096c"
+    },
+    {
+      "path": "collateral/brand-system/page-qa/platform-product-overview-desktop.png",
+      "bytes": 414082,
+      "sha256": "3eec49d3a138b08614260b3877a3612ebf2794e6a521f670eb50667b99e203dc"
+    },
+    {
+      "path": "collateral/brand-system/page-qa/platform-product-overview-mobile.png",
+      "bytes": 173938,
+      "sha256": "e1baccdcb7c399d9a01120d7becbddb193987963a92a0c7db345470d6e1ecf0a"
+    },
+    {
+      "path": "collateral/brand-system/page-qa/platform-product-resources-desktop.png",
+      "bytes": 313598,
+      "sha256": "f9c4f46c91e2fd757a08b87456da2d19654931a34b8c3af6a8d487e3268cc225"
+    },
+    {
+      "path": "collateral/brand-system/page-qa/platform-product-resources-mobile.png",
+      "bytes": 149225,
+      "sha256": "ba808a42156ff769474e9a92a900eccc44ef089260b0dd482e332eeece15be11"
+    },
+    {
       "path": "collateral/brand-system/page-qa/resources-desktop.png",
       "bytes": 352544,
       "sha256": "a301bce3517bb53879bcc5ea51a6a3cbc94153fd5b8807e29621cf44563dba72"
@@ -753,6 +808,256 @@
       "path": "collateral/brand-system/page-qa/story-v2-mobile.png",
       "bytes": 129579,
       "sha256": "06d3e56da96d4902cfc6bc80292aaa23c563623c5d19e44e50a9776c0298b900"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/preview/slide-01.png",
+      "bytes": 156476,
+      "sha256": "3a83b8cfd331c155512bdca9d1cd496d464443e72c6728c7992684850a47f892"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/preview/slide-02.png",
+      "bytes": 78916,
+      "sha256": "c7d75815fdf379d52ab3f018cbb6e16e275fb1e283b4549e7ebecff68885d13c"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/preview/slide-03.png",
+      "bytes": 156347,
+      "sha256": "649dc8ce4b3bac33999222a0727569ed405c4701bc2a329bd67bd625b5a826d8"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/preview/slide-04.png",
+      "bytes": 140644,
+      "sha256": "1f9637389034b312dab63cb9194fa565621b3158aa4463a3171c07be03809c8e"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/preview/slide-05.png",
+      "bytes": 53318,
+      "sha256": "ff2b0c460e0473b8b1c23cbf95dd5aa4e05df2a3265dd603f38481789b9939a0"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/preview/slide-06.png",
+      "bytes": 63431,
+      "sha256": "13807aabcfa4b9301eabf4be1f6ff1eea632d51b278f724489724b92ce07fd29"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/preview/slide-07.png",
+      "bytes": 117015,
+      "sha256": "8c4df0cc76b6ae9ca9be84f5fdd5aa20f5879a7fd53f4c876914555b62741924"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/preview/slide-08.png",
+      "bytes": 115907,
+      "sha256": "e5057dda764856102571d1b3a9f39e89da654fb4da5b20bb8ed4880ad258c39b"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/preview/slide-09.png",
+      "bytes": 102877,
+      "sha256": "4ab54e8800872886309c2f50d53c12f55d1be64fdc9cfaf653524cf9d415cf45"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/preview/slide-10.png",
+      "bytes": 114062,
+      "sha256": "124bd244f86e619aa628a6b76e01f8e6fe2c80f171ca585ad1132562fc12e5b3"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/preview/slide-11.png",
+      "bytes": 119680,
+      "sha256": "7404dbe455a05dd265c608e189d758d7557ffe8668f4017170f25f7eeecd5ad2"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/preview/slide-12.png",
+      "bytes": 126960,
+      "sha256": "114687e54f12295f72aa9945699834d3d853b46b6ea07bf04819949bab3eba76"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/preview/slide-13.png",
+      "bytes": 97120,
+      "sha256": "afaf9920e26eafc8c0536cda66e552a3cac6490284d9f1d6cc7f9ebc9bb0bbe7"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/preview/slide-14.png",
+      "bytes": 112334,
+      "sha256": "74bb0a4ddcf8bdcf61f720f9221111c023cf1f2fc9ae927ffad16cbce02609ef"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/preview/slide-15.png",
+      "bytes": 131461,
+      "sha256": "68f889bdfe2455650b746a7ffe84e2d88dfee648e7fd641fa384a25a822b1c22"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/preview/slide-16.png",
+      "bytes": 117546,
+      "sha256": "64af8aadea382c60ede9f176fa9d8bcf4f75df380ca69c483b62f78edaf3195e"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/preview/slide-17.png",
+      "bytes": 57162,
+      "sha256": "5f6c9820c6944f35ee05ad5e180a3611b8bfbc68337d1088a808858e6479eea8"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/preview/slide-18.png",
+      "bytes": 129650,
+      "sha256": "05c65c3e1b2db6a496a17403f37d9a6def116604b656de732a70b32524294eff"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/preview/slide-19.png",
+      "bytes": 120411,
+      "sha256": "3c291e73d547e1ade2e48b84f7faf91c25e17161dd6cc95b0b4d6f02db71c864"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/preview/slide-20.png",
+      "bytes": 103065,
+      "sha256": "5f95f5aea7029efd13ff1c1dc960541df2979fefbbeb846b6bebfa3926b78b63"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/preview/slide-21.png",
+      "bytes": 136817,
+      "sha256": "d5662ff7656630fb62da824292038be6d5e5bfc4e3bacaeed84cf226750663fe"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/preview/slide-22.png",
+      "bytes": 62433,
+      "sha256": "63d33562ffcb52330654fd707a98c6f87d4db2854f11560048f26a446da6f7ba"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/preview/slide-23.png",
+      "bytes": 154841,
+      "sha256": "504c7df0a31efc858a942251053a329d7b5d13e442491f1e23573ed1a0fed314"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/preview/slide-24.png",
+      "bytes": 91210,
+      "sha256": "2dc5858122bc82df1ecc075f0787128a006fca7367074a2b1d4834a4da816f0f"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/deck-contact-sheet.png",
+      "bytes": 560370,
+      "sha256": "3f1ec236feaf964783c144ba6606e1445d41f057e5b78cae8ffd7f9b439c5427"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/deck-montage.webp",
+      "bytes": 67424,
+      "sha256": "326ddc26981e8441e9f4fcf435458b6d636a3d86fe0ac65f80c52bcde2f1d377"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/slide-01.layout.json",
+      "bytes": 15098,
+      "sha256": "c813b21cffd26f8bc8b2ff9110d55e80f1e4b5494e0c93361826c3c25b966fef"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/slide-02.layout.json",
+      "bytes": 14899,
+      "sha256": "e0dcb06b2d56961833239c295f3eb00a9dade113040d762fbb9e59ba5bd9f9c0"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/slide-03.layout.json",
+      "bytes": 14621,
+      "sha256": "3112fb9347697e21e9bfcff26c9d690a359df736a46339a3ba2ce2f47a567361"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/slide-04.layout.json",
+      "bytes": 14943,
+      "sha256": "d0260ad4ee9b665509655c3e9483d6283e2a5ae764c613bd162a7ee757ec3e99"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/slide-05.layout.json",
+      "bytes": 24925,
+      "sha256": "949d2708719e55ccd47001ef191cfec2d5ca28c841c9872bb6e4f1f87c26a706"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/slide-06.layout.json",
+      "bytes": 21942,
+      "sha256": "6a083ecbd359933842eddc7d76a4be6263bcd90cae3d251f091b34e22f64d02b"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/slide-07.layout.json",
+      "bytes": 14675,
+      "sha256": "eb5fde2c3e6044a3b2c418a580ba8162f18380d201d0ea68eb2d9c2de4f1dbdf"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/slide-08.layout.json",
+      "bytes": 14460,
+      "sha256": "e386431c474c17ac5e1b1e6a0e207ed5067353235c63f0caaf7cec9ad969fc30"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/slide-09.layout.json",
+      "bytes": 14974,
+      "sha256": "5d77eaafe59883a9918aa7045518c9bb77b9afcc180b16d12a8dd1c0557225db"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/slide-10.layout.json",
+      "bytes": 14570,
+      "sha256": "27a74495b742b714297238c6e5710e4e6474f383a6c542829ba14f87de289b9f"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/slide-11.layout.json",
+      "bytes": 14638,
+      "sha256": "21867473d270fe48af377056521bc4064d6def743166aa434adf08cf100692ed"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/slide-12.layout.json",
+      "bytes": 14594,
+      "sha256": "581aadf1e7129709b2adda45eb7c36a05f6663b5fa69ee74481b74e2ff9830fa"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/slide-13.layout.json",
+      "bytes": 14729,
+      "sha256": "dcfac15bab1770beeaf575443ffa8df2377d707b0af448bc9bc7d6a192540f52"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/slide-14.layout.json",
+      "bytes": 14768,
+      "sha256": "1d3030e274110f8f21b0dc4c6d4125e1f2d0c5bba40061cb11760c9dedc33e92"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/slide-15.layout.json",
+      "bytes": 14415,
+      "sha256": "6457043d6dfcc569864a1e72c3100ae2f89a4b161e4aec57c45032bdf8b4956c"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/slide-16.layout.json",
+      "bytes": 14777,
+      "sha256": "f80f032d224b19814319238d2d7350df930d01fb51921ff9581ac808402574d7"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/slide-17.layout.json",
+      "bytes": 24889,
+      "sha256": "0a9ff19077a06ce2d30e22908272d580aa209b074e7af3717e0dd181274a47b4"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/slide-18.layout.json",
+      "bytes": 14498,
+      "sha256": "b2e6648272d7fb3baf97e3568e31808c3417dca8d695d8da1eef9cb11e977ef0"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/slide-19.layout.json",
+      "bytes": 14472,
+      "sha256": "bfd0b08a65db02a8a9c79a841456b05c2a2e0b0607a227db7490300c96df4be0"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/slide-20.layout.json",
+      "bytes": 14472,
+      "sha256": "a76cbdf8ee7b64e125fd8dd3e7d204c9965673de9d3763fc94f7572f312efc57"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/slide-21.layout.json",
+      "bytes": 14612,
+      "sha256": "dd98c6daa58ff6b86831f31eb4e2bce71fb359a3f9001399818e20c73a61754c"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/slide-22.layout.json",
+      "bytes": 21997,
+      "sha256": "c329a0fa6e64accc8e8731022655a8be46e175b8d550e4ba19ffc58ca785f411"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/slide-23.layout.json",
+      "bytes": 15110,
+      "sha256": "7ec37a549145a1a3cf37b5471e61e2b2f6a73787bfac669aa23f71857141196a"
+    },
+    {
+      "path": "collateral/brand-system/platform-product-book/qa/slide-24.layout.json",
+      "bytes": 15007,
+      "sha256": "677463f041b8afbdbf1f74501312feecb4e0dc6bed03bab094a3229769d1d2de"
     },
     {
       "path": "collateral/brand-system/product-book-v1/preview/slide-01.png",
@@ -3926,8 +4231,8 @@
     },
     {
       "path": "product-overview.html",
-      "bytes": 8189,
-      "sha256": "3365136e2e39a0e18be8607f7b4da515cd8a78bf155285885bf0519a11579195"
+      "bytes": 8497,
+      "sha256": "2dd1bc9dca7c4909f2141411b25dd0a836f88accf6b822291387f80819bb9e36"
     },
     {
       "path": "README.md",
@@ -3936,8 +4241,8 @@
     },
     {
       "path": "resources.html",
-      "bytes": 43806,
-      "sha256": "3c57dd4d2b7c8d9ee363752feca70d1c8d6620f36dd1f3e2c3b742fe0dc5921a"
+      "bytes": 44539,
+      "sha256": "217fda892af47d28956c559996b4eac5cac6a8bba0b9f2956c69565c71e77fef"
     },
     {
       "path": "roadmap.html",
@@ -3963,6 +4268,11 @@
       "path": "scripts/build-customer-story-book.mjs",
       "bytes": 28580,
       "sha256": "474782d73a59242aa80a891360f7f761c6816df7e87c331d9b346a21c28e7e22"
+    },
+    {
+      "path": "scripts/build-platform-product-book.mjs",
+      "bytes": 29259,
+      "sha256": "c472291200345051553865c7c3e51656c3628e78d3e7ec9f0e8a75aef3a55852"
     },
     {
       "path": "scripts/build-premium-assets-030.mjs",
@@ -4026,13 +4336,13 @@
     },
     {
       "path": "sitemap.html",
-      "bytes": 13292,
-      "sha256": "1a11249b4a6c6e50860da680e95625c4e762f10fc0b0be8fff75522a5e16063a"
+      "bytes": 13826,
+      "sha256": "d2f748d98521670df3382106e4a14e32be144df821e0b5fbb764414629bd809f"
     },
     {
       "path": "sitemap.xml",
-      "bytes": 4655,
-      "sha256": "c46d28567492abe81a259b7454371eacbe46222069fcbe27b7f63b382c4f76d5"
+      "bytes": 5215,
+      "sha256": "9b2d6f10a958f6fd379c0ddc0d16d29c8d2272403b3ad607788a6fac0b4302da"
     },
     {
       "path": "story.html",

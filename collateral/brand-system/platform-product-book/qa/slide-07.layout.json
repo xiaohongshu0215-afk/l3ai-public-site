@@ -1,0 +1,645 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/ixch0x",
+    "id": "ixch0x",
+    "slide": 7,
+    "layoutId": "4d32a568-4de2-4686-a287-cd449ab3d75f",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "bfba8cb5-f9ba-4125-8060-378d575e8db3",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#050B16",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "4d32a568-4de2-4686-a287-cd449ab3d75f",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "bfba8cb5-f9ba-4125-8060-378d575e8db3",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "bfba8cb5-f9ba-4125-8060-378d575e8db3",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0rqd4vmt",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#050B16",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b6xkf6dc",
+      "id": "2",
+      "bbox": [
+        0,
+        0,
+        1280,
+        46
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0C1B31",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/il0rqd4v",
+      "id": "3",
+      "bbox": [
+        0,
+        46,
+        1280,
+        2
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#1A66FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/gfmlkjm1",
+      "id": "4",
+      "bbox": [
+        82,
+        96,
+        510,
+        358
+      ],
+      "geometry": "roundRect",
+      "alt": "ai-quant-workflow-desktop.png",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 3352"
+          }
+        ]
+      },
+      "asset": {
+        "assetId": "adbb81b8-997f-4046-b841-5a4318b9fdc5",
+        "contentType": "image/png",
+        "byteLength": 514230
+      }
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0je9cvix",
+      "id": "5",
+      "bbox": [
+        666,
+        72,
+        360,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Core product modules",
+      "textPreview": "Core product modules",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#19D4FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Core product modules"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Core product modules",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#19D4FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Core product modules",
+              "fontSize": 14,
+              "color": "#19D4FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/byhgn29g",
+      "id": "6",
+      "bbox": [
+        666,
+        126,
+        500,
+        154
+      ],
+      "geometry": "rect",
+      "text": "What does AI Quant do for the customer?",
+      "textPreview": "What does AI Quant do for the customer?",
+      "resolvedFontSize": 41,
+      "resolvedTextStyle": {
+        "fontSize": 41,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "What does AI Quant do for"
+          },
+          {
+            "index": 2,
+            "text": "the customer?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "What does AI Quant do for the customer?",
+          "resolvedTextStyle": {
+            "fontSize": 41,
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "What does AI Quant do for the customer?",
+              "fontSize": 41,
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/idonyd0z",
+      "id": "7",
+      "bbox": [
+        666,
+        312,
+        484,
+        90
+      ],
+      "geometry": "rect",
+      "text": "Current: AI Quant presents market and product context as explainable review material. It avoids outcome promises and helps the user ask better questions before deciding what to explore.",
+      "textPreview": "Current: AI Quant presents market and product context as explainable review material. It avoids outcome promises and helps the user ask b...",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "+mn-lt",
+        "color": "#D8ECFF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Current: AI Quant presents market and product"
+          },
+          {
+            "index": 2,
+            "text": "context as explainable review material. It avoids"
+          },
+          {
+            "index": 3,
+            "text": "outcome promises and helps the user ask better"
+          },
+          {
+            "index": 4,
+            "text": "questions before deciding what to explore."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Current: AI Quant presents market and product context as explainable review material. It avoids outcome promises and helps the user ask better questions before deciding what to explore.",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "color": "#D8ECFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Current: AI Quant presents market and product context as explainable review material. It avoids outcome promises and helps the user ask better questions before deciding what to explore.",
+              "fontSize": 21,
+              "color": "#D8ECFF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p0bi9s36",
+      "id": "8",
+      "bbox": [
+        666,
+        506,
+        484,
+        78
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0C1D32",
+      "lineColor": "#234A72",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0fepkzup",
+      "id": "9",
+      "bbox": [
+        666,
+        506,
+        8,
+        78
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#19D4FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/itgfmlkj",
+      "id": "10",
+      "bbox": [
+        692,
+        519,
+        432,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Product answer",
+      "textPreview": "Product answer",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "+mn-lt",
+        "color": "#19D4FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Product answer"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Product answer",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "color": "#19D4FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Product answer",
+              "fontSize": 12,
+              "color": "#19D4FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7ed8bat4",
+      "id": "11",
+      "bbox": [
+        692,
+        542,
+        432,
+        28
+      ],
+      "geometry": "rect",
+      "text": "AI Quant is an explanation layer, not a guarantee layer.",
+      "textPreview": "AI Quant is an explanation layer, not a guarantee layer.",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "AI Quant is an explanation layer, not a guarantee"
+          },
+          {
+            "index": 2,
+            "text": "layer."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "AI Quant is an explanation layer, not a guarantee layer.",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "AI Quant is an explanation layer, not a guarantee layer.",
+              "fontSize": 20,
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0z61032l",
+      "id": "12",
+      "bbox": [
+        72,
+        640,
+        1136,
+        1
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#1D3856",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pkzupwb2",
+      "id": "13",
+      "bbox": [
+        72,
+        654,
+        420,
+        22
+      ],
+      "geometry": "rect",
+      "text": "L3AI Platform Product Book",
+      "textPreview": "L3AI Platform Product Book",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#9BB4CF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "L3AI Platform Product Book"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "L3AI Platform Product Book",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#9BB4CF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "L3AI Platform Product Book",
+              "fontSize": 13,
+              "color": "#9BB4CF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ih4byhgn",
+      "id": "14",
+      "bbox": [
+        1134,
+        654,
+        74,
+        22
+      ],
+      "geometry": "rect",
+      "text": "07",
+      "textPreview": "07",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#9BB4CF",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "07"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "07",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#9BB4CF",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "07",
+              "fontSize": 13,
+              "color": "#9BB4CF",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}
