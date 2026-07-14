@@ -114,3 +114,14 @@ Before pushing to GitHub Pages, verify:
 - `sitemap.xml` contains only public pages.
 - `robots.txt` disallows internal source directories.
 
+## 2026-07-15 Dynamic Web3 Homepage Upgrade
+
+The next public-site sprint upgrades the homepage from a static enterprise page into a more premium Web3 / AI technology presentation:
+
+1. Add a dynamic AI network background with lightweight canvas nodes.
+2. Replace document-style hero copy with a cinematic L3AI positioning hero.
+3. Add an animated intelligence console visual instead of static copy blocks.
+4. Present Signal Layer, AI Agent Layer, Product Layer, and Growth Layer as the operating stack.
+5. Use a product orbit map to communicate the L3AI ecosystem at a glance.
+6. Keep trust boundaries visible: no fixed return promise, no private-key exposure, no live-trading promise, and future features gated.
+7. Keep Chinese and English homepages aligned in structure and visual system.
