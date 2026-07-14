@@ -1,4 +1,9 @@
 User-agent: *
 Allow: /
+Disallow: /web/
+Disallow: /marketing/
+Disallow: /media/
+Disallow: /pitch/
+Disallow: /video/
 
 Sitemap: https://xiaohongshu0215-afk.github.io/l3ai-public-site/sitemap.xml
