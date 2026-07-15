@@ -1,7 +1,7 @@
 {
   "asset_id": "L3AI_PUBLIC_SITE_ASSET_MANIFEST",
   "status": "prepared",
-  "generated_at": "2026-07-15T02:46:33.407Z",
+  "generated_at": "2026-07-15T09:12:42.258Z",
   "total_assets": 1112,
   "files": [
     {
@@ -26,8 +26,8 @@
     },
     {
       "path": "assets/public-site.css",
-      "bytes": 70812,
-      "sha256": "8ab9e61bc1bf52da08c281490b6f407ab049317aa5e74e78d1addebf8d673c44"
+      "bytes": 76384,
+      "sha256": "55a56387f5b547168041567e1d663cf67ad575adabeb067a551721a00110ddd9"
     },
     {
       "path": "business-model.html",
@@ -3556,8 +3556,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9775,
-      "sha256": "ddc6b7e16db2aa2d3d807d3de5d2d2999b1375da4b9028598a1990e3b80aeb8f"
+      "bytes": 11720,
+      "sha256": "25ee925588f735042a012e589bf86735cb64081299d6180398be32b543d8d45f"
     },
     {
       "path": "marketing/en/documents/core-messaging-l3ai-customer-facing-core-messaging-081.en.html",
