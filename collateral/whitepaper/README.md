@@ -1,8 +1,8 @@
-# L3AI Public Whitepaper v2.0
+# L3AI Public Whitepaper v2.1
 
 Production public whitepaper editions are shipped as independent language versions. Do not use a mixed English / Chinese public page as the customer-facing entry.
 
-The v2.0 edition replaces the earlier placeholder-style whitepaper with a full product narrative, high-contrast L3AI dark visual system, and unique chapter content for AI trading intelligence, AI asset experience, compute participation, Universe, trust architecture, roadmap, risk boundaries, and FAQ.
+The v2.1 edition upgrades the public whitepaper from an internal/product-documentation tone into an investor- and user-facing AI-native market intelligence narrative. It includes a stronger category thesis, benchmark-inspired structure, product ecosystem story, AI trading intelligence, AI asset experience, compute participation, Universe growth loop, business model, trust boundaries and staged roadmap.
 
 ## Current Public Editions
 
@@ -11,7 +11,7 @@ The v2.0 edition replaces the earlier placeholder-style whitepaper with a full p
 - `L3AI_Public_Whitepaper_v1.zh-CN.html`
 - `L3AI_Public_Whitepaper_v1.zh-CN.pdf`
 
-The filenames remain `v1` for stable public URLs. The document title and internal footer identify the current whitepaper as v2.0.
+The filenames remain `v1` for stable public URLs. The document title and internal footer identify the current whitepaper as v2.1.
 
 ## Public Rule
 

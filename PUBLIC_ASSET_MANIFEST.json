@@ -1,7 +1,7 @@
 {
   "asset_id": "L3AI_PUBLIC_SITE_ASSET_MANIFEST",
   "status": "prepared",
-  "generated_at": "2026-07-15T17:49:05.486Z",
+  "generated_at": "2026-07-15T20:00:29.394Z",
   "total_assets": 1113,
   "files": [
     {
@@ -3501,28 +3501,28 @@
     },
     {
       "path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.en.html",
-      "bytes": 29872,
-      "sha256": "3bd60817959a501eca27701ffe776eaf7dd0637dc51355642aa652a561c7861a"
+      "bytes": 34246,
+      "sha256": "5b31a3468bd18c9b745188e509d0b017fc8ba672f84f722413a74a0797d67611"
     },
     {
       "path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.en.pdf",
-      "bytes": 3312469,
-      "sha256": "469d9c5669dfd957ccefb30ef0f87c89cedd5e89eadb58384c4b90cd306b92e6"
+      "bytes": 3538095,
+      "sha256": "a40356dbc723872e7472e4cd0f4fa4023585d1b15de75d1188266c170d643fe7"
     },
     {
       "path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.zh-CN.html",
-      "bytes": 29259,
-      "sha256": "664cb7aed18a1bb8e53089016d7eb85d826b75a3cd83591509dd112091cbb8e8"
+      "bytes": 32529,
+      "sha256": "1ca1f16052a3ea43c4dac97d0cde11056db062323a96a57f46f36d64b194ecec"
     },
     {
       "path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.zh-CN.pdf",
-      "bytes": 3683596,
-      "sha256": "161af0c9b115560d636ae1d1244f47db30434fdb5ca1b8b194439b47bfb9d715"
+      "bytes": 3956596,
+      "sha256": "8579f16e59c6056831a0d8f7e588434dc5d6e8c40e8fcd4428e246094bc6d51d"
     },
     {
       "path": "collateral/whitepaper/README.md",
-      "bytes": 1286,
-      "sha256": "d6d64ceb4ddef9b1e529c46d29e337d16fc7fe23d535e52083f791d7dd0ecc22"
+      "bytes": 1390,
+      "sha256": "49a14ea1394096ec9e293da816499b9267ee4a321ab98ba38b77a769150cfe23"
     },
     {
       "path": "contact-partner.html",
@@ -4256,8 +4256,8 @@
     },
     {
       "path": "product-overview.html",
-      "bytes": 8653,
-      "sha256": "1f82e26f1f5e377d5da6db459bfde9f5f7ab44ed7d261890a90ba55d3ae86a3c"
+      "bytes": 8694,
+      "sha256": "c6be03045f07464251605dd6b7a535679dd2ffeef5a83a821c2136d88de24214"
     },
     {
       "path": "README.md",
@@ -4266,8 +4266,8 @@
     },
     {
       "path": "resources.html",
-      "bytes": 46381,
-      "sha256": "d57edca876114a39b876dbc6c32d3bcfea99b0190c6ff10c988f95e6cb177f69"
+      "bytes": 46484,
+      "sha256": "d64115dc8f5f8671e4cc7783455f7986c86f3c9fd36a93235378408794cb034d"
     },
     {
       "path": "roadmap.html",
@@ -4331,8 +4331,8 @@
     },
     {
       "path": "scripts/build-public-whitepaper-v2.mjs",
-      "bytes": 35480,
-      "sha256": "0571d0ecd2d426962a007d0198fd2b887d5d29764112d5c34d8e93e11833c8ed"
+      "bytes": 42089,
+      "sha256": "34cbd5fc9adff0abec1c5f2f6959c8662f8f06b1386a07308168f69fe866ebac"
     },
     {
       "path": "scripts/build-real-platform-product-book.mjs",
