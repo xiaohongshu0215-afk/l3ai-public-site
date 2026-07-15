@@ -208,13 +208,22 @@
       "file_path": "collateral/deck/L3AI_Executive_Deck_v2.pptx"
     },
     {
-      "asset_id": "l3ai-public-whitepaper-v1",
+      "asset_id": "l3ai-public-whitepaper-v1-en",
       "type": "pdf",
-      "title": "L3AI Public Whitepaper v1",
+      "title": "L3AI Public Whitepaper v1 English",
       "audience": "Customers, partners and long-form reviewers",
       "status": "complete",
       "version": "019",
-      "file_path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.en-zh.pdf"
+      "file_path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.en.pdf"
+    },
+    {
+      "asset_id": "l3ai-public-whitepaper-v1-zh-cn",
+      "type": "pdf",
+      "title": "L3AI Public Whitepaper v1 Chinese",
+      "audience": "Customers, partners and long-form reviewers",
+      "status": "complete",
+      "version": "019",
+      "file_path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.zh-CN.pdf"
     },
     {
       "asset_id": "l3ai-premium-promo-027",

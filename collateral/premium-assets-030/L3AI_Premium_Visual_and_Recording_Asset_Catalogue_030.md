@@ -39,7 +39,8 @@ This catalogue tracks final public visual, recording, document and website-facin
 | l3ai-social-square-1080x1080-030 | social-media-banner | 030 | complete | Social, media and public launch channels | collateral/premium-assets-030/social/l3ai-social-square-1080x1080-030.png |
 | l3ai-social-story-1080x1920-030 | social-media-banner | 030 | complete | Social, media and public launch channels | collateral/premium-assets-030/social/l3ai-social-story-1080x1920-030.png |
 | l3ai-executive-deck-v2 | pptx | 027 | complete | Executive and partner reviewers | collateral/deck/L3AI_Executive_Deck_v2.pptx |
-| l3ai-public-whitepaper-v1 | pdf | 019 | complete | Customers, partners and long-form reviewers | collateral/whitepaper/L3AI_Public_Whitepaper_v1.en-zh.pdf |
+| l3ai-public-whitepaper-v1-en | pdf | 019 | complete | Customers, partners and long-form reviewers | collateral/whitepaper/L3AI_Public_Whitepaper_v1.en.pdf |
+| l3ai-public-whitepaper-v1-zh-cn | pdf | 019 | complete | Customers, partners and long-form reviewers | collateral/whitepaper/L3AI_Public_Whitepaper_v1.zh-CN.pdf |
 | l3ai-premium-promo-027 | mp4 | 027 | complete | Public launch and media reviewers | collateral/video/premium-027/L3AI_Premium_Promo_3min_027.mp4 |
 
 ## Recording Scope

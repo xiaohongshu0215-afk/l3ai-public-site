@@ -349,13 +349,22 @@ const catalogueItems = [
     file_path: "collateral/deck/L3AI_Executive_Deck_v2.pptx",
   },
   {
-    asset_id: "l3ai-public-whitepaper-v1",
+    asset_id: "l3ai-public-whitepaper-v1-en",
     type: "pdf",
-    title: "L3AI Public Whitepaper v1",
+    title: "L3AI Public Whitepaper v1 English",
     audience: "Customers, partners and long-form reviewers",
     status: "complete",
     version: "019",
-    file_path: "collateral/whitepaper/L3AI_Public_Whitepaper_v1.en-zh.pdf",
+    file_path: "collateral/whitepaper/L3AI_Public_Whitepaper_v1.en.pdf",
+  },
+  {
+    asset_id: "l3ai-public-whitepaper-v1-zh-cn",
+    type: "pdf",
+    title: "L3AI Public Whitepaper v1 Chinese",
+    audience: "Customers, partners and long-form reviewers",
+    status: "complete",
+    version: "019",
+    file_path: "collateral/whitepaper/L3AI_Public_Whitepaper_v1.zh-CN.pdf",
   },
   {
     asset_id: "l3ai-premium-promo-027",
@@ -464,6 +473,9 @@ const sitemapPaths = [
   "enterprise-use-cases.html",
   "contact-partner.html",
   "resources.html",
+  "get-started.html",
+  "faq.html",
+  "faq.zh-CN.html",
   "sitemap.html",
   "PUBLIC_ASSET_MANIFEST.json",
   "collateral/premium-assets-030/PREMIUM_ASSETS_030_MANIFEST.json",
@@ -472,7 +484,10 @@ const sitemapPaths = [
   "collateral/premium-assets-030/social/l3ai-social-banner-1200x675-030.png",
   "collateral/video/premium-027/L3AI_Premium_Promo_3min_027.mp4",
   "collateral/deck/L3AI_Executive_Deck_v2.pptx",
-  "collateral/whitepaper/L3AI_Public_Whitepaper_v1.en-zh.pdf",
+  "collateral/whitepaper/L3AI_Public_Whitepaper_v1.en.html",
+  "collateral/whitepaper/L3AI_Public_Whitepaper_v1.en.pdf",
+  "collateral/whitepaper/L3AI_Public_Whitepaper_v1.zh-CN.html",
+  "collateral/whitepaper/L3AI_Public_Whitepaper_v1.zh-CN.pdf",
 ];
 
 const baseUrl = "https://xiaohongshu0215-afk.github.io/l3ai-public-site/";

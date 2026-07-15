@@ -12,17 +12,31 @@
   },
   "primary_assets": [
     {
-      "asset_id": "L3AI_Public_Whitepaper_v1.en-zh",
-      "path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.en-zh.html",
-      "bytes": 54814,
-      "sha256": "39d6938524d83bc907de3fe11ce6e9686d13f5b7f05401e51e57d0e14e7952ad",
+      "asset_id": "L3AI_Public_Whitepaper_v1.en",
+      "path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.en.html",
+      "bytes": 33039,
+      "sha256": "c5f2a1ddc1528e1b8f256075fc9e8b94b4e62951af525ea8d8efd77722951176",
       "type": "text/html"
     },
     {
-      "asset_id": "L3AI_Public_Whitepaper_v1.en-zh",
-      "path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.en-zh.pdf",
-      "bytes": 437949,
-      "sha256": "3f53ed6bf6e7300b1aef6dcc526def4c3cf4bbdacc6e07e62c26cc26549fffc3",
+      "asset_id": "L3AI_Public_Whitepaper_v1.en",
+      "path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.en.pdf",
+      "bytes": 2160692,
+      "sha256": "64bd7e38bf33db819c80a11ba04654424394c34e626044beb47edd9490af322c",
+      "type": "application/pdf"
+    },
+    {
+      "asset_id": "L3AI_Public_Whitepaper_v1.zh-CN",
+      "path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.zh-CN.html",
+      "bytes": 30894,
+      "sha256": "fcd4995a6a98a24f42f6ff78b425d0d28a172ef76ed0800a379d2bd0c63241bd",
+      "type": "text/html"
+    },
+    {
+      "asset_id": "L3AI_Public_Whitepaper_v1.zh-CN",
+      "path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.zh-CN.pdf",
+      "bytes": 2126215,
+      "sha256": "3403300c9699fd52d44a4567c185d2334012e11c21856b9b050e5751ff5bbdb8",
       "type": "application/pdf"
     },
     {

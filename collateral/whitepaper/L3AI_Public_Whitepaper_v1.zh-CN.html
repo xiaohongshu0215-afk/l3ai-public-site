@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="index,follow">
+  <title>L3AI 公开白皮书 v1.0</title>
+  <style>
+@page { size: A4; margin: 0; }
+* { box-sizing: border-box; }
+html { background: #020712; }
+body {
+  margin: 0;
+  color: #f6fbff;
+  background: #020712;
+  font-family: Inter, Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+.page {
+  position: relative;
+  width: 210mm;
+  min-height: 297mm;
+  padding: 22mm 18mm 18mm;
+  page-break-after: always;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 86% 12%, rgba(35, 216, 255, .22), transparent 28%),
+    radial-gradient(circle at 20% 80%, rgba(124, 92, 255, .18), transparent 30%),
+    linear-gradient(rgba(255,255,255,.035) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,.03) 1px, transparent 1px),
+    linear-gradient(145deg, #07111f 0%, #0a1428 55%, #030711 100%);
+  background-size: auto, auto, 12mm 12mm, 12mm 12mm, auto;
+}
+.page::before {
+  content: "";
+  position: absolute;
+  inset: 9mm;
+  border: 1px solid rgba(61, 217, 255, .25);
+  pointer-events: none;
+}
+.page::after {
+  content: "";
+  position: absolute;
+  right: -25mm;
+  bottom: -34mm;
+  width: 105mm;
+  height: 105mm;
+  border: 1px solid rgba(124, 92, 255, .24);
+  border-radius: 50%;
+  box-shadow: inset 0 0 45mm rgba(35, 216, 255, .08);
+}
+.meta {
+  position: relative;
+  z-index: 1;
+  color: #e8c156;
+  text-transform: uppercase;
+  letter-spacing: .18em;
+  font-size: 9pt;
+  font-weight: 800;
+}
+h1 {
+  position: relative;
+  z-index: 1;
+  max-width: 158mm;
+  margin: 17mm 0 7mm;
+  font-size: 34pt;
+  line-height: 1.04;
+  letter-spacing: 0;
+}
+.zh h1 { font-size: 31pt; line-height: 1.12; }
+.subtitle {
+  position: relative;
+  z-index: 1;
+  margin: 0 0 12mm;
+  max-width: 150mm;
+  color: #23d8ff;
+  font-size: 15pt;
+  line-height: 1.45;
+  font-weight: 700;
+}
+.content {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  grid-template-columns: 1.15fr .85fr;
+  gap: 9mm;
+  align-items: start;
+  margin-top: 12mm;
+}
+.copy {
+  padding: 8mm;
+  border: 1px solid rgba(255,255,255,.12);
+  background: rgba(4, 14, 30, .68);
+  box-shadow: 0 18px 55px rgba(0,0,0,.22);
+}
+.copy p {
+  margin: 0 0 5mm;
+  color: rgba(232,242,255,.82);
+  font-size: 10.8pt;
+  line-height: 1.68;
+}
+.zh .copy p { font-size: 10.6pt; line-height: 1.78; }
+.nodes {
+  display: grid;
+  gap: 4mm;
+}
+.node {
+  min-height: 20mm;
+  padding: 4mm;
+  border: 1px solid rgba(61, 217, 255, .22);
+  border-left: 3px solid #23d8ff;
+  background: rgba(35,216,255,.065);
+  color: rgba(246,251,255,.86);
+  font-size: 9.4pt;
+  line-height: 1.45;
+}
+.cover h1 {
+  margin-top: 35mm;
+  max-width: 155mm;
+  font-size: 43pt;
+}
+.cover .subtitle {
+  color: rgba(232,242,255,.8);
+  font-size: 15pt;
+}
+.mark {
+  position: absolute;
+  z-index: 1;
+  right: 24mm;
+  bottom: 34mm;
+  display: grid;
+  place-items: center;
+  width: 56mm;
+  height: 56mm;
+  border: 1px solid rgba(35,216,255,.5);
+  border-radius: 50%;
+  color: #23d8ff;
+  font-size: 34pt;
+  font-weight: 900;
+  box-shadow: 0 0 24mm rgba(35,216,255,.18);
+}
+.footer {
+  position: absolute;
+  z-index: 1;
+  left: 18mm;
+  right: 18mm;
+  bottom: 10mm;
+  display: flex;
+  justify-content: space-between;
+  color: rgba(232,242,255,.48);
+  font-size: 8.4pt;
+}
+</style>
+</head>
+<body class="zh"><section class="page cover"><div class="meta">封面</div><h1>L3AI 公开白皮书</h1><p class="subtitle">面向 Web3 产品教育、钱包上下文和风险意识社区学习的 AI 原生金融智能平台。</p><div class="mark">L3</div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>01 / 38</span></div></section><section class="page"><div class="meta">执行摘要</div><h1>L3AI 为什么存在</h1><div class="content"><div class="copy"><p>数字资产用户面对信息碎片化、技术界面复杂和风险意识不均等问题。L3AI 帮助用户理解产品上下文、钱包相关路径和生态信息，但不承诺任何金融结果。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>02 / 38</span></div></section><section class="page"><div class="meta">市场背景</div><h1>从界面到智能</h1><div class="content"><div class="copy"><p>Web3 产品正在从原始交易界面转向可解释上下文、教育内容、风险提示和社区知识。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>03 / 38</span></div></section><section class="page"><div class="meta">用户痛点</div><h1>碎片化信号</h1><div class="content"><div class="copy"><p>市场动态、钱包活动、产品模块、社区信息和风险提示通常分散在不同位置。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>04 / 38</span></div></section><section class="page"><div class="meta">定位</div><h1>AI 原生上下文层</h1><div class="content"><div class="copy"><p>L3AI 被定义为面向公众的上下文与教育层，用于帮助用户理解产品。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>05 / 38</span></div></section><section class="page"><div class="meta">产品架构</div><h1>四个公开模块</h1><div class="content"><div class="copy"><p>公开叙事聚焦 AI 市场上下文、钱包相关教育、通俗入门和社区学习。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>06 / 38</span></div></section><section class="page"><div class="meta">AI 能力</div><h1>先解释再行动</h1><div class="content"><div class="copy"><p>AI 将复杂的产品和市场语言转化为结构化解释、摘要、FAQ、入门流程和安全提示。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>07 / 38</span></div></section><section class="page"><div class="meta">钱包相关体验</div><h1>有上下文但不越界</h1><div class="content"><div class="copy"><p>钱包相关体验帮助用户理解产品状态和路径，但不暴露私有数据。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>08 / 38</span></div></section><section class="page"><div class="meta">风险意识路径</div><h1>内置风险语言</h1><div class="content"><div class="copy"><p>公开语言避免保证收益、无风险表达、未验证合作方、虚假余额和无依据数据。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>09 / 38</span></div></section><section class="page"><div class="meta">社区生态</div><h1>先学习后传播</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>10 / 38</span></div></section><section class="page"><div class="meta">商业边界</div><h1>不加入未批准承诺</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>11 / 38</span></div></section><section class="page"><div class="meta">商业模式框架</div><h1>教育、产品与合作</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>12 / 38</span></div></section><section class="page"><div class="meta">市场计划</div><h1>内容驱动发布</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>13 / 38</span></div></section><section class="page"><div class="meta">运营计划</div><h1>受控公开界面</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>14 / 38</span></div></section><section class="page"><div class="meta">安全与信任</div><h1>审查门禁</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>15 / 38</span></div></section><section class="page"><div class="meta">隐私</div><h1>公开数据卫生</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>16 / 38</span></div></section><section class="page"><div class="meta">合规</div><h1>非金融建议</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>17 / 38</span></div></section><section class="page"><div class="meta">路线图</div><h1>从公开基础到产品深度</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>18 / 38</span></div></section><section class="page"><div class="meta">官网体验</div><h1>资源优先</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>19 / 38</span></div></section><section class="page"><div class="meta">内容系统</div><h1>独立语言版本</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>20 / 38</span></div></section><section class="page"><div class="meta">媒体包</div><h1>受控传播话术</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>21 / 38</span></div></section><section class="page"><div class="meta">投资人沟通准备</div><h1>没有依据的数据不对外</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>22 / 38</span></div></section><section class="page"><div class="meta">产品教育</div><h1>通俗流程</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>23 / 38</span></div></section><section class="page"><div class="meta">AI 治理</div><h1>人工审核仍然必要</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>24 / 38</span></div></section><section class="page"><div class="meta">发布控制</div><h1>准备、验证、发布</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>25 / 38</span></div></section><section class="page"><div class="meta">风险登记</div><h1>已知公开风险</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>26 / 38</span></div></section><section class="page"><div class="meta">FAQ 1</div><h1>L3AI 是什么？</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>27 / 38</span></div></section><section class="page"><div class="meta">FAQ 2</div><h1>L3AI 承诺收益吗？</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>28 / 38</span></div></section><section class="page"><div class="meta">FAQ 3</div><h1>这是投资建议吗？</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>29 / 38</span></div></section><section class="page"><div class="meta">FAQ 4</div><h1>用户从哪里开始？</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>30 / 38</span></div></section><section class="page"><div class="meta">FAQ 5</div><h1>钱包数据怎么办？</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>31 / 38</span></div></section><section class="page"><div class="meta">FAQ 6</div><h1>当前公开什么？</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>32 / 38</span></div></section><section class="page"><div class="meta">联系</div><h1>官方资源路径</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>33 / 38</span></div></section><section class="page"><div class="meta">结语</div><h1>更安全的公开叙事</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>34 / 38</span></div></section><section class="page"><div class="meta">附录 A</div><h1>公开资产索引</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>35 / 38</span></div></section><section class="page"><div class="meta">附录 B</div><h1>审核清单</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>36 / 38</span></div></section><section class="page"><div class="meta">附录 C</div><h1>术语表</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>37 / 38</span></div></section><section class="page"><div class="meta">附录 D</div><h1>版本记录</h1><div class="content"><div class="copy"><p>本页说明 L3AI 的公开定位、产品教育、风险提示和社区学习路径。公开材料仅用于信息和教育，不构成金融、法律、税务或投资建议。</p><p>所有资料保持有来源依据、语言版本独立、经过审核，并避免收益承诺、无风险措辞、虚构合作方和私有数据暴露。</p></div><div class="nodes"><div class="node">AI 上下文</div><div class="node">钱包相关教育</div><div class="node">风险提示</div><div class="node">公开资源</div></div></div><div class="footer"><span>L3AI 公开白皮书 v1.0</span><span>38 / 38</span></div></section></body>
+</html>

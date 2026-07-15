@@ -1,8 +1,8 @@
 {
   "asset_id": "L3AI_PUBLIC_SITE_ASSET_MANIFEST",
   "status": "prepared",
-  "generated_at": "2026-07-02T05:30:40.472Z",
-  "total_assets": 1106,
+  "generated_at": "2026-07-15T02:46:33.407Z",
+  "total_assets": 1112,
   "files": [
     {
       "path": ".gitattributes",
@@ -20,9 +20,14 @@
       "sha256": "af35f3ead31d840a8acb43c821230c790b571e63b7fe4a2192920bd6e4124297"
     },
     {
+      "path": "assets/enterprise-home.js",
+      "bytes": 2968,
+      "sha256": "c5cb5ac32846fa98c694a087386705b4284d35978aa5a29e44739eaa586a886b"
+    },
+    {
       "path": "assets/public-site.css",
-      "bytes": 36507,
-      "sha256": "542c9f32960ed20b3aa7e4a5a6fa1e253297710dc8b9ad022e578f827999ca33"
+      "bytes": 70812,
+      "sha256": "8ab9e61bc1bf52da08c281490b6f407ab049317aa5e74e78d1addebf8d673c44"
     },
     {
       "path": "business-model.html",
@@ -2636,8 +2641,8 @@
     },
     {
       "path": "collateral/demo/screens/l3ai-whitepaper-preview-desktop.png",
-      "bytes": 470808,
-      "sha256": "8d342f7a0a4b2cf432fb58f6016476eaf02faa1277346ad9553f92c963722b3a"
+      "bytes": 642225,
+      "sha256": "8ea3ce790fc8ff9f30db07a5c01fe83faa14e5733c58ddbd9f64f812368a9796"
     },
     {
       "path": "collateral/enterprise/L3AI_Enterprise_Marketing_Presentation_023.html",
@@ -2691,13 +2696,13 @@
     },
     {
       "path": "collateral/premium-assets-030/L3AI_Premium_Visual_and_Recording_Asset_Catalogue_030.md",
-      "bytes": 5239,
-      "sha256": "5b09e9e3a3606e0679441a544db0c6b70577cbad20faf6ee0c7672e24b83a7d4"
+      "bytes": 5404,
+      "sha256": "8dc2376c2425e4bc7dd486eaecb172f9dccf44bd4621e376cfea39e3af47f2e0"
     },
     {
       "path": "collateral/premium-assets-030/PREMIUM_ASSETS_030_MANIFEST.json",
-      "bytes": 8579,
-      "sha256": "08b77e88412f0539025245c1f0257932e123309d1cb5cc7138685219f46dfd52"
+      "bytes": 8923,
+      "sha256": "cb151586a539f6befd175e46d1e85cc342527cb5db42ff84c40b82a82084b34a"
     },
     {
       "path": "collateral/premium-assets-030/recordings/ai-quant-workflow.mp4",
@@ -2986,8 +2991,8 @@
     },
     {
       "path": "collateral/PUBLIC_COLLATERAL_019_MANIFEST.json",
-      "bytes": 4346,
-      "sha256": "7ed15b7f2a5fd8f4b072e73fe28833b7f389736305f615c2496041dab2142193"
+      "bytes": 4876,
+      "sha256": "fe366fe5a04e6fe525a0d91a4aab73b3fb2fa91eff2065674f57b7c58ea740af"
     },
     {
       "path": "collateral/PUBLIC_COLLATERAL_020_MANIFEST.json",
@@ -3495,19 +3500,29 @@
       "sha256": "0dca663e3f3c621d0a97e66e08d65fc323e462c00c829c53a93e9a240bf317a5"
     },
     {
-      "path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.en-zh.html",
-      "bytes": 54814,
-      "sha256": "39d6938524d83bc907de3fe11ce6e9686d13f5b7f05401e51e57d0e14e7952ad"
+      "path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.en.html",
+      "bytes": 33039,
+      "sha256": "c5f2a1ddc1528e1b8f256075fc9e8b94b4e62951af525ea8d8efd77722951176"
     },
     {
-      "path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.en-zh.pdf",
-      "bytes": 437949,
-      "sha256": "3f53ed6bf6e7300b1aef6dcc526def4c3cf4bbdacc6e07e62c26cc26549fffc3"
+      "path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.en.pdf",
+      "bytes": 2160692,
+      "sha256": "64bd7e38bf33db819c80a11ba04654424394c34e626044beb47edd9490af322c"
+    },
+    {
+      "path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.zh-CN.html",
+      "bytes": 30894,
+      "sha256": "fcd4995a6a98a24f42f6ff78b425d0d28a172ef76ed0800a379d2bd0c63241bd"
+    },
+    {
+      "path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.zh-CN.pdf",
+      "bytes": 2126215,
+      "sha256": "3403300c9699fd52d44a4567c185d2334012e11c21856b9b050e5751ff5bbdb8"
     },
     {
       "path": "collateral/whitepaper/README.md",
-      "bytes": 125,
-      "sha256": "a8272cfede3410f52302d02730f3364f6eb9765222985f0ffad2e4319e173fb8"
+      "bytes": 599,
+      "sha256": "2d453461619a315eb3083c8b3ffe4e554d089548699ce53fb2c1401c6c52cd1a"
     },
     {
       "path": "contact-partner.html",
@@ -3526,23 +3541,28 @@
     },
     {
       "path": "faq.html",
-      "bytes": 8337,
-      "sha256": "422d1190772a82e2c8b323f57edd29d4bc468cab7e0be264f9169bafb30151c0"
+      "bytes": 5800,
+      "sha256": "98463106cf745b50961ec40970deeef0b539d37416023fe57e7466ec846ca0a7"
+    },
+    {
+      "path": "faq.zh-CN.html",
+      "bytes": 5522,
+      "sha256": "a970c7787eaa9bb79ae5dcc65c207b764ebc7b50201627c56f1d3b8fcff9a7a4"
     },
     {
       "path": "get-started.html",
-      "bytes": 6327,
-      "sha256": "b8972bd0df316ac8311b985d79535af5220c5eaea8bb3557bd293d04ee040e43"
+      "bytes": 6043,
+      "sha256": "430cd3d2da74237ee751c2b3fd357005ceec97ea656a93b41e9bd72a7c31d7d2"
     },
     {
       "path": "index.html",
-      "bytes": 23886,
-      "sha256": "2066f8bb1e6d871d1d8db6356ff9e036c35255f94c41abea721b5377119a5def"
+      "bytes": 9775,
+      "sha256": "ddc6b7e16db2aa2d3d807d3de5d2d2999b1375da4b9028598a1990e3b80aeb8f"
     },
     {
       "path": "marketing/en/documents/core-messaging-l3ai-customer-facing-core-messaging-081.en.html",
-      "bytes": 11849,
-      "sha256": "839c63e2c0d2bb008f6ee9bd828f54379c2c337d70abf711a101be03a1375708"
+      "bytes": 11729,
+      "sha256": "aba4ecb0368b2f34941ae462be5b4f8e383a80157cebe84b98da58273b49e858"
     },
     {
       "path": "marketing/en/documents/core-messaging-l3ai-customer-facing-core-messaging-081.en.pdf",
@@ -3586,8 +3606,8 @@
     },
     {
       "path": "marketing/zh-CN/documents/core-messaging-l3ai-customer-facing-core-messaging-081.zh-CN.html",
-      "bytes": 11936,
-      "sha256": "0265380081d222347326868b0e5bf2835e2dce4dd9660e971b5591e48c2c35b6"
+      "bytes": 11816,
+      "sha256": "a39bb3b6ab9dc3294aeaf2731a59f6d0cb6ec80d86587848102562c240063070"
     },
     {
       "path": "marketing/zh-CN/documents/core-messaging-l3ai-customer-facing-core-messaging-081.zh-CN.pdf",
@@ -3631,8 +3651,8 @@
     },
     {
       "path": "media/en/documents/media-kit-text-l3ai-media-kit-text-081.en.html",
-      "bytes": 9584,
-      "sha256": "ea77bc524775ab18c4f5306cd8903f411b81886b969b1b39531317af4d8e8d22"
+      "bytes": 9464,
+      "sha256": "0d46d64db1fb8d5f2a23a92ee9062ecf4f1aa1d0b47e202cc2641f9dee7f515b"
     },
     {
       "path": "media/en/documents/media-kit-text-l3ai-media-kit-text-081.en.pdf",
@@ -3641,8 +3661,8 @@
     },
     {
       "path": "media/en/documents/press-kit-text-l3ai-press-kit-text-081.en.html",
-      "bytes": 9803,
-      "sha256": "b97a0df9be858b68c81bc15dd3ecdafbe734ada133fab36c27d93928aa59f366"
+      "bytes": 9683,
+      "sha256": "d1ca7f86779485d922e85528255bb8d7521909754a7def9640f93e6dc41e5b46"
     },
     {
       "path": "media/en/documents/press-kit-text-l3ai-press-kit-text-081.en.pdf",
@@ -3706,8 +3726,8 @@
     },
     {
       "path": "media/zh-CN/documents/media-kit-text-l3ai-media-kit-text-081.zh-CN.html",
-      "bytes": 9659,
-      "sha256": "e1ee522565230311aa508c8ba1d5b7eac950f1b837a4570ee99fa09a4a00308e"
+      "bytes": 9539,
+      "sha256": "3f0c12b53ff1357a544fb4ebe6ed7dbeb41385551cc57b1565c65daf16cc1332"
     },
     {
       "path": "media/zh-CN/documents/media-kit-text-l3ai-media-kit-text-081.zh-CN.pdf",
@@ -3716,8 +3736,8 @@
     },
     {
       "path": "media/zh-CN/documents/press-kit-text-l3ai-press-kit-text-081.zh-CN.html",
-      "bytes": 9848,
-      "sha256": "4f4d131942bebb30a76a67105ae3d1021b6a74535f951eea1dbd758dfb7a66fd"
+      "bytes": 9728,
+      "sha256": "791bac197f599bb4cfe2e726bfae35ae4bbdb7a4ad49198747ea18d9f5e5d77e"
     },
     {
       "path": "media/zh-CN/documents/press-kit-text-l3ai-press-kit-text-081.zh-CN.pdf",
@@ -3780,9 +3800,14 @@
       "sha256": "28a8e609671086a78c4da7e9d4f38d8e7e613c2f291c9fba0c48872f10bff186"
     },
     {
+      "path": "OFFICIAL_WEBSITE_OPTIMIZATION_PLAN_20260714.md",
+      "bytes": 4507,
+      "sha256": "7192257e022970ba0cc214571a3929814712e30e5080cbabe4840f7f5fd2ac6d"
+    },
+    {
       "path": "pitch/en/documents/investor-deck-narrative-l3ai-investor-deck-narrative-081.en.html",
-      "bytes": 11757,
-      "sha256": "70c7c280ebe15d840a553e5166fa55f8425b6e260a15d6ffa387fe87380a6eec"
+      "bytes": 11637,
+      "sha256": "15f7946da355d6d41a7107e8be251b19c84548324908f1350917e3fc5ae9ed63"
     },
     {
       "path": "pitch/en/documents/investor-deck-narrative-l3ai-investor-deck-narrative-081.en.pdf",
@@ -4006,8 +4031,8 @@
     },
     {
       "path": "pitch/zh-CN/documents/investor-deck-narrative-l3ai-investor-deck-narrative-081.zh-CN.html",
-      "bytes": 11826,
-      "sha256": "7d070fb3e0027ab6286089e90d2236dc939546b44c52c3f4f00485aed65b984b"
+      "bytes": 11706,
+      "sha256": "e23a3af1f0a2f0cc0a4ef233f4a9d26a84748c80875e5d3ac0cbaa1c5bc0a2c6"
     },
     {
       "path": "pitch/zh-CN/documents/investor-deck-narrative-l3ai-investor-deck-narrative-081.zh-CN.pdf",
@@ -4231,8 +4256,8 @@
     },
     {
       "path": "product-overview.html",
-      "bytes": 8518,
-      "sha256": "92873fae7e555d30c957ef9ffe5dbf7339d5b1b7f8eceef2fe5a14b0779046cc"
+      "bytes": 8614,
+      "sha256": "14a7371142fa0137a8dc224e10dc8685f9ef00ece62356feb1b6de59ad02e2f1"
     },
     {
       "path": "README.md",
@@ -4241,8 +4266,8 @@
     },
     {
       "path": "resources.html",
-      "bytes": 44602,
-      "sha256": "fb60f387504721eee8e51f2e0f85af7fe8bb9cbd13cd9b6278b3f138f465ab38"
+      "bytes": 46235,
+      "sha256": "bcf19ae898ac84cc621eaa476b405c04b2112b6691e7a82a0d29927c235ffeec"
     },
     {
       "path": "roadmap.html",
@@ -4251,8 +4276,8 @@
     },
     {
       "path": "robots.txt",
-      "bytes": 100,
-      "sha256": "1ee462d2819ba44c7c0e71978db823d4b38374bd3c041e63ced8a82fda4b4db3"
+      "bytes": 192,
+      "sha256": "fadad2df073190903812e8dec280e5882d22a1623e85847b41997e970cc592ba"
     },
     {
       "path": "scripts/build-alpha-engine-public-pack-pdf.py",
@@ -4276,8 +4301,8 @@
     },
     {
       "path": "scripts/build-premium-assets-030.mjs",
-      "bytes": 22091,
-      "sha256": "a30ae0794587718b2ddc3c386183c8db2da5240a2c1bdfb4136e2505c7c94930"
+      "bytes": 22644,
+      "sha256": "ee84f76b9484c0f787e10bfd156d0a60f61ada6c0b0302cbc71980ab23636e3f"
     },
     {
       "path": "scripts/build-premium-convert-028.mjs",
@@ -4331,8 +4356,8 @@
     },
     {
       "path": "showcase-business.html",
-      "bytes": 3645,
-      "sha256": "7c73af961bc790e762a9a83134eca927282bc25660f47c213e1e7de08beddc09"
+      "bytes": 3676,
+      "sha256": "bd0424d4b8fee11e6c87a0b4dc6488bb1546da8f7cef1a88d8263970102bb052"
     },
     {
       "path": "showcase-wallet.html",
@@ -4346,13 +4371,13 @@
     },
     {
       "path": "sitemap.html",
-      "bytes": 13898,
-      "sha256": "338804145f108295bfcf2c4d2e9051f8ceb11e10ea77c4fe1a8e5acb8e18bdf8"
+      "bytes": 14156,
+      "sha256": "faa5b4d9632f22ed292746e72959f19804e3f25ae9924236d358e346fdc2b7f2"
     },
     {
       "path": "sitemap.xml",
-      "bytes": 5215,
-      "sha256": "9b2d6f10a958f6fd379c0ddc0d16d29c8d2272403b3ad607788a6fac0b4302da"
+      "bytes": 2001,
+      "sha256": "e7e64bb50f20efb96e64899194060889239d4b46849fa52b7a4b827a46c6d653"
     },
     {
       "path": "story.html",
@@ -4426,8 +4451,8 @@
     },
     {
       "path": "web/en/documents/website-copy-l3ai-customer-website-copy-081.en.html",
-      "bytes": 15889,
-      "sha256": "c69cc807ff393339a776baa0db93e60cfeb6ec47cdbe769abb659978ffa224ba"
+      "bytes": 1014,
+      "sha256": "0d7544d5fccdbf706cded4df39b4549a9eb3bb2b7a32db6af11240be22478686"
     },
     {
       "path": "web/en/documents/website-copy-l3ai-customer-website-copy-081.en.pdf",
@@ -4981,8 +5006,8 @@
     },
     {
       "path": "web/zh-CN/documents/website-copy-l3ai-customer-website-copy-081.zh-CN.html",
-      "bytes": 15965,
-      "sha256": "33a0fefd5037201feebd06ff3b80c6d69e6684e7735106d1a0c89f6ea746fe4d"
+      "bytes": 1007,
+      "sha256": "527cf30691e416e21572aeef5cfb89978dc5f2253bea829cdb44a7014fbcdf91"
     },
     {
       "path": "web/zh-CN/documents/website-copy-l3ai-customer-website-copy-081.zh-CN.pdf",
@@ -5533,6 +5558,11 @@
       "path": "web/zh-CN/README.md",
       "bytes": 317,
       "sha256": "56a0486c6a87083d84c0cb34b4c7671570c5d3f100549b2e50ffe80a96d39604"
+    },
+    {
+      "path": "zh-CN.html",
+      "bytes": 9545,
+      "sha256": "e5d95be3e95a99e567f6ab5ba023df6fd3a83a68a9d5788eca4097620ddcaa4c"
     }
   ]
 }
