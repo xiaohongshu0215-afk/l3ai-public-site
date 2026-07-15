@@ -1,8 +1,8 @@
 {
   "asset_id": "L3AI_PUBLIC_SITE_ASSET_MANIFEST",
   "status": "prepared",
-  "generated_at": "2026-07-15T09:12:42.258Z",
-  "total_assets": 1112,
+  "generated_at": "2026-07-15T11:56:40.646Z",
+  "total_assets": 1128,
   "files": [
     {
       "path": ".gitattributes",
@@ -26,8 +26,8 @@
     },
     {
       "path": "assets/public-site.css",
-      "bytes": 76384,
-      "sha256": "55a56387f5b547168041567e1d663cf67ad575adabeb067a551721a00110ddd9"
+      "bytes": 79791,
+      "sha256": "d9794cba92797f803e87e42b1b9f01247395d21068a1c496510c24c01bde5522"
     },
     {
       "path": "business-model.html",
@@ -3805,6 +3805,86 @@
       "sha256": "7192257e022970ba0cc214571a3929814712e30e5080cbabe4840f7f5fd2ac6d"
     },
     {
+      "path": "output/playwright/zh-experience-crop-v2.png",
+      "bytes": 158122,
+      "sha256": "ba8a3ced327093aef7cc113174e460b3af609717c74c19c044a291052d2535bf"
+    },
+    {
+      "path": "output/playwright/zh-home-desktop-final.png",
+      "bytes": 954856,
+      "sha256": "ca17f35fd08490caab754cd42af64a85ff7b1f192709e829dcc0d794320dd3d5"
+    },
+    {
+      "path": "output/playwright/zh-home-desktop-final2.png",
+      "bytes": 954967,
+      "sha256": "8891df47ed3df2a0f201797b67f0a3272f1a2d247899776df0f215101b4f138a"
+    },
+    {
+      "path": "output/playwright/zh-home-desktop-v2.png",
+      "bytes": 959934,
+      "sha256": "1d0952351cbb317becd82849cfe2a6f2617f9a79cf8c595db63fce6d4e57259e"
+    },
+    {
+      "path": "output/playwright/zh-home-desktop.png",
+      "bytes": 962651,
+      "sha256": "c76503300c18faed6b8ec133ebd84b6acca717a90c6477c4b0b7936e6672dca8"
+    },
+    {
+      "path": "output/playwright/zh-home-fullpage-final.png",
+      "bytes": 1642763,
+      "sha256": "57f340a978519e4d69a1efd5b8a24ba6e00abfe18e35dd34ffa29babb62c84a1"
+    },
+    {
+      "path": "output/playwright/zh-home-fullpage-final2.png",
+      "bytes": 1978516,
+      "sha256": "9f1239982206ff1ea25434a7d9c82bdef22334ce7df2d9b6f7b9bf08cdaf5997"
+    },
+    {
+      "path": "output/playwright/zh-home-fullpage-v2.png",
+      "bytes": 1654531,
+      "sha256": "b88f2c78cc839b636b357c00eeef95530a0f245c54618b5b0175cc3809475df7"
+    },
+    {
+      "path": "output/playwright/zh-home-mobile-final.png",
+      "bytes": 274434,
+      "sha256": "c0cefdd58d106b85bb77477f0a79d9aee6eca2a42a4ce1675c164c25b7e30aba"
+    },
+    {
+      "path": "output/playwright/zh-home-mobile-final2.png",
+      "bytes": 274334,
+      "sha256": "48d1e03aa751a7e983f95f2d926a7680595c0dd90a5ee6910e52a7c4fec48902"
+    },
+    {
+      "path": "output/playwright/zh-home-mobile-v2.png",
+      "bytes": 277630,
+      "sha256": "e646a8919497aace19e2d4d8d51270e4822fa0e131b8a6fd0cb54d8dd321f1d7"
+    },
+    {
+      "path": "output/playwright/zh-home-mobile.png",
+      "bytes": 280506,
+      "sha256": "4fee72aa694fa21d93e1cd3f9cf825058c73a7f8ad18be5250dd997b0ea671b7"
+    },
+    {
+      "path": "output/playwright/zh-products-crop-final.png",
+      "bytes": 357872,
+      "sha256": "40a3ec9dcfaa201579408bdd669229385bdc9454b854b8acdde1895782188449"
+    },
+    {
+      "path": "output/playwright/zh-products-crop-v2.png",
+      "bytes": 355661,
+      "sha256": "dcf285b71c07d84359a62f39a73b91c89fc59469add6c253513435bc26e49fb1"
+    },
+    {
+      "path": "output/playwright/zh-products-desktop.png",
+      "bytes": 932469,
+      "sha256": "e7cee06b14c4fcdb2170c4cd1fe962007e96bb5bd4f80a7ba8d8dcd150df0025"
+    },
+    {
+      "path": "output/playwright/zh-trust-crop-v2.png",
+      "bytes": 82769,
+      "sha256": "98e75c91153a96bcaf1cb455a46004a8309a495444de7a31b4786f95f0116b06"
+    },
+    {
       "path": "pitch/en/documents/investor-deck-narrative-l3ai-investor-deck-narrative-081.en.html",
       "bytes": 11637,
       "sha256": "15f7946da355d6d41a7107e8be251b19c84548324908f1350917e3fc5ae9ed63"
@@ -5561,8 +5641,8 @@
     },
     {
       "path": "zh-CN.html",
-      "bytes": 9545,
-      "sha256": "e5d95be3e95a99e567f6ab5ba023df6fd3a83a68a9d5788eca4097620ddcaa4c"
+      "bytes": 12707,
+      "sha256": "975eb0fbbfeb08428311a1730cad333c9cee121202e3e097412d15a68929b04a"
     }
   ]
 }

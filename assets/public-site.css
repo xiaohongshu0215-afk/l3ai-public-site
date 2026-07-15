@@ -138,6 +138,19 @@ body.next-home::after {
   line-height: 1;
 }
 
+html[lang="zh-CN"] body.next-home {
+  font-family: "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+  text-rendering: geometricPrecision;
+  -webkit-font-smoothing: antialiased;
+}
+
+html[lang="zh-CN"] .next-brand strong,
+html[lang="zh-CN"] .next-nav nav a,
+html[lang="zh-CN"] .next-primary,
+html[lang="zh-CN"] .next-secondary {
+  font-weight: 800;
+}
+
 .next-brand small {
   display: block;
   margin-top: 0.25rem;
@@ -227,6 +240,11 @@ body.next-home::after {
   filter: drop-shadow(0 0 28px rgba(35, 216, 255, 0.12));
 }
 
+html[lang="zh-CN"] .hero-copy-next h1 > span,
+html[lang="zh-CN"] .next-section h2 > span {
+  display: block;
+}
+
 .hero-copy-next,
 .next-lede {
   min-width: 0;
@@ -239,6 +257,18 @@ body.next-home::after {
   color: var(--text-soft);
   font-size: clamp(1.05rem, 1.6vw, 1.3rem);
   line-height: 1.75;
+}
+
+html[lang="zh-CN"] .hero-copy-next h1 {
+  max-width: 900px;
+  font-size: clamp(4rem, 6.35vw, 7rem);
+  line-height: 1.04;
+  font-weight: 950;
+}
+
+html[lang="zh-CN"] .next-lede {
+  max-width: 800px;
+  font-size: clamp(1.08rem, 1.45vw, 1.28rem);
 }
 
 .next-actions {
@@ -688,6 +718,13 @@ body.next-home::after {
   letter-spacing: 0;
 }
 
+html[lang="zh-CN"] .next-section h2 {
+  font-size: clamp(2.45rem, 3.85vw, 4.45rem);
+  line-height: 1.08;
+  font-weight: 920;
+  max-width: 980px;
+}
+
 .section-copy p:not(.next-kicker) {
   margin: 0;
   color: var(--text-soft);
@@ -758,10 +795,12 @@ body.next-home::after {
 
 .product-orbit-map {
   position: relative;
-  min-height: 660px;
+  min-height: 720px;
   border: 1px solid rgba(255, 255, 255, 0.1);
   border-radius: 8px;
   background:
+    radial-gradient(circle at 50% 48%, rgba(35, 216, 255, 0.2), transparent 18rem),
+    radial-gradient(circle at 74% 22%, rgba(124, 92, 255, 0.18), transparent 17rem),
     linear-gradient(rgba(255, 255, 255, 0.025) 1px, transparent 1px),
     linear-gradient(90deg, rgba(255, 255, 255, 0.025) 1px, transparent 1px),
     rgba(3, 9, 23, 0.78);
@@ -788,7 +827,9 @@ body.next-home::after {
 }
 
 .orbit-hub,
-.orbit-node {
+.orbit-node,
+.orbit-data-panel,
+.orbit-command-strip {
   position: absolute;
   z-index: 1;
   padding: 1rem;
@@ -814,6 +855,67 @@ body.next-home::after {
   display: block;
   margin-top: 0.65rem;
   color: var(--text-soft);
+}
+
+.product-hub-panel {
+  width: min(28rem, 54%);
+  border: 1px solid rgba(61, 217, 255, 0.28);
+  border-radius: 8px;
+  background:
+    linear-gradient(135deg, rgba(20, 68, 120, 0.92), rgba(10, 15, 37, 0.94)),
+    radial-gradient(circle at top, rgba(35, 216, 255, 0.25), transparent 62%);
+}
+
+.product-hub-panel small {
+  display: block;
+  margin-bottom: 0.55rem;
+  color: var(--accent-gold);
+  font-size: 0.7rem;
+  font-weight: 900;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.orbit-data-panel {
+  width: min(18rem, 28%);
+  border: 1px solid rgba(61, 217, 255, 0.18);
+  border-radius: 8px;
+  background:
+    linear-gradient(180deg, rgba(17, 39, 74, 0.88), rgba(5, 11, 28, 0.86)),
+    radial-gradient(circle at 18% 20%, rgba(35, 216, 255, 0.18), transparent 52%);
+  box-shadow: 0 18px 50px rgba(0, 0, 0, 0.28);
+}
+
+.orbit-data-panel span {
+  display: block;
+  color: var(--accent-cyan);
+  font-size: 0.72rem;
+  font-weight: 900;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.orbit-data-panel strong {
+  display: block;
+  margin-top: 0.55rem;
+  color: var(--text-bright);
+  font-size: 1.35rem;
+}
+
+.orbit-data-panel p {
+  margin: 0.65rem 0 0;
+  color: var(--text-soft);
+  line-height: 1.65;
+}
+
+.panel-market {
+  left: 4%;
+  top: 7%;
+}
+
+.panel-agent {
+  right: 4%;
+  top: 8%;
 }
 
 .orbit-node {
@@ -849,12 +951,12 @@ body.next-home::after {
 
 .node-ai {
   left: 7%;
-  top: 12%;
+  top: 36%;
 }
 
 .node-asset {
   right: 8%;
-  top: 14%;
+  top: 36%;
 }
 
 .node-compute {
@@ -870,6 +972,33 @@ body.next-home::after {
 .node-community {
   left: 39%;
   top: 4%;
+}
+
+.node-alpha {
+  left: 39%;
+  bottom: 10%;
+}
+
+.orbit-command-strip {
+  left: 5%;
+  right: 5%;
+  bottom: 1.35rem;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.7rem;
+  padding: 0;
+}
+
+.orbit-command-strip span {
+  display: grid;
+  min-height: 3rem;
+  place-items: center;
+  border: 1px solid rgba(61, 217, 255, 0.18);
+  border-radius: 8px;
+  color: var(--text-soft);
+  background: rgba(4, 13, 31, 0.78);
+  font-size: 0.82rem;
+  font-weight: 800;
 }
 
 .experience-grid {
@@ -1041,11 +1170,19 @@ body.next-home::after {
   }
 
   .product-orbit-map {
-    min-height: 760px;
+    min-height: 860px;
   }
 
   .orbit-node {
     width: 13rem;
+  }
+
+  .orbit-data-panel {
+    width: 15rem;
+  }
+
+  .orbit-command-strip {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
@@ -1082,6 +1219,15 @@ body.next-home::after {
   .hero-copy-next h1 {
     font-size: clamp(2.75rem, 12vw, 3.5rem);
     line-height: 0.98;
+  }
+
+  html[lang="zh-CN"] .hero-copy-next h1 {
+    font-size: clamp(2.65rem, 10.5vw, 3.35rem);
+    line-height: 1.08;
+  }
+
+  html[lang="zh-CN"] .next-section h2 {
+    font-size: clamp(2.1rem, 9vw, 2.85rem);
   }
 
   .next-kicker {
@@ -1132,10 +1278,17 @@ body.next-home::after {
   }
 
   .orbit-hub,
-  .orbit-node {
+  .orbit-node,
+  .orbit-data-panel,
+  .orbit-command-strip {
     position: static;
     width: auto;
     transform: none;
+  }
+
+  .orbit-command-strip {
+    display: grid;
+    grid-template-columns: 1fr;
   }
 
   .next-footer {
