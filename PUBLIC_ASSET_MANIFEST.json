@@ -1,8 +1,8 @@
 {
   "asset_id": "L3AI_PUBLIC_SITE_ASSET_MANIFEST",
   "status": "prepared",
-  "generated_at": "2026-07-15T11:56:40.646Z",
-  "total_assets": 1128,
+  "generated_at": "2026-07-15T17:49:05.486Z",
+  "total_assets": 1113,
   "files": [
     {
       "path": ".gitattributes",
@@ -3501,28 +3501,28 @@
     },
     {
       "path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.en.html",
-      "bytes": 33039,
-      "sha256": "c5f2a1ddc1528e1b8f256075fc9e8b94b4e62951af525ea8d8efd77722951176"
+      "bytes": 29872,
+      "sha256": "3bd60817959a501eca27701ffe776eaf7dd0637dc51355642aa652a561c7861a"
     },
     {
       "path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.en.pdf",
-      "bytes": 2160692,
-      "sha256": "64bd7e38bf33db819c80a11ba04654424394c34e626044beb47edd9490af322c"
+      "bytes": 3312469,
+      "sha256": "469d9c5669dfd957ccefb30ef0f87c89cedd5e89eadb58384c4b90cd306b92e6"
     },
     {
       "path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.zh-CN.html",
-      "bytes": 30894,
-      "sha256": "fcd4995a6a98a24f42f6ff78b425d0d28a172ef76ed0800a379d2bd0c63241bd"
+      "bytes": 29259,
+      "sha256": "664cb7aed18a1bb8e53089016d7eb85d826b75a3cd83591509dd112091cbb8e8"
     },
     {
       "path": "collateral/whitepaper/L3AI_Public_Whitepaper_v1.zh-CN.pdf",
-      "bytes": 2126215,
-      "sha256": "3403300c9699fd52d44a4567c185d2334012e11c21856b9b050e5751ff5bbdb8"
+      "bytes": 3683596,
+      "sha256": "161af0c9b115560d636ae1d1244f47db30434fdb5ca1b8b194439b47bfb9d715"
     },
     {
       "path": "collateral/whitepaper/README.md",
-      "bytes": 599,
-      "sha256": "2d453461619a315eb3083c8b3ffe4e554d089548699ce53fb2c1401c6c52cd1a"
+      "bytes": 1286,
+      "sha256": "d6d64ceb4ddef9b1e529c46d29e337d16fc7fe23d535e52083f791d7dd0ecc22"
     },
     {
       "path": "contact-partner.html",
@@ -3803,86 +3803,6 @@
       "path": "OFFICIAL_WEBSITE_OPTIMIZATION_PLAN_20260714.md",
       "bytes": 4507,
       "sha256": "7192257e022970ba0cc214571a3929814712e30e5080cbabe4840f7f5fd2ac6d"
-    },
-    {
-      "path": "output/playwright/zh-experience-crop-v2.png",
-      "bytes": 158122,
-      "sha256": "ba8a3ced327093aef7cc113174e460b3af609717c74c19c044a291052d2535bf"
-    },
-    {
-      "path": "output/playwright/zh-home-desktop-final.png",
-      "bytes": 954856,
-      "sha256": "ca17f35fd08490caab754cd42af64a85ff7b1f192709e829dcc0d794320dd3d5"
-    },
-    {
-      "path": "output/playwright/zh-home-desktop-final2.png",
-      "bytes": 954967,
-      "sha256": "8891df47ed3df2a0f201797b67f0a3272f1a2d247899776df0f215101b4f138a"
-    },
-    {
-      "path": "output/playwright/zh-home-desktop-v2.png",
-      "bytes": 959934,
-      "sha256": "1d0952351cbb317becd82849cfe2a6f2617f9a79cf8c595db63fce6d4e57259e"
-    },
-    {
-      "path": "output/playwright/zh-home-desktop.png",
-      "bytes": 962651,
-      "sha256": "c76503300c18faed6b8ec133ebd84b6acca717a90c6477c4b0b7936e6672dca8"
-    },
-    {
-      "path": "output/playwright/zh-home-fullpage-final.png",
-      "bytes": 1642763,
-      "sha256": "57f340a978519e4d69a1efd5b8a24ba6e00abfe18e35dd34ffa29babb62c84a1"
-    },
-    {
-      "path": "output/playwright/zh-home-fullpage-final2.png",
-      "bytes": 1978516,
-      "sha256": "9f1239982206ff1ea25434a7d9c82bdef22334ce7df2d9b6f7b9bf08cdaf5997"
-    },
-    {
-      "path": "output/playwright/zh-home-fullpage-v2.png",
-      "bytes": 1654531,
-      "sha256": "b88f2c78cc839b636b357c00eeef95530a0f245c54618b5b0175cc3809475df7"
-    },
-    {
-      "path": "output/playwright/zh-home-mobile-final.png",
-      "bytes": 274434,
-      "sha256": "c0cefdd58d106b85bb77477f0a79d9aee6eca2a42a4ce1675c164c25b7e30aba"
-    },
-    {
-      "path": "output/playwright/zh-home-mobile-final2.png",
-      "bytes": 274334,
-      "sha256": "48d1e03aa751a7e983f95f2d926a7680595c0dd90a5ee6910e52a7c4fec48902"
-    },
-    {
-      "path": "output/playwright/zh-home-mobile-v2.png",
-      "bytes": 277630,
-      "sha256": "e646a8919497aace19e2d4d8d51270e4822fa0e131b8a6fd0cb54d8dd321f1d7"
-    },
-    {
-      "path": "output/playwright/zh-home-mobile.png",
-      "bytes": 280506,
-      "sha256": "4fee72aa694fa21d93e1cd3f9cf825058c73a7f8ad18be5250dd997b0ea671b7"
-    },
-    {
-      "path": "output/playwright/zh-products-crop-final.png",
-      "bytes": 357872,
-      "sha256": "40a3ec9dcfaa201579408bdd669229385bdc9454b854b8acdde1895782188449"
-    },
-    {
-      "path": "output/playwright/zh-products-crop-v2.png",
-      "bytes": 355661,
-      "sha256": "dcf285b71c07d84359a62f39a73b91c89fc59469add6c253513435bc26e49fb1"
-    },
-    {
-      "path": "output/playwright/zh-products-desktop.png",
-      "bytes": 932469,
-      "sha256": "e7cee06b14c4fcdb2170c4cd1fe962007e96bb5bd4f80a7ba8d8dcd150df0025"
-    },
-    {
-      "path": "output/playwright/zh-trust-crop-v2.png",
-      "bytes": 82769,
-      "sha256": "98e75c91153a96bcaf1cb455a46004a8309a495444de7a31b4786f95f0116b06"
     },
     {
       "path": "pitch/en/documents/investor-deck-narrative-l3ai-investor-deck-narrative-081.en.html",
@@ -4336,8 +4256,8 @@
     },
     {
       "path": "product-overview.html",
-      "bytes": 8614,
-      "sha256": "14a7371142fa0137a8dc224e10dc8685f9ef00ece62356feb1b6de59ad02e2f1"
+      "bytes": 8653,
+      "sha256": "1f82e26f1f5e377d5da6db459bfde9f5f7ab44ed7d261890a90ba55d3ae86a3c"
     },
     {
       "path": "README.md",
@@ -4346,8 +4266,8 @@
     },
     {
       "path": "resources.html",
-      "bytes": 46235,
-      "sha256": "bcf19ae898ac84cc621eaa476b405c04b2112b6691e7a82a0d29927c235ffeec"
+      "bytes": 46381,
+      "sha256": "d57edca876114a39b876dbc6c32d3bcfea99b0190c6ff10c988f95e6cb177f69"
     },
     {
       "path": "roadmap.html",
@@ -4408,6 +4328,11 @@
       "path": "scripts/build-public-narrative-system.mjs",
       "bytes": 57093,
       "sha256": "8efdfa6608f3818c816d97b140e589852f285af221276366b6063ac535ace89d"
+    },
+    {
+      "path": "scripts/build-public-whitepaper-v2.mjs",
+      "bytes": 35480,
+      "sha256": "0571d0ecd2d426962a007d0198fd2b887d5d29764112d5c34d8e93e11833c8ed"
     },
     {
       "path": "scripts/build-real-platform-product-book.mjs",
